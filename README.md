@@ -1,8 +1,15 @@
 # 🧩 Survival AI – Offline LLM & Agents
 
-Este proyecto permite interactuar con un **modelo LLM offline** o con **agentes especializados** (médicos, biólogos, ingenieros, etc.), usando modelos en formato **GGUF** ejecutados con [Ollama](https://ollama.ai) o [llama.cpp](https://github.com/ggerganov/llama.cpp).  
+Este proyecto permite interactuar con un **modelo LLM offline** o con **agentes especializados** (médicos, biólogos, ingenieros, etc.), usando modelos en formato **GGUF** ejecutados con [Ollama](https://ollama.ai) o [llama.cpp](https://github.com/ggerganov/llama.cpp).
 
 Todo funciona **offline**, sin depender de servidores externos.
+
+## 🔧 Variables de entorno
+
+- `OLLAMA_URL` (opcional): URL del endpoint de Ollama. Por defecto `http://localhost:11434/api/generate`.
+- `MODEL` (opcional): Modelo por defecto utilizado para generar respuestas. Por defecto `mistral`.
+
+Puedes definirlas en tu entorno o en un archivo `.env` en la raíz del proyecto.
 
 ---
 

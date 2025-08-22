@@ -1,11 +1,12 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 import requests
+import os
 
 app = FastAPI()
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "mistral"
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
+MODEL = os.getenv("MODEL", "mistral")
 
 class ChatRequest(BaseModel):
     message: str
