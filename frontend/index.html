@@ -1,191 +1,49 @@
-<!doctype html>
-<html lang="en" data-theme="light">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Survival AI — Ultra-Light Mock (Agents)</title>
-<style>
-  :root{
-    --bg:#f6f7fb; --panel:#ffffff; --panel-2:#f2f3f7;
-    --text:#12131a; --muted:rgba(0,0,0,.55); --accent:#111827;
-    --border:rgba(0,0,0,.18); --sep:rgba(0,0,0,.12);
-    --chip:#fff; --btn:#111827; --btn-h:#1f2937; --link:#2557e0;
-    --ok:#16a34a; --ok-soft:#e7f6ea; --hover:rgba(0,0,0,.04);
-  }
-  [data-theme="dark"]{
-    --bg:#0b0c11; --panel:#111318; --panel-2:#0c0e14;
-    --text:#ececf2; --muted:rgba(255,255,255,.72); --accent:#f2f3f8;
-    --border:rgba(255,255,255,.28); --sep:rgba(255,255,255,.18);
-    --chip:#14161d; --btn:#1c2130; --btn-h:#252b3a; --link:#8ab4ff;
-    --ok:#7ee081; --ok-soft:#0f1a12; --hover:rgba(255,255,255,.08);
-  }
-  *{box-sizing:border-box} html,body{height:100%}
-  body{margin:0;background:var(--bg);color:var(--text);font:14px/1.55 ui-sans-serif,system-ui}
-  .app{min-height:100%;display:flex;flex-direction:column}
-  header,footer{background:var(--panel);border-color:var(--sep);border-style:solid}
-  header{border-width:0 0 1px;padding:12px;display:flex;align-items:center;justify-content:space-between;gap:12px;position:sticky;top:0;z-index:10}
-  footer{border-width:1px 0 0;padding:10px 12px;display:flex;justify-content:space-between;align-items:center;color:var(--muted)}
-  .brand{display:flex;align-items:center;gap:8px}.brand .logo{font-size:18px}
-  .badge{font-size:10px;padding:3px 8px;border:1px solid var(--border);color:var(--muted);border-radius:999px}
-  .right{display:flex;align-items:center;gap:10px}
-  .theme-toggle{border:1px solid var(--border);background:transparent;color:var(--text);border-radius:10px;padding:6px 10px;cursor:pointer}
-  .mode{display:flex;border:1px solid var(--border);border-radius:999px;overflow:hidden}
-  .mode button{background:transparent;color:var(--text);padding:6px 12px;border:0;cursor:pointer;font-size:13px}
-  .mode button+button{border-left:1px solid var(--border)} .mode button.active{background:var(--hover)}
-  .battery{display:flex;align-items:center;gap:6px}
-  .bars{display:flex;align-items:center}.bar{width:10px;height:6px;margin:0 2px;border-radius:2px;background:transparent;border:1px solid var(--border)}.bar.on{background:var(--ok);border-color:var(--ok)}
-  main{flex:1;width:100%;max-width:980px;margin:0 auto;padding:16px 12px 22px}
-  .row{display:flex;gap:8px}
-  .row input{flex:1;padding:11px 12px;border:1px solid var(--border);background:var(--panel-2);color:var(--text);border-radius:12px;outline:none}
-  .row button{padding:11px 14px;border-radius:12px;border:1px solid var(--border);background:transparent;color:var(--text);cursor:pointer}
-  .row button:hover{background:var(--hover)}
-  .card{border:1px solid var(--border);background:var(--panel);border-radius:12px;overflow:hidden}
-  .card .body{padding:12px}.card .foot{padding:10px 12px;border-top:1px solid var(--border);color:var(--muted);display:flex;justify-content:space-between}
-  .link-btn{background:none;border:0;color:var(--accent);cursor:pointer;text-decoration:none}
-  .kbd{padding:2px 6px;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--muted)}
-
-  /* Agents */
-  .agents-list{display:grid;gap:12px;margin-top:20px}
-  .agent-btn{display:flex;gap:12px;align-items:flex-start;padding:12px;border:1px solid var(--border);border-radius:12px;background:var(--panel-2);cursor:pointer;text-align:left}
-  .agent-btn:hover{background:var(--hover)}
-  .agent-avatar{width:40px;height:40px;border-radius:50%;background:var(--muted);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:20px}
-  .agent-info{flex:1}
-  .agent-name{font-weight:600;margin-bottom:4px}
-  .agent-desc{font-size:13px;color:var(--muted)}
-  .agent-pers{font-size:12px;color:var(--accent);margin-top:4px}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survival AI</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="app">
-  <header>
-    <div class="brand"><div class="logo">🌍</div><div style="font-weight:700">Survival AI — Offline</div><div class="badge">Ultra-Light</div></div>
-    <div class="right">
-      <button id="themeBtn" class="theme-toggle">🌙</button>
-      <div class="mode">
-        <button id="btnLLM" class="active">🤖 LLM model</button>
-        <button id="btnAgents">🧑 Agents</button>
-      </div>
-      <div class="battery"><div class="bars" id="bars"></div><div id="btxt" class="kbd">62%</div></div>
-    </div>
-  </header>
+  <div class="tabs">
+    <button class="tab-button active" onclick="openTab(event, 'llmTab')">🤖 LLM model</button>
+    <button class="tab-button" onclick="openTab(event, 'agentsTab')">🧑 Agents</button>
+  </div>
 
-  <main>
-    <!-- CHAT VIEW -->
-    <div id="chatView">
-      <form class="row" id="form">
-        <input id="q" placeholder="Ask (e.g., How to purify water?)" />
-        <button type="submit">🔍</button>
-      </form>
-      <h2 class="sec">Answer</h2>
-      <div class="card">
-        <div class="body">
-          <p id="ansPreview">[Chat with 🤖 LLM model — Model version: mistral]</p>
-        </div>
-        <div class="foot"><div id="modeTxt" class="kbd">🤖 LLM model</div></div>
-      </div>
+  <div id="llmTab" class="tab-content active">
+    <h2>Chat with 🤖 LLM model</h2>
+    <p><strong>Modelversion:</strong> mistral-7b-instruct-v0.1.Q2_K.gguf</p>
+    <div class="chat-box">
+      <p>👉 Aquí iría el chat directo con el modelo, sin agentes de por medio.</p>
     </div>
+  </div>
 
-    <!-- AGENTS VIEW -->
-    <div id="agentsView" style="display:none">
-      <h2 class="sec">Choose an Agent</h2>
-      <div class="agents-list">
-        <button class="agent-btn" data-agent="Doctor 🩺" data-avatar="🩺" 
-                data-desc="Expert in field medicine and first aid" 
-                data-pers="Calm, precise, reassuring.">
-          <div class="agent-avatar">🩺</div>
-          <div class="agent-info">
-            <div class="agent-name">Doctor 🩺</div>
-            <div class="agent-desc">Expert in field medicine and first aid</div>
-            <div class="agent-pers">Personality: Calm, precise, reassuring.</div>
-          </div>
-        </button>
-        <button class="agent-btn" data-agent="Engineer 🔧" data-avatar="🔧" 
-                data-desc="Specialist in tools, machines and improvisation" 
-                data-pers="Practical, inventive, direct.">
-          <div class="agent-avatar">🔧</div>
-          <div class="agent-info">
-            <div class="agent-name">Engineer 🔧</div>
-            <div class="agent-desc">Specialist in tools, machines and improvisation</div>
-            <div class="agent-pers">Personality: Practical, inventive, direct.</div>
-          </div>
-        </button>
-        <button class="agent-btn" data-agent="Biologist 🌱" data-avatar="🌱" 
-                data-desc="Knows plants, food sources and ecology" 
-                data-pers="Curious, methodical, patient.">
-          <div class="agent-avatar">🌱</div>
-          <div class="agent-info">
-            <div class="agent-name">Biologist 🌱</div>
-            <div class="agent-desc">Knows plants, food sources and ecology</div>
-            <div class="agent-pers">Personality: Curious, methodical, patient.</div>
-          </div>
-        </button>
-        <button class="agent-btn" data-agent="Navigator 🧭" data-avatar="🧭" 
-                data-desc="Master of maps, orientation and survival routes" 
-                data-pers="Confident, strategic, resourceful.">
-          <div class="agent-avatar">🧭</div>
-          <div class="agent-info">
-            <div class="agent-name">Navigator 🧭</div>
-            <div class="agent-desc">Master of maps, orientation and survival routes</div>
-            <div class="agent-pers">Personality: Confident, strategic, resourceful.</div>
-          </div>
-        </button>
+  <div id="agentsTab" class="tab-content">
+    <h2>Select an Agent</h2>
+    <div class="agents-grid">
+      <div class="agent-card">
+        <div class="agent-avatar">🩺</div>
+        <h3>Medic</h3>
+        <p><strong>Personality:</strong> Calm and analytical</p>
+        <p><strong>Description:</strong> Expert in first aid, survival medicine, and treating wounds.</p>
+      </div>
+      <div class="agent-card">
+        <div class="agent-avatar">🌿</div>
+        <h3>Biologist</h3>
+        <p><strong>Personality:</strong> Curious and methodical</p>
+        <p><strong>Description:</strong> Specialist in plants, animals, and identifying edible resources.</p>
+      </div>
+      <div class="agent-card">
+        <div class="agent-avatar">🛠️</div>
+        <h3>Engineer</h3>
+        <p><strong>Personality:</strong> Practical and inventive</p>
+        <p><strong>Description:</strong> Skilled in building shelters, repairing tools, and improvising gear.</p>
       </div>
     </div>
-  </main>
+  </div>
 
-  <footer>
-    <div>Press <span class="kbd">Enter</span> to chat</div>
-    <div class="battery"><div class="bars" id="bars2"></div></div>
-  </footer>
-</div>
-
-<script>
-  // THEME
-  const root=document.documentElement;
-  const saved=localStorage.getItem('theme');
-  if(saved==='dark'||(!saved&&window.matchMedia('(prefers-color-scheme: dark)').matches)) root.setAttribute('data-theme','dark');
-  const themeBtn=document.getElementById('themeBtn');
-  function updateThemeBtn(){const isDark=root.getAttribute('data-theme')==='dark';themeBtn.textContent=isDark?'☀️':'🌙';}
-  updateThemeBtn();
-  themeBtn.addEventListener('click',()=>{const isDark=root.getAttribute('data-theme')==='dark';root.setAttribute('data-theme',isDark?'light':'dark');localStorage.setItem('theme',isDark?'light':'dark');updateThemeBtn();});
-
-  // MODE
-  const btnLLM=document.getElementById('btnLLM');const btnAgents=document.getElementById('btnAgents');
-  const chatView=document.getElementById('chatView');const agentsView=document.getElementById('agentsView');
-  const ansPreview=document.getElementById('ansPreview');const modeTxt=document.getElementById('modeTxt');
-  let mode='llm';let activeAgent=null;
-
-  btnLLM.addEventListener('click',()=>{mode='llm';btnLLM.classList.add('active');btnAgents.classList.remove('active');
-    chatView.style.display='block';agentsView.style.display='none';
-    modeTxt.textContent='🤖 LLM model';ansPreview.textContent='[Chat with 🤖 LLM model — Model version: mistral]';activeAgent=null;});
-
-  btnAgents.addEventListener('click',()=>{mode='agents';btnAgents.classList.add('active');btnLLM.classList.remove('active');
-    chatView.style.display='none';agentsView.style.display='block';modeTxt.textContent='🧑 Agents';});
-
-  // SELECT AGENT
-  document.querySelectorAll('.agent-btn').forEach(b=>{
-    b.addEventListener('click',()=>{
-      activeAgent={name:b.dataset.agent,avatar:b.dataset.avatar,desc:b.dataset.desc,pers:b.dataset.pers};
-      chatView.style.display='block';agentsView.style.display='none';
-      btnLLM.classList.remove('active');btnAgents.classList.add('active');
-      modeTxt.textContent=activeAgent.name;
-      ansPreview.innerHTML=`[Chatting with ${activeAgent.avatar} <b>${activeAgent.name}</b>] 
-        <br/>Description: ${activeAgent.desc} 
-        <br/>Personality: ${activeAgent.pers}`;
-    });
-  });
-
-  // BATTERY MOCK
-  function renderBars(id,pct){const root=document.getElementById(id);root.innerHTML='';const total=10,filled=Math.round((pct/100)*total);for(let i=0;i<total;i++){const s=document.createElement('span');s.className='bar'+(i<filled?' on':'');root.appendChild(s);}}
-  renderBars('bars',62);renderBars('bars2',62);
-
-  // FORM
-  document.getElementById('form').addEventListener('submit',e=>{
-    e.preventDefault();
-    const q=document.getElementById('q').value.trim();
-    console.log('ASK:',{q,mode,activeAgent});
-  });
-</script>
+  <script src="script.js"></script>
 </body>
 </html>
-
