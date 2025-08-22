@@ -1,1 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+}
+
+.tabs {
+  display: flex;
+  background-color: #2b2b2b;
+}
+
+.tab-button {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  background-color: #2b2b2b;
+  color: #ccc;
+  cursor: pointer;
+}
+
+.tab-button.active {
+  background-color: #3b3b3b;
+  font-weight: bold;
+}
+
+.tab-content {
+  display: none;
+  padding: 20px;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.agents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.agent-card {
+  background-color: #2b2b2b;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.agent-card:hover {
+  transform: scale(1.05);
+}
+
+.agent-avatar {
+  font-size: 40px;
+  margin-bottom: 8px;
+}
 
