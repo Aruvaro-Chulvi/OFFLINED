@@ -1,6 +1,6 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-import requests
+import httpx
 
 app = FastAPI()
 
@@ -13,7 +13,7 @@ class ChatRequest(BaseModel):
     agent: str | None = None
 
 @app.post("/chat")
-def chat(req: ChatRequest):
+async def chat(req: ChatRequest):
     prompt = req.message
 
     # Si es un agente, aquí le puedes meter la personalidad:
@@ -24,10 +24,14 @@ def chat(req: ChatRequest):
             prompt = f"{system_prompt}\nUser: {req.message}"
 
     payload = {"model": MODEL, "prompt": prompt, "stream": False}
-    r = requests.post(OLLAMA_URL, json=payload)
 
-    if r.status_code == 200:
-        return {"reply": r.json()["response"]}
-    else:
-        return {"reply": "⚠️ Error contacting Ollama"}
+    try:
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            r = await client.post(OLLAMA_URL, json=payload)
+            r.raise_for_status()
+    except httpx.HTTPError as exc:
+        status = exc.response.status_code if exc.response else 500
+        raise HTTPException(status_code=status, detail=str(exc))
+
+    return {"reply": r.json()["response"]}
 
