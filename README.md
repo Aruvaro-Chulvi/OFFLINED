@@ -12,13 +12,7 @@ Todo funciona **offline**, sin depender de servidores externos.
 Todos con **licencia libre para uso comercial**:
 
 - **Mistral 7B Instruct (Q4_K_M)** → Modelo principal (~4.1 GB)  
-  🔗 [Descargar](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)  
-
-- **Phi-3 Mini 4K Instruct (Q4_K_M)** → Más ligero (~2.2 GB)  
-  🔗 [Descargar](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf)  
-
-- **Gemma 2B (Q4_K_M)** → Muy rápido (~1.8 GB)  
-  🔗 [Descargar](https://huggingface.co/google/gemma-2b-gguf)  
+  🔗 [Descargar](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)   
 
 📌 Todos los modelos se almacenan en la carpeta:
 /models
