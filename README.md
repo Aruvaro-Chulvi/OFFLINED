@@ -1,4 +1,4 @@
-# 🧩 Survival AI Stick for Preppers
+# 🧩 Offline Survival AI Stick for Preppers
 ### 🔹 Offline LLM & Agents & Wikipedia & More
 
 Este proyecto permite interactuar con un **modelo LLM offline** o con **agentes especializados** (médicos, biólogos, ingenieros, etc.), usando modelos en formato **GGUF** ejecutados con [Ollama](https://ollama.ai) o [llama.cpp](https://github.com/ggerganov/llama.cpp).  
