@@ -49,10 +49,17 @@
 
 ## ✨ Features
 
-- **Model chat** (LLM-only)
-- **Agents chat** (visual picker; agent cards; suggested cross-referrals)
-- **Offline Wikipedia** tab (starts Kiwix locally and opens articles)
-- **Light/Dark theme**, **battery bar**, **Enter-to-send**, basic **Markdown rendering**
+- **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
+- **Two chat modes**:
+  - **Model** — direct chat with the selected LLM.
+  - **Agents** — visual agent picker (medical, engineering, etc.) with cards and suggested cross-referrals.
+- **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
+- **Multi-language UI**: EN / ES / FR (including localized agent categories).
+- **Quick model switcher**: load GGUF files from `/models` and change the active model from the UI.
+- **Clean UI/UX**: light/dark theme toggle, battery indicator bar, Enter-to-send, and basic Markdown rendering.
+- **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
+- **Cross-platform**: Windows, macOS, and Linux; CPU-only with configurable threads.
+-
 - Fully **offline** after initial downloads
 
 ---
