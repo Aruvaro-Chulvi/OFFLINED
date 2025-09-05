@@ -14,10 +14,10 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Screens / Modes](#screens--modes)
+- [Features](#-features)
+- [Screens / Modes](#-screens--modes)
 - [Requirements](#-requirements)
-- [Project Structure](#project-structure)
+- [Project Structure](#-project-structure)
 - [Windows — Full Setup](#windows--full-setup)
   - [1) Get the code](#1-get-the-code)
   - [2) Create venv & install deps](#2-create-venv--install-deps)
