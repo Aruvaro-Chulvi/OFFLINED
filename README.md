@@ -8,7 +8,7 @@
 - Wikipedia: **kiwix-serve** with local **ZIM** files
 
 > This repo is focused on **Phi models** only.
-> Used model: **Phi-3 Mini 4K Instruct (Q4_K_M)**.
+> Used model: **phi-4-mini-instruct-q4_k_m.gguf**.
 
 ---
 
