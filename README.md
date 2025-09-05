@@ -16,7 +16,7 @@
 
 - [Features](#features)
 - [Screens / Modes](#screens--modes)
-- [Requirements](#requirements)
+- [Requirements](#-requirements)
 - [Project Structure](#project-structure)
 - [Windows — Full Setup](#windows--full-setup)
   - [1) Get the code](#1-get-the-code)
