@@ -55,8 +55,7 @@
   - **Agents** — visual agent picker (medical, engineering, etc.) with cards and suggested cross-referrals.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
-- **Quick model switcher**: load GGUF files from `/models` and change the active model from the UI.
-- **Clean UI/UX**: light/dark theme toggle, battery indicator bar, Enter-to-send, and basic Markdown rendering.
+- **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
 - **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
 - **Cross-platform**: Windows, macOS, and Linux; CPU-only with configurable threads.
  
