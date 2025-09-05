@@ -59,19 +59,19 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 ### Python dependencies (`requirements.txt`)
 These are the exact packages pinned/declared by the project:
 
-```
+`
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
 llama-cpp-python>=0.3.10
 psutil==6.0.0
 requests==2.32.3
-```
+`
 
 ---
 
 ## 📦 Project Structure
 
-```
+``
 /project-root
 │
 ├── backend/
@@ -93,7 +93,7 @@ requests==2.32.3
 ├── categories.json # Agent categories (labels + emoji; EN/ES/FR)
 ├── README.md # Project documentation
 └── LICENSE # (Optional) your chosen license
-```
+``
 
 
 ---
