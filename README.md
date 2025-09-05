@@ -12,41 +12,6 @@
 
 ---
 
-## Table of Contents
-
-- [Features](#-features)
-- [Screens / Modes](#%EF%B8%8F-screens--modes)
-- [Requirements](#-requirements)
-- [Project Structure](#-project-structure)
-- [Windows — Full Setup](#windows--full-setup)
-  - [1) Get the code](#1-get-the-code)
-  - [2) Create venv & install deps](#2-create-venv--install-deps)
-  - [3) Download models (PowerShell script)](#3-download-models-powershell-script)
-  - [4) Kiwix (Offline Wikipedia)](#4-kiwix-offline-wikipedia)
-  - [5) Configure the model](#5-configure-the-model)
-  - [6) Run backend & frontend](#6-run-backend--frontend)
-  - [7) Quick test](#7-quick-test)
-  - [8) Environment variables (Windows)](#8-environment-variables-windows)
-  - [9) Troubleshooting (Windows)](#9-troubleshooting-windows)
-- [macOS / Linux — Full Setup](#macos--linux--full-setup)
-  - [1) Get the code](#1-get-the-code-1)
-  - [2) Create venv & install deps](#2-create-venv--install-deps-1)
-  - [3) Download models (Bash script)](#3-download-models-bash-script)
-  - [4) Kiwix (Offline Wikipedia)](#4-kiwix-offline-wikipedia-1)
-  - [5) Configure the model](#5-configure-the-model-1)
-  - [6) Run backend & frontend](#6-run-backend--frontend-1)
-  - [7) Quick test](#7-quick-test-1)
-  - [8) Environment variables (macOS / Linux)](#8-environment-variables-macos--linux)
-  - [9) Troubleshooting (macOS / Linux)](#9-troubleshooting-macos--linux)
-- [Switching models (both platforms)](#switching-models-both-platforms)
-- [Distribution plan & Roadmap](#distribution-plan--roadmap)
-- [Security & Offline Notes](#security--offline-notes)
-- [License](#license)
-- [Contributing](#contributing)
-
-
----
-
 ## ✨ Features
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
@@ -54,6 +19,7 @@
   - **Model** — direct chat with the selected LLM.
   - **Agents** — visual agent picker (medical, engineering, etc.) with cards and suggested cross-referrals.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
+- **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
 - **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
@@ -63,7 +29,7 @@
 
 ---
 
-## 🖥️ Screens / Modes
+## 🖥️ Modes
 
 - **Model**: direct chat with the selected LLM.
 - **Agents**: pick an expert (avatar + short profile) and chat.
@@ -73,19 +39,65 @@
 
 ## ✅ Requirements
 
-**Common**
-- **Python 3.10+**
-- CPU with **AVX2** recommended (for llama.cpp performance)
-- ~**6–10 GB** free disk (depending on models + ZIM size)
+This project is designed to run **fully offline** on a modest CPU-only machine. Below are the **technical requirements** for your workstation and the **Python dependencies** (from `requirements.txt`) with install commands.
 
-**Windows**
+### Hardware (recommended)
+- **CPU:** x86_64 with **AVX2** support (for good `llama-cpp-python` performance).
+- **RAM:** 8 GB minimum (16 GB recommended for smoother multitasking or larger contexts).
+- **Disk:** ~16 to 200 GB depending on the **GGUF** model(s) you keep plus **Wikipedia ZIM** files.
+- **GPU:** *Not required* (CPU-only).
+
+### Operating Systems
 - **Windows 10/11 x64**
+- **macOS** (Intel or Apple Silicon; Apple Silicon can work via Rosetta or native wheels depending on your Python/wheels)
+- **Linux** (modern x86_64 distros)
 
-**macOS / Linux**
-- Modern x86_64 CPU (Apple Silicon works via Rosetta or native wheels, depending on your Python & llama-cpp build)
-- Shell/Terminal with `bash` and `wget` (or `curl`)
+### Runtimes / Tools
+- **Python 3.10+.**
+- **Kiwix**: the **`kiwix-serve`** binary under `./kiwix/` and at least one **Wikipedia `.zim`** under `./kiwix/content/` (used by the offline Wikipedia tab).
+
+### Python dependencies (`requirements.txt`)
+These are the exact packages pinned/declared by the project:
+
+```
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+llama-cpp-python>=0.3.10
+psutil==6.0.0
+requests==2.32.3
+```
 
 ---
 
 ## 📦 Project Structure
 
+```
+/project-root
+│
+├── backend/
+│ ├── main.py
+│ ├── requirements.txt
+│
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+├── models/ # Put your .gguf files here (e.g., Phi-3-mini-4k-instruct.Q4_K_M.gguf)
+│
+├── kiwix/
+│ ├── kiwix-serve(.exe)
+│ └── content/ # Put Wikipedia .zim files here (ES/EN/FR; maxi/nopic/mini)
+│
+├── agents.json # Agent directory (name, role, avatar, greeting)
+├── categories.json # Agent categories (labels + emoji; EN/ES/FR)
+├── README.md # Project documentation
+└── LICENSE # (Optional) your chosen license
+```
+
+
+---
+
+## 📦 Download the project
+
+To download
