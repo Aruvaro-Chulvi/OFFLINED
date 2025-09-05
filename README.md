@@ -1,42 +1,61 @@
 # 🧩 Offline Survival AI Stick for Preppers
-### 🔹 Offline LLM & Agents & Wikipedia & More
+### 🔹 Offline LLM · Expert Agents · Offline Wikipedia (Kiwix)
 
-Este proyecto permite interactuar con un **modelo LLM offline** o con **agentes especializados** (médicos, biólogos, ingenieros, etc.), usando modelos en formato **GGUF** ejecutados con [Ollama](https://ollama.ai) o [llama.cpp](https://github.com/ggerganov/llama.cpp).  
+**Survival AI** is a 100% **offline** app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no cloud required.
 
-Todo funciona **offline**, sin depender de servidores externos.
+- Backend: **FastAPI + llama-cpp-python**  
+- Frontend: static SPA (HTML/CSS/JS)  
+- Wikipedia: **kiwix-serve** with local **ZIM** files
 
----
-
-## 📂 Modelos recomendados
-
-Todos con **licencia libre para uso comercial**:
-
-- **Mistral 7B Instruct (Q4_K_M)** → Modelo principal (~4.1 GB)  
-  🔗 [Descargar](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)   
-
-📌 Todos los modelos se almacenan en la carpeta:
-/models
+> This repo is focused on **Phi models** only. **Mistral is not used** here.  
+> Default recommendation: **Phi-3 Mini 4K Instruct (Q4_K_M)**.
 
 ---
 
-## ⚙️ Instalación de modelos
+## ✨ Features
 
-### 🔹 Linux / Mac
+- **Model chat** (LLM-only)  
+- **Agents chat** (visual picker; agent cards; suggested cross-referrals)  
+- **Offline Wikipedia** tab (starts Kiwix locally and opens articles)  
+- **Light/Dark theme**, **battery bar**, **Enter-to-send**, simple **Markdown rendering**
 
-1. Abre una terminal en la raíz del proyecto.  
-2. Crea el archivo `download_models.sh` con este contenido:
+---
 
-```bash
-#!/bin/bash
-mkdir -p models
+## 📦 Project structure
 
-echo "⬇️ Descargando Mistral 7B Instruct..."
-wget -O models/mistral-7b-instruct.Q4_K_M.gguf https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q4_K_M.gguf
+/project-root
+│
+├── backend/
+│ └── main.py
+│
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+├── models/ # place your .gguf here
+│
+└── kiwix/
+├── kiwix-serve(.exe) # platform binary
+└── content/ # place your .zim here
 
-echo "⬇️ Descargando Phi-3 Mini..."
-wget -O models/phi-3-mini-4k-instruct.Q4_K_M.gguf https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/Phi-3-mini-4k-instruct.Q4_K_M.gguf
+**API (summary):** `/api/status`, `/api/categories`, `/api/agents`, `/api/chat`, `/api/wiki`, `/api/wiki/candidates`.
 
-echo "⬇️ Descargando Gemma 2B..."
-wget -O models/gemma-2b.Q4_K_M.gguf https://huggingface.co/google/gemma-2b-gguf/resolve/main/gemma-2b.Q4_K_M.gguf
+---
 
-echo "✅ Descargas completadas. Modelos guardados en ./models"
+# 🪟 Windows — Full Setup (copy/paste friendly)
+
+### 0) Requirements
+
+- **Windows 10/11 x64**
+- **Python 3.10+**
+- CPU with **AVX2** recommended for good llama.cpp performance
+
+---
+
+### 1) Get the code
+
+```powershell
+git clone https://github.com/<your-user>/survival-ai-stick.git
+cd survival-ai-stick
+
