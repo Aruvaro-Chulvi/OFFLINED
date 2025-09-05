@@ -1,60 +1,85 @@
-# 🧩 Offline Survival AI for Preppers
-### 🔹 Offline LLM & Agents · Offline Wikipedia
+# 🧩 Offline Survival AI Stick for Preppers
+### 🔹 Offline LLM · Expert Agents · Offline Wikipedia (Kiwix)
 
-**Survival AI** is a 100% **offline** app to chat with a **local LLM (GGUF)** or with **agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no cloud required.
+**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no cloud required.
 
 - Backend: **FastAPI + llama-cpp-python**  
 - Frontend: static SPA (HTML/CSS/JS)  
-- Wikipedia: **kiwix-serve** with local **ZIM** files
+- Wikipedia: **kiwix-serve** with local **ZIM** files  
+- Default model recommendation: **Phi-3 Mini 4K Instruct (Q4_K_M)**
 
-> This repo is focused on **Phi models** only.
-> Used model: **phi-4-mini-instruct-q4_k_m.gguf**.
+> This repository **does not ship any model or ZIM files**. You’ll download them yourself (scripts provided below).
+
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Screens / Modes](#screens--modes)
+- [Requirements](#requirements)
+- [Project Structure](#project-structure)
+- [Windows — Full Setup](#windows--full-setup)
+  - [1) Get the code](#1-get-the-code)
+  - [2) Create venv & install deps](#2-create-venv--install-deps)
+  - [3) Download models (PowerShell script)](#3-download-models-powershell-script)
+  - [4) Kiwix (Offline Wikipedia)](#4-kiwix-offline-wikipedia)
+  - [5) Configure the model](#5-configure-the-model)
+  - [6) Run backend & frontend](#6-run-backend--frontend)
+  - [7) Quick test](#7-quick-test)
+  - [8) Environment variables (Windows)](#8-environment-variables-windows)
+  - [9) Troubleshooting (Windows)](#9-troubleshooting-windows)
+- [macOS / Linux — Full Setup](#macos--linux--full-setup)
+  - [1) Get the code](#1-get-the-code-1)
+  - [2) Create venv & install deps](#2-create-venv--install-deps-1)
+  - [3) Download models (Bash script)](#3-download-models-bash-script)
+  - [4) Kiwix (Offline Wikipedia)](#4-kiwix-offline-wikipedia-1)
+  - [5) Configure the model](#5-configure-the-model-1)
+  - [6) Run backend & frontend](#6-run-backend--frontend-1)
+  - [7) Quick test](#7-quick-test-1)
+  - [8) Environment variables (macOS / Linux)](#8-environment-variables-macos--linux)
+  - [9) Troubleshooting (macOS / Linux)](#9-troubleshooting-macos--linux)
+- [Switching models (both platforms)](#switching-models-both-platforms)
+- [Distribution plan & Roadmap](#distribution-plan--roadmap)
+- [Security & Offline Notes](#security--offline-notes)
+- [License](#license)
+- [Contributing](#contributing)
+
 
 ---
 
 ## ✨ Features
 
-- **Model chat** (LLM-only)  
-- **Agents chat** (visual picker; agent cards; suggested cross-referrals)  
-- **Offline Wikipedia** tab (starts Kiwix locally and opens articles)  
+- **Model chat** (LLM-only)
+- **Agents chat** (visual picker; agent cards; suggested cross-referrals)
+- **Offline Wikipedia** tab (starts Kiwix locally and opens articles)
+- **Light/Dark theme**, **battery bar**, **Enter-to-send**, basic **Markdown rendering**
+- Fully **offline** after initial downloads
 
 ---
 
-## 📦 Project structure
+## 🖥️ Screens / Modes
 
-/project-root
-│
-├── backend/
-│ └── main.py
-│
-├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── models/ # place your .gguf here
-│
-└── kiwix/
-├── kiwix-serve(.exe) # platform binary
-└── content/ # place your .zim here
-
-**API (summary):** `/api/status`, `/api/categories`, `/api/agents`, `/api/chat`, `/api/wiki`, `/api/wiki/candidates`.
+- **Model**: direct chat with the selected LLM.
+- **Agents**: pick an expert (avatar + short profile) and chat.
+- **Wikipedia**: browse/search **offline Wikipedia** via Kiwix + ZIM.
 
 ---
 
-# 🪟 Windows — Full Setup (copy/paste friendly)
+## ✅ Requirements
 
-### 0) Requirements
-
-- **Windows 10/11 x64**
+**Common**
 - **Python 3.10+**
-- CPU with **AVX2** recommended for good llama.cpp performance
+- CPU with **AVX2** recommended (for llama.cpp performance)
+- ~**6–10 GB** free disk (depending on models + ZIM size)
+
+**Windows**
+- **Windows 10/11 x64**
+
+**macOS / Linux**
+- Modern x86_64 CPU (Apple Silicon works via Rosetta or native wheels, depending on your Python & llama-cpp build)
+- Shell/Terminal with `bash` and `wget` (or `curl`)
 
 ---
 
-### 1) Get the code
-
-```powershell
-git clone https://github.com/<your-user>/survival-ai-stick.git
-cd survival-ai-stick
+## 📦 Project Structure
 
