@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Features](#-features)
-- [Screens / Modes](#-screens--modes)
+- [Screens / Modes](#%EF%B8%8F-screens--modes)
 - [Requirements](#-requirements)
 - [Project Structure](#-project-structure)
 - [Windows — Full Setup](#windows--full-setup)
