@@ -59,7 +59,7 @@
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar, Enter-to-send, and basic Markdown rendering.
 - **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
 - **Cross-platform**: Windows, macOS, and Linux; CPU-only with configurable threads.
--
+ 
 - Fully **offline** after initial downloads
 
 ---
