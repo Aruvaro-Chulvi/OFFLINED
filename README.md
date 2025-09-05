@@ -1,14 +1,14 @@
-# 🧩 Offline Survival AI Stick for Preppers
-### 🔹 Offline LLM · Expert Agents · Offline Wikipedia (Kiwix)
+# 🧩 Offline Survival AI for Preppers
+### 🔹 Offline LLM & Agents · Offline Wikipedia
 
-**Survival AI** is a 100% **offline** app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no cloud required.
+**Survival AI** is a 100% **offline** app to chat with a **local LLM (GGUF)** or with **agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no cloud required.
 
 - Backend: **FastAPI + llama-cpp-python**  
 - Frontend: static SPA (HTML/CSS/JS)  
 - Wikipedia: **kiwix-serve** with local **ZIM** files
 
-> This repo is focused on **Phi models** only. **Mistral is not used** here.  
-> Default recommendation: **Phi-3 Mini 4K Instruct (Q4_K_M)**.
+> This repo is focused on **Phi models** only.
+> Used model: **Phi-3 Mini 4K Instruct (Q4_K_M)**.
 
 ---
 
@@ -17,7 +17,6 @@
 - **Model chat** (LLM-only)  
 - **Agents chat** (visual picker; agent cards; suggested cross-referrals)  
 - **Offline Wikipedia** tab (starts Kiwix locally and opens articles)  
-- **Light/Dark theme**, **battery bar**, **Enter-to-send**, simple **Markdown rendering**
 
 ---
 
