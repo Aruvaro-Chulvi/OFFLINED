@@ -67,7 +67,7 @@ These are the exact packages pinned/declared by the project:
 ---
 
 ## 📦 Project Structure
-Download the project zip file and extract in root C:/
+Download the project zip file and extract in root **C:/**
 
 ```
 /SurvivalAI-phi4
