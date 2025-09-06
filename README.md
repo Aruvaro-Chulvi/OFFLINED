@@ -104,7 +104,7 @@ en:
   - wikipedia_en_all_nopic_2025-08.zim (43 GB)
   - wikipedia_en_all_mini_2025-06.zim (14 GB)
 
-es:
+es (2.052.431 articles):
   - wikipedia_es_all_maxi_2025-07.zim (38 GB)
   - wikipedia_es_all_nopic_2025-08.zim (9 GB)
   - wikipedia_es_all_mini_2025-08.zim (3 GB)
