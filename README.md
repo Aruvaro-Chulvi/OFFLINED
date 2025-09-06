@@ -15,9 +15,7 @@
 ## ✨ Features
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
-- **Two chat modes**:
-  - **Model** — direct chat with the selected LLM.
-  - **Agents** — visual agent picker (medical, engineering, etc.) with cards and suggested cross-referrals.
+- **Two chat modes**: **Model** — direct chat with the selected LLM. **Agents** — visual agent picker (medical, engineering, etc.).
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
@@ -44,7 +42,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 ### Hardware (recommended)
 - **CPU:** x86_64 with **AVX2** support (for good `llama-cpp-python` performance).
 - **RAM:** 8 GB minimum (16 GB recommended for smoother multitasking or larger contexts).
-- **Disk:** ~16 to 200 GB depending on the **GGUF** model(s) you keep plus **Wikipedia ZIM** files.
+- **Disk:** from 8 to 200 GB depending on the **GGUF** model(s) you keep plus **Wikipedia ZIM** files.
 - **GPU:** *Not required* (CPU-only).
 
 ### Operating Systems
@@ -59,19 +57,17 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 ### Python dependencies (`requirements.txt`)
 These are the exact packages pinned/declared by the project:
 
-`
-fastapi==0.115.0
-uvicorn[standard]==0.30.6
-llama-cpp-python>=0.3.10
-psutil==6.0.0
-requests==2.32.3
-`
+`fastapi==0.115.0`
+`uvicorn[standard]==0.30.6`
+`llama-cpp-python>=0.3.10`
+`psutil==6.0.0`
+`requests==2.32.3`
 
 ---
 
 ## 📦 Project Structure
 
-``
+```
 /project-root
 │
 ├── backend/
@@ -93,11 +89,55 @@ requests==2.32.3
 ├── categories.json # Agent categories (labels + emoji; EN/ES/FR)
 ├── README.md # Project documentation
 └── LICENSE # (Optional) your chosen license
-``
+```
 
 
 ---
 
-## 📦 Download the project
+## 📖 Downloading Wikipedia ZIM files for Kiwix
 
-To download
+Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
+👉 **Do not rename** the files after download. Put them under: `./kiwix/content/`
+
+**Download page (browse & pick):**  
+https://download.kiwix.org/zim/wikipedia/
+
+### Target filenames (candidates your backend expects)
+
+```txt
+en:
+  - wikipedia_en_all_maxi_2025-08.zim (116 GB)
+  - wikipedia_en_all_nopic_2025-08.zim (?? GB)
+  - wikipedia_en_all_mini_2025-06.zim (14 GB)
+
+es:
+  - wikipedia_es_all_maxi_2025-07.zim (38 GB)
+  - wikipedia_es_all_nopic_2025-08.zim (?? GB)
+  - wikipedia_es_all_mini_2025-08.zim (3 GB)
+
+fr:
+  - wikipedia_fr_all_maxi_2025-06.zim (54 GB)
+  - wikipedia_fr_all_nopic_2025-08.zim (?? GB)
+  - wikipedia_fr_all_mini_2025-08.zim (4 GB)
+```
+
+
+---
+
+## 📥 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
+
+> **Licensing & responsibility**
+>
+> - Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
+> - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
+> - If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
+
+**Download page:**  
+https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+
+> Place the GGUF file in: `./models/` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
+
+---
+
+
+
