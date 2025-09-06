@@ -27,14 +27,6 @@
 
 ---
 
-## 🖥️ Modes
-
-- **Model**: direct chat with the selected LLM.
-- **Agents**: pick an expert (avatar + short profile) and chat.
-- **Wikipedia**: browse/search **offline Wikipedia** via Kiwix + ZIM.
-
----
-
 ## ✅ Requirements
 
 This project is designed to run **fully offline** on a modest CPU-only machine. Below are the **technical requirements** for your workstation and the **Python dependencies** (from `requirements.txt`) with install commands.
@@ -47,7 +39,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ### Operating Systems
 - **Windows 10/11 x64**
-- **macOS** (Intel or Apple Silicon; Apple Silicon can work via Rosetta or native wheels depending on your Python/wheels)
+- **macOS** (Intel or Apple Silicon)
 - **Linux** (modern x86_64 distros)
 
 ### Runtimes / Tools
@@ -87,10 +79,10 @@ Download the project zip file and extract in root **C:/**
 │ ├── kiwix-serve(.exe)
 │ └── content/ # Put Wikipedia .zim files here (ES/EN/FR; maxi/nopic/mini)
 │
-├── agents.json # Agent directory (name, role, avatar, greeting)
-├── categories.json # Agent categories (labels + emoji; EN/ES/FR)
-├── README.md # Project documentation
-└── LICENSE # (Optional) your chosen license
+├── agents.json
+├── categories.json
+├── README.md
+└── LICENSE
 ```
 
 
@@ -128,16 +120,146 @@ fr:
 
 ## 📥 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
 
-> **Licensing & responsibility**
->
-> - Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
-> - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
-> - If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
+**Licensing & responsibility**
+
+- Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
+- The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
+- If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
 
 **Download page:**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 
 > Place the GGUF file in: `./models/` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
+
+---
+
+## 📥 First Instalation Windows
+
+## First-time run on Windows (PowerShell)
+**Project root:** `C:\survivalai-phi4\`
+
+> Assumptions:
+> - Model already downloaded to `C:\survivalai-phi4\models\phi-4-mini-instruct-q4_k_m.gguf`.
+> - Wikipedia ZIM files already in `C:\survivalai-phi4\kiwix\content\`.
+> - You’re using **PowerShell**. (If you use CMD, activation command differs.)
+
+---
+
+### 1) Open a terminal and go to the project root
+```powershell
+cd C:\survivalai-phi4
+```
+
+---
+
+### 2) Create a virtual environment and install dependencies
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+> Using CMD instead of PowerShell? Activate with: `.\.venv\Scripts\activate.bat`.
+
+---
+
+### 3) Start the backend (API) in one terminal window
+From the project root:
+```powershell
+.\.venv\Scripts\Activate.ps1
+uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload
+```
+Alternative (run from inside backend\):
+```powershell
+cd C:\survivalai-phi4\backend
+..\ .venv\Scripts\Activate.ps1
+uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+```
+
+> Keep this window open.
+
+
+---
+
+
+### 4) Start the frontend in a second terminal window
+Open another PowerShell window:
+```powershell
+cd C:\survivalai-phi4
+python -m http.server 5901 -d frontend
+```
+
+---
+
+
+### 5) Open the app in your browser
+Open another PowerShell window:
+`http://127.0.0.1:5901`
+
+---
+
+## 📥 First Installation macOS / Linux
+
+## First-time run on macOS / Linux (bash)
+**Project root (example):** `~/survivalai-phi4/`
+
+> Assumptions:
+> - Model already downloaded to `~/survivalai-phi4/models/phi-4-mini-instruct-q4_k_m.gguf`.
+> - Wikipedia ZIM files already in `~/survivalai-phi4/kiwix/content/`.
+> - You’ll use a POSIX shell (`bash` / `zsh`). Commands below are bash-compatible.
+
+---
+
+### 1) Open a terminal and go to the project root
+```bash
+cd ~/survivalai-phi4
+```
+
+---
+
+### 2) Create a virtual environment and install dependencies
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+> If python3 points elsewhere, replace with your interpreter command (e.g., python).
+
+---
+
+### 3) Start the backend (API) in one terminal window
+From the project root:
+```bash
+source .venv/bin/activate
+uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload
+```
+Alternative (run from inside backend\):
+```bash
+cd ~/survivalai-phi4/backend
+source ../.venv/bin/activate
+uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+```
+
+> Keep this window open.
+
+
+---
+
+
+### 4) Start the frontend in a second terminal window
+Open another PowerShell window:
+```bash
+cd ~/survivalai-phi4
+python3 -m http.server 5901 -d frontend
+```
+
+---
+
+
+### 5) Open the app in your browser
+Open another PowerShell window:
+`http://127.0.0.1:5901`
 
 ---
 
