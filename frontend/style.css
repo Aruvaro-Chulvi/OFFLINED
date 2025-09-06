@@ -1,61 +1,1259 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #1e1e1e;
-  color: #e0e0e0;
+:root {
+  --bg: #f6f6f6;
+  --panel: #ffffff;
+  --ink: #1f1f1f;
+  --subtle: #6f6f6f;
+  --soft: #e9e9e9;
+  --muted: #d6d6d6;
+  --accent: #2d2d2d;
+  --ok: #2e7d32;
+  --radius: 14px;
+  --shadow: 0 6px 24px rgba(0,0,0,0.08);
+  --tag-mode-bg: #e0f7fa;
+  --tag-mode-border: #b2ebf2;
+  --tag-mode-color: #006064;
+
+  --tag-agent-bg: #e8f5e9;
+  --tag-agent-border: #c8e6c9;
+  --tag-agent-color: #1b5e20;
+
+  --tag-model-bg: #f3e5f5;
+  --tag-model-border: #e1bee7;
+  --tag-model-color: #4a148c;
+
+  /* Avatares */
+  --avatar-radius: 10px;
+  --img-border: rgba(0, 0, 0, 0.85); /* casi negro en claro */
+  
+    /* Tags (neutras) */
+  --tag-bg: #f5f7fa;
+  --tag-border: #d6dae1;
+  --tag-text: #27313f;
+
+  /* Tag Profesión (rojizo, modo claro) */
+  --tag-prof-bg: #fff5f5;      /* rojo muy suave */
+  --tag-prof-border: #f3b0b0;  /* borde rosado */
+  --tag-prof-text: #7a1f1f;    /* texto rojo oscuro */
+
+  /* Botón cabecera (Select agent) – modo claro */
+  --btn-header-bg: #f5f7fa;
+  --btn-header-text: #27313f;
+  --btn-header-border: #d6dae1;
+  --btn-header-hover-bg: #eef2f7;
+  --btn-header-hover-border: #c7cdd8;
+
+  --link: #5649ff;           /* color enlaces (tema claro) */
+  --link-hover: #4036d9;     /* hover claro */
+  --link-visited: #5649ff;   /* evita morado por defecto */
+  
+}
+
+[data-theme="dark"] {
+  --bg: #0f0f10;
+  --panel: #17181a;
+  --ink: #e9e9ea;
+  --subtle: #9a9a9a;
+  --soft: #222327;
+  --muted: #2b2c31;
+  --accent: #dedede;
+  --ok: #98d59d;
+
+  --tag-mode-bg: #17414b;
+  --tag-mode-border: #23636e;
+  --tag-mode-color: #aeeff7;
+
+  --tag-agent-bg: #1a3e20;
+  --tag-agent-border: #2d5a2d;
+  --tag-agent-color: #b5f1b5;
+
+  --tag-model-bg: #3a2048;
+  --tag-model-border: #5a3271;
+  --tag-model-color: #e9c4ff;
+
+  /* Avatares */
+  --img-border: rgba(255, 255, 255, 0.9); /* casi blanco en oscuro */
+  
+    /* Tags (neutras) */
+  --tag-bg: #1f2937;
+  --tag-border: #374151;
+  --tag-text: #e5e7eb;
+
+  /* Tag Profesión (rojizo, modo oscuro) */
+  --tag-prof-bg: #2a1111;      /* fondo rojizo muy oscuro */
+  --tag-prof-border: #6b1d1d;  /* borde rojo oscuro */
+  --tag-prof-text: #fca5a5;    /* texto rojo claro */
+
+  /* Botón cabecera (Select agent) – modo oscuro */
+  --btn-header-bg: #111827;
+  --btn-header-text: #e5e7eb;
+  --btn-header-border: #374151;
+  --btn-header-hover-bg: #0f172a;
+  --btn-header-hover-border: #4b5563;
+  
+  --link: #98b2ff;           /* color enlaces (tema oscuro) */
+  --link-hover: #c2d1ff;     /* hover oscuro */
+  --link-visited: #98b2ff;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
   margin: 0;
-  padding: 0;
-}
-
-.tabs {
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
   display: flex;
-  background-color: #2b2b2b;
+  flex-direction: column;
+  overflow: hidden;
 }
 
-.tab-button {
-  flex: 1;
-  padding: 12px;
-  border: none;
-  background-color: #2b2b2b;
-  color: #ccc;
+/* HEADER */
+.app-header {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  border-bottom: 1px solid var(--muted);
+  position: relative;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.brand .logo {
+  font-size: 22px;
+}
+.brand h1 {
+  font-size: 28px;   /* un poco más grande */
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.2;
+  font-family: "Segoe UI Semibold", "Segoe UI", system-ui, sans-serif;
+  letter-spacing: -0.5px;
+}
+
+.header-modes {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+}
+
+.mode-btn {
+  background: var(--panel);
+  border: 1px solid var(--muted);
+  border-radius: 10px;
+  padding: 6px 12px;
   cursor: pointer;
+  font-weight: 400;
+  color: var(--ink);
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
-.tab-button.active {
-  background-color: #3b3b3b;
-  font-weight: bold;
+.mode-btn:hover {
+  background: var(--soft);
 }
 
-.tab-content {
-  display: none;
+.mode-btn.active {
+  border-color: var(--accent);
+  font-weight: 400;
+  background: var(--soft);
+}
+
+/* MAIN */
+.main-area {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+
+/* CHAT AREA */
+.chat-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  border-left: 1px solid var(--muted);
+  overflow: hidden;
+  position: relative;
+  min-height: 0; /* 👈 asegura que hijos puedan scrollear */
+}
+
+/* AGENTS STEPS (pantalla central en vez de lateral) */
+#agentsSteps {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
   padding: 20px;
+  overflow-y: auto;
+  justify-content: flex-start;   /* ⬆️ apila desde arriba */
+  align-items: stretch; 
 }
 
-.tab-content.active {
-  display: block;
+#agentsSteps.hidden {
+  display: none;
 }
 
+.agent-steps {
+  max-width: 1200px;
+  margin: 0 auto;                /* ⬅️ NADA de auto en vertical */
+  width: 100%;
+}
+
+/* ===== BOTONES ===== */
+button {
+  font: inherit;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 16px;
+  transition: background 0.3s ease, color 0.3s ease, border 0.3s ease;
+}
+
+/* Botón destacado (primario) */
+button.primary {
+  background-color: var(--accent);
+  color: var(--bg);
+  font-weight: 400;
+}
+[data-theme="dark"] button.primary {
+  background-color: var(--soft);
+  color: var(--ink);
+}
+button.primary:hover {
+  filter: brightness(1.1);
+}
+
+/* Botón secundario (ghost) */
+button.ghost {
+  background-color: transparent;
+  border: 1px solid var(--muted);
+  color: var(--ink);
+  font-weight: 400;
+}
+button.ghost:hover {
+  background-color: var(--soft);
+}
+
+/* ===== STEP 0: CATEGORIES ===== */
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+}
+.category-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--muted);
+  background: var(--soft);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform .15s ease, border-color .2s ease, background .2s ease;
+}
+.category-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--ink);
+  background: var(--panel);
+}
+.category-emoji { font-size: 18px; line-height: 1; }
+.category-name  { font-size: 0.95rem; font-weight: 600; }
+.category-count { margin-left: auto; font-size: 0.85rem; opacity: 0.75; }
+
+/* Barra pequeñita encima de la lista (Step 1) */
+.step-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 8px;
+}
+
+/* ===== STEP 1: GRID DE AGENTES ===== */
 .agents-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 16px;
-  margin-top: 20px;
+  margin-top: 16px;
 }
 
 .agent-card {
-  background-color: #2b2b2b;
-  padding: 16px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+  border: 1px solid var(--muted);
+  border-radius: 16px;
+  background: var(--panel);
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
   text-align: center;
-  transition: transform 0.2s;
+  transition: transform 0.2s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
 }
 
 .agent-card:hover {
-  transform: scale(1.05);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  border-color: var(--accent);
+  background: linear-gradient(180deg, var(--panel) 0%, var(--soft) 100%);
 }
 
+/* Avatar circular */
 .agent-avatar {
-  font-size: 40px;
-  margin-bottom: 8px;
+  width: 164px;
+  height: 164px;
+  border-radius: 50%;
+  background: var(--soft);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border: 2px solid var(--muted);
+  transition: border-color 0.3s ease;
+}
+.agent-avatar img {
+  width: 90%;
+  height: 90%;
+  object-fit: cover; /* 👈 recorta la imagen sin deformarla */
+  border-radius: 50%;
+}
+.agent-card:hover .agent-avatar {
+  border-color: var(--accent);
 }
 
+/* Info del agente */
+.agent-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  width: 100%;
+}
+.agent-info .name {
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--ink);
+}
+.agent-info .separator {
+  width: 40%;
+  height: 1px;
+  background: var(--muted);
+}
+.agent-info .profession {
+  color: var(--subtle);
+  font-size: 14px;
+}
+
+
+/* ===== SEARCH BOX ===== */
+.search {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--muted);
+  background: var(--soft);
+  color: var(--ink);
+  font-size: 15px;
+  margin-bottom: 18px;
+  transition: border 0.2s ease, background 0.2s ease;
+}
+.search:focus {
+  outline: none;
+  border-color: var(--accent);
+  background: var(--panel);
+}
+
+/* ===== STEP 2: PREVIEW CARD ===== */
+.agent-preview {
+  border: 1px solid var(--muted);
+  border-radius: 14px;
+  padding: 20px;
+  background: var(--panel);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+}
+
+.agent-preview .large-avatar {
+  width: 110px;
+  height: 110px;
+  border-radius: var(--avatar-radius);
+  background: var(--soft);
+  display: grid;
+  place-items: center;
+  font-size: 32px;
+  font-weight: 800;
+  overflow: hidden;
+  border: 1px solid var(--img-border); /* borde temático */
+}
+.agent-preview .large-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+}
+
+.agent-preview .details .title {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+}
+.agent-preview .details p {
+  margin: 6px 0;
+  font-size: 15px;
+  color: var(--subtle);
+  line-height: 1.4;
+}
+
+/* ===== STEP ACTIONS ===== */
+.step-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 18px;
+  gap: 10px;
+}
+
+
+/* CHAT VIEW */
+#chatView {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0; /* 👈 evita que bloquee el scroll de .chat */
+}
+
+#chatView.hidden {
+  display: none;
+}
+
+.chat-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  padding: 12px;
+  border-bottom: 1px solid var(--muted);
+  min-height: 84px;
+}
+
+.chat-avatar {
+  flex: 0 0 auto;
+  width: 100px;
+  height: 100px;
+  border-radius: var(--avatar-radius);
+  background: var(--soft);
+  display: grid;
+  place-items: center;
+  font-size: 28px;
+  font-weight: 700;
+  overflow: hidden;
+  border: 1px solid var(--img-border); /* borde temático */
+}
+.chat-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+  display: block;
+}
+
+.chat-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  max-width: calc(100% - 200px);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.chat-title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.tags {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.chat-header-btn {
+  background: var(--btn-header-bg);
+  color: var(--btn-header-text);
+  border: 1px solid var(--btn-header-border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  transition: background .2s ease, border-color .2s ease, transform .05s ease;
+}
+
+.chat-header-btn:hover {
+  background: var(--btn-header-hover-bg);
+  border-color: var(--btn-header-hover-border);
+}
+
+.chat-header-btn:active {
+  transform: translateY(1px);
+}
+
+.chat-header-btn:focus-visible {
+  outline: 2px solid var(--btn-header-hover-border);
+  outline-offset: 2px;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  padding: 0 .6rem;
+  height: 24px;
+  line-height: 22px;
+  font-size: 12px;
+  border: 1px solid var(--tag-border);
+  color: var(--tag-text);
+  background: var(--tag-bg);
+  border-radius: 9999px;
+  white-space: nowrap;
+}
+
+/* Variante rojiza para la etiqueta Profesión */
+.tag--profession {
+  border-color: var(--tag-prof-border);
+  background: var(--tag-prof-bg);
+  color: var(--tag-prof-text);
+}
+
+#currentModeTag {
+  background: var(--tag-mode-bg);
+  border: 1px solid var(--tag-mode-border);
+  color: var(--tag-mode-color);
+}
+#activeAgentTag {
+  background: var(--tag-agent-bg);
+  border: 1px solid var(--tag-agent-border);
+  color: var(--tag-agent-color);
+}
+#activeModelTag {
+  background: var(--tag-model-bg);
+  border: 1px solid var(--tag-model-border);
+  color: var(--tag-model-color);
+}
+
+.chat {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px;
+  scroll-behavior: smooth;
+  min-height: 0; /* 👈 clave para que se active el scroll interno */
+}
+
+.msg {
+  margin: 8px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+.msg .bubble {
+  max-width: 900px;
+  padding: 10px 14px;
+  border-radius: 14px;
+  background: var(--soft);
+  border: 1px solid var(--muted);
+  white-space: normal;
+  word-wrap: break-word;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.msg.user .bubble {
+  background: transparent;
+  border-color: var(--muted);
+}
+.msg .avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: var(--avatar-radius);
+  display: grid;
+  place-items: center;
+  background: var(--soft);
+  font-size: 18px;
+  overflow: hidden;
+  border: 1px solid var(--img-border); /* borde temático */
+}
+.msg .avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+  display: block;
+}
+
+/* COMPOSER */
+.composer {
+  display: flex;
+  gap: 8px;
+  padding: 10px;
+  border-top: 1px solid var(--muted);
+}
+#input {
+  flex: 1;
+  resize: none;
+  min-height: 42px;
+  max-height: 200px;
+  border-radius: 10px;
+  border: 1px solid var(--muted);
+  background: var(--bg);
+  color: var(--ink);
+  padding: 10px 12px;
+}
+.send {
+  border: 1px solid var(--muted);
+  background: var(--soft);
+  color: var(--ink);
+  padding: 10px 14px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: background 0.3s ease;
+}
+.send:hover {
+  background: var(--muted);
+}
+.send:disabled {
+  opacity: .6;
+  cursor: not-allowed;
+}
+
+/* FOOTER */
+.app-footer {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  padding: 6px 16px;
+  background: var(--panel);
+  border-top: 1px solid var(--muted);
+}
+.footer-tools {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
+.battery {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.battery-bar {
+  width: 160px;
+  height: 10px;
+  border-radius: 6px;
+  background: var(--soft);
+  overflow: hidden;
+  border: 1px solid var(--muted);
+}
+#batteryFill {
+  height: 100%;
+  width: 0%;
+  background: var(--ok);
+}
+
+/* Steps sin animación */
+.step {
+  opacity: 1;
+  transform: none;
+  transition: none;
+  position: relative;
+}
+.step.hidden {
+  opacity: 0;            /* o directamente display:none; si prefieres */
+  transform: none;
+  pointer-events: none;
+  position: absolute;
+}
+/* ===== LANG BLOCK ===== */
+.lang {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.lang span {
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Adaptación para modo oscuro */
+[data-theme="dark"] .lang {
+  color: var(--ink);
+}
+
+.hidden { display: none !important; }
+
+/* ===== LANG SWITCH (header right) ===== */
+.actions-right .lang-switch {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.actions-right .flag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px; /* botón compacto */
+  height: 34px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 8px;
+  filter: grayscale(100%);
+  opacity: 0.45;
+  transition: filter .2s ease, opacity .2s ease, transform .15s ease, background .2s ease;
+}
+
+.actions-right .flag:hover {
+  filter: none;
+  opacity: 1;
+  transform: translateY(-1px) scale(1.04);
+  background: var(--soft);
+}
+
+.actions-right .flag.active {
+  filter: none;
+  opacity: 1;
+  background: var(--soft);
+  border: 1px solid var(--muted);
+}
+
+.actions-right .flag .flag-icon {
+  display: block;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;    /* por si usas PNG */
+  border-radius: 3px;   /* esquinas suaves */
+}
+
+/* Botones de modo (título + emoji más pequeños) */
+.app-header .header-modes .mode-btn {
+  font-size: 0.88rem;     /* antes ~1rem; ajusta a tu gusto */
+  line-height: 1.1;
+  padding: 6px 10px;      /* mantiene un buen área clicable */
+}
+
+/* (Opcional) aún más pequeño en pantallas estrechas */
+@media (max-width: 640px) {
+  .app-header .header-modes .mode-btn {
+    font-size: 0.84rem;
+    padding: 5px 9px;
+  }
+}
+/* Botones pequeños: Reiniciar, Tema y Enviar */
+button#resetChat,
+button#themeToggle,
+button#send {
+  font-size: 0.88rem;   /* igual que los de cabecera */
+  line-height: 1.1;
+  padding: 6px 10px;    /* reduce área manteniendo clic cómodo */
+}
+
+/* (Opcional) aún más compacto en móviles */
+@media (max-width: 640px) {
+  button#resetChat,
+  button#themeToggle,
+  button#send {
+    font-size: 0.84rem;
+    padding: 5px 9px;
+  }
+}
+
+/* ==== CONTENEDORES DE VISTA ==== */
+#chatContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#chatContainer.hidden {
+  display: none !important;
+}
+
+#wikiView {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#wikiView.hidden {
+  display: none !important;
+}
+
+#wikiFrame {
+  flex: 1;
+  width: 100%;
+  border: none;
+}
+/* ==== CONTENEDORES DE VISTA ==== */
+#chatContainer,
+#wikiView {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+#chatContainer.hidden,
+#wikiView.hidden {
+  display: none !important; /* 👈 así no ocupan espacio */
+}
+
+#wikiFrame {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#wikiView {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#wikiView.hidden {
+  display: none !important;
+}
+
+#wikiFrame {
+  flex: 1;
+  width: 100%;
+  border: none;
+}
+
+/* === Tag Profesión (rojo/naranja), con soporte light/dark === */
+:root {
+  --tag-prof-bg: #fff1ed;      /* rojo-anaranjado muy suave */
+  --tag-prof-border: #f7b0a5;  /* borde salmón */
+  --tag-prof-text: #8a1f13;    /* texto rojizo oscuro */
+}
+
+html[data-theme="dark"] {
+  --tag-prof-bg: #2a1412;      /* fondo rojizo oscuro */
+  --tag-prof-border: #7a2b21;  /* borde rojizo oscuro */
+  --tag-prof-text: #f8b4a9;    /* texto salmón claro */
+}
+
+/* Subimos especificidad para asegurar override del estilo base de .tag */
+.tag.tag--profession {
+  background: var(--tag-prof-bg) !important;
+  border-color: var(--tag-prof-border) !important;
+  color: var(--tag-prof-text) !important;
+}
+
+.wiki-hint {
+  font-size: 0.8em;     /* 60% del tamaño actual de la burbuja */
+  line-height: 1.45;    /* para que respire un poco */
+}
+
+/* Enlaces dentro del chat */
+.chat .bubble a,
+.chat .bubble a:visited {
+  color: var(--link) !important;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.chat .bubble a:hover {
+  color: var(--link-hover) !important;
+}
+
+.chat .bubble a:focus-visible {
+  outline: 2px solid var(--link-hover);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+/* Headings compactos dentro de los mensajes */
+.bubble h1, .bubble h2, .bubble h3, .bubble h4, .bubble h5, .bubble h6 {
+  margin: 0.25rem 0 0.2rem;   /* menos aire */
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.bubble h1 { font-size: 1.05rem; }
+.bubble h2 { font-size: 1.02rem; }
+.bubble h3 { font-size: 1.00rem; }  /* usamos ### mayoritariamente */
+.bubble h4 { font-size: 0.96rem; }
+.bubble h5, .bubble h6 { font-size: 0.94rem; }
+
+.bubble p { margin: 0.35rem 0; }
+
+.bubble ul, .bubble ol {
+  margin: 0.35rem 0;
+  padding-left: 1.1rem;
+}
+
+.bubble li { margin: 0.1rem 0; }
+
+.bubble pre { 
+  margin: 0.4rem 0;
+  padding: 0.5rem 0.6rem;
+  overflow: auto;
+  border-radius: 6px;
+}
+.bubble code { padding: 0.05rem 0.25rem; border-radius: 4px; }
+
+.referral-panel {
+  display: grid;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.ref-card {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 50px;
+  padding: 10px;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  background: #fff;
+  text-decoration: none;
+  color: inherit;
+}
+
+.ref-card:hover { background: #f9fafb; }
+
+.ref-avatar {
+  width: 48px; height: 48px;
+  border-radius: 8px; object-fit: cover;
+}
+
+.ref-info { display: grid; gap: 4px; }
+.ref-name { font-weight: 700; }
+.ref-prof { font-size: 0.9rem; color: #6b7280; }
+.ref-reason { font-size: 0.9rem; color: #374151; }
+
+/* =========================
+   Referral cards (dentro del chat)
+   ========================= */
+
+/* Contenedor de la lista dentro del bubble */
+.bubble .referral-list {
+  margin-top: .25rem;
+}
+
+/* Varias tarjetas una al lado de otra (fila, con salto de línea si no caben) */
+.bubble .referral-list .agents-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;                 /* separación entre tarjetas */
+  align-items: stretch;
+}
+
+/* Tarjeta alargada: avatar izq + info dcha, con gap de 50px */
+.bubble .referral-list .agent-card.ref-card {
+  display: flex !important;          /* forzamos fila aunque el global use columna */
+  flex-direction: row !important;
+  align-items: center;
+  gap: 50px;                         /* pedido: 50px entre avatar y texto */
+  padding: 12px 14px;
+  border: 1px solid var(--ref-border);
+  border-radius: 12px;
+  background: var(--ref-bg);
+  color: var(--ref-text);
+  text-decoration: none;
+  transition: transform .06s ease, background .2s ease, border-color .2s ease;
+
+  /* para que salgan "en fila": cada tarjeta ocupa mínimo ~300px y se van colocando */
+  flex: 1 1 300px;                   /* puedes bajar a 240–260px si quieres más por fila */
+  max-width: 100%;
+}
+
+/* Avatar 64x64 fijo, a la izquierda */
+.bubble .referral-list .agent-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex: 0 0 64px;                    /* no se estira */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.bubble .referral-list .agent-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Texto a la derecha del avatar */
+.bubble .referral-list .agent-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;                      /* evita overflow del texto */
+  flex: 1 1 auto;
+  text-align: left;                  /* por si el global lo centraba */
+}
+
+.bubble .referral-list .agent-info .name {
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bubble .referral-list .agent-info .profession {
+  opacity: .85;
+  font-size: .95em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Hover (clarito en tema claro) */
+.bubble .referral-list .agent-card.ref-card:hover {
+  transform: translateY(-1px);
+  background: var(--ref-bg-hover);
+}
+
+/* Paleta light: hover MUY blanco */
+:root {
+  --ref-bg: #ffffff;
+  --ref-bg-hover: #fdfdfd;           /* casi blanco al hover */
+  --ref-border: rgba(15,23,42,.12);
+  --ref-text: #1f2937;
+}
+
+/* Paleta dark */
+[data-theme="dark"] {
+  --ref-bg: rgba(5,10,17,.6);
+  --ref-bg-hover: rgba(235,245,255,.10);
+  --ref-border: rgba(235,245,255,.16);
+  --ref-text: #e6e8ea;
+}
+
+.bubble .referral-list h4 {
+  margin: 0 0 .5rem 0;
+  color: var(--ref-text);
+}
+
+/* =========================
+   Recent Agents row
+   ========================= */
+.recent-agents {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+.recent-agents.hidden { display: none; }
+
+.recent-chip {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 0;
+  border: 1px solid var(--recent-border);
+  background: var(--recent-bg);
+  box-shadow: var(--recent-shadow);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform .08s ease, background .2s ease, border-color .2s ease;
+}
+.recent-chip:hover {
+  transform: translateY(-1px);
+  background: var(--recent-hover-bg);
+}
+.recent-chip img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.recent-chip .initials {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--ref-text, #1f2937);
+}
+
+/* Paleta light */
+:root {
+  --recent-bg: #ffffff;
+  --recent-hover-bg: #fdfdfd;
+  --recent-border: rgba(15,23,42,.12);
+  --recent-shadow: 0 1px 2px rgba(2,6,23,.08);
+}
+/* Paleta dark */
+[data-theme="dark"] {
+  --recent-bg: rgba(5,10,17,.6);
+  --recent-hover-bg: rgba(235,245,255,.08);
+  --recent-border: rgba(235,245,255,.16);
+  --recent-shadow: 0 2px 6px rgba(0,0,0,.35);
+}
+/* Contenedor columna para botón + recientes alineados a la derecha del header */
+.select-agent-wrap{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;     /* ← alinea botón y avatares al borde derecho */
+  gap: 8px;                  /* espacio entre botón y los chips */
+}
+
+/* La fila de avatares ya es flex; aseguramos que “mira” a la derecha */
+.select-agent-wrap .recent-agents{
+  justify-content: flex-end; /* por si ocupa varias líneas */
+}
+/* El contenedor de acciones del header debe ser relativo para posicionar la barra */
+.actions-right{ position: relative; }
+
+/* Barra de recientes: aparece ABSOLUTA justo debajo del botón, alineada a la derecha */
+.recent-agents{
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);   /* 8px por debajo del botón */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+  max-width: min(420px, 50vw);
+  pointer-events: auto;
+  z-index: 10;
+}
+
+/* Chip redondo 48x48 */
+.recent-agent{
+  width: 48px; height: 48px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid rgba(15,23,42,.12);
+  background: rgba(255,255,255,.9);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform .12s ease, filter .12s ease;
+}
+.recent-agent:hover{ transform: translateY(-1px); filter: brightness(1.02); }
+
+.recent-agent img{ width:100%; height:100%; object-fit: cover; }
+.recent-agent .initials{ font-weight:700; font-size:14px; }
+
+/* Dark theme */
+html[data-theme="dark"] .recent-agent{
+  border-color: rgba(235,245,255,.18);
+  background: rgba(5,10,17,.7);
+}
+.recent-agents{
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  padding-right: 18px;
+  margin-left: auto;
+  align-self: flex-end;
+}
+
+/* ===== Filtros de categorías (chips) ===== */
+.filter-chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+  overflow-x: auto;
+  padding: 4px 0;
+}
+
+.filter-chip {
+  border: 1px solid var(--muted);
+  background: var(--soft);
+  color: var(--ink);
+  padding: 6px 10px;
+  border-radius: 9999px;
+  font-size: 0.92rem;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+  transition: transform 0.05s ease;
+}
+.filter-chip:hover { transform: translateY(-1px); }
+
+.filter-chip.active {
+  background: var(--tag-bg);
+  border-color: var(--tag-border);
+  color: var(--tag-text);
+}
+
+.filter-chip .count {
+  opacity: .7;
+  margin-left: 6px;
+  font-variant-numeric: tabular-nums;
+}
+/* ===== Selección de agentes: siempre desde arriba ===== */
+
+/* El contenedor de la vista (Step 1) no debe centrar contenido */
+#step1 {
+  /* Si tu #step1 ya es flex o grid, estas reglas lo “descruzan” de cualquier centrado previo */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;  /* ⬆️ top */
+  align-items: stretch;
+  overflow: auto;               /* permite scroll interno si lo necesitas */
+}
+
+#agentsGrid {
+  align-content: start;
+  justify-content: start;
+  align-items: start;
+  justify-items: stretch;
+}
+
+/* Si en algún sitio tenías centrado global, esto lo neutraliza solo en esta vista */
+#step1 .agents-grid, 
+#step1 .agents-panel {
+  place-content: start;         /* para contenedores grid que usen place-content */
+}
+/* ===== Agents selection: columnas fijas de 188px ===== */
+#step1 .agents-grid {
+  /* columnas fijas de 188px */
+  grid-template-columns: repeat(auto-fill, 188px);
+  justify-content: flex-start;   /* alinea a la izquierda si sobra espacio */
+}
+
+/* La card no debe superar 188px (incluye padding y borde por box-sizing:border-box) */
+#step1 .agent-card {
+  width: 188px;
+  max-width: 188px;
+  padding: 10px;                 /* ↓ con 10px la imagen de 164px cabe perfecta */
+}
+
+/* (opcional) aseguras el grid “pegado arriba” y sin centrados raros */
+#agentsSteps { justify-content: flex-start; align-items: stretch; }
+.agent-steps { margin: 0 auto; }
