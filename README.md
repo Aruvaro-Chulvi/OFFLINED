@@ -1,4 +1,4 @@
-# 🧩 Offline Survival AI Stick for Preppers
+# 🛠️ Offline Survival AI Stick for Preppers
 ### 🔹 Offline LLM · Expert Agents · Offline Wikipedia (Kiwix)
 
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no cloud required.
@@ -133,7 +133,7 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 
 ---
 
-## 📥 First Instalation Windows
+# 🪟 First Instalation Windows
 
 ## First-time run on Windows (PowerShell)
 **Project root:** `C:\survivalai-phi4\`
@@ -198,7 +198,7 @@ Open another PowerShell window:
 
 ---
 
-## 📥 First Installation macOS / Linux
+# 🍏 First Installation macOS / Linux
 
 ## First-time run on macOS / Linux (bash)
 **Project root (example):** `~/survivalai-phi4/`
