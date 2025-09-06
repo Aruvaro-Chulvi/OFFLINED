@@ -108,17 +108,17 @@ https://download.kiwix.org/zim/wikipedia/
 ```txt
 en:
   - wikipedia_en_all_maxi_2025-08.zim (116 GB)
-  - wikipedia_en_all_nopic_2025-08.zim (?? GB)
+  - wikipedia_en_all_nopic_2025-08.zim (43 GB)
   - wikipedia_en_all_mini_2025-06.zim (14 GB)
 
 es:
   - wikipedia_es_all_maxi_2025-07.zim (38 GB)
-  - wikipedia_es_all_nopic_2025-08.zim (?? GB)
+  - wikipedia_es_all_nopic_2025-08.zim (9 GB)
   - wikipedia_es_all_mini_2025-08.zim (3 GB)
 
 fr:
   - wikipedia_fr_all_maxi_2025-06.zim (54 GB)
-  - wikipedia_fr_all_nopic_2025-08.zim (?? GB)
+  - wikipedia_fr_all_nopic_2025-08.zim (11 GB)
   - wikipedia_fr_all_mini_2025-08.zim (4 GB)
 ```
 
