@@ -8,8 +8,6 @@
 - Wikipedia: **kiwix-serve** with local **ZIM** files  
 - Default model recommendation: **Phi-3 Mini 4K Instruct (Q4_K_M)**
 
-> This repository **does not ship any model or ZIM files**. You’ll download them yourself (links and instructions provided below).
-
 ### ✨ Features
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
@@ -21,7 +19,7 @@
 - **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
 - **Cross-platform**: Windows, macOS, and Linux; CPU-only with configurable threads.
  
-> Fully **offline** after initial downloads
+> This repository **does not ship any model or ZIM files**. You’ll download them yourself (links and instructions provided below).
 
 ---
 
