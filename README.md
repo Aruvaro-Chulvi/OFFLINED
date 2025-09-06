@@ -10,9 +10,7 @@
 
 > This repository **does not ship any model or ZIM files**. You’ll download them yourself (links and instructions provided below).
 
----
-
-## ✨ Features
+### ✨ Features
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
 - **Two chat modes**: **Model** — direct chat with the selected LLM. **Agents** — visual agent picker (medical, engineering, etc.).
