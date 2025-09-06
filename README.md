@@ -8,7 +8,7 @@
 - Wikipedia: **kiwix-serve** with local **ZIM** files  
 - Default model recommendation: **Phi-3 Mini 4K Instruct (Q4_K_M)**
 
-> This repository **does not ship any model or ZIM files**. You’ll download them yourself (scripts provided below).
+> This repository **does not ship any model or ZIM files**. You’ll download them yourself (links and instructions provided below).
 
 ---
 
