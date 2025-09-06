@@ -67,9 +67,10 @@ These are the exact packages pinned/declared by the project:
 ---
 
 ## 📦 Project Structure
+Download the project zip file and extract in root C:/
 
 ```
-/project-root
+/SurvivalAI-phi4
 │
 ├── backend/
 │ ├── main.py
