@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2">
-  <!-- Rojo superior -->
-  <rect width="3" height="0.5" y="0" fill="#AA151B"></rect>
-  <!-- Amarillo central -->
-  <rect width="3" height="1" y="0.5" fill="#F1BF00"></rect>
-  <!-- Rojo inferior -->
-  <rect width="3" height="0.5" y="1.5" fill="#AA151B"></rect>
-  <title>Spain (ES)</title>
-</svg>
