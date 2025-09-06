@@ -1,0 +1,7 @@
+{
+  "medical":    { "emoji": "🩺", "labels": { "en": "Medical", "es": "Sanidad",      "fr": "Santé" } },
+  "engineering":{ "emoji": "🔧", "labels": { "en": "Engineering", "es": "Ingeniería", "fr": "Ingénierie" } },
+  "food":       { "emoji": "🥫", "labels": { "en": "Food & Harvest", "es": "Alimentos", "fr": "Nourriture" } },
+  "leadership": { "emoji": "🧭", "labels": { "en": "Leadership", "es": "Liderazgo",  "fr": "Leadership" } },
+  "other":      { "emoji": "⭐", "labels": { "en": "Other", "es": "Otros",          "fr": "Autres" } }
+}
