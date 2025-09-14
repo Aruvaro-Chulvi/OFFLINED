@@ -1,0 +1,5 @@
+LICENSE_Apache-2.0 (STUB)
+
+Texto legal oficial: https://www.apache.org/licenses/LICENSE-2.0.txt
+
+Sustituye este archivo por el texto completo antes de distribuir tu instalador/USB.

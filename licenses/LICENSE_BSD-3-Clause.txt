@@ -1,0 +1,29 @@
+BSD 3-Clause License
+
+Copyright (c) 2025, [Titular del copyright]
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions de código fuente deben conservar el aviso de copyright
+   anterior, esta lista de condiciones y el siguiente descargo de responsabilidad.
+
+2. Las redistribuciones en formato binario deben reproducir el aviso de copyright,
+   esta lista de condiciones y el siguiente descargo de responsabilidad en la
+   documentación y/u otros materiales proporcionados con la distribución.
+
+3. Ni el nombre del titular del copyright ni los nombres de sus
+   colaboradores pueden usarse para respaldar o promocionar productos derivados
+   de este software sin permiso previo por escrito.
+
+ESTE SOFTWARE SE PROPORCIONA POR LOS TITULARES DEL COPYRIGHT Y LOS COLABORADORES "TAL CUAL"
+Y CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADA A, LAS GARANTÍAS
+IMPLÍCITAS DE COMERCIABILIDAD Y APTITUD PARA UN PROPÓSITO PARTICULAR QUEDAN RECHAZADAS.
+EN NINGÚN CASO EL TITULAR DEL COPYRIGHT O LOS COLABORADORES SERÁN RESPONSABLES POR NINGÚN
+DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUYENDO,
+PERO NO LIMITADO A, LA ADQUISICIÓN DE BIENES O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO,
+DATOS O BENEFICIOS; O INTERRUPCIÓN DEL NEGOCIO) CAUSADO Y EN CUALQUIER TEORÍA DE
+RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUYENDO
+NEGLIGENCIA O DE OTRA MANERA) QUE SURJA DE CUALQUIER MANERA DEL USO DE ESTE SOFTWARE,
+INCLUSO SI SE ADVIERTE DE LA POSIBILIDAD DE DICHOS DAÑOS.

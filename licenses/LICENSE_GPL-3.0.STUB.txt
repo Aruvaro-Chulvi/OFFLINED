@@ -1,0 +1,5 @@
+LICENSE_GPL-3.0 (STUB)
+
+Texto legal oficial: https://www.gnu.org/licenses/gpl-3.0.txt
+
+Sustituye este archivo por el texto completo antes de distribuir tu instalador/USB.

@@ -1,0 +1,5 @@
+LICENSE_OFL-1.1 (STUB)
+
+Texto legal oficial: https://scripts.sil.org/OFL
+
+Sustituye este archivo por el texto completo antes de distribuir tu instalador/USB.
