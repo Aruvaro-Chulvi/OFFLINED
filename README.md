@@ -1,12 +1,11 @@
 # 🛠️ Offline Survival AI Stick for Preppers
 ### 🔹 Offline LLM & Agents & Wikipedia (EN,ES,FR)
 
-**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required.
+**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Documentation.
 
-- Backend: **FastAPI + llama-cpp-python**  
-- Frontend: static SPA (HTML/CSS/JS)  
-- Wikipedia: **kiwix-serve** with local **ZIM** files  
-- Default model recommendation: **Phi-3 Mini 4K Instruct (Q4_K_M)**
+- AI model (Miscrosoft): **Phi-3 Mini 4K Instruct (Q4_K_M)**
+- Maps: Protomaps OpenStreetMaps (planet.pmtiles)  
+- Wikipedia: **kiwix-serve** with local **ZIM** files 
 
 ### ✨ Features
 
@@ -19,7 +18,7 @@
 - **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
 - **Cross-platform**: Windows, macOS, and Linux; CPU-only with configurable threads.
  
-> This repository **does not ship any model or ZIM files**. You’ll download them yourself (links and instructions provided below).
+> This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below).
 
 ---
 
