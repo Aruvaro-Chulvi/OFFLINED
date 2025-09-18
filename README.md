@@ -1,4 +1,4 @@
-# 🛠️ Offline Survival AI Stick for Preppers
+# 🛠️ Offline Survival AI Drive
 ### 🔹 Offline LLM & Agents & Wikipedia (EN,ES,FR)
 
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Documentation.
