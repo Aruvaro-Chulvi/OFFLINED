@@ -79,19 +79,19 @@ https://download.kiwix.org/zim/wikipedia/
 
 ```txt
 en:
-  - wikipedia_en_all_maxi_2025-08.zim (116 GB - All articles - Full Articles with Images)
-  - wikipedia_en_all_nopic_2025-08.zim (43 GB - All articles - Full Articles without Images)
-  - wikipedia_en_all_mini_2025-06.zim (14 GB - All articles - First section Articles without Images)
+  - wikipedia_en_all_maxi_2025-08.zim - (116 GB - All articles - Full Articles with Images)
+  - wikipedia_en_all_nopic_2025-08.zim - (43 GB - All articles - Full Articles without Images)
+  - wikipedia_en_all_mini_2025-06.zim - (14 GB - All articles - First section Articles without Images)
 
 es (2.052.431 articles):
-  - wikipedia_es_all_maxi_2025-07.zim (38 GB - Todos los articulos - Articulos completos con imagenes)
-  - wikipedia_es_all_nopic_2025-08.zim (9 GB - Todos los articulos - Articulos completos sin imagenes)
-  - wikipedia_es_all_mini_2025-08.zim (3 GB - Todos los articulos - Articulos incompletos, solo primera seccion del articulo y sin imagenes)
+  - wikipedia_es_all_maxi_2025-07.zim - (38 GB - Todos los articulos - Articulos completos con imagenes)
+  - wikipedia_es_all_nopic_2025-08.zim - (9 GB - Todos los articulos - Articulos completos sin imagenes)
+  - wikipedia_es_all_mini_2025-08.zim - (3 GB - Todos los articulos - Articulos incompletos, solo primera seccion del articulo y sin imagenes)
 
 fr:
-  - wikipedia_fr_all_maxi_2025-06.zim (54 GB)
-  - wikipedia_fr_all_nopic_2025-08.zim (11 GB)
-  - wikipedia_fr_all_mini_2025-08.zim (4 GB)
+  - wikipedia_fr_all_maxi_2025-06.zim - (54 GB)
+  - wikipedia_fr_all_nopic_2025-08.zim - (11 GB)
+  - wikipedia_fr_all_mini_2025-08.zim - (4 GB)
 ```
 
 
