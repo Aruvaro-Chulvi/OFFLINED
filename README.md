@@ -1,10 +1,10 @@
 # 🛠️ Offline Survival AI Drive
-### 🔹 Offline LLM & Agents & Wikipedia (EN,ES,FR)
+### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
-**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Documentation.
+**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Survival Documentation.
 
 - AI model (Miscrosoft): **Phi-3 Mini 4K Instruct (Q4_K_M)**
-- Maps: Protomaps OpenStreetMaps (planet.pmtiles)  
+- Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
 - Wikipedia: **kiwix-serve** with local **ZIM** files 
 
 ### ✨ Features
@@ -15,8 +15,6 @@
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
-- **Simple setup**: copy-paste scripts for Windows (PowerShell) and macOS/Linux (Bash).
-- **Cross-platform**: Windows, macOS, and Linux; CPU-only with configurable threads.
  
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below).
 
@@ -24,32 +22,18 @@
 
 ## ✅ Requirements
 
-This project is designed to run **fully offline** on a modest CPU-only machine. Below are the **technical requirements** for your workstation and the **Python dependencies** (from `requirements.txt`) with install commands.
+This project is designed to run **fully offline** on a modest CPU-only machine. Below are the **technical requirements** for your workstation.
 
 ### Hardware (recommended)
 - **CPU:** x86_64 with **AVX2** support (for good `llama-cpp-python` performance).
 - **RAM:** 8 GB minimum (16 GB recommended for smoother multitasking or larger contexts).
-- **Disk:** from 8 to 200 GB depending on the **GGUF** model(s) you keep plus **Wikipedia ZIM** files.
+- **Disk:** from 8 to 200 GB depending on the **GGUF** model(s) you keep plus **Wikipedia ZIM** files and **pmtiles** files.
 - **GPU:** *Not required* (CPU-only).
 
 ### Operating Systems
 - **Windows 10/11 x64**
-- **macOS** (Intel or Apple Silicon)
-- **Linux** (modern x86_64 distros)
-
-### Runtimes / Tools
-- **Python 3.10+.**
-- **Kiwix**: the **`kiwix-serve`** binary under `./kiwix/` and at least one **Wikipedia `.zim`** under `./kiwix/content/` (used by the offline Wikipedia tab).
-
-### Python dependencies (`requirements.txt`)
-These are the exact packages pinned/declared by the project:
-
-`fastapi==0.115.0`
-`uvicorn[standard]==0.30.6`
-`llama-cpp-python>=0.3.10`
-`psutil==6.0.0`
-`requests==2.32.3`
-
+- **macOS** (coming soon)
+- **Linux** (coming soon)
 
 ---
 
@@ -95,14 +79,14 @@ https://download.kiwix.org/zim/wikipedia/
 
 ```txt
 en:
-  - wikipedia_en_all_maxi_2025-08.zim (116 GB)
-  - wikipedia_en_all_nopic_2025-08.zim (43 GB)
-  - wikipedia_en_all_mini_2025-06.zim (14 GB)
+  - wikipedia_en_all_maxi_2025-08.zim (116 GB - All articles - Full Articles with Images)
+  - wikipedia_en_all_nopic_2025-08.zim (43 GB - All articles - Full Articles without Images)
+  - wikipedia_en_all_mini_2025-06.zim (14 GB - All articles - First section Articles without Images)
 
 es (2.052.431 articles):
-  - wikipedia_es_all_maxi_2025-07.zim (38 GB)
-  - wikipedia_es_all_nopic_2025-08.zim (9 GB)
-  - wikipedia_es_all_mini_2025-08.zim (3 GB)
+  - wikipedia_es_all_maxi_2025-07.zim (38 GB - Todos los articulos - Articulos completos con imagenes)
+  - wikipedia_es_all_nopic_2025-08.zim (9 GB - Todos los articulos - Articulos completos sin imagenes)
+  - wikipedia_es_all_mini_2025-08.zim (3 GB - Todos los articulos - Articulos incompletos, solo primera seccion del articulo y sin imagenes)
 
 fr:
   - wikipedia_fr_all_maxi_2025-06.zim (54 GB)
