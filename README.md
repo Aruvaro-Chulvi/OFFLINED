@@ -67,6 +67,21 @@ Download the project zip file and extract in root **C:/**
 
 ---
 
+## 🤖 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
+
+**Licensing & responsibility**
+
+- Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
+- The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
+- If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
+
+**Download page:**  
+https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+
+> Place the GGUF file in: `./models/` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
+
+---
+
 ## 📖 Downloading Wikipedia ZIM files for Kiwix
 
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
@@ -106,7 +121,7 @@ fr:
 
 ---
 
-## 📥 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
+## 🌍 Downloading the Worldwide Map (planet.pmtiles)
 
 **Licensing & responsibility**
 
@@ -115,12 +130,10 @@ fr:
 - If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
 
 **Download page:**  
-https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+https://maps.protomaps.com/builds/
 
-> Place the GGUF file in: `./models/` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
+> Place the PMTILES file in: `./XXXXXX/` (**Rename it** to planet.pmtiles).
 
 ---
----
-
 
 
