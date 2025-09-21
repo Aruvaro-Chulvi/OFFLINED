@@ -11,6 +11,7 @@
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
 - **Two chat modes**: **Model** — direct chat with the selected LLM. **Agents** — visual agent picker (medical, engineering, etc.).
+- **Offline Worldwide Map**: built-in tab that works with **Protomaps and pmtiles** + **OpenStreetMaps** files.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
