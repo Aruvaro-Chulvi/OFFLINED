@@ -40,7 +40,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ## ✅ Instructions
 
-The following instructions are intended for the Portable windows x64 version you can find in our website **offlineai.org** or int he following link: (https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_mini_2025-06.zim).
+The following instructions are intended for the Portable windows x64 version you can find in our website **https://offlineai.org** or in the following link: https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_mini_2025-06.zim.
 
 ---
 
