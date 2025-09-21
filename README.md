@@ -120,6 +120,8 @@ https://download.kiwix.org/zim/wikipedia/
   - wikipedia_fr_all_maxi_2025-06.zim - (54 GB) (https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2025-06.zim)
   - wikipedia_fr_all_nopic_2025-08.zim - (11 GB) (https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_nopic_2025-08.zim)
   - wikipedia_fr_all_mini_2025-08.zim - (4 GB) (https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim)
+    
+
 
 ---
 
