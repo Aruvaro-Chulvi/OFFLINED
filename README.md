@@ -71,9 +71,7 @@ Download the project zip file and extract in root **C:/**
 
 **Licensing & responsibility**
 
-- Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
 - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
-- If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
 
 **Download page:**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
