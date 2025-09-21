@@ -129,7 +129,7 @@ https://download.kiwix.org/zim/wikipedia/
 **Download page:**  
 https://maps.protomaps.com/builds/
 
-> Place the planet.pmtiles file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles).
+👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
 
 ---
 
