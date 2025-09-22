@@ -174,6 +174,7 @@ https://download.kiwix.org/zim/wikipedia/
 https://maps.protomaps.com/builds/
 
 ⚠️ Be carefull before downloading huge files to your computer.❗
+
 [**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
 👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
