@@ -37,7 +37,11 @@
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from below instructions.
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll d
 
-## 📑 Index
+<br>
+
+---
+
+# 📑 Index
 
 - [✅ Requirements](#-requirements)
 - [📝 Instructions](#-instructions)
