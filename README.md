@@ -132,9 +132,9 @@ https://download.kiwix.org/zim/wikipedia/
 
 **Zim File Types**.
 **Which file do I need to select? the one you prefer ;)**.
-**all_maxi** --> All articles - Full Articles with Images.
-**all_nopic** --> All articles - Full Articles without Images.
-**all_mini** --> All articles - First section Articles without Images. 
+-**all_maxi** --> All articles - Full Articles with Images.
+-**all_nopic** --> All articles - Full Articles without Images.
+-**all_mini** --> All articles - First section Articles without Images. 
 
 
 **EN (7.042.731 articles):**
