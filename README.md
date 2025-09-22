@@ -173,7 +173,8 @@ https://download.kiwix.org/zim/wikipedia/
 **Download page:**  
 https://maps.protomaps.com/builds/
 
-⚠️ Be carefull before downloading huge files to your computer.❗[**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**]([https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf](https://demo-bucket.protomaps.com/v4.pmtiles))  
+⚠️ Be carefull before downloading huge files to your computer.❗
+[**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
 👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
 
