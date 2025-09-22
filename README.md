@@ -1,4 +1,4 @@
-# 🛠️ Offline Survival AI Drive
+# 💾 Offline Survival AI Drive
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Survival Documentation.
@@ -19,7 +19,7 @@
 ### ✨ Features
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
-- **Two chat modes**: **Model** — direct chat with the selected LLM. **Agents** — visual agent picker (medical, engineering, etc.).
+- **Two chat modes**: **🤖 Model** — direct chat with the selected LLM. **👥 Agents** — visual agent picker (medical, engineering, etc.).
 - **Offline Worldwide Map**: built-in tab that works with **Protomaps and pmtiles** + **OpenStreetMaps** files.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
@@ -47,7 +47,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ---
 
-## ✅ Instructions
+## 📝 Instructions
 
 The following instructions are intended for the Portable windows x64 version you can find in our website **https://offlineai.org** or in the following link: https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_mini_2025-06.zim.
 
@@ -114,14 +114,11 @@ Your app looks for **exact filenames** and picks the first available in this pri
 **Download page (browse & pick):**  
 https://download.kiwix.org/zim/wikipedia/
 
-### Target filenames (candidates your backend expects)
+### 🌐 Target filenames (candidates your backend expects, select toe option you prefer)
 
 **Zim File Types**.
-
 **all_maxi** --> All articles - Full Articles with Images.
-
 **all_nopic** --> All articles - Full Articles without Images.
-
 **all_mini** --> All articles - First section Articles without Images. 
 
 
@@ -146,6 +143,29 @@ https://download.kiwix.org/zim/wikipedia/
 
 ## 🌍 Downloading the Worldwide Map (planet.pmtiles)
 
+**Worldwide Maps**
+
+- Download instructions.
+
+---
+
+<p align="center">
+  <img src="readme_images/screenshot_03.png"
+     alt="Screenshot UI"
+     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
+
+---
+
+**Download page:**  
+https://maps.protomaps.com/builds/
+
+👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
+
+---
+
+## 📚 Adding more books to the library (pdf files)
+
 **Licensing & responsibility**
 
 - Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
@@ -154,6 +174,11 @@ https://download.kiwix.org/zim/wikipedia/
 
 ---
 
+<p align="center">
+  <img src="readme_images/screenshot_03.png"
+     alt="Screenshot UI"
+     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
 <p align="center">
   <img src="readme_images/screenshot_03.png"
      alt="Screenshot UI"
