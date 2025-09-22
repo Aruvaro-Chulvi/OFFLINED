@@ -34,7 +34,6 @@
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from our website.
 
 
-
 ---
 
 # ✅ Requirements
@@ -51,7 +50,6 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 - **Windows 10/11 x64**
 - **macOS** (coming soon)
 - **Linux** (coming soon)
-
 
 
 ---
@@ -104,9 +102,7 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 **Download model link (.GGUF file - 2,49 GB):**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf
 
-> Place the GGUF file in: `./models/` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
-
-
+> Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf`` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
 
 
 ---
@@ -114,7 +110,7 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/p
 # 📖 Downloading Wikipedia ZIM files for Kiwix
 
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
-👉 **Do not rename** the files after download. Put them under: `./kiwix/content/`
+👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
 
 <p align="center">
   <img src="readme_images/screenshot_02.png"
@@ -150,8 +146,7 @@ https://download.kiwix.org/zim/wikipedia/
   - [wikipedia_fr_all_nopic_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_nopic_2025-08.zim) - (11 GB)
   - [wikipedia_fr_all_mini_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim) - (4 GB)
 
-
-
+👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
 
 ---
 
@@ -171,8 +166,6 @@ https://download.kiwix.org/zim/wikipedia/
 https://maps.protomaps.com/builds/
 
 👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
-
-
 
 
 ---
@@ -204,8 +197,6 @@ https://maps.protomaps.com/builds/
 https://www.gutenberg.org/
 
 👉 Place the **.pdf** file in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Rename it** to planet.pmtiles if needed).
-
-
 
 
 ---
