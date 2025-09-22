@@ -236,7 +236,7 @@ https://maps.protomaps.com/builds/
 
 ---
 
-# ❤️ Special thanks:
+# ❤️ Special thanks
 
 **Thanks to all the developers behind these projects for making this possible. I would never have thought, until I met you, that the project I had in mind could be so easy thanks to you.**
 
