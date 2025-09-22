@@ -197,5 +197,14 @@ https://maps.protomaps.com/builds/
 
 👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
 
-
 ---
+
+# ❤️ Special thanks to:
+
+**Thanks to all the developers behind these projects for making this possible. I would never have thought, until I met you, that the project I had in mind could be so easy thanks to you.**
+
+<p align="center">
+  <img src="readme_images/screenshot_library.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
