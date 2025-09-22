@@ -1,5 +1,5 @@
 # 💾 Offline Survival AI Drive
-### (The following instructions are intended for the portable version, [download link here](https://offlineai.org)).
+### ⚠️ (The following instructions are intended for the portable version, [download link here](https://offlineai.org)).
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
 <p align="center">
