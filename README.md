@@ -97,6 +97,8 @@ Download the project zip file and extract in root **C:/**
 
 **Download page:**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+**Download model link (.GGUF file - 2,49 GB):**  
+[https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF](https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf)
 
 > Place the GGUF file in: `./models/` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
 
@@ -123,6 +125,7 @@ https://download.kiwix.org/zim/wikipedia/
 ### 🌐 Target filenames (candidates your backend expects, select toe option you prefer)
 
 **Zim File Types**.
+
 **all_maxi** --> All articles - Full Articles with Images.
 **all_nopic** --> All articles - Full Articles without Images.
 **all_mini** --> All articles - First section Articles without Images. 
