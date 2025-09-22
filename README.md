@@ -106,7 +106,7 @@ Your app looks for **exact filenames** and picks the first available in this pri
 <p align="center">
   <img src="readme_images/screenshot_02.png"
      alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 ---
@@ -157,7 +157,7 @@ https://download.kiwix.org/zim/wikipedia/
 <p align="center">
   <img src="readme_images/screenshot_03.png"
      alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 ---
