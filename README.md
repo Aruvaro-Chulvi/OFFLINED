@@ -1,6 +1,14 @@
 # 💾 Offline Survival AI Drive
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
+---
+<p align="center">
+  <img src="readme_images/screenshot_08.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:640px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
+---
+
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Survival Documentation.
 
 - AI model (Miscrosoft): **Phi-3 Mini 4K Instruct (Q4_K_M)**
@@ -166,30 +174,28 @@ https://maps.protomaps.com/builds/
 
 ## 📚 Adding more books to the library (pdf files)
 
-**Licensing & responsibility**
+**Description**
 
 - Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
 - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
-- If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
-
 ---
 
 <p align="center">
-  <img src="readme_images/screenshot_03.png"
+  <img src="readme_images/screenshot_06.png"
      alt="Screenshot UI"
-     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 <p align="center">
-  <img src="readme_images/screenshot_03.png"
+  <img src="readme_images/screenshot_07.png"
      alt="Screenshot UI"
-     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 ---
 
-**Download page:**  
-https://maps.protomaps.com/builds/
+**Project Gutemberg Resource:**  
+https://www.gutenberg.org/
 
-👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
+👉 Place the **.pdf** file in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Rename it** to planet.pmtiles if needed).
 
 ---
