@@ -14,7 +14,6 @@
 - Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
 - Wikipedia: **kiwix-serve** with local **ZIM** files
 
----
 <p align="center">
   <img src="readme_images/screenshot_01.png"
      alt="Screenshot UI"
