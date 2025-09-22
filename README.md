@@ -129,7 +129,7 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 **Download page (browse & pick, choose this link if you want to see all available zim files and download selecting the preferred one, or use the below links):**  
 https://download.kiwix.org/zim/wikipedia/
 
-### 🌐 Target filenames.
+### 📄 Target filenames.
 (candidates your backend expects, select toe option you prefer)
 
 **Zim File Types**.<br>
