@@ -57,7 +57,7 @@ The following instructions are intended for the Portable windows x64 version you
 
 ---
 
-# 📦 Project Structure
+# 📦 Project Structure for needed files
 Download the project zip file and extract in root **C:/**
 
 ```
