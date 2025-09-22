@@ -14,30 +14,6 @@
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-<p align="center">
-  <img src="readme_images/screenshot_02.png"
-       alt="Screenshot UI"
-       width="44%"
-       style="max-width: 480px; border-radius: 16px; height:auto; margin:0 0.5%;"/>
-
-  <img src="readme_images/screenshot_03.png"
-       alt="Screenshot UI"
-       width="44%"
-       style="max-width: 480px; border-radius: 16px; height:auto; margin:0 0.5%;"/>
-</p>
-
-<p align="center">
-  <img src="readme_images/screenshot_04.png"
-       alt="Screenshot UI"
-       width="48%"
-       style="max-width: 480px; border-radius: 16px; height:auto; margin:0 0.5%;"/>
-
-  <img src="readme_images/screenshot_05.png"
-       alt="Screenshot UI"
-       width="48%"
-       style="max-width: 480px; border-radius: 16px; height:auto; margin:0 0.5%;"/>
-</p>
-
 ---
 
 ### ✨ Features
@@ -173,4 +149,32 @@ https://maps.protomaps.com/builds/
 
 ---
 
+<p align="center">
+  <img src="readme_images/screenshot_02.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
 
+---
+
+<p align="center">
+  <img src="readme_images/screenshot_03.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
+
+---
+
+<p align="center">
+  <img src="readme_images/screenshot_04.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
+
+---
+
+<p align="center">
+  <img src="readme_images/screenshot_05.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
