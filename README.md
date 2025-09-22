@@ -120,7 +120,8 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 
 # 📖 Downloading Wikipedia ZIM files
 
-Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
+Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.
+<br>
 👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
 
 <p align="center">
