@@ -10,7 +10,7 @@
 <p align="center">
   <img src="readme_images/screenshot_01.png"
      alt="Screenshot UI"
-     style="width:80%; max-width:800px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 ### ✨ Features
