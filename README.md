@@ -10,7 +10,7 @@
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia, Offline Maps and Survival Documentation**.
 **No internet required.**
 
-- AI model (Miscrosoft): **Phi-3 Mini 4K Instruct (Q4_K_M)**
+- AI model (Miscrosoft): **Phi-4 Mini 4K Instruct (Q4_K_M)**
 - Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
 - Wikipedia: **kiwix-serve** with local **ZIM** files
 
@@ -81,7 +81,7 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 │ ├── style.css
 │ └── script.js
 │
-├── models/ # Put your .gguf files here (e.g., Phi-3-mini-4k-instruct.Q4_K_M.gguf)
+├── models/ # Put your .gguf files here (e.g., phi-4-mini-instruct-q4_k_m.gguf)
 │
 ├── kiwix/
 │ ├── kiwix-serve(.exe)
@@ -97,7 +97,7 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 ---
 
-# 🤖 Downloading the Model (Phi-3 Mini.GGUF)
+# 🤖 Downloading the Model (Phi-4 Mini.GGUF)
 
 **Licensing & responsibility**
 
