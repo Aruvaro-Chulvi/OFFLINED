@@ -121,7 +121,7 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 # 📖 Downloading Wikipedia ZIM files
 
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.
-<br>
+<br><br>
 👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
 
 <p align="center">
@@ -136,7 +136,7 @@ https://download.kiwix.org/zim/wikipedia/
 ### 🌐 Target filenames.
 (candidates your backend expects, select toe option you prefer)
 
-**Zim File Types**.
+**Zim File Types**.<br>
 **Which file do I need to select? the one you prefer ;)**.
 
 -**all_maxi** --> All articles - Full Articles with Images.<br>
