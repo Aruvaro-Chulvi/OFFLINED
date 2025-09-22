@@ -1,10 +1,12 @@
 # 💾 Offline Survival AI Drive
-### ⚠️ (The following instructions are intended for the portable version, [download link here](https://offlineai.org)). If you want to have a look, project files are included in the github repository. For collaborations, please, contact us, this is our first github project, and all the help would be appreciated. 
+### ⚠️ (The following instructions are intended for the portable version, [download link here](https://offlineai.org)). If you want to have a look, project files are included in the github repository. For collaborations, please, contact us, this is our first github project, and all the help would be appreciated.
+
 <p align="center">
   <img src="readme_images/screenshot_creators.png"
      alt="Screenshot UI"
      style="width:52%; max-width:640px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
+
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia, Offline Maps and Survival Documentation**.
