@@ -59,7 +59,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 The following instructions are intended for the Portable windows x64 version you can find in our website **https://offlineai.org** or in the following link: [Download Link](https://offlineai.org)
 
 ## 📦 Project Structure for needed files
-Download the project zip file and extract in root **C:/**
+Download the project zip file and extract in root **C:/** or in the **folder** you prefer on your desktop.
 
 ```
 /SurvivalAI
