@@ -37,11 +37,9 @@
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from below instructions.
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll d
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # ✅ Requirements
 
@@ -58,11 +56,9 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 - **macOS** (coming soon)
 - **Linux** (coming soon)
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # 📝 Instructions
 
@@ -104,11 +100,9 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 └── LICENSE
 ```
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # 🤖 Downloading the Model (Phi-4 Mini.GGUF)
 
@@ -125,11 +119,9 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 
 👉 **Do not rename** Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf``.
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # 📖 Downloading Wikipedia ZIM files
 
@@ -171,11 +163,9 @@ https://download.kiwix.org/zim/wikipedia/
 
 👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # 📚 Adding more to your library (pdf files)
 
@@ -190,11 +180,9 @@ https://www.gutenberg.org/
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # 🌍 Downloading the planet.pmtiles file
 
@@ -217,11 +205,9 @@ https://maps.protomaps.com/builds/
 
 👉 Rename and place **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` **Rename it** to planet.pmtiles, no matter which version you choose, rename always to **planet.pmtiles**.
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # 📜 Licenses
 
@@ -231,11 +217,9 @@ https://maps.protomaps.com/builds/
 | **Avatars & bios**| CC BY-NC-ND 4.0 (see [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md))        |
 | **3rd party**     | Licensed inside folder (/licenses)                                      |
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
 # ❤️ Special thanks to:
 
@@ -247,9 +231,7 @@ https://maps.protomaps.com/builds/
      style="width:72%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-<br>
+<br><br><br>
 
 ---
-
-<br>
 
