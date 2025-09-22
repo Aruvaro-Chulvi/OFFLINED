@@ -165,7 +165,7 @@ https://download.kiwix.org/zim/wikipedia/
 **Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
 
-👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Organice yourself ;)**.
+👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` **Organice yourself 🤪**.
 
 <p align="center">
   <img src="readme_images/screenshot_library.png"
