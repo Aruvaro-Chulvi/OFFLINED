@@ -37,6 +37,17 @@
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from below instructions.
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll d
 
+## 📑 Index
+
+- [✅ Requirements](#-requirements)
+- [📝 Instructions](#-instructions)
+- [🤖 Downloading the Model (Phi-4 Mini.GGUF)](#-downloading-the-model-phi-4-minigguf)
+- [📖 Downloading Wikipedia ZIM files](#-downloading-wikipedia-zim-files)
+- [📚 Adding more to your library (pdf files)](#-adding-more-to-your-library-pdf-files)
+- [🌍 Downloading the planet.pmtiles file](#-downloading-the-planetpmtiles-file)
+- [📜 Licenses](#-licenses)
+- [❤️ Special thanks to:](#-special-thanks-to)
+
 <br><br><br>
 
 ---
