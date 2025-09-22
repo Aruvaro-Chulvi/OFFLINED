@@ -55,9 +55,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 The following instructions are intended for the Portable windows x64 version you can find in our website **https://offlineai.org** or in the following link: https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_mini_2025-06.zim.
 
----
-
-# 📦 Project Structure for needed files
+## 📦 Project Structure for needed files
 Download the project zip file and extract in root **C:/**
 
 ```
