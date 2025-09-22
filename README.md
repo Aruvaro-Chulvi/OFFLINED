@@ -17,12 +17,12 @@
 <p align="center">
   <img src="readme_images/screenshot_02.png"
        alt="Screenshot UI"
-       width="48%"
+       width="44%"
        style="max-width: 480px; border-radius: 16px; height:auto; margin:0 0.5%;"/>
 
   <img src="readme_images/screenshot_03.png"
        alt="Screenshot UI"
-       width="48%"
+       width="44%"
        style="max-width: 480px; border-radius: 16px; height:auto; margin:0 0.5%;"/>
 </p>
 
