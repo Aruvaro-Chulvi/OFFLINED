@@ -127,6 +127,7 @@ https://download.kiwix.org/zim/wikipedia/
 
 ### 🌐 Target filenames.
 (candidates your backend expects, select toe option you prefer)
+
 **Zim File Types**.
 
 **all_maxi** --> All articles - Full Articles with Images.
