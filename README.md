@@ -160,6 +160,22 @@ https://download.kiwix.org/zim/wikipedia/
 
 ---
 
+# 📚 Adding more to your library (pdf files)
+
+**Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
+https://www.gutenberg.org/
+
+👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Organice yourself ;)**.
+
+<p align="center">
+  <img src="readme_images/screenshot_library.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
+
+
+---
+
 # 🌍 Downloading the planet.pmtiles file
 
 **Worldwide Maps**
@@ -180,22 +196,6 @@ https://maps.protomaps.com/builds/
 [**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
 👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
-
-
----
-
-# 📚 Adding more to your library (pdf files)
-
-**Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
-https://www.gutenberg.org/
-
-👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Organice yourself ;)**.
-
-<p align="center">
-  <img src="readme_images/screenshot_library.png"
-     alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
 
 
 ---
