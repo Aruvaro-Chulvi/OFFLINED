@@ -1,13 +1,11 @@
 # 💾 Offline Survival AI Drive
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
----
 <p align="center">
   <img src="readme_images/screenshot_08.png"
      alt="Screenshot UI"
-     style="width:98%; max-width:640px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:50%; max-width:640px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
----
 
 **Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Survival Documentation.
 
