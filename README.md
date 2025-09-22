@@ -128,7 +128,7 @@ Your app looks for **exact filenames** and picks the first available in this pri
      style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-**Download page (browse & pick):**  
+**Download page (browse & pick, choose this link if you want to see all available zim files and download selecting the preferred one, or use the below links):**  
 https://download.kiwix.org/zim/wikipedia/
 
 ### 🌐 Target filenames.
