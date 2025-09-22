@@ -97,7 +97,7 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 ---
 
-# 🤖 Downloading the Model (Phi-4 Mini.GGUF)
+# 🤖 Downloading the Model (Phi-3 Mini.GGUF)
 
 **Licensing & responsibility**
 
