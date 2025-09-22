@@ -17,4 +17,11 @@ This software is distributed under the following conditions:
 
 ---
 
+## Third-Party Licenses
+This project makes use of third-party open source libraries and software components (such as **psutil**, **Kiwix**, **Protomaps**, among others).  
+
+The original licenses of these third-party components are included in the project, inside the folder:
+
+/licenses
+
 For commercial licensing, redistribution rights, or special permissions, please contact the author.
