@@ -137,6 +137,7 @@ https://download.kiwix.org/zim/wikipedia/
 -**all_nopic** --> All articles - Full Articles without Images.
 -**all_mini** --> All articles - First section Articles without Images. 
 
+⚠️ Be carefull before downloading huge files to your computer.❗
 
 **EN (7.042.731 articles):**
   - [wikipedia_en_all_maxi_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2025-08.zim) - (116 GB)
@@ -171,6 +172,8 @@ https://download.kiwix.org/zim/wikipedia/
 
 **Download page:**  
 https://maps.protomaps.com/builds/
+
+⚠️ Be carefull before downloading huge files to your computer.❗[**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**]([https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf](https://demo-bucket.protomaps.com/v4.pmtiles))  
 
 👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
 
