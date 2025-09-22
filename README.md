@@ -35,6 +35,7 @@
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
  
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from below instructions.
+> This repository **does not ship any model or ZIM files or pmtiles files**. You’ll d
 
 
 ---
@@ -196,6 +197,16 @@ https://maps.protomaps.com/builds/
 [**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
 👉 Rename and place **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles, no matter which version you choose, rename always to **planet.pmtiles**).
+
+---
+
+# 📜 Licencias
+
+| Componente       | Licencia                                                      |
+|------------------|---------------------------------------------------------------|
+| **Código**       | Licencia personalizada no-comercial (ver [`LICENSE.md`](./LICENSE.md)) |
+| **Avatares y bios de agentes** | CC BY-NC-ND 4.0 (ver [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md)) |
+| **3rd party**    | Licencia según el proveedor (Mistral, Meta, Microsoft)        |
 
 ---
 
