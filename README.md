@@ -108,7 +108,7 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 
 [**Download model link (.GGUF file - 2,49 GB):**](https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf)  
 
-> Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf`` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
+👉 **Do not rename** Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf`` (do **not** rename unless you also update `MODEL_FILE` in the backend and `MODELS` in the frontend).
 
 
 ---
@@ -178,10 +178,10 @@ https://maps.protomaps.com/builds/
 
 # 📚 Adding more books to the library (pdf files)
 
-**Description**
+**Project Gutemberg Resource:**  
+https://www.gutenberg.org/
 
-- Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
-- The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
+👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Organice yourself ;)**.
 
 <p align="center">
   <img src="readme_images/screenshot_06.png"
@@ -198,11 +198,6 @@ https://maps.protomaps.com/builds/
      alt="Screenshot UI"
      style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
-
-**Project Gutemberg Resource:**  
-https://www.gutenberg.org/
-
-👉 Place the **.pdf** file in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Rename it** to planet.pmtiles if needed).
 
 
 ---
