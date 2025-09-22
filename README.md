@@ -95,6 +95,7 @@ Download the project zip file and extract in root **C:/**
 
 **Download page:**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+
 **Download model link (.GGUF file - 2,49 GB):**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf
 
@@ -131,20 +132,14 @@ https://download.kiwix.org/zim/wikipedia/
   - [wikipedia_en_all_mini_2025-06.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_mini_2025-06.zim) - (14 GB)
 
 **ES (2.052.431 articles):**
-  - wikipedia_es_all_maxi_2025-07.zim - (38 GB)
-  - (https://download.kiwix.org/zim/wikipedia/wikipedia_es_all_maxi_2025-07.zim)
-  - wikipedia_es_all_nopic_2025-08.zim - (9 GB)
-  - (https://download.kiwix.org/zim/wikipedia/wikipedia_es_all_nopic_2025-08.zim)
-  - wikipedia_es_all_mini_2025-08.zim - (3 GB)
-  - (https://download.kiwix.org/zim/wikipedia/wikipedia_es_all_mini_2025-08.zim)
+  - [wikipedia_es_all_maxi_2025-07.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_es_all_maxi_2025-07.zim) - (38 GB)
+  - [wikipedia_es_all_nopic_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_es_all_nopic_2025-08.zim) - (9 GB)
+  - [wikipedia_es_all_mini_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_es_all_mini_2025-08.zim) - (3 GB)
 
 **FR:**
-  - wikipedia_fr_all_maxi_2025-06.zim - (54 GB)
-  - (https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2025-06.zim)
-  - wikipedia_fr_all_nopic_2025-08.zim - (11 GB)
-  - (https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_nopic_2025-08.zim)
-  - wikipedia_fr_all_mini_2025-08.zim - (4 GB)
-  - (https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim)
+  - [wikipedia_fr_all_maxi_2025-06.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2025-06.zim) - (54 GB)
+  - [wikipedia_fr_all_nopic_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_nopic_2025-08.zim) - (11 GB)
+  - [wikipedia_fr_all_mini_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim) - (4 GB)
 
 ---
 
