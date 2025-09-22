@@ -7,7 +7,8 @@
      style="width:52%; max-width:640px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**—no internet required. Offline Maps and Survival Documentation.
+**Survival AI** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia** via **Kiwix**, Offline Maps and Survival Documentation.
+**No internet required.**
 
 - AI model (Miscrosoft): **Phi-3 Mini 4K Instruct (Q4_K_M)**
 - Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
