@@ -5,7 +5,13 @@
 
 - AI model (Miscrosoft): **Phi-3 Mini 4K Instruct (Q4_K_M)**
 - Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
-- Wikipedia: **kiwix-serve** with local **ZIM** files 
+- Wikipedia: **kiwix-serve** with local **ZIM** files
+
+<p align="center">
+  <img src="readme_images/screenshot_01.png"
+     alt="Screenshot UI"
+     style="width:80%; max-width:800px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
 
 ### ✨ Features
 
