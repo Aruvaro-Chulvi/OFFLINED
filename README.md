@@ -62,11 +62,19 @@ The following instructions are intended for the Portable windows x64 version you
 Download the project zip file and extract in root **C:/**
 
 ```
-/SurvivalAI-phi4
+/SurvivalAI
+│
+├── SurvivalAI.exe
 │
 ├── backend/
 │ ├── main.py
 │ ├── requirements.txt
+│
+├── docs/
+│ ├── en/organize .pdf as you want.
+│ ├── es/organize .pdf as you want.
+│ └── fr/organize .pdf as you want.
+│
 │
 ├── frontend/
 │ ├── index.html
@@ -81,11 +89,10 @@ Download the project zip file and extract in root **C:/**
 │
 ├── agents.json
 ├── categories.json
+├── supporters.json
 ├── README.md
 └── LICENSE
 ```
-
-
 
 
 ---
