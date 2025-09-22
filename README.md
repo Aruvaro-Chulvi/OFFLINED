@@ -50,7 +50,7 @@
 - [📚 Adding more to your library (pdf files)](#-adding-more-to-your-library-pdf-files)
 - [🌍 Downloading the planet.pmtiles file](#-downloading-the-planetpmtiles-file)
 - [📜 Licenses](#-licenses)
-- [❤️ Special thanks](#special-thanks)
+- [❤️ Special thanks](#%EF%B8%8F-special-thanks)
 
 <br>
 
