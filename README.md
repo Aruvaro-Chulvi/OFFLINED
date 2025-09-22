@@ -125,8 +125,8 @@ Your app looks for **exact filenames** and picks the first available in this pri
 **Download page (browse & pick):**  
 https://download.kiwix.org/zim/wikipedia/
 
-### 🌐 Target filenames (candidates your backend expects, select toe option you prefer)
-
+### 🌐 Target filenames.
+(candidates your backend expects, select toe option you prefer)
 **Zim File Types**.
 
 **all_maxi** --> All articles - Full Articles with Images.
