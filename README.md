@@ -137,8 +137,8 @@ https://download.kiwix.org/zim/wikipedia/
 **Zim File Types**.
 **Which file do I need to select? the one you prefer ;)**.
 
--**all_maxi** --> All articles - Full Articles with Images.
--**all_nopic** --> All articles - Full Articles without Images.
+-**all_maxi** --> All articles - Full Articles with Images.<br>
+-**all_nopic** --> All articles - Full Articles without Images.<br>
 -**all_mini** --> All articles - First section Articles without Images. 
 
 ⚠️ Be carefull before downloading huge files to your computer.❗
