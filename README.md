@@ -200,13 +200,14 @@ https://maps.protomaps.com/builds/
 
 ---
 
-# 📜 Licencias
+# 📜 Licenses
 
-| Componente       | Licencia                                                      |
-|------------------|---------------------------------------------------------------|
-| **Código**       | Licencia personalizada no-comercial (ver [`LICENSE.md`](./LICENSE.md)) |
-| **Avatares y bios de agentes** | CC BY-NC-ND 4.0 (ver [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md)) |
-| **3rd party**    | Licencia según el proveedor (Mistral, Meta, Microsoft)        |
+| Component         | License                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| **Code**          | Custom non-commercial license (see [`LICENSE.md`](./LICENSE.md))        |
+| **Avatars & bios**| CC BY-NC-ND 4.0 (see [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md))        |
+| **3rd party**     | Licensed inside folder (/licenses)                                      |
+
 
 ---
 
