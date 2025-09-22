@@ -37,9 +37,9 @@
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from below instructions.
 > This repository **does not ship any model or ZIM files or pmtiles files**. You’ll d
 
-
+<br>
 ---
-
+<br>
 # ✅ Requirements
 
 This project is designed to run **fully offline** on a modest CPU-only machine. Below are the **technical requirements** for your workstation.
@@ -55,9 +55,9 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 - **macOS** (coming soon)
 - **Linux** (coming soon)
 
-
+<br>
 ---
-
+<br>
 # 📝 Instructions
 
 #### The following instructions are intended for the Portable windows x64 version you can find in our website **https://offlineai.org** or in the following link: [Download Link](https://offlineai.org)
@@ -98,9 +98,9 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 └── LICENSE
 ```
 
-
+<br>
 ---
-
+<br>
 # 🤖 Downloading the Model (Phi-4 Mini.GGUF)
 
 **Licensing & responsibility**
@@ -116,9 +116,9 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 
 👉 **Do not rename** Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf``.
 
-
+<br>
 ---
-
+<br>
 # 📖 Downloading Wikipedia ZIM files
 
 <p align="center">
@@ -158,9 +158,9 @@ https://download.kiwix.org/zim/wikipedia/
   - [wikipedia_fr_all_mini_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim) - (4 GB)
 
 👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
-
+<br>
 ---
-
+<br>
 # 📚 Adding more to your library (pdf files)
 
 **Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
@@ -174,9 +174,9 @@ https://www.gutenberg.org/
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-
+<br>
 ---
-
+<br>
 # 🌍 Downloading the planet.pmtiles file
 
 **Worldwide Maps**
@@ -197,9 +197,9 @@ https://maps.protomaps.com/builds/
 [**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
 👉 Rename and place **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles, no matter which version you choose, rename always to **planet.pmtiles**).
-
+<br>
 ---
-
+<br>
 # 📜 Licenses
 
 | Component         | License                                                                 |
@@ -208,9 +208,9 @@ https://maps.protomaps.com/builds/
 | **Avatars & bios**| CC BY-NC-ND 4.0 (see [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md))        |
 | **3rd party**     | Licensed inside folder (/licenses)                                      |
 
-
+<br>
 ---
-
+<br>
 # ❤️ Special thanks to:
 
 **Thanks to all the developers behind these projects for making this possible. I would never have thought, until I met you, that the project I had in mind could be so easy thanks to you.**
@@ -220,3 +220,4 @@ https://maps.protomaps.com/builds/
      alt="Screenshot UI"
      style="width:72%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
+<br><br><br>
