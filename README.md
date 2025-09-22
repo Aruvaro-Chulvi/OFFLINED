@@ -2,7 +2,7 @@
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
 
 <p align="center">
-  <img src="readme_images/screenshot_08.png"
+  <img src="readme_images/screenshot_creators.png"
      alt="Screenshot UI"
      style="width:64%; max-width:640px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
