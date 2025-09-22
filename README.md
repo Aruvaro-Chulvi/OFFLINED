@@ -1,7 +1,7 @@
 # 💾 Offline Survival AI Drive
+<p align="center">
 #### ⚠️ The following instructions are intended for the windows x64 portable version, [download link here](https://offlineai.org).<br>If you want to have a look, project files are included in the github repository.<br>For collaborations, please, contact us, this is our first github project, and all the help would be appreciated.
-
-
+</p>
 <p align="center">
   <img src="readme_images/screenshot_creators.png"
      alt="Screenshot UI"
