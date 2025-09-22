@@ -36,7 +36,7 @@
 
 ---
 
-## ✅ Requirements
+# ✅ Requirements
 
 This project is designed to run **fully offline** on a modest CPU-only machine. Below are the **technical requirements** for your workstation.
 
@@ -53,13 +53,13 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ---
 
-## 📝 Instructions
+# 📝 Instructions
 
 The following instructions are intended for the Portable windows x64 version you can find in our website **https://offlineai.org** or in the following link: https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_mini_2025-06.zim.
 
 ---
 
-## 📦 Project Structure
+# 📦 Project Structure
 Download the project zip file and extract in root **C:/**
 
 ```
@@ -89,7 +89,7 @@ Download the project zip file and extract in root **C:/**
 
 ---
 
-## 🤖 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
+# 🤖 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
 
 **Licensing & responsibility**
 
@@ -104,7 +104,7 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 
 ---
 
-## 📖 Downloading Wikipedia ZIM files for Kiwix
+# 📖 Downloading Wikipedia ZIM files for Kiwix
 
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
 👉 **Do not rename** the files after download. Put them under: `./kiwix/content/`
@@ -150,7 +150,7 @@ https://download.kiwix.org/zim/wikipedia/
 
 ---
 
-## 🌍 Downloading the Worldwide Map (planet.pmtiles)
+# 🌍 Downloading the Worldwide Map (planet.pmtiles)
 
 **Worldwide Maps**
 
@@ -173,7 +173,7 @@ https://maps.protomaps.com/builds/
 
 ---
 
-## 📚 Adding more books to the library (pdf files)
+# 📚 Adding more books to the library (pdf files)
 
 **Description**
 
