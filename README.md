@@ -34,7 +34,7 @@
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
  
-> This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from our website.
+> This repository **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below) or download the portable app with the files from below instructions.
 
 
 ---
