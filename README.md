@@ -192,19 +192,9 @@ https://www.gutenberg.org/
 👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Organice yourself ;)**.
 
 <p align="center">
-  <img src="readme_images/screenshot_06.png"
+  <img src="readme_images/screenshot_library.png"
      alt="Screenshot UI"
-     style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
-<p align="center">
-  <img src="readme_images/screenshot_07.png"
-     alt="Screenshot UI"
-     style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
-<p align="center">
-  <img src="readme_images/screenshot_05.png"
-     alt="Screenshot UI"
-     style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 
