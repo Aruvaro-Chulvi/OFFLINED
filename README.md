@@ -101,6 +101,16 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
 👉 **Do not rename** the files after download. Put them under: `./kiwix/content/`
 
+---
+
+<p align="center">
+  <img src="readme_images/screenshot_02.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
+
+---
+
 **Download page (browse & pick):**  
 https://download.kiwix.org/zim/wikipedia/
 
@@ -142,19 +152,6 @@ https://download.kiwix.org/zim/wikipedia/
 - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
 - If the file name changes on Hugging Face, simply **update the commands** below and your `MODEL_FILE` in `backend/main.py`.
 
-**Download page:**  
-https://maps.protomaps.com/builds/
-
-👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
-
----
-
-<p align="center">
-  <img src="readme_images/screenshot_02.png"
-     alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
-
 ---
 
 <p align="center">
@@ -165,16 +162,9 @@ https://maps.protomaps.com/builds/
 
 ---
 
-<p align="center">
-  <img src="readme_images/screenshot_04.png"
-     alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
+**Download page:**  
+https://maps.protomaps.com/builds/
+
+👉 Place the **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` (**Rename it** to planet.pmtiles if needed).
 
 ---
-
-<p align="center">
-  <img src="readme_images/screenshot_05.png"
-     alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
