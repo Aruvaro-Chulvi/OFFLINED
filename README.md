@@ -20,8 +20,6 @@
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
----
-
 ### ✨ Features
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
@@ -109,15 +107,11 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
 👉 **Do not rename** the files after download. Put them under: `./kiwix/content/`
 
----
-
 <p align="center">
   <img src="readme_images/screenshot_02.png"
      alt="Screenshot UI"
      style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
-
----
 
 **Download page (browse & pick):**  
 https://download.kiwix.org/zim/wikipedia/
@@ -156,15 +150,11 @@ https://download.kiwix.org/zim/wikipedia/
 
 - Download instructions.
 
----
-
 <p align="center">
   <img src="readme_images/screenshot_03.png"
      alt="Screenshot UI"
      style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
-
----
 
 **Download page:**  
 https://maps.protomaps.com/builds/
@@ -179,7 +169,6 @@ https://maps.protomaps.com/builds/
 
 - Always **read and comply** with the model card/license on the download page before using the model (including any **commercial-use** restrictions).
 - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
----
 
 <p align="center">
   <img src="readme_images/screenshot_06.png"
@@ -191,8 +180,6 @@ https://maps.protomaps.com/builds/
      alt="Screenshot UI"
      style="width:68%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
-
----
 
 **Project Gutemberg Resource:**  
 https://www.gutenberg.org/
