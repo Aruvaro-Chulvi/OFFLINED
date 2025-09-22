@@ -108,8 +108,8 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 **Download page:**  
 https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
-
-[**Download model link (.GGUF file - 2,49 GB):**](https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf)  
+<p align="center">
+[**Download model link (.GGUF file - 2,49 GB):**](https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf)</p>
 
 👉 **Do not rename** Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf``.
 
