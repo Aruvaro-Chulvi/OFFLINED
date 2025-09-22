@@ -97,7 +97,7 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 ---
 
-# 🤖 Downloading the Model (Phi-4 Mini Instruct Q4_K_M, GGUF)
+# 🤖 Downloading the Model (Phi-4 Mini.GGUF)
 
 **Licensing & responsibility**
 
@@ -113,7 +113,7 @@ https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
 
 ---
 
-# 📖 Downloading Wikipedia ZIM files for Kiwix
+# 📖 Downloading Wikipedia ZIM files
 
 Your app looks for **exact filenames** and picks the first available in this priority: **maxi → nopic → mini**.  
 👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
@@ -158,7 +158,7 @@ https://download.kiwix.org/zim/wikipedia/
 
 ---
 
-# 🌍 Downloading the Worldwide Map (planet.pmtiles)
+# 🌍 Downloading the planet.pmtiles file
 
 **Worldwide Maps**
 
@@ -182,7 +182,7 @@ https://maps.protomaps.com/builds/
 
 ---
 
-# 📚 Adding more books to the library (pdf files)
+# 📚 Adding more to your library (pdf files)
 
 **Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
