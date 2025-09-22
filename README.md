@@ -28,6 +28,7 @@
 - **Offline Worldwide Map**: built-in tab that works with **Protomaps and pmtiles** + **OpenStreetMaps** files.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
+- **Library Folders**: for **.pdf** files you want to store.
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
  
