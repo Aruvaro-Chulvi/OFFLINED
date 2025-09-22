@@ -184,7 +184,7 @@ https://maps.protomaps.com/builds/
 
 # 📚 Adding more books to the library (pdf files)
 
-**Project Gutemberg Resource:**  
+**Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
 
 👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` (**Organice yourself ;)**.
