@@ -243,7 +243,7 @@ https://maps.protomaps.com/builds/
 <p align="center">
   <img src="readme_images/thanks.png"
      alt="Screenshot UI"
-     style="width:72%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:94%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 <br><br>
