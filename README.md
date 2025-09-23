@@ -143,7 +143,7 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 <p align="center">
   <img src="readme_images/screenshot_02.png"
      alt="Screenshot UI"
-     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 **Download page (browse & pick, choose this link if you want to see all available zim files and download selecting the preferred one, or use the below links):**  
@@ -208,7 +208,7 @@ https://www.gutenberg.org/
 <p align="center">
   <img src="readme_images/screenshot_03.png"
      alt="Screenshot UI"
-     style="width:94%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 **Download page:**  
@@ -243,7 +243,7 @@ https://maps.protomaps.com/builds/
 <p align="center">
   <img src="readme_images/thanks.png"
      alt="Screenshot UI"
-     style="width:94%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 <br><br>
