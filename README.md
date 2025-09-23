@@ -241,7 +241,7 @@ https://maps.protomaps.com/builds/
 **Thanks to all the developers behind these projects for making this possible. I would never have thought, until I met you, that the project I had in mind could be so easy thanks to you.**
 
 <p align="center">
-  <img src="readme_images/screenshot_thanks_2.png"
+  <img src="readme_images/thanks.png"
      alt="Screenshot UI"
      style="width:72%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
