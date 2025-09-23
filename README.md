@@ -5,7 +5,7 @@
 <p align="center">
   <img src="readme_images/screenshot_creators.png"
      alt="Screenshot UI"
-     style="width:98%; max-width:480px; border-radius:50px; height:auto; margin:0.6rem auto;" />
+     style="width:60%; max-width:480px; border-radius:0px; height:auto;" />
 </p>
 
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
