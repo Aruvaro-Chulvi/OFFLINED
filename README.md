@@ -208,7 +208,7 @@ https://www.gutenberg.org/
 <p align="center">
   <img src="readme_images/screenshot_03.png"
      alt="Screenshot UI"
-     style="width:78%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+     style="width:94%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
 **Download page:**  
