@@ -103,8 +103,8 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 │  │ ├── style.css
 │  │ ├── script.js
 |  | └── assets/
-|  |       └── maps/
-|  |             └── planet.pmtiles (file for maps)
+|  |     └── maps/
+|  |         └── planet.pmtiles (file for maps)
 │  │
 │  ├── models/ # Put your .gguf files here (e.g., phi-4-mini-instruct-q4_k_m.gguf)
 │  │
