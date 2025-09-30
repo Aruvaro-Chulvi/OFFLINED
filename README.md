@@ -84,35 +84,39 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 ```
 /SurvivalAI
-│
 ├── SurvivalAI.exe
 │
-├── backend/
-│ ├── main.py
-│ ├── requirements.txt
-│
-├── docs/
-│ ├── en/organize .pdf as you want.
-│ ├── es/organize .pdf as you want.
-│ └── fr/organize .pdf as you want.
-│
-│
-├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── models/ # Put your .gguf files here (e.g., phi-4-mini-instruct-q4_k_m.gguf)
-│
-├── kiwix/
-│ ├── kiwix-serve(.exe)
-│ └── content/ # Put Wikipedia .zim files here (ES/EN/FR; maxi/nopic/mini)
-│
-├── agents.json
-├── categories.json
-├── supporters.json
-├── README.md
-└── LICENSE
+├── _internal/
+│  │
+│  ├── backend/
+│  │ ├── main.py
+│  │ ├── requirements.txt
+│  │
+│  ├── docs/
+│  │ ├── en/ organize .pdf as you want.
+│  │ ├── es/ organize .pdf as you want.
+│  │ └── fr/ organize .pdf as you want.
+│  │
+│  │
+│  ├── frontend/
+│  │ ├── index.html
+│  │ ├── style.css
+│  │ ├── script.js
+|  | └── assets/
+|  |       └── maps/
+|  |             └── planet.pmtiles (file for maps)
+│  │
+│  ├── models/ # Put your .gguf files here (e.g., phi-4-mini-instruct-q4_k_m.gguf)
+│  │
+│  ├── kiwix/
+│  │ ├── kiwix-serve(.exe)
+│  │ └── content/ # Put Wikipedia .zim files here (ES/EN/FR; maxi/nopic/mini)
+│  │
+│  ├── agents.json
+│  ├── categories.json
+│  ├── supporters.json
+│  ├── README.md
+│  └── LICENSE
 ```
 
 <br><br>
