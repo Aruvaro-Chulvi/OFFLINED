@@ -233,17 +233,17 @@ https://maps.protomaps.com/builds/
 
 The journey of **Survival AI Stick** has only just begun. Version 1 lays the foundation, but the roadmap ahead is ambitious and full of new features:
 
-- **Version 2 — Sky**  
+- **Version 2 — ✨🔭Sky**  
   Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app. This turns your Survival AI Stick into a pocket planetarium, working without internet.
 
-- **Version 3 — Agent Kit & RAG**  
+- **Version 3 — 🪪🧰Agent Kit & 📚🔎RAG**  
   Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios. In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation. Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
 
-- **Version 4 — Third-party Open Source Software**  
-  We will bundle a selection of essential offline open source software: LibreOffice, GIMP, VLC, Audacity, and more. The aim is to make Survival AI Stick not only a survival assistant but also a complete offline productivity and creativity hub.
+- **Version 4 — 💻📦Third-party Open Source Software**  
+  We will bundle a selection of essential offline open source software: 📄LibreOffice, 🎨GIMP, 🎥VLC, 🎧Audacity, and 🛠️more. The aim is to make Survival AI Stick not only a survival assistant but also a complete offline productivity and creativity hub.
 
-- **Version 5 — No-Internet OS (Dream Edition)**  
-  With enough community support, we dream of building a **Linux-based “No Internet OS”**. It would boot into our app as its main desktop environment but allow users to install all tools from V4 (LibreOffice, Audacity, GIMP, etc.). This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
+- **Version 5 — 🌐🚫No-Internet OS (Dream Edition)**  
+  With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**. It would boot into our app as its main desktop environment but allow users to install all tools from V4 (LibreOffice, Audacity, GIMP, etc.). This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
 
 <br><br>
 
