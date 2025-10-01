@@ -1,4 +1,8 @@
 # 💾 Offline Survival AI Drive
+<br>
+<p align="center">
+⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the github repository.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
+</p>
 <br><br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
@@ -24,10 +28,6 @@
 </p>
 <br><br>
 
-
-<p align="center">
-⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the github repository.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
-</p><br>
 <p align="center">
   <img src="readme_images/screenshot_creators.png"
      alt="Screenshot UI"
