@@ -35,7 +35,7 @@
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
  
-> This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). **.doc files are incuded**, but you can add as more as you want.
+> This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). **.doc files are incuded**, but you can add as more documents (.pdf format) as you want.
 
 <br>
 
