@@ -50,6 +50,7 @@
 - [📚 Adding more to your library (pdf files)](#-adding-more-to-your-library-pdf-files)
 - [🌍 Downloading the planet.pmtiles file](#-downloading-the-planetpmtiles-file)
 - [🔮 Future Versions](#-future-versions)
+- [🤝 Contributing & Support](#-contributing--support)
 - [📜 Licenses](#-licenses)
 - [❤️ Special thanks](#%EF%B8%8F-special-thanks)
 
@@ -243,6 +244,40 @@ The journey of **Survival AI Stick** has only just begun. Version 1 lays the fou
 
 - **Version 5 — 🌐🚫No-Internet OS (Dream Edition)**  
   With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**. It would boot into our app as its main desktop environment but allow users to install all tools from V4 (LibreOffice, Audacity, GIMP, etc.). This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
+
+<br><br>
+
+---
+
+# 🤝 Contributing & Support
+
+**Survival AI Stick** is an open project made with passion, time and effort.  
+If you like the idea and believe it can be useful for individuals, communities or organizations, there are many ways you can help us grow:
+
+### 👥 Community
+- Spread the word: share this repository with friends, forums and communities (preppers, offline computing, open knowledge).  
+- Give us feedback: open an [Issue](../../issues) to suggest improvements, report bugs, or share new ideas.  
+- Help with translations: improve texts and UI in EN / ES / FR or add new languages.  
+
+### 🛠️ Development
+- Contribute code: submit Pull Requests to improve backend (FastAPI, llama.cpp integration) or frontend (HTML/JS/CSS).  
+- Provide assets: pixel-art avatars, documentation, guides or open-source resources to enrich the library.  
+- Optimize: test with different models, hardware setups and offline tools.  
+
+### 💡 Support & Sustainability
+We are exploring different ways to raise funds to keep this project alive. Your support can help us:  
+- Cover hosting and distribution costs.  
+- Preload models, Wikipedia files, maps and docs for “plug & play” versions.  
+- Reach the dream of building the **No-Internet OS**.  
+
+Future options may include:
+- ☕ Buy us a coffee (small donations).  
+- ❤️ Patreon or GitHub Sponsors (monthly support).  
+- 🎁 Special edition USB sticks or offline kits.  
+- 🏛️ Institutional partnerships with NGOs, schools or communities.  
+
+If you or your organization believe in this vision, **let’s connect!**  
+Together we can build the most complete offline survival and knowledge tool.
 
 <br><br>
 
