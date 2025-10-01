@@ -19,7 +19,7 @@
   </a>
   <br>
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/blob/main/LICENSE.md">
-    <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-34A853?style=flat&labelColor=1a1a1a&v=2">
+    <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-CCCCCC?style=flat&labelColor=1a1a1a&v=2">
   </a>
 </p>
 
