@@ -1,30 +1,40 @@
 # 💾 Offline Survival AI Drive
 
 <p align="center">
+  <!-- Version (manual) -->
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
-    <img alt="version" src="https://img.shields.io/badge/version-v1.0-4285F4?style=for-the-badge&labelColor=1a1a1a">
+    <img alt="version" src="https://img.shields.io/badge/version-v1.0-4285F4?style=flat&labelColor=1a1a1a&v=2">
   </a>
+  <!-- Release (dinámico) -->
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases/latest">
-    <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/SurvivalAI?style=for-the-badge&color=EA4335&label=latest%20release&labelColor=1a1a1a">
+    <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/SurvivalAI?style=flat&color=EA4335&label=latest%20release&labelColor=1a1a1a&v=2">
   </a>
+  <!-- Python -->
   <a href="https://www.python.org/">
-    <img alt="python" src="https://img.shields.io/badge/python-3.11%2B-FBBC05?style=for-the-badge&labelColor=1a1a1a">
+    <img alt="python" src="https://img.shields.io/badge/python-3.11%2B-FBBC05?style=flat&labelColor=1a1a1a&v=2">
   </a>
+  <!-- License -->
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/blob/main/LICENSE.md">
-    <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-34A853?style=for-the-badge&labelColor=1a1a1a">
+    <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-34A853?style=flat&labelColor=1a1a1a&v=2">
   </a>
+  <!-- Stars -->
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/stargazers">
-    <img alt="stars" src="https://img.shields.io/github/stars/Aruvaro-Chulvi/SurvivalAI?style=for-the-badge&color=34A853&labelColor=1a1a1a">
+    <img alt="stars" src="https://img.shields.io/github/stars/Aruvaro-Chulvi/SurvivalAI?style=flat&color=34A853&labelColor=1a1a1a&v=2">
   </a>
+  <!-- Issues -->
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/issues">
-    <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/SurvivalAI?style=for-the-badge&color=4285F4&labelColor=1a1a1a">
+    <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/SurvivalAI?style=flat&color=4285F4&labelColor=1a1a1a&v=2">
   </a>
+  <!-- Downloads -->
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
-    <img alt="downloads" src="https://img.shields.io/github/downloads/Aruvaro-Chulvi/SurvivalAI/total?style=for-the-badge&color=EA4335&labelColor=1a1a1a">
+    <img alt="downloads" src="https://img.shields.io/github/downloads/Aruvaro-Chulvi/SurvivalAI/total?style=flat&color=EA4335&labelColor=1a1a1a&v=2">
   </a>
-  <img alt="code size" src="https://img.shields.io/github/languages/code-size/Aruvaro-Chulvi/SurvivalAI?style=for-the-badge&color=FBBC05&labelColor=1a1a1a">
-  <img alt="top lang" src="https://img.shields.io/github/languages/top/Aruvaro-Chulvi/SurvivalAI?style=for-the-badge&color=34A853&labelColor=1a1a1a">
+  <!-- Code size -->
+  <img alt="code size" src="https://img.shields.io/github/languages/code-size/Aruvaro-Chulvi/SurvivalAI?style=flat&color=FBBC05&labelColor=1a1a1a&v=2">
+  <!-- Top language -->
+  <img alt="top lang" src="https://img.shields.io/github/languages/top/Aruvaro-Chulvi/SurvivalAI?style=flat&color=34A853&labelColor=1a1a1a&v=2">
 </p>
+
 
 
 <p align="center">
