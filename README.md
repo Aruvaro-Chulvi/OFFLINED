@@ -7,12 +7,12 @@
   <a href="https://www.python.org/">
     <img alt="python" src="https://img.shields.io/badge/python-3.11%2B-FBBC05?style=flat&labelColor=1a1a1a&v=2">
   </a>
+  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases/latest">
+    <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/SurvivalAI?style=flat&color=34A853&label=latest%20release&labelColor=1a1a1a&v=2">
+  </a>
   <br>
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/stargazers">
     <img alt="stars" src="https://img.shields.io/github/stars/Aruvaro-Chulvi/SurvivalAI?style=flat&color=34A853&labelColor=1a1a1a&v=2">
-  </a>
-  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases/latest">
-    <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/SurvivalAI?style=flat&color=EA4335&label=latest%20release&labelColor=1a1a1a&v=2">
   </a>
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/issues">
     <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/SurvivalAI?style=flat&color=4285F4&labelColor=1a1a1a&v=2">
