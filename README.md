@@ -173,8 +173,8 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 - The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
 
 <p align="center">
-Download page:<br>https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
-<br>
+Download page (for information):<br>https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+<br><br>
 Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf
 <br>
 </p>
@@ -233,6 +233,7 @@ https://download.kiwix.org/zim/wikipedia/
 
 **Download zip file:**  
 https://offlineai.org
+<br>
 👉 **Extract docs folder** and place it here: ``./SurvivalAI/_internal/extract here``.
 
 **Adding more files to your library:**  
@@ -240,7 +241,7 @@ https://offlineai.org
 https://www.gutenberg.org/
 
 Remember to transform to .pdf files till more formats available.
-👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` **Organice yourself 🤪**.<br><br>
+👉 Place your **.pdf** files in:<br> `./SurvivalAI/_internal/docs/and the folders you want inside`<br> **Organice yourself 🤪**.<br><br>
 
 <p align="center">
   <img src="readme_images/screenshot_library.png"
