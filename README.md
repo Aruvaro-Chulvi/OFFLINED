@@ -258,7 +258,7 @@ If you like the idea and believe it can be useful for individuals, communities o
 ### 👥 Community
 - Spread the word: share this repository with friends, forums and communities (preppers, offline computing, open knowledge).  
 - Give us feedback: open an [Issue](../../issues) to suggest improvements, report bugs, or share new ideas.  
-- Help with translations: improve texts and UI in EN / ES / FR or add new languages.  
+- Help with translations: improve texts and UI in EN / ES / FR.  
 
 ### 🛠️ Development
 - Contribute code: submit Pull Requests to improve backend (FastAPI, llama.cpp integration) or frontend (HTML/JS/CSS).  
