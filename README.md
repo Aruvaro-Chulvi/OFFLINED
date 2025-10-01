@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
-    <img alt="version" src="https://img.shields.io/badge/version-v1.0-4285F4?style=flat&labelColor=1a1a1a&v=2">
+    <img alt="version" src="https://img.shields.io/badge/version-v1-4285F4?style=flat&labelColor=1a1a1a&v=2">
   </a>
   <a href="https://www.python.org/">
     <img alt="python" src="https://img.shields.io/badge/python-3.11%2B-FBBC05?style=flat&labelColor=1a1a1a&v=2">
