@@ -1,4 +1,9 @@
 # 💾 Offline Survival AI Drive
+
+![version](https://img.shields.io/badge/version-v1.0-blue)
+![python](https://img.shields.io/badge/python-3.11%2B-blue)
+![license](https://img.shields.io/badge/license-Custom--Non--Commercial-lightgrey)
+
 <p align="center">
 ⚠️ The following instructions are intended for the windows x64 portable version.<br>🔥 If you want to have a look, project files are included in the github repository.<br>👥 For collaborations, please, contact us, this is our first github project, and all the help (and comprehension) would be appreciated.
 </p><br>
@@ -44,12 +49,15 @@
 # 📑 Index
 
 - [✅ Requirements](#-requirements)
+- [🌍 Who is it for?](#-who-is-it-for)
 - [📝 Instructions](#-instructions)
 - [🤖 Downloading the Model (Phi-4 Mini.GGUF)](#-downloading-the-model-phi-4-minigguf)
 - [📖 Downloading Wikipedia ZIM files](#-downloading-wikipedia-zim-files)
 - [📚 Adding more to your library (pdf files)](#-adding-more-to-your-library-pdf-files)
 - [🌍 Downloading the planet.pmtiles file](#-downloading-the-planetpmtiles-file)
+- [🙋 FAQ](#-faq)
 - [🔮 Future Versions](#-future-versions)
+  - [🧭 Roadmap](#-roadmap)
 - [🤝 Contributing & Support](#-contributing--support)
 - [📜 Licenses](#-licenses)
 - [❤️ Special thanks](#%EF%B8%8F-special-thanks)
@@ -72,6 +80,19 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 - **Windows 10/11 x64**
 - **macOS** (coming soon)
 - **Linux** (coming soon)
+
+<br><br>
+
+---
+
+# 🌍 Who is it for?
+
+**Survival AI Stick** is built for:
+- **Preppers & outdoors** communities who need reliable tools without internet.
+- **Schools & libraries** in low-connectivity regions, looking for offline knowledge.
+- **NGOs & emergency response** teams operating in field conditions.
+- **Researchers & archivists** who value self-hosted, offline-first workflows.
+- **Privacy-conscious users** who prefer fully local processing and storage.
 
 <br><br>
 
@@ -229,7 +250,38 @@ https://maps.protomaps.com/builds/
 
 ---
 
+# 🙋 FAQ
+
+**Q1. Do I need internet to use this?**  
+No. Everything runs locally (LLM, agents, maps, Wikipedia, and your PDF library). You only need internet to download models/ZIM/pmtiles the first time.
+
+**Q2. Can I use my own GGUF models?**  
+Not by the moment. It is planned, but without knowing which release version will add this feature.
+
+**Q3. Does it work on Linux or macOS?**  
+Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
+
+**Q4. How do I add my own PDFs?**  
+Drop them into `./SurvivalAI/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
+
+**Q5. Is Wikipedia required?**  
+No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini) under `./SurvivalAI/_internal/kiwix/content/`. Of course we reccoment the maxi file of your country language, and the english one.
+
+<br><br>
+
+---
+
 # 🔮 Future Versions
+
+## 🧭 Roadmap
+
+- [x] v1 — Base app (LLM, Agents, Wikipedia, Maps, Docs)
+- [ ] v2 — ✨🔭 Sky (Stellarium offline integration)
+- [ ] v3 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)
+- [ ] v4 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)
+- [ ] v5 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)
+
+---
 
 The journey of **Survival AI Stick** has only just begun. Version 1 lays the foundation, but the roadmap ahead is ambitious and full of new features:
 
