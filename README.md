@@ -1,8 +1,10 @@
 # 💾 Offline Survival AI Drive
 
+<p align="center">
 ![version](https://img.shields.io/badge/version-v1.0-blue)
 ![python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![license](https://img.shields.io/badge/license-Custom--Non--Commercial-lightgrey)
+</p>
 
 <p align="center">
 ⚠️ The following instructions are intended for the windows x64 portable version.<br>🔥 If you want to have a look, project files are included in the github repository.<br>👥 For collaborations, please, contact us, this is our first github project, and all the help (and comprehension) would be appreciated.
