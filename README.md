@@ -229,11 +229,17 @@ https://download.kiwix.org/zim/wikipedia/
 
 ---
 
-# 📚 Adding more to your library (pdf files)
+# 📚 Downloading the library (pdf files)
 
+**Download zip file:**  
+https://offlineai.org
+👉 **Extract docs folder** and place it here: ``./SurvivalAI/_internal/extract here``.
+
+**Adding more files to your library:**  
 **Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
 
+Remember to transform to .pdf files till more formats available.
 👉 Place your **.pdf** files in: `./SurvivalAI/_internal/docs/and the folders you want inside` **Organice yourself 🤪**.<br><br>
 
 <p align="center">
