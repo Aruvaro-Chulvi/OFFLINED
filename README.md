@@ -303,11 +303,12 @@ No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini
 
 ## 🧭 Roadmap
 
-- [x] v1 — Base app (LLM, Agents, Wikipedia, Maps, Docs)
-- [ ] v2 — ✨🔭 Sky (Stellarium offline integration)
-- [ ] v3 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)
-- [ ] v4 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)
-- [ ] v5 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)
+- [x] v1 — Base app (LLM, Agents, Wikipedia, Maps, Docs)  
+- [ ] v2 — ✨🔭 Sky (Stellarium offline integration)  
+- [ ] v3 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)  
+- [ ] v4 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)  
+- [ ] v5 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)  
+- [ ] v6 — 🌎📚 Offlined OS Editions (Survival / Education / Rural)
 
 ---
 
@@ -324,6 +325,14 @@ The journey of **Survival AI Stick** has only just begun. Version 1 lays the fou
 
 - **Version 5 — 🌐🚫No-Internet OS (Dream Edition)**  
   With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**. It would boot into our app as its main desktop environment but allow users to install all tools from V4 (LibreOffice, Audacity, GIMP, etc.). This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
+
+- **Version 6 — 🌎📚 Offlined OS Editions (For Survival, Education & Rural Zones)**  
+  Once the No-Internet OS is stable, we plan to create **three specialized editions** of the system:
+  - **🏕️ Offlined OS — For Survival:** focused on emergency preparedness, self-reliance, medical knowledge, field engineering and offline survival manuals.  
+  - **🎓 Offlined OS — For Education:** designed for schools and students in areas with poor connectivity, including educational agents, encyclopedias and open textbooks.  
+  - **🏡 Offlined OS — For Rural Zones:** optimized for low-power hardware and communities with limited or no internet access, offering tools for agriculture, local communication and energy management.  
+
+  Each edition will adapt the agents, documentation and available software to its purpose, creating self-sufficient digital ecosystems that work **completely offline**.
 
 <br><br>
 
