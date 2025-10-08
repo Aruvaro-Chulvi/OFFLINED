@@ -1,4 +1,4 @@
-# 💾 Offline Survival AI Drive
+# 💾 Offlined.org
 <br>
 <p align="center">
 ⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
