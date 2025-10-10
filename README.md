@@ -137,9 +137,9 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 │  │ ├── requirements.txt
 │  │
 │  ├── docs/
-│  │ ├── en/ organize .pdf as you want.
-│  │ ├── es/ organize .pdf as you want.
-│  │ └── fr/ organize .pdf as you want.
+│  │ ├── en/ organize english .pdf as you want.
+│  │ ├── es/ organize spanish .pdf as you want.
+│  │ └── fr/ organize french .pdf as you want.
 │  │
 │  │
 │  ├── frontend/
