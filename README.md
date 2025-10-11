@@ -1,8 +1,4 @@
 # 💾 Offlined.org
-<br>
-<p align="center">
-⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
-</p>
 <br><br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
@@ -63,6 +59,10 @@
  
 > This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). **.doc files are incuded**, but you can add as more documents (.pdf format) as you want.
 
+<br>
+<p align="center">
+⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
+</p>
 <br>
 
 ---
