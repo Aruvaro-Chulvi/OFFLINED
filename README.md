@@ -1,4 +1,11 @@
 # 💾 Offlined.org
+<br>
+<p align="center">
+  <img src="readme_images/screenshot_creators.png"
+     alt="Screenshot UI"
+     style="width:max(98%, 400px); height:auto;" />
+</p>
+<br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
     <img alt="version" src="https://img.shields.io/badge/version-v1-4285F4?style=flat&labelColor=1a1a1a&v=2">
@@ -20,12 +27,6 @@
   <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/blob/main/LICENSE.md">
     <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-DDDDDD?style=flat&labelColor=1a1a1a&v=2">
   </a>
-</p>
-<br>
-<p align="center">
-  <img src="readme_images/screenshot_creators.png"
-     alt="Screenshot UI"
-     style="width:max(98%, 400px); height:auto;" />
 </p>
 
 ### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
