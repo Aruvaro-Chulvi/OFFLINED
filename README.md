@@ -303,7 +303,7 @@ No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini
 ## 🧭 Roadmap
 
 - [x] v1 — Base app (LLM, Agents, Wikipedia, Maps, Docs)  
-- [ ] v2 — ✨🔭 Sky (Stellarium offline integration)  
+- [ ] v2 — ✨🔭 Sky + 🌍 Global Search 
 - [ ] v3 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)  
 - [ ] v4 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)  
 - [ ] v5 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)  
@@ -313,8 +313,9 @@ No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini
 
 The journey of **Survival AI Stick** has only just begun. Version 1 lays the foundation, but the roadmap ahead is ambitious and full of new features:
 
-- **Version 2 — ✨🔭Sky**  
-  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app. This turns your Survival AI Stick into a pocket planetarium, working without internet.
+- **Version 2 — ✨🔭 Sky & 🌍 Global Search**  
+  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning your Survival AI Stick into a pocket planetarium that works without internet.
+Additionally, a new **Global Search** system will allow you to instantly find anything across all modules, **agents, Wikipedia articles, local documents, and stellar objects** unifying the entire offline knowledge base into a single, intelligent search bar.
 
 - **Version 3 — 🪪🧰Agent Kit & 📚🔎RAG**  
   Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios. In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation. Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
