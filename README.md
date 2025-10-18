@@ -304,7 +304,7 @@ No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini
 
 - [x] v1 — 💬 Chat Core - Base app (LLM Chat UI)  
 - [x] v2 — 🏛️ Wikipedia integration + Text selection search  
-- [x] v3 — 🗺️ Documentation & Offline Maps integration  
+- [x] v3 — 🗺️ Documentation & Offline Maps integration & Wiki-trees  
 - [ ] v4 — ✨🔭 Sky + 🌍 Global Search  
 - [ ] v5 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)  
 - [ ] v6 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)  
@@ -323,8 +323,8 @@ Early versions focused on building the foundation — the chat interface, model 
 - **Version 2 — 🏛️ Wikipedia Integration**  
   Added offline Wikipedia search through text selection inside chat responses, allowing users to consult articles seamlessly from model outputs.
 
-- **Version 3 — 🗺️ Documentation & Maps**  
-  Introduced the **offline documentation viewer** and integrated **MapLibre + PMTiles** maps.  
+- **Version 3 — 🗺️ Documentation & Maps & Wiki-trees**  
+  Introduced the **offline documentation viewer** and integrated **MapLibre + PMTiles** maps. Added **"Wiki-trees"** feature for wiki exploration.  
   
   From this point, the combined system became known as  
   **“v3 — Base app (LLM, Agents, Wikipedia, Maps, Docs)”**.
@@ -333,7 +333,7 @@ Early versions focused on building the foundation — the chat interface, model 
 
 - **Version 4 — ✨🔭 Sky & 🌍 Global Search**  
   Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning your Survival AI Stick into a pocket planetarium that works without internet.  
-  Additionally, a new **Global Search** system will allow you to instantly find anything across all modules — **agents, Wikipedia articles, local documents, and stellar objects** — unifying the entire offline knowledge base into a single, intelligent search bar.
+  Additionally, a new **Global Search** system will allow you to instantly find anything across all modules — **agents, Wikipedia articles, Wikipedia trees, local documents, and stellar objects** — unifying the entire offline knowledge base into a single, intelligent search bar.
 
 - **Version 5 — 🪪🧰Agent Kit & 📚🔎RAG**  
   Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios.  
