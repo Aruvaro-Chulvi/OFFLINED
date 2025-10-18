@@ -302,32 +302,54 @@ No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini
 
 ## 🧭 Roadmap
 
-- [x] v1 — Base app (LLM, Agents, Wikipedia, Maps, Docs)  
-- [ ] v2 — ✨🔭 Sky + 🌍 Global Search 
-- [ ] v3 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)  
-- [ ] v4 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)  
-- [ ] v5 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)  
-- [ ] v6 — 🌎📚 Offlined OS Editions (Survival / Education / Rural)
+- [x] v1 — 💬 Chat Core - Base app (LLM Chat UI)  
+- [x] v2 — 🏛️ Wikipedia integration + Text selection search  
+- [x] v3 — 🗺️ Documentation & Offline Maps integration  
+- [ ] v4 — ✨🔭 Sky + 🌍 Global Search  
+- [ ] v5 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)  
+- [ ] v6 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)  
+- [ ] v7 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)  
+- [ ] v8 — 🌎📚 Offlined OS Editions (Survival / Education / Rural)
 
 ---
 
-The journey of **Survival AI Stick** has only just begun. Version 1 lays the foundation, but the roadmap ahead is ambitious and full of new features:
+The journey of **Survival AI Stick** has gone through several stages of evolution.  
+Early versions focused on building the foundation — the chat interface, model integration, and the first offline tools. The roadmap ahead remains ambitious and full of new features:
 
-- **Version 2 — ✨🔭 Sky & 🌍 Global Search**  
-  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning your Survival AI Stick into a pocket planetarium that works without internet.
-Additionally, a new **Global Search** system will allow you to instantly find anything across all modules, **agents, Wikipedia articles, local documents, and stellar objects** unifying the entire offline knowledge base into a single, intelligent search bar.
+- **Version 1 — 💬 Chat Core**  
+  First public prototype with a functional chat interface and basic LLM integration.  
+  Established the foundation for offline AI communication.
 
-- **Version 3 — 🪪🧰Agent Kit & 📚🔎RAG**  
-  Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios. In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation. Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
+- **Version 2 — 🏛️ Wikipedia Integration**  
+  Added offline Wikipedia search through text selection inside chat responses, allowing users to consult articles seamlessly from model outputs.
 
-- **Version 4 — 💻📦Third-party Open Source Software**  
-  We will bundle a selection of essential offline open source software: 📄LibreOffice, 🎨GIMP, 🎥VLC, 🎧Audacity, and 🛠️more. The aim is to make Survival AI Stick not only a survival assistant but also a complete offline productivity and creativity hub.
+- **Version 3 — 🗺️ Documentation & Maps**  
+  Introduced the **offline documentation viewer** and integrated **MapLibre + PMTiles** maps.  
+  
+  From this point, the combined system became known as  
+  **“v3 — Base app (LLM, Agents, Wikipedia, Maps, Docs)”**.
 
-- **Version 5 — 🌐🚫No-Internet OS (Dream Edition)**  
-  With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**. It would boot into our app as its main desktop environment but allow users to install all tools from V4 (LibreOffice, Audacity, GIMP, etc.). This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
+---
 
-- **Version 6 — 🌎📚 Offlined OS Editions (For Survival, Education & Rural Zones)**  
-  Once the No-Internet OS is stable, we plan to create **three specialized editions** of the system:
+- **Version 4 — ✨🔭 Sky & 🌍 Global Search**  
+  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning your Survival AI Stick into a pocket planetarium that works without internet.  
+  Additionally, a new **Global Search** system will allow you to instantly find anything across all modules — **agents, Wikipedia articles, local documents, and stellar objects** — unifying the entire offline knowledge base into a single, intelligent search bar.
+
+- **Version 5 — 🪪🧰Agent Kit & 📚🔎RAG**  
+  Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios.  
+  In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation. Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
+
+- **Version 6 — 💻📦Third-party Open Source Software**  
+  We will bundle a selection of essential offline open source software: 📄LibreOffice, 🎨GIMP, 🎥VLC, 🎧Audacity, and 🛠️more.  
+  The aim is to make Survival AI Stick not only a survival assistant but also a complete offline productivity and creativity hub.
+
+- **Version 7 — 🌐🚫No-Internet OS (Dream Edition)**  
+  With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**.  
+  It would boot into our app as its main desktop environment but allow users to install all tools from V6 (LibreOffice, Audacity, GIMP, etc.).  
+  This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
+
+- **Version 8 — 🌎📚 Offlined OS Editions (For Survival, Education & Rural Zones)**  
+  Once the No-Internet OS is stable, we plan to create **three specialized editions** of the system:  
   - **🏕️ Offlined OS — For Survival:** focused on emergency preparedness, self-reliance, medical knowledge, field engineering and offline survival manuals.  
   - **🎓 Offlined OS — For Education:** designed for schools and students in areas with poor connectivity, including educational agents, encyclopedias and open textbooks.  
   - **🏡 Offlined OS — For Rural Zones:** optimized for low-power hardware and communities with limited or no internet access, offering tools for agriculture, local communication and energy management.  
@@ -337,6 +359,7 @@ Additionally, a new **Global Search** system will allow you to instantly find an
 <br><br>
 
 ---
+
 
 # 🤝 Contributing & Support
 
