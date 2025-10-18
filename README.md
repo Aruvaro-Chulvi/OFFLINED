@@ -313,7 +313,7 @@ No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini
 
 ---
 
-The journey of **Survival AI Stick** has gone through several stages of evolution.  
+The journey of **Offlined.org** has gone through several stages of evolution.  
 Early versions focused on building the foundation — the chat interface, model integration, and the first offline tools. The roadmap ahead remains ambitious and full of new features:
 
 - **Version 1 — 💬 Chat Core**  
