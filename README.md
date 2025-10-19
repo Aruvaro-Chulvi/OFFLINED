@@ -337,7 +337,7 @@ Early versions focused on building the foundation — the chat interface, model 
 
 - **Version 5 — 🪪🧰Agent Kit & 📚🔎RAG**  
   Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios.  
-  In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation. Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
+  In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation and available "Wiki-trees". Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
 
 - **Version 6 — 💻📦Third-party Open Source Software**  
   We will bundle a selection of essential offline open source software: 📄LibreOffice, 🎨GIMP, 🎥VLC, 🎧Audacity, and 🛠️more.  
