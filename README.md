@@ -51,6 +51,7 @@
 - **llm answer selecting**: Select text in llm answers for **wiki search feature**.
 - **Offline Worldwide Map**: built-in tab that works with **Protomaps and pmtiles** + **OpenStreetMaps** files.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
+- **Wiki-Trees**: for a friendly and better **"wikipedia exploration"**.
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
 - **Library Folders**: for **.pdf** files you want to store.
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
