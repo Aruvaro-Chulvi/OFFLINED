@@ -108,7 +108,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 # 🌍 Who is it for?
 
-**Survival AI Stick** is built for:
+**OFFLINED** is built for:
 - **Preppers & outdoors** communities who need reliable tools without internet.
 - **Schools & libraries** in low-connectivity regions, looking for offline knowledge.
 - **NGOs & emergency response** teams operating in field conditions.
@@ -333,7 +333,7 @@ Early versions focused on building the foundation — the chat interface, model 
 ---
 
 - **Version 4 — ✨🔭 Sky & 🌍 Global Search**  
-  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning your Survival AI Stick into a pocket planetarium that works without internet.  
+  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning OFFLINED into a pocket planetarium that works without internet.  
   Additionally, a new **Global Search** system will allow you to instantly find anything across all modules — **agents, Wikipedia articles, Wikipedia trees, local documents, and stellar objects** — unifying the entire offline knowledge base into a single, intelligent search bar.
 
 - **Version 5 — 🪪🧰Agent Kit & 📚🔎RAG**  
@@ -342,7 +342,7 @@ Early versions focused on building the foundation — the chat interface, model 
 
 - **Version 6 — 💻📦Third-party Open Source Software**  
   We will bundle a selection of essential offline open source software: 📄LibreOffice, 🎨GIMP, 🎥VLC, 🎧Audacity, and 🛠️more.  
-  The aim is to make Survival AI Stick not only a survival assistant but also a complete offline productivity and creativity hub.
+  The aim is to make OFFLINED not only a survival assistant but also a complete offline productivity and creativity hub.
 
 - **Version 7 — 🌐🚫No-Internet OS (Dream Edition)**  
   With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**.  
@@ -364,7 +364,7 @@ Early versions focused on building the foundation — the chat interface, model 
 
 # 🤝 Contributing & Support
 
-**Survival AI Stick** is an open project made with passion, time and effort.  
+**OFFLINED** is an open project made with passion, time and effort.  
 If you like the idea and believe it can be useful for individuals, communities or organizations, there are many ways you can help us grow:
 
 ### 👥 Community
