@@ -1,7 +1,7 @@
 # 💾 Offlined.org
 <br>
 <p align="center">
-  <img src="readme_images/screenshot_creators.png"
+  <img src="readme_images/creators_card.png"
      alt="Screenshot UI"
      style="width:max(98%, 400px); height:auto;" />
 </p>
