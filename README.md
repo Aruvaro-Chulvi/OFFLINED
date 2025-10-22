@@ -7,24 +7,24 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases">
+  <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases">
     <img alt="version" src="https://img.shields.io/badge/version-v1-4285F4?style=flat&labelColor=1a1a1a&v=2">
   </a>
   <a href="https://www.python.org/">
     <img alt="python" src="https://img.shields.io/badge/python-3.11%2B-FBBC05?style=flat&labelColor=1a1a1a&v=2">
   </a>
-  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/releases/latest">
-    <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/SurvivalAI?style=flat&color=34A853&label=latest%20release&labelColor=1a1a1a&v=3">
+  <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases/latest">
+    <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/Offlined?style=flat&color=34A853&label=latest%20release&labelColor=1a1a1a&v=3">
   </a>
-  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/stargazers">
-    <img alt="stars" src="https://img.shields.io/github/stars/Aruvaro-Chulvi/SurvivalAI?style=flat&color=34A853&labelColor=1a1a1a&v=2">
-  </a>
-  <br>
-  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/issues">
-    <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/SurvivalAI?style=flat&color=4285F4&labelColor=1a1a1a&v=2">
+  <a href="https://github.com/Aruvaro-Chulvi/Offlined/stargazers">
+    <img alt="stars" src="https://img.shields.io/github/stars/Aruvaro-Chulvi/Offlined?style=flat&color=34A853&labelColor=1a1a1a&v=2">
   </a>
   <br>
-  <a href="https://github.com/Aruvaro-Chulvi/SurvivalAI/blob/main/LICENSE.md">
+  <a href="https://github.com/Aruvaro-Chulvi/Offlined/issues">
+    <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/Offlined?style=flat&color=4285F4&labelColor=1a1a1a&v=2">
+  </a>
+  <br>
+  <a href="https://github.com/Aruvaro-Chulvi/Offlined/blob/main/LICENSE.md">
     <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-DDDDDD?style=flat&labelColor=1a1a1a&v=2">
   </a>
 </p>
@@ -121,14 +121,14 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 # 📝 Instructions
 
-The following instructions are intended for the **Portable windows x64 version** you can find in our website **https://offlineai.org** or in the following link: [Download Link](https://offlineai.org)
+The following instructions are intended for the **Portable windows x64 version** you can find in our website **https://www.offlined.org** or in the following link: [Download Link](https://www.offlined.org)
 
 ## 📦 Project Structure for needed files
 Download the project zip file and extract in root **C:/** or in the **folder** you prefer on your desktop.
 
 ```
-/SurvivalAI
-├── SurvivalAI.exe
+/Offlined
+├── Offlined.exe
 │
 ├── _internal/
 │  │
@@ -179,7 +179,7 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 <br>
 </p>
 
-👉 **Do not rename** Place the GGUF file in: ``./SurvivalAI/_internal/models/phi-4-mini-instruct-q4_k_m.gguf``.
+👉 **Do not rename** Place the GGUF file in: ``./Offlined/_internal/models/phi-4-mini-instruct-q4_k_m.gguf``.
 
 <br><br>
 
@@ -223,7 +223,7 @@ https://download.kiwix.org/zim/wikipedia/
   - [wikipedia_fr_all_nopic_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_nopic_2025-08.zim) - (11 GB)
   - [wikipedia_fr_all_mini_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim) - (4 GB)
 
-👉 **Do not rename** the files after download. Put them under: `./SurvivalAI/_internal/kiwix/content/file_name.zim`
+👉 **Do not rename** the files after download. Put them under: `./Offlined/_internal/kiwix/content/file_name.zim`
 
 <br><br>
 
@@ -234,14 +234,14 @@ https://download.kiwix.org/zim/wikipedia/
 **Download zip file:**  
 https://offlineai.org
 <br>
-👉 **Extract docs folder** and place it here: ``./SurvivalAI/_internal/extract here``.
+👉 **Extract docs folder** and place it here: ``./Offlined/_internal/extract here``.
 
 **Adding more files to your library:**  
 **Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
 
 Remember to transform to .pdf files till more formats available.
-👉 Place your **.pdf** files in:<br> `./SurvivalAI/_internal/docs/and the folders you want inside`<br> **Organice yourself 🤪**.<br><br>
+👉 Place your **.pdf** files in:<br> `./Offlined/_internal/docs/and the folders you want inside`<br> **Organice yourself 🤪**.<br><br>
 
 <p align="center">
   <img src="readme_images/screenshot_library.png"
@@ -272,7 +272,7 @@ https://maps.protomaps.com/builds/
 
 [**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
-👉 Rename and place **planet.pmtiles** file in: `./SurvivalAI/_internal/frontend/assets/maps/planet.pmtiles` **Rename it** to planet.pmtiles, no matter which version you choose, rename always to **planet.pmtiles**.
+👉 Rename and place **planet.pmtiles** file in: `./Offlined/_internal/frontend/assets/maps/planet.pmtiles` **Rename it** to planet.pmtiles, no matter which version you choose, rename always to **planet.pmtiles**.
 
 <br><br>
 
@@ -290,10 +290,10 @@ Not by the moment. It is planned, but without knowing which release version will
 Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
 
 **Q4. How do I add my own PDFs?**  
-Drop them into `./SurvivalAI/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
+Drop them into `./Offlined/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
 
 **Q5. Is Wikipedia required?**  
-No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini) under `./SurvivalAI/_internal/kiwix/content/`. Of course we reccoment the maxi file of your country language, and the english one.
+No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini) under `./Offlined/_internal/kiwix/content/`. Of course we reccoment the maxi file of your country language, and the english one.
 
 <br><br>
 
