@@ -1,4 +1,4 @@
-# Offline Survival AI Drive — Assets License
+# Offlined — Assets License
 
 The following materials are covered by this license:
 - All **avatars** (pixel art images).
@@ -19,7 +19,7 @@ These materials are protected under the **Creative Commons Attribution – NonCo
 ## Attribution
 When sharing these assets, please credit as follows:
 
-> “Avatars and agent biographies from *Offline Survival AI Drive* (2025), created by Álvaro Cuadrado Chulvi & Eric Uguet de Resayre Morris. Licensed under CC BY-NC-ND 4.0.”
+> “All characters from *Offlined* (2025), created by Álvaro Cuadrado Chulvi & Eric Uguet de Resayre. Licensed under CC BY-NC-ND 4.0.”
 
 ---
 
