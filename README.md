@@ -34,7 +34,7 @@
 **OFFLINED** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia, Offline Maps and Survival Documentation**.
 **No internet required.**
 
-- AI model (Miscrosoft): **Phi-4 Mini 4K Instruct (Q4_K_M)**
+- AI model (Microsoft): **Phi-4 Mini 4K Instruct (Q4_K_M)**
 - Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
 - Wikipedia: **kiwix-serve** with local **ZIM** files
 <br>
@@ -206,7 +206,7 @@ https://download.kiwix.org/zim/wikipedia/
 -**all_nopic** --> All articles - Full Articles without Images.<br>
 -**all_mini** --> All articles - First section Articles without Images. 
 
-⚠️⚠️⚠️ Be carefull before downloading huge files to your computer. ⚠️⚠️⚠️
+⚠️⚠️⚠️ Be careful before downloading large files to your computer. ⚠️⚠️⚠️
 
 **EN (7.042.731 articles):**
   - [wikipedia_en_all_maxi_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2025-08.zim) - (116 GB)
@@ -232,7 +232,7 @@ https://download.kiwix.org/zim/wikipedia/
 # 📚 Downloading the library (pdf files)
 
 **Download zip file:**  
-https://offlineai.org
+https://www.offlined.org
 <br>
 👉 **Extract docs folder** and place it here: ``./Offlined/_internal/extract here``.
 
@@ -241,7 +241,7 @@ https://offlineai.org
 https://www.gutenberg.org/
 
 Remember to transform to .pdf files till more formats available.
-👉 Place your **.pdf** files in:<br> `./Offlined/_internal/docs/and the folders you want inside`<br> **Organice yourself 🤪**.<br><br>
+👉 Place your **.pdf** files in:<br> `./Offlined/_internal/docs/and the folders you want inside`<br> **Organize as you wish 🤪**.<br><br>
 
 <p align="center">
   <img src="readme_images/screenshot_library.png"
@@ -268,7 +268,7 @@ Remember to transform to .pdf files till more formats available.
 **Download page:**  
 https://maps.protomaps.com/builds/
 
-⚠️⚠️⚠️ Be carefull before downloading huge files to your computer. ⚠️⚠️⚠️
+⚠️⚠️⚠️ Be careful before downloading large files to your computer. ⚠️⚠️⚠️
 
 [**Download planet.pmtiles full layer link (.pmtiles file - 120 GB):**](https://demo-bucket.protomaps.com/v4.pmtiles)  
 
