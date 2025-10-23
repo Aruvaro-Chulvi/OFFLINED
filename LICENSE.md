@@ -1,6 +1,6 @@
-# Offline Survival AI Drive — Software License
+# Offlined — Software License
 
-Copyright (c) 2025 Offline Survival AI Drive
+Copyright (c) 2025 Offlined.
 
 This software is distributed under the following conditions:
 
