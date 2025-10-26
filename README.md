@@ -470,3 +470,4 @@ Together we can build the most complete offline knowledge tool.
 
 ---
 
+© 2025 Offlined Project. All rights reserved.
