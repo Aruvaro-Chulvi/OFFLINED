@@ -48,7 +48,7 @@
 
 - **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
 - **Two chat modes**: **🤖 Model** — direct chat with the selected LLM. **👥 Agents** — visual agent picker (medical, engineering, etc.).
-- **llm answer selecting**: Select text in llm answers for **wiki search feature**.
+- **LLM answer selecting**: Select text in LLM answers for **wiki search feature**.
 - **Offline Worldwide Map**: built-in tab that works with **Protomaps and pmtiles** + **OpenStreetMaps** files.
 - **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
 - **Wiki-Trees**: for a friendly and better **"wikipedia exploration"**.
@@ -57,9 +57,9 @@
 - **Multi-language UI**: EN / ES / FR (including localized agent categories).
 - **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
  
-> This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). **.doc files are incuded**, but you can add as more documents (.pdf format) as you want.
-
+> This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). 
 <br>
+
 <p align="center">
 ⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
 </p>
@@ -79,6 +79,7 @@
 - [🙋 FAQ](#-faq)
 - [🔮 Future Versions](#-future-versions)
   - [🧭 Roadmap](#-roadmap)
+- 
 - [🤝 Contributing & Support](#-contributing--support)
 - [📜 Licenses](#-licenses)
 - [❤️ Special thanks](#%EF%B8%8F-special-thanks)
@@ -137,9 +138,9 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 │  │ ├── requirements.txt
 │  │
 │  ├── docs/
-│  │ ├── en/ organize english .pdf as you want.
-│  │ ├── es/ organize spanish .pdf as you want.
-│  │ └── fr/ organize french .pdf as you want.
+│  │ ├── en/ organize English PDF Files as you like.
+│  │ ├── es/ organize Spanish PDF Files as you like.
+│  │ └── fr/ organize French PDF Files as you like.
 │  │
 │  │
 │  ├── frontend/
@@ -197,14 +198,15 @@ Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixport
 https://download.kiwix.org/zim/wikipedia/
 
 ### 📄 Target filenames.
-(candidates your backend expects, select toe option you prefer)
+(filenames your backend expects; select the option you prefer)
 
 **Zim File Types**.<br>
 **Which file do I need to select? the one you prefer**😉.
 
--**all_maxi** --> All articles - Full Articles with Images.<br>
--**all_nopic** --> All articles - Full Articles without Images.<br>
--**all_mini** --> All articles - First section Articles without Images. 
+- **all_maxi** — Full articles with images  
+- **all_nopic** — Full articles without images  
+- **all_mini** — First section only, no images
+
 
 ⚠️⚠️⚠️ Be careful before downloading large files to your computer. ⚠️⚠️⚠️
 
@@ -237,7 +239,7 @@ https://www.offlined.org
 👉 **Extract docs folder** and place it here: ``./Offlined/_internal/extract here``.
 
 **Adding more files to your library:**  
-**Our Recommendation - Project Gutemberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
+**Our Recommendation - Project Gutenberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
 
 Remember to transform to .pdf files till more formats available.
@@ -274,9 +276,17 @@ https://maps.protomaps.com/builds/
 
 👉 Rename and place **planet.pmtiles** file in: `./Offlined/_internal/frontend/assets/maps/planet.pmtiles` **Rename it** to planet.pmtiles, no matter which version you choose, rename always to **planet.pmtiles**.
 
+### 🔐 Local privacy & security
+- `kiwix-serve` is launched **bound to `127.0.0.1`** (localhost) only.  
+- The app does **not** make external network requests after installation.  
+- You can air-gap the device; OFFLINED continues to work fully offline.
+
+
+
 <br><br>
 
 ---
+
 
 # 🙋 FAQ
 
@@ -284,7 +294,7 @@ https://maps.protomaps.com/builds/
 No. Everything runs locally (LLM, agents, maps, Wikipedia, and your PDF library). You only need internet to download models/ZIM/pmtiles the first time.
 
 **Q2. Can I use my own GGUF models?**  
-Not by the moment. It is planned, but without knowing which release version will add this feature.
+“Not yet. This is on the roadmap; we plan to support a Model Manager that detects .gguf files in _internal/models/ and lets you select one from the UI.
 
 **Q3. Does it work on Linux or macOS?**  
 Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
@@ -293,7 +303,8 @@ Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
 Drop them into `./Offlined/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
 
 **Q5. Is Wikipedia required?**  
-No. It’s optional, but highly recommended. Add any ZIM flavor (maxi/nopic/mini) under `./Offlined/_internal/kiwix/content/`. Of course we reccoment the maxi file of your country language, and the english one.
+No. It’s optional, but highly recommended. Place any ZIM flavor (maxi/nopic/mini) under `./Offlined/_internal/kiwix/content/`. 
+Tip: start with mini to save disk space.
 
 <br><br>
 
@@ -360,11 +371,48 @@ Early versions focused on building the foundation — the chat interface, model 
 <br><br>
 
 ---
+#  ⚖️ License & Usage Summary
 
+**OFFLINED** is *source-available* software — it is **not open-source** under OSI definitions.
+
+- **Software (code):** Free to use for **personal and educational** purposes.  
+  **Commercial use, modification, or redistribution** are **not permitted** without **prior written permission**.  
+  Source code is provided for **transparency and personal study** only. See [`LICENSE.md`](./LICENSE.md).
+
+- **Assets (avatars, agent texts, creative content):** Licensed under **CC BY-NC-ND 4.0**.  
+  You may share the assets **unaltered** with credit; **no commercial use or derivatives**. See [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md).
+
+For commercial or redistribution licensing, please contact the authors.
+
+<br><br>
+
+---
+# 🤝 Feedback & Support
+
+We welcome **issues** for bug reports, ideas, and translations (EN/ES/FR).  
+Because OFFLINED is **source-available and non-commercial**, **pull requests are not accepted** unless you obtain **written approval** from the maintainers **before** submitting.
+
+- Open an [Issue](../../issues) to:
+  - Report a bug (include steps, logs, and OS).
+  - Suggest a feature or UI copy improvement.
+  - Propose translation fixes (EN/ES/FR).
+- If you wish to contribute code, please **contact the maintainers first** for written approval.
+
+### Sustainability
+If you find OFFLINED valuable:
+- ☕ Buy Me a Coffee: **offlined**  
+- 💳 PayPal (donations): add your link in `FUNDING.yml` → `custom: ['https://…']`  
+- 🟣 Ko-fi (optional): add your handle
+
+> Note: Platforms like **GitHub Sponsors** or **OpenCollective** generally require OSI-approved open-source licenses, which OFFLINED does not use.
+
+<br><br>
+
+---
 
 # 🤝 Contributing & Support
 
-**OFFLINED** is an open project made with passion, time and effort.  
+**OFFLINED** is a source-available project for personal and educational use-made with passion, time and effort.  
 If you like the idea and believe it can be useful for individuals, communities or organizations, there are many ways you can help us grow:
 
 ### 👥 Community
@@ -390,7 +438,7 @@ Future options may include:
 - 🏛️ Institutional partnerships with NGOs, schools or communities.  
 
 If you or your organization believe in this vision, **let’s connect!**  
-Together we can build the most complete offline survival and knowledge tool.
+Together we can build the most complete offline knowledge tool.
 
 <br><br>
 
