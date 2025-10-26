@@ -1,5 +1,6 @@
 Offlined — Software License
-Copyright (c) 2025 Offlined.
+
+Copyright © 2025 Offlined.
 
 This software is distributed under the following conditions:
 
@@ -21,8 +22,11 @@ This software is distributed under the following conditions:
    This software is provided “AS IS”, without warranty of any kind, express or implied.
    Use at your own risk.
 
-6) Third-party licenses:
+7) Third-party licenses:
    This project includes third-party open-source components (e.g., psutil, Kiwix, Protomaps).
    Their original licenses are included under the `/licenses` directory and must be respected.
 
 For commercial licensing, redistribution rights, or special permissions, please contact the authors.
+
+
+
