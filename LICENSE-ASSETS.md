@@ -28,3 +28,6 @@ When sharing these assets, please credit as follows:
 ## Full License Text
 You can read the complete license terms here:  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+© 2025 Offlined Project. All rights reserved.
