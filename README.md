@@ -470,4 +470,6 @@ Together we can build the most complete offline knowledge tool.
 
 ---
 
-© 2025 Offlined Project. All rights reserved.
+© 2025 Offlined Project — Created by Álvaro Cuadrado Chulvi & Eric Uguet.
+All rights reserved. Source-available for personal and educational use only.
+“Offlined” is a trademark of the Offlined Project.
