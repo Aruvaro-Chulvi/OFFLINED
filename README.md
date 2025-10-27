@@ -251,6 +251,9 @@ Remember to transform to .pdf files till more formats available.
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
+**You can also add your own audio and video files to the library on the "music" and "video" folders.** 
+
+👉 Place your **.mp3**, **.avi**, **.mp4** files in:<br> `./Offlined/_internal/media/ and use the **music** folder for your audio files and the **video** folder for video files. <br> **Organize as you wish 🤪**.<br><br>
 <br><br>
 
 ---
