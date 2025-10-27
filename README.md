@@ -79,7 +79,7 @@
 - [🙋 FAQ](#-faq)
 - [🔮 Future Versions](#-future-versions)
   - [🧭 Roadmap](#-roadmap)
-- [⚖️ License & Usage Summary](#-license-and-usage-summary) 
+- [⚖️ License & Usage Summary](#%EF%B8%8F-license--usage-summary) 
 - [🤝 Feedback & Support](#-feedback--support)
 - [📜 Licenses](#-licenses)
 - [❤️ Special thanks](#%EF%B8%8F-special-thanks)
