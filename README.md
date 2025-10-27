@@ -242,7 +242,7 @@ https://www.offlined.org
 **Our Recommendation - Project Gutenberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
 https://www.gutenberg.org/
 
-Remember to transform to .pdf files till more formats available.
+Remember to transform to .pdf files till more formats available. <br>
 👉 Place your **.pdf** files in:<br> `./Offlined/_internal/docs/` and the folders you want inside <br> **Organize as you wish 🤪**.<br><br>
 
 <p align="center">
