@@ -368,6 +368,8 @@ Early versions focused on building the foundation — the chat interface, model 
 
   Each edition will adapt the agents, documentation and available software to its purpose, creating self-sufficient digital ecosystems that work **completely offline**.
 
+  LLM's are expected to get faster and more reliable with time, and we're hoping this will have a positive impact in the tool. 
+
 <br><br>
 
 ---
@@ -405,40 +407,6 @@ If you find OFFLINED valuable:
 - 🟣 Ko-fi (optional): add your handle
 
 > Note: Platforms like **GitHub Sponsors** or **OpenCollective** generally require OSI-approved open-source licenses, which OFFLINED does not use.
-
-<br><br>
-
----
-
-# 🤝 Contributing & Support
-
-**OFFLINED** is a source-available project for personal and educational use-made with passion, time and effort.  
-If you like the idea and believe it can be useful for individuals, communities or organizations, there are many ways you can help us grow:
-
-### 👥 Community
-- Spread the word: share this repository with friends, forums and communities (preppers, offline computing, open knowledge).  
-- Give us feedback: open an [Issue](../../issues) to suggest improvements, report bugs, or share new ideas.  
-- Help with translations: improve texts and UI in EN / ES / FR.  
-
-### 🛠️ Development
-- Contribute code: submit Pull Requests to improve backend (FastAPI, llama.cpp integration) or frontend (HTML/JS/CSS).  
-- Provide assets: pixel-art avatars, documentation, guides or open-source resources to enrich the library.  
-- Optimize: test with different models, hardware setups and offline tools.  
-
-### 💡 Support & Sustainability
-We are exploring different ways to raise funds to keep this project alive. Your support can help us:  
-- Cover hosting and distribution costs.  
-- Preload models, Wikipedia files, maps and docs for “plug & play” versions.  
-- Reach the dream of building the **No-Internet OS**.  
-
-Future options may include:
-- ☕ Buy us a coffee (small donations).  
-- ❤️ Patreon or GitHub Sponsors (monthly support).  
-- 🎁 Special edition USB sticks or offline kits.  
-- 🏛️ Institutional partnerships with NGOs, schools or communities.  
-
-If you or your organization believe in this vision, **let’s connect!**  
-Together we can build the most complete offline knowledge tool.
 
 <br><br>
 
