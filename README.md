@@ -243,7 +243,7 @@ https://www.offlined.org
 https://www.gutenberg.org/
 
 Remember to transform to .pdf files till more formats available.
-👉 Place your **.pdf** files in:<br> `./Offlined/_internal/docs/and the folders you want inside`<br> **Organize as you wish 🤪**.<br><br>
+👉 Place your **.pdf** files in:<br> `./Offlined/_internal/docs/` and the folders you want inside <br> **Organize as you wish 🤪**.<br><br>
 
 <p align="center">
   <img src="readme_images/screenshot_library.png"
