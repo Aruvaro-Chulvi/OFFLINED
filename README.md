@@ -1,4 +1,7 @@
-# 💾 Offlined.org
+# <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2tbaCGcT2-GCC072UzbCMHJy2ArV0ET7Lnl1fsYfTjvpWUTzlhFYyWwUXhz2fI-b-9LvgM-LhQMfthegRaD9-8C33Ac7E1gVu4tz-ucrRghPKASlT9hLbaUeFxJNo_dvIPsIida7o6ZmamHC-Dm8IcnuKmeEILWGeIwAF-WDCFVQdGyXrJBajS0efWEw/s1600/offlined_favicon_01.jpg"
+     alt="Offlined Logo"
+     width="32"
+     style="vertical-align:middle;"/> Offlined.org
 <br>
 <p align="center">
   <img src="readme_images/creators_card.png"
