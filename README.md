@@ -1,4 +1,9 @@
-# ![Offlined Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2tbaCGcT2-GCC072UzbCMHJy2ArV0ET7Lnl1fsYfTjvpWUTzlhFYyWwUXhz2fI-b-9LvgM-LhQMfthegRaD9-8C33Ac7E1gVu4tz-ucrRghPKASlT9hLbaUeFxJNo_dvIPsIida7o6ZmamHC-Dm8IcnuKmeEILWGeIwAF-WDCFVQdGyXrJBajS0efWEw/s1600/offlined_favicon_01.jpg) Offlined.org
+<h1 align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2tbaCGcT2-GCC072UzbCMHJy2ArV0ET7Lnl1fsYfTjvpWUTzlhFYyWwUXhz2fI-b-9LvgM-LhQMfthegRaD9-8C33Ac7E1gVu4tz-ucrRghPKASlT9hLbaUeFxJNo_dvIPsIida7o6ZmamHC-Dm8IcnuKmeEILWGeIwAF-WDCFVQdGyXrJBajS0efWEw/s1600/offlined_favicon_01.jpg"
+       width="32"
+       style="vertical-align:middle; margin-right:10px;">
+  Offlined.org
+</h1>
 <br>
 <p align="center">
   <img src="readme_images/creators_card.png"
