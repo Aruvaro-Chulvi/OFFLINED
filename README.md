@@ -59,8 +59,8 @@
 - **Wiki-Trees**: for a friendly and better **"wikipedia exploration"**.
 - **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
 - **Library Folders**: for **.pdf** files you want to store.
-- **Multi-language UI**: EN / ES / FR (including localized agent categories).
-- **Clean UI/UX**: light/dark theme toggle, battery indicator bar.
+- **Multi-language UI**: EN / ES / FR / PT (including localized agent categories).
+- **Clean UI/UX**: light/dark theme toggle, battery, Disk, cpu, ram and temp indicator bars.
  
 > This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). 
 <br>
