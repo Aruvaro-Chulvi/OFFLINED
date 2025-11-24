@@ -34,7 +34,7 @@
   </a>
 </p>
 
-### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR)
+### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR,PT)
 
 **OFFLINED** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia, Offline Maps and Survival Documentation**.
 **No internet required.**
