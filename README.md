@@ -232,6 +232,11 @@ https://download.kiwix.org/zim/wikipedia/
   - [wikipedia_fr_all_nopic_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_nopic_2025-08.zim) - (11 GB)
   - [wikipedia_fr_all_mini_2025-08.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_mini_2025-08.zim) - (4 GB)
 
+**PT (2.693.000 articles):**
+  - [wikipedia_pt_all_maxi_2025-09.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_pt_all_maxi_2025-09.zim) - (17 GB)
+  - [wikipedia_pt_all_nopic_2025-11.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_pt_all_nopic_2025-11.zim) - (5 GB)
+  - [wikipedia_pt_all_mini_2025-11.zim](https://download.kiwix.org/zim/wikipedia/wikipedia_pt_all_mini_2025-11.zim) - (2 GB)
+
 👉 **Do not rename** the files after download. Put them under: `./Offlined/_internal/kiwix/content/file_name.zim`
 
 <br><br>
