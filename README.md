@@ -303,54 +303,22 @@ https://maps.protomaps.com/builds/
 **Q1. Do I need internet to use this?**  
 No. Everything runs locally (LLM, agents, maps, Wikipedia, and your PDF library). You only need internet to download models/ZIM/pmtiles the first time.
 
-**Q2. Can I use my own GGUF models?**  
-“Not yet. This is on the roadmap; we plan to support a Model Manager that detects .gguf files in _internal/models/ and lets you select one from the UI.
-
-**Q3. Does it work on Linux or macOS?**  
-Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
-
-**Q4. How do I add my own PDFs?**  
-Drop them into `./Offlined/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
-
-**Q5. Is Wikipedia required?**  
-No. It’s optional, but highly recommended. Place any ZIM flavor (maxi/nopic/mini) under `./Offlined/_internal/kiwix/content/`. 
-Tip: start with mini to save disk space.
-
-**Q6. Do my data ever leave my computer, external drive, or USB stick?**  
+**Q2. Do my data ever leave my computer, external drive, or USB stick?**  
 No. Nothing leaves your devices.  
 There is no cloud, no telemetry, no analytics, and no external API calls.  
 Everything (AI, Wikipedia, maps, notes, audio, documents) runs 100% offline and locally.
 
-**Q7. How much RAM does Offlined need?**  
-The current default model, **Phi-4 Mini (Q4_K_M)**, runs smoothly with **4–6 GB of RAM**.  
-Heavier GGUF models benefit from more RAM.  
-The app itself is lightweight; only the LLM is demanding.
-
-**Q8. Does the app use CPU when I’m not chatting?**  
-No.  
-When the LLM is not processing a message, it goes completely idle.  
-Offlined uses almost **0% CPU** while inactive.
-
-**Q9. How do I migrate my data to a new version?**  
-Your personal data is stored in:
-`/Offlined/_internal/doc` & `/Offlined/_internal/media`
-Simply replace these folders inside the new version and all your files will migrate instantly.
-
-**Q10. Can I use Offlined in portable mode (no installation)?**  
+**Q3. Can I use Offlined in portable mode (no installation)?**  
 Yes.  
 Simply double-click the `.exe` and the app launches.  
 Offlined is fully portable and can run from a folder, external drive, or USB stick.
 
-**Q11. What happens if I delete a file from the Library?**  
-Deletion is immediate in version **3.0** — there is **no recycle bin** or recovery mechanism.  
-A recycle bin will be introduced in **Offlined v4.0** for restoring accidentally deleted files.
-
-**Q12. Does Offlined send my chats to Microsoft, Google, OpenAI, or any other company?**  
+**Q4. Does Offlined send my chats to Microsoft, Google, OpenAI, or any other company?**  
 Never.  
 All processing happens locally on your machine.  
 Your conversations are **never transmitted anywhere**.
 
-**Q13. How much disk space does Offlined require?**  
+**Q5. How much disk space does Offlined require?**  
 It depends on what you install:
 
 - Base app → ~200–250 MB  
@@ -360,6 +328,38 @@ It depends on what you install:
 - Your documents/media → unlimited  
 
 You decide the size of your offline ecosystem.
+
+**Q6. Does the app use CPU when I’m not chatting?**  
+No.  
+When the LLM is not processing a message, it goes completely idle.  
+Offlined uses almost **0% CPU** while inactive.
+
+**Q7. Can I use my own GGUF models?**  
+“Not yet. This is on the roadmap; we plan to support a Model Manager that detects .gguf files in _internal/models/ and lets you select one from the UI.
+
+**Q8. Does it work on Linux or macOS?**  
+Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
+
+**Q9. How do I add my own PDFs?**  
+Drop them into `./Offlined/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
+
+**Q10. Is Wikipedia required?**  
+No. It’s optional, but highly recommended. Place any ZIM flavor (maxi/nopic/mini) under `./Offlined/_internal/kiwix/content/`. 
+Tip: start with mini to save disk space.
+
+**Q11. How much RAM does Offlined need?**  
+The current default model, **Phi-4 Mini (Q4_K_M)**, runs smoothly with **4–6 GB of RAM**.  
+Heavier GGUF models benefit from more RAM.  
+The app itself is lightweight; only the LLM is demanding.
+
+**Q12. How do I migrate my data to a new version?**  
+Your personal data is stored in:
+`/Offlined/_internal/doc` & `/Offlined/_internal/media`
+Simply replace these folders inside the new version and all your files will migrate instantly.
+
+**Q13. What happens if I delete a file from the Library?**  
+Deletion is immediate in version **3.0** — there is **no recycle bin** or recovery mechanism.  
+A recycle bin will be introduced in **Offlined v4.0** for restoring accidentally deleted files.
 
 <br><br>
 
