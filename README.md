@@ -333,8 +333,7 @@ Offlined uses almost **0% CPU** while inactive.
 
 **Q9. How do I migrate my data to a new version?**  
 Your personal data is stored in:
-/Offlined/_internal/doc
-/Offlined/_internal/media
+`/Offlined/_internal/doc` & `/Offlined/_internal/media`
 Simply replace these folders inside the new version and all your files will migrate instantly.
 
 **Q10. Can I use Offlined in portable mode (no installation)?**  
