@@ -34,14 +34,16 @@
   </a>
 </p>
 
-### 🔹 Offline LLM & Agents & Wikipedia & Maps & Documents (EN,ES,FR,PT)
+### 🔹 Offlined (EN,ES,FR,PT)
 
-**OFFLINED** is a 100% **offline** desktop-style web app to chat with a **local LLM (GGUF)** or with **expert agents** (medical, biology, engineering, etc.). It also integrates **offline Wikipedia, Offline Maps and Survival Documentation**.
-**No internet required.**
+**OFFLINED** is a fully self-contained, 100% offline desktop-style web application designed to give any user an autonomous digital ecosystem without relying on the internet. It allows you to chat with a local Large Language Model (GGUF) or with specialized expert agents — including medical professionals, biologists, engineers, survival experts, and dozens of other domains — all running entirely on your own device.
 
-- AI model (Microsoft): **Phi-4 Mini 4K Instruct (Q4_K_M)**
-- Maps: **Protomaps OpenStreetMaps** (planet.pmtiles)  
-- Wikipedia: **kiwix-serve** with local **ZIM** files
+But OFFLINED is much more than a chat interface. It integrates a complete knowledge and productivity environment: **offline Wikipedia, offline worldwide maps** with searching, favorites and markers, **a powerful taxonomic Wiki-Trees explorer, a full media center** (images, music, videos, documents), **file management with folders and drag-and-drop, notes, audio notes, calendar, whiteboard**, and a local documents library. Everything runs locally, without any cloud services, telemetry, analytics, or external network calls.
+
+OFFLINED is built as a personal offline “operating system” for knowledge, survival, study, and independence. Whether you want a private AI assistant, a portable encyclopedia, a survival companion, or a resilient digital toolkit for emergencies — OFFLINED works anywhere, anytime, even in total isolation. The entire system is crafted to be lightweight, privacy-first, multilingual, and completely self-sufficient.
+
+When the internet disappears, **your AI, your data, and your knowledge stay with you.**
+
 <br>
 <p align="center">
   <img src="readme_images/computer_github.png"
