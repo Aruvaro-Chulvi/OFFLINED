@@ -36,7 +36,7 @@
 
 ### 🔹 Offlined (EN,ES,FR,PT)
 
-**OFFLINED** is a fully self-contained, 100% offline desktop-style web application designed to give any user an autonomous digital ecosystem without relying on the internet. It allows you to chat with a local Large Language Model (GGUF) or with specialized expert agents — including medical professionals, biologists, engineers, survival experts, and dozens of other domains — all running entirely on your own device.
+**OFFLINED** is a fully self-contained, 100% offline desktop-style web application designed to give any user an autonomous digital ecosystem without relying on the internet. It allows you to chat with a local Large Language Model (Phi-4-mini-instruct-Q4_K_M-GGUF) or with specialized expert agents — including medical professionals, biologists, engineers, survival experts, and dozens of other domains — all running entirely on your own device.
 
 But OFFLINED is much more than a chat interface. It integrates a complete knowledge and productivity environment: **offline Wikipedia, offline worldwide maps** with searching, favorites and markers, **a powerful taxonomic Wiki-Trees explorer, a full media center** (images, music, videos, documents), **file management with folders and drag-and-drop, notes, audio notes, calendar, whiteboard**, and a local documents library. Everything runs locally, without any cloud services, telemetry, analytics, or external network calls.
 
