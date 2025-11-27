@@ -110,6 +110,8 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 - **macOS** (coming soon)
 - **Linux** (coming soon)
 
+### Storage
+- **You can run it from a folder on your PC’s drive, from an external hard drive, or even from a USB stick.**
 <br><br>
 
 ---
