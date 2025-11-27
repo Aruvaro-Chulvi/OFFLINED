@@ -178,9 +178,7 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 # 🤖 Downloading the Model (Phi-4 Mini.GGUF)
 
-**Licensing & responsibility**
-
-- The file below is hosted by a third-party Hugging Face repo. You are responsible for ensuring the **license is compatible** with your intended use and for keeping any required **attributions**.
+**The file below is hosted by a third-party Hugging Face repo.**
 
 <p align="center">
 Download page (for information):<br>https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
