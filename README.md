@@ -34,15 +34,18 @@
   </a>
 </p>
 
-### 🔹 Offlined (EN,ES,FR,PT)
+### 🔹 OFFLINED (EN, ES, FR, PT)
 
-**OFFLINED** is a fully self-contained, 100% offline desktop-style web application designed to give any user an autonomous digital ecosystem without relying on the internet. It allows you to chat with a local Large Language Model (Phi-4-mini-instruct-Q4_K_M-GGUF) or with specialized expert agents — including medical professionals, biologists, engineers, survival experts, and dozens of other domains — all running entirely on your own device.
+**OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet. It allows interaction with a local Large Language Model (Phi-4-mini-instruct-Q4_K_M, GGUF format) as well as with specialized knowledge agents spanning domains such as medicine, biology, engineering, survival, and other fields — all running entirely on the user’s own device.
 
-But OFFLINED is much more than a chat interface. It integrates a complete knowledge and productivity environment: **offline Wikipedia, offline worldwide maps** with searching, favorites and markers, **a powerful taxonomic Wiki-Trees explorer, a full media center** (images, music, videos, documents), **file management with folders and drag-and-drop, notes, audio notes, calendar, whiteboard**, and a local documents library. Everything runs locally, without any cloud services, telemetry, analytics, or external network calls.
+OFFLINED is more than a chat interface. It integrates a complete offline knowledge and productivity ecosystem, including **offline Wikipedia**, **offline worldwide maps** with search, favorites, and markers, a **taxonomic Wiki-Trees explorer**, a **local media center** (images, music, videos, documents), **file management with folders and drag-and-drop**, **notes and audio notes**, **calendar**, **whiteboard**, and a personal document library.  
+All components operate locally, without cloud services, telemetry, analytics, or external network calls.
 
-OFFLINED is built as a personal offline “operating system” for knowledge, survival, study, and independence. Whether you want a private AI assistant, a portable encyclopedia, a survival companion, or a resilient digital toolkit for emergencies — OFFLINED works anywhere, anytime, even in total isolation. The entire system is crafted to be lightweight, privacy-first, multilingual, and completely self-sufficient.
+OFFLINED is designed as a personal offline “operating system” for knowledge, study, preparedness, and digital independence. Whether used as a private local AI assistant, a portable encyclopedia, or a resilient information toolkit for low-connectivity or emergency scenarios, OFFLINED continues to function anywhere — even in total isolation.  
+The system is lightweight, privacy-first, multilingual, and deliberately self-sufficient.
 
-When the internet disappears, **your AI, your data, and your knowledge stay with you.**
+When internet access is unavailable, **your AI, your data, and your knowledge remain with you.**
+
 
 <br>
 <p align="center">
@@ -53,16 +56,27 @@ When the internet disappears, **your AI, your data, and your knowledge stay with
 
 ### ✨ Features
 
-- **100% offline**: runs locally with GGUF models via `llama-cpp-python` (no cloud, no telemetry).
-- **Two chat modes**: **🤖 Model** — direct chat with the selected LLM. **👥 Agents** — visual agent picker (medical, engineering, etc.).
-- **LLM answer selecting**: Select text in LLM answers for **wiki search feature**.
-- **Offline Worldwide Map**: built-in tab that works with **Protomaps and pmtiles** + **OpenStreetMaps** files.
-- **Offline Wikipedia**: built-in tab that works with **Kiwix** + **ZIM** files; can auto-start `kiwix-serve`.
-- **Wiki-Trees**: for a friendly and better **"wikipedia exploration"**.
-- **3 types of wikipedia available**: "maxi", "no-pic" & "mini".
-- **Library Folders**: for **.pdf** files you want to store.
-- **Multi-language UI**: EN / ES / FR / PT (including localized agent categories).
-- **Clean UI/UX**: light/dark theme toggle. Battery, disk, cpu, ram and temp indicator bars.
+- **100% offline by design**: Runs entirely locally using GGUF models via `llama-cpp-python`. No cloud services, telemetry, analytics, or external network calls.
+- **Local AI chat**:  
+  - **🤖 Model mode** — direct interaction with the selected local LLM.  
+  - **👥 Agents mode** — a visual agent selector providing domain-focused knowledge agents (e.g. medicine, engineering, survival, education).
+- **Contextual Wikipedia lookup**: Select text from LLM responses to instantly search related offline Wikipedia articles.
+- **Offline worldwide maps**: Integrated map view powered by **Protomaps**, **PMTiles**, and **OpenStreetMap** data, with search, markers, and favorites.
+- **Offline Wikipedia integration**: Built-in Wikipedia viewer using **Kiwix** and **ZIM** files, with optional automatic startup of `kiwix-serve`.
+- **Wiki-Trees explorer**: A structured, taxonomic interface for guided and intuitive exploration of Wikipedia content.
+- **Multiple Wikipedia datasets supported**:  
+  - *Maxi* (full articles with images)  
+  - *No-pic* (full articles without images)  
+  - *Mini* (intro sections only)
+- **Local document library**: Folder-based management of **PDF documents** with drag-and-drop organization.
+- **Media library**: Local browsing and playback of images, audio, video, and documents.
+- **Built-in productivity tools**:  
+  - Notes and audio notes  
+  - Calendar  
+  - Whiteboard / drawing workspace
+- **Multi-language user interface**: English, Spanish, French, and Portuguese, including localized agent categories.
+- **Clean and informative UI**: Light and dark themes, system indicators for battery, disk usage, CPU, RAM, and temperature.
+
  
 > This portable zip file **does not ship any model or ZIM files or pmtiles files**. You’ll download them yourself (links and instructions provided below). 
 <br>
@@ -116,14 +130,17 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ---
 
-# 🌍 Who is it for?
+## 🌍 Who is OFFLINED for?
 
-**OFFLINED** is built for:
-- **Preppers & outdoors** communities who need reliable tools without internet.
-- **Schools & libraries** in low-connectivity regions, looking for offline knowledge.
-- **NGOs & emergency response** teams operating in field conditions.
-- **Researchers & archivists** who value self-hosted, offline-first workflows.
-- **Privacy-conscious users** who prefer fully local processing and storage.
+**OFFLINED** is designed for individuals and organizations that require reliable access to knowledge and tools without depending on continuous internet connectivity, including:
+
+- **Preparedness and outdoor communities** seeking dependable offline information and tools.
+- **Schools, libraries, and educational programs** in low-connectivity or high-cost connectivity regions.
+- **NGOs and emergency response teams** operating in field, disaster, or infrastructure-limited environments.
+- **Researchers, archivists, and educators** who value self-hosted, long-term access to reference material.
+- **Privacy-conscious users** who prefer fully local computation, storage, and control over their data.
+
+While these groups represent the core use cases today, OFFLINED is also relevant to anyone who values **resilient access to knowledge**, **digital autonomy**, and **offline-first workflows** in an increasingly cloud-dependent world.
 
 <br><br>
 
@@ -305,67 +322,98 @@ https://maps.protomaps.com/builds/
 ---
 
 
-# 🙋 FAQ
+## 🙋 FAQ
 
-### Q1. Do I need internet to use this?
-No. Everything runs locally (LLM, agents, maps, Wikipedia, and your PDF library). You only need internet to download models/ZIM/pmtiles the first time.
+### Q1. Do I need an internet connection to use OFFLINED?
+No. All core components run locally, including the LLM, knowledge agents, maps, Wikipedia, and your document library.  
+An internet connection is only required initially to download models, Wikipedia ZIM files, or map data (PMTiles).
 
-### Q2. Can I use Offlined in portable mode (no installation)?  
-Yes. Simply double-click the `.exe` and the app launches.  
-Offlined is fully portable and can run from a folder, external drive, or USB stick.
+---
 
-### Q3. Do my data ever leave my computer, external drive, or USB stick?  
-No. Nothing leaves your devices.  
-There is no cloud, no telemetry, no analytics, and no external API calls.  
-Everything (AI, Wikipedia, maps, notes, audio, documents) runs 100% offline and locally.
+### Q2. Can I use OFFLINED in portable mode (no installation)?
+Yes. OFFLINED is fully portable.  
+Simply launch the `.exe` file — the application can run from a local folder, an external drive, or a USB stick.
 
-### Q4. Does Offlined send my chats to Microsoft, Google, OpenAI, or any other company?  
-Never.  
-All processing happens locally on your machine.  
-Your conversations are **never transmitted anywhere**.
+---
 
-### Q5. How much disk space does Offlined require?  
-It depends on what you install:
+### Q3. Do my data ever leave my computer, external drive, or USB stick?
+No. OFFLINED does not transmit user data externally.  
+There is no cloud backend, telemetry, analytics, or third-party API usage.  
+All processing and storage occur locally on your device.
 
-- Base app → ~200–250 MB  
-- One GGUF model → ~3 GB  
-- Wikipedia Maxi ZIM (varies by country) → **40–120 GB**  
-- Global Maps (planet.pmtiles) → **~120 GB**  
-- Your documents/media → unlimited  
+---
 
-You decide the size of your offline ecosystem.
-
-### Q6. Does the app use CPU when I’m not chatting?  
+### Q4. Does OFFLINED send my chats to Microsoft, Google, OpenAI, or any other company?
 No.  
-When the LLM is not processing a message, it goes completely idle.  
-Offlined uses almost **0% CPU** while inactive.
+All inference and data handling occur locally. Conversations are not transmitted to external services.
 
-### Q7. How much RAM does Offlined need?  
-The current default model, **Phi-4 Mini (Q4_K_M)**, runs smoothly with **4–6 GB of RAM**.  
-Heavier GGUF models benefit from more RAM.  
-The app itself is lightweight; only the LLM is demanding.
+---
 
-### Q8. Is Wikipedia required?  
-No. It’s optional, but highly recommended. Place any ZIM flavor (maxi/nopic/mini) under `./Offlined/_internal/kiwix/content/`. 
-Tip: start with mini to save disk space.
+### Q5. How much disk space does OFFLINED require?
+Disk usage depends on the components you choose to install:
 
-### Q9. Does it work on Linux or macOS?  
-Windows x64 is the target today. macOS and Linux are planned (see Roadmap).
+- Base application → ~200–250 MB  
+- One GGUF model → ~3 GB  
+- Wikipedia Maxi ZIM files (language-dependent) → ~40–120 GB  
+- Global maps (`planet.pmtiles`) → ~120 GB  
+- Personal documents and media → user-defined  
 
-### Q10. Can I use my own GGUF models?  
-“Not yet. This is on the roadmap; we plan to support a Model Manager that detects .gguf files in _internal/models/ and lets you select one from the UI.
+You control the size of your offline environment.
 
-### Q11. How do I add my own PDFs?  
-Drop them into `./Offlined/_internal/docs/` (any subfolders you prefer). They’ll appear in the Library tab.
+---
 
-### Q12. How do I migrate my data to a new version?  
-Your personal data is stored in:
-`/Offlined/_internal/doc` & `/Offlined/_internal/media`
-Simply replace these folders inside the new version and all your files will migrate instantly.
+### Q6. Does the app use CPU resources when idle?
+When the language model is not actively processing a request, CPU usage is minimal.  
+Resource usage increases only during active inference or media processing.
 
-### Q13. What happens if I delete a file from the Library?  
-Deletion is immediate in version **3.0** — there is **no recycle bin** or recovery mechanism.  
-A recycle bin will be introduced in **Offlined v4.0** for restoring accidentally deleted files.
+---
+
+### Q7. How much RAM does OFFLINED need?
+The default model, **Phi-4 Mini (Q4_K_M)**, typically runs smoothly with **4–6 GB of available RAM**.  
+Larger or higher-precision GGUF models benefit from additional memory.  
+The application itself is lightweight; memory demand is driven primarily by the selected model.
+
+---
+
+### Q8. Is offline Wikipedia required?
+No. Wikipedia support is optional, but recommended.  
+Any supported ZIM dataset (*maxi*, *nopic*, or *mini*) can be placed under:  
+`./Offlined/_internal/kiwix/content/`  
+To reduce disk usage, starting with the *mini* version is advised.
+
+---
+
+### Q9. Does OFFLINED work on Linux or macOS?
+Windows x64 is the primary supported platform today.  
+macOS and Linux support are planned and tracked in the project roadmap.
+
+---
+
+### Q10. Can I use my own GGUF models?
+Not yet.  
+Support for a model manager that detects and allows selection of custom `.gguf` files from `_internal/models/` is planned for a future release.
+
+---
+
+### Q11. How do I add my own PDF documents?
+Place your PDF files in:  
+`./Offlined/_internal/docs/`  
+You may organize them into any folder structure you prefer. Files will appear automatically in the Library view.
+
+---
+
+### Q12. How do I migrate my data to a new version?
+User data is stored in:
+- `/Offlined/_internal/docs`  
+- `/Offlined/_internal/media`  
+
+Copying these folders into a newer OFFLINED version will preserve your documents and media.
+
+---
+
+### Q13. What happens if I delete a file from the Library?
+In version **3.0**, deletion is immediate and permanent, with no recovery mechanism.  
+A recycle bin feature is planned for **Offlined v4.0** to allow recovery of accidentally deleted files.
 
 <br><br>
 
@@ -378,74 +426,98 @@ A recycle bin will be introduced in **Offlined v4.0** for restoring accidentally
 - [x] v1 — 💬 Chat Core - Base app (LLM Chat UI)  
 - [x] v2 — 🏛️ Wikipedia integration + Text selection search  
 - [x] v3 — 🗺️ Documentation & Offline Maps integration & Wiki-trees  
-- [ ] v4 — ✨🔭 Sky + 🌍 Global Search  
-- [ ] v5 — 🧰 Agent Kit + 📚🔎 RAG (per-agent offline documentation)  
-- [ ] v6 — 💻📦 Third-party open source apps (LibreOffice, GIMP, VLC, Audacity…)  
-- [ ] v7 — 🌐🚫 No-Internet OS (🐧 Linux-based, app as desktop)  
-- [ ] v8 — 🌎📚 Offlined OS Editions (Survival / Education / Rural)
+- [ ] v4 — 🔎 Unified Global Search  
+- [ ] v5 — 🧰 Agent Capabilities & Local Knowledge Access
+- [ ] v6 — 🤖 OFFLINED Personal Assistant (Exploratory)
+- [ ] v7 — 🌐 OFFLINED System Environment (Exploratory)
+- [ ] v8 — 🌎📚 OFFLINED Editions (Exploratory)
 
 ---
 
-The journey of **Offlined.org** has gone through several stages of evolution.  
-Early versions focused on building the foundation — the chat interface, model integration, and the first offline tools. The roadmap ahead remains ambitious and full of new features:
+OFFLINED evolves through incremental, self-contained milestones.  
+Each version extends offline capability while preserving reliability, privacy, and local control.
 
-- **Version 1 — 💬 Chat Core**  
-  First public prototype with a functional chat interface and basic LLM integration.  
-  Established the foundation for offline AI communication.
+### Completed
+- [x] **v1 — 💬 Chat Core**  
+  Base application with local LLM chat and offline-first architecture.
 
-- **Version 2 — 🏛️ Wikipedia Integration**  
-  Added offline Wikipedia search through text selection inside chat responses, allowing users to consult articles seamlessly from model outputs.
+- [x] **v2 — 🏛️ Wikipedia Integration**  
+  Offline Wikipedia access with contextual search from LLM responses.
 
-- **Version 3 — 🗺️ Documentation & Maps & Wiki-trees**  
-  Introduced the **offline documentation viewer** and integrated **MapLibre + PMTiles** maps. Added **"Wiki-trees"** feature for wiki exploration.  
-  
-  From this point, the combined system became known as  
-  **“v3 — Base app (LLM, Agents, Wikipedia, Maps, Docs)”**.
+- [x] **v3 — 🧱 Base Platform (Offline Knowledge OS)**  
+  Shipped the complete offline platform, including:
+  - Local LLM chat + Agents mode  
+  - Offline Wikipedia (Kiwix + ZIM) + contextual lookup from AI responses
+  - Offline maps (MapLibre + PMTiles) with search, markers, and favorites  
+  - Offline sky visualization
+  - Wiki-Trees explorer 
+  - Local documents & media library with drag-and-drop  
+  - Built-in tools: notes, audio notes, calendar, whiteboard  
+
+  From this stage onward, OFFLINED is the **base platform** for offline knowledge, tools, and personal content.
+
 
 ---
 
-- **Version 4 — ✨🔭 Sky & 🌍 Global Search**  
-  Stellarium will be fully integrated offline, bringing an interactive sky map, constellations, and celestial objects into the app — turning OFFLINED into a pocket planetarium that works without internet.  
-  Additionally, a new **Global Search** system will allow you to instantly find anything across all modules — **agents, Wikipedia articles, Wikipedia trees, local documents, and stellar objects** — unifying the entire offline knowledge base into a single, intelligent search bar.
+### In Progress / Planned
+- [ ] **v4 — 🔎 Unified Search**  
+  A global search layer spanning agents, Wikipedia, Wiki-Trees, documents, and media.
 
-- **Version 5 — 🪪🧰Agent Kit & 📚🔎RAG**  
-  Each agent will receive a dedicated **Agent Kit**: predefined prompts to boost its usefulness in survival scenarios.  
-  In addition, agents will gain the surprising ability to perform **RAG (Retrieval-Augmented Generation)** on curated offline documentation and available "Wiki-trees". Every profession-linked agent will be able to consult specific PDFs and manuals relevant to their expertise, giving more grounded and specialized guidance.
+- [ ] **v5 — 🧰 Agent Capabilities & Local Knowledge Access**  
+  Expanded agent functionality with structured prompts and the ability to consult relevant local documents.  
+  Depending on model capabilities, this may involve lightweight retrieval techniques rather than full RAG pipelines.
 
-- **Version 6 — 💻📦Third-party Open Source Software**  
-  We will bundle a selection of essential offline open source software: 📄LibreOffice, 🎨GIMP, 🎥VLC, 🎧Audacity, and 🛠️more.  
-  The aim is to make OFFLINED not only a survival assistant but also a complete offline productivity and creativity hub.
+---
 
-- **Version 7 — 🌐🚫No-Internet OS (Dream Edition)**  
-  With enough community support, we dream of building a **🐧Linux-based “No Internet OS”**.  
-  It would boot into our app as its main desktop environment but allow users to install all tools from V6 (LibreOffice, Audacity, GIMP, etc.).  
-  This would transform the project into a full-fledged offline operating system for survival, creativity, and autonomy.
+### Long-term Vision (Exploratory)
 
-- **Version 8 — 🌎📚 Offlined OS Editions (For Survival, Education & Rural Zones)**  
-  Once the No-Internet OS is stable, we plan to create **three specialized editions** of the system:  
-  - **🏕️ Offlined OS — For Survival:** focused on emergency preparedness, self-reliance, medical knowledge, field engineering and offline survival manuals.  
-  - **🎓 Offlined OS — For Education:** designed for schools and students in areas with poor connectivity, including educational agents, encyclopedias and open textbooks.  
-  - **🏡 Offlined OS — For Rural Zones:** optimized for low-power hardware and communities with limited or no internet access, offering tools for agriculture, local communication and energy management.  
+The long-term goal of OFFLINED is to evolve into a **portable, sovereign, offline personal AI assistant** capable of reasoning over a user’s private knowledge base — including documents, references, and structured content — without cloud dependencies.
 
-  Each edition will adapt the agents, documentation and available software to its purpose, creating self-sufficient digital ecosystems that work **completely offline**.
+This assistant-centric core may be delivered through different forms as the platform evolves:
 
-  LLM's are expected to get faster and more reliable with time, and we're hoping this will have a positive impact in the tool. 
+- [ ] **v6 — 🤖 OFFLINED Personal Assistant (Exploratory)**  
+  Expansion of OFFLINED into a persistent, agentic personal assistant that can understand, search, and reason across the user’s local knowledge ecosystem.  
+  The assistant operates entirely offline, backed by a secure local database and evolving on-device model capabilities.
+
+- [ ] **v7 — 🌐 OFFLINED System Environment (Exploratory)**  
+  An optional offline-first system environment where the OFFLINED personal assistant serves as the primary interface for knowledge access and local workflows.  
+  This may take the form of a Linux-based distribution or integrated desktop shell, designed for resilience rather than general-purpose computing.
+
+- [ ] **v8 — 🌎📚 OFFLINED Editions (Exploratory)**  
+  Domain-focused editions of the same personal assistant and core platform, tailored for specific contexts such as:
+  - **Survival & preparedness**
+  - **Education**
+  - **Rural and low-connectivity environments**
+
+  Each edition adapts agents, documentation, and assistant behavior while preserving the same offline, privacy-first architecture.
+
+---
+
+> As local language models continue to improve, OFFLINED is designed to adapt its agent and knowledge systems to benefit from stronger on-device reasoning — without introducing cloud dependencies.
+
 
 <br><br>
 
 ---
-#  ⚖️ License & Usage Summary
+# ⚖️ License & Usage Summary
 
-**OFFLINED** is *source-available* software — it is **not open-source** under OSI definitions.
+**OFFLINED** is *source-available* software and is **not open-source** under OSI definitions.  
+This licensing model is intentional: it provides transparency and user trust while preserving safety, coherence, and long-term sustainability.
 
-- **Software (code):** Free to use for **personal and educational** purposes.  
-  **Commercial use, modification, or redistribution** are **not permitted** without **prior written permission**.  
-  Source code is provided for **transparency and personal study** only. See [`LICENSE.md`](./LICENSE.md).
+- **Software (code):**  
+  Free to use for **personal and educational purposes**.  
+  **Commercial use, modification, or redistribution** require **prior written permission** from the authors.  
+  The source code is provided for **transparency and personal study**, not for unrestricted reuse.  
+  See [`LICENSE.md`](./LICENSE.md) for full terms.
 
-- **Assets (avatars, agent texts, creative content):** Licensed under **CC BY-NC-ND 4.0**.  
-  You may share the assets **unaltered** with credit; **no commercial use or derivatives**. See [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md).
+- **Assets (avatars, agent texts, creative content):**  
+  Licensed under **Creative Commons CC BY-NC-ND 4.0**.  
+  Assets may be shared **unaltered**, with attribution.  
+  **Commercial use and derivative works are not permitted**.  
+  See [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md) for details.
 
-For commercial or redistribution licensing, please contact the authors.
+For commercial licensing, partnerships, or redistribution rights, please contact the authors.
+
 
 <br><br>
 
@@ -473,32 +545,17 @@ If you find OFFLINED valuable:
 
 ---
 
-# 📜 Licenses
 
-| Component         | License                                                                 |
-|-------------------|-------------------------------------------------------------------------|
-| **Code**          | Custom non-commercial license (see [`LICENSE.md`](./LICENSE.md))        |
-| **Avatars & bios**| CC BY-NC-ND 4.0 (see [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md))        |
-| **3rd party**     | Licensed inside folder (/licenses)                                      |
-
-<br><br>
-
----
-
-# ❤️ Special thanks
-
-**Thanks to all the developers behind these projects for making this possible. I would never have thought, until I met you, that the project I had in mind could be so easy thanks to you.**
-
-<p align="center">
-  <img src="readme_images/thanks.png"
-     alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
+| Component            | License                                                                            |
+|----------------------|------------------------------------------------------------------------------------|
+| **Application code** | Custom source-available, non-commercial license (see [`LICENSE.md`](./LICENSE.md)) |
+| **Avatars & bios**   | CC BY-NC-ND 4.0 (see [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md))                   |
+| **Third-party code** | Licensed under their respective licenses (see `/licenses`)                         |
 
 <br><br>
 
 ---
 
-© 2025 Offlined Project — Created by Álvaro Cuadrado Chulvi & Eric Uguet.
-All rights reserved. Source-available for personal and educational use only.
+© 2025 Offlined Project — Created by Álvaro Cuadrado Chulvi & Eric Uguet.  
+All rights reserved. Source-available for personal and educational use only.  
 “Offlined” is a trademark of the Offlined Project.
