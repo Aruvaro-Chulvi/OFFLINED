@@ -500,12 +500,7 @@ Because OFFLINED is **source-available and non-commercial**, **pull requests are
 
 ### Sustainability
 If you find OFFLINED valuable:
-- ☕ Buy Me a Coffee: **offlined**  
-- 💳 PayPal (donations): add your link in `FUNDING.yml` → `custom: ['https://…']`  
-- 🟣 Ko-fi (optional): add your handle
-
-> Note: Platforms like **GitHub Sponsors** or **OpenCollective** generally require OSI-approved open-source licenses, which OFFLINED does not use.
-
+- ☕ Buy Me a Coffee: [offlined](https://buymeacoffee.com/offlined)
 <br><br>
 
 ---
@@ -521,6 +516,6 @@ If you find OFFLINED valuable:
 
 ---
 
-© 2025 Offlined Project — Created by Álvaro Cuadrado Chulvi & Eric Uguet.  
+© 2026 Offlined Project — Created by Álvaro Cuadrado Chulvi & Eric Uguet.  
 All rights reserved. Source-available for personal and educational use only.  
 “Offlined” is a trademark of the Offlined Project.
