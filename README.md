@@ -428,62 +428,65 @@ A recycle bin feature is planned for **Offlined v4.0** to allow recovery of acci
 
 ---
 
-OFFLINED evolves through incremental, self-contained milestones.  
+OFFLINED evolves through incremental, self-contained milestones.
 Each version extends offline capability while preserving reliability, privacy, and local control.
 
 ### Completed
-- [x] **v1 — 💬 Chat Core**  
-  Base application with local LLM chat and offline-first architecture.
 
-- [x] **v2 — 🏛️ Wikipedia Integration**  
-  Offline Wikipedia access with contextual search from LLM responses.
+**v1 — 💬 Chat Core**  
+Base application with local LLM chat and offline-first architecture.
 
-- [x] **v3 — 🧱 Base Platform (Offline Knowledge OS)**  
-  Shipped the complete offline platform, including:
-  - Local LLM chat + Agents mode  
-  - Offline Wikipedia (Kiwix + ZIM) + contextual lookup from AI responses
-  - Offline maps (MapLibre + PMTiles) with search, markers, and favorites  
-  - Offline sky visualization
-  - Wiki-Trees explorer 
-  - Local documents & media library with drag-and-drop  
-  - Built-in tools: notes, audio notes, calendar, whiteboard  
+**v2 — 🏛️ Wikipedia Integration**  
+Offline Wikipedia access with contextual search from LLM responses.
 
-  From this stage onward, OFFLINED is the **base platform** for offline knowledge, tools, and personal content.
+**v3 — 🧱 Base Platform (Offline Knowledge OS)**  
+Shipped the complete offline platform, including:
 
+- Local LLM chat + Agents mode  
+- Offline Wikipedia (Kiwix + ZIM) + contextual lookup from AI responses  
+- Offline maps (MapLibre + PMTiles) with search, markers, and favorites  
+- Offline sky visualization  
+- Wiki-Trees explorer  
+- Local documents & media library with drag-and-drop  
+
+From this stage onward, OFFLINED is the base platform for offline knowledge, tools, and personal content.
+
+**v4 — 📚 Integrated & Portable apps + switch from phi-4 to gpt-oss**  
+- Built-in tools: notes, audio notes, calendar, whiteboard.  
+- Portable apps support: Notepad++, PortableApps.com platform, and any other Windows-compatible portable application.
 
 ---
 
 ### In Progress / Planned
-- [ ] **v4 — 🔎 Unified Search**  
-  A global search layer spanning agents, Wikipedia, Wiki-Trees, documents, and media.
 
-- [ ] **v5 — 🧰 Agent Capabilities & Local Knowledge Access**  
-  Expanded agent functionality with structured prompts and the ability to consult relevant local documents.  
-  Depending on model capabilities, this may involve lightweight retrieval techniques rather than full RAG pipelines.
+**v5 — 🌎 Adding more languages**  
+Expanded language compatibility with the new model to:  
+English, Spanish, French, Portuguese, German, Italian, Chinese, Korean, Japanese, Arabic, Russian.
 
 ---
 
 ### Long-term Vision (Exploratory)
 
-The long-term goal of OFFLINED is to evolve into a **portable, sovereign, offline personal AI assistant** capable of reasoning over a user’s private knowledge base — including documents, references, and structured content — without cloud dependencies.
+The long-term goal of OFFLINED is to evolve into a portable, sovereign, offline personal AI assistant capable of reasoning over a user’s private knowledge base — including documents, references, and structured content — without cloud dependencies.
 
 This assistant-centric core may be delivered through different forms as the platform evolves:
 
-- [ ] **v6 — 🤖 OFFLINED Personal Assistant (Exploratory)**  
-  Expansion of OFFLINED into a persistent, agentic personal assistant that can understand, search, and reason across the user’s local knowledge ecosystem.  
-  The assistant operates entirely offline, backed by a secure local database and evolving on-device model capabilities.
+**v6 — 🤖 OFFLINED Personal Assistant Drive**  
+We are currently looking for collaborators and actively discussing how to scale this project.
 
-- [ ] **v7 — 🌐 OFFLINED System Environment (Exploratory)**  
-  An optional offline-first system environment where the OFFLINED personal assistant serves as the primary interface for knowledge access and local workflows.  
-  This may take the form of a Linux-based distribution or integrated desktop shell, designed for resilience rather than general-purpose computing.
+**v7 — 🌐 OFFLINED System Environment (Exploratory)**  
+An optional offline-first system environment where the OFFLINED personal assistant serves as the primary interface for knowledge access and local workflows.  
+This may take the form of a Linux-based distribution or integrated desktop shell, designed for resilience rather than general-purpose computing.
 
-- [ ] **v8 — 🌎📚 OFFLINED Editions (Exploratory)**  
-  Domain-focused editions of the same personal assistant and core platform, tailored for specific contexts such as:
-  - **Survival & preparedness**
-  - **Education**
-  - **Rural and low-connectivity environments**
+**v8 — 🌎📚 OFFLINED Editions (Exploratory)**  
+Domain-focused editions of the same personal assistant and core platform, tailored for specific contexts such as:
 
-  Each edition adapts agents, documentation, and assistant behavior while preserving the same offline, privacy-first architecture.
+- Survival & preparedness  
+- Education  
+- Rural and low-connectivity environments  
+
+Each edition adapts agents, documentation, and assistant behavior while preserving the same offline, privacy-first architecture.
+
 
 ---
 
