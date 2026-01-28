@@ -94,7 +94,6 @@ When internet access is unavailable, **your AI, your data, and your knowledge re
 - [✅ Requirements](#-requirements)
 - [🌍 Who is it for?](#-who-is-it-for)
 - [📝 Instructions](#-instructions)
-- [🤖 Downloading the Model (Phi-4 Mini.GGUF)](#-downloading-the-model-phi-4-minigguf)
 - [📖 Downloading Wikipedia ZIM files](#-downloading-wikipedia-zim-files)
 - [📚 Adding more to your library (pdf files)](#-adding-more-to-your-library-pdf-files)
 - [🌍 Downloading the planet.pmtiles file](#-downloading-the-planetpmtiles-file)
@@ -189,23 +188,6 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 │  ├── README.md
 │  └── LICENSE
 ```
-
-<br><br>
-
----
-
-# 🤖 Downloading the Model (GPT-OSS 20B.GGUF)
-
-**The file below is hosted by a third-party Hugging Face repo.**
-
-<p align="center">
-Download page (for information):<br>https://huggingface.co/matrixportalx/gpt-oss-20b-Q4_K_M-GGUF
-<br><br>
-Download model link (.GGUF file - 11,6 GB):<br>https://huggingface.co/matrixportalx/gpt-oss-20b-Q4_K_M-GGUF/blob/main/gpt-oss-20b-Q4_K_S.gguf
-<br>
-</p>
-
-👉 **Do not rename** Place the GGUF file in: ``./Offlined/_internal/models/gpt-oss-20b-Q4_K_S.gguf``.
 
 <br><br>
 
