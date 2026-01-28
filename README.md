@@ -38,7 +38,7 @@
 
 **OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet. It allows interaction with a local Large Language Model (gpt-oss-20b-Q4_K_M, GGUF format) as well as with specialized knowledge agents spanning domains such as medicine, biology, engineering, survival, and other fields — all running entirely on the user’s own device.
 
-OFFLINED is more than a chat interface. It integrates a complete offline knowledge and productivity ecosystem, including **offline Wikipedia**, **offline worldwide maps** with search, favorites, and markers, a **taxonomic Wiki-Trees explorer**, a **local media center** (images, music, videos, documents), **file management with folders and drag-and-drop**, **notes and audio notes**, **calendar**, **whiteboard**, and a personal document library. Además de las aplicaciones integradas, se puede instalar cualquier aplicación portable que se desee incluir.  
+OFFLINED is more than a chat interface. It integrates a complete offline knowledge and productivity ecosystem, including **offline Wikipedia**, **offline worldwide maps** with search, favorites, and markers, a **taxonomic Wiki-Trees explorer**, a **local media center** (images, music, videos, documents), **file management with folders and drag-and-drop**, **notes and audio notes**, **calendar**, **whiteboard**, and a personal document library. In addition to the integrated applications, any portable application can be installed and included.  
 All components operate locally, without cloud services, telemetry, analytics, or external network calls.
 
 OFFLINED is designed as a personal offline “operating system” for knowledge, study, preparedness, and digital independence. Whether used as a private local AI assistant, a portable encyclopedia, or a resilient information toolkit for low-connectivity or emergency scenarios, OFFLINED continues to function anywhere — even in total isolation.  
@@ -83,7 +83,7 @@ When internet access is unavailable, **your AI, your data, and your knowledge re
 <br>
 
 <p align="center">
-⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 Este es nuestro primer proyecto en github, nos encantaría encontrar colaboradores que piensen que compartir esto con todo el mundo tiene un valor por el que vale la pena dedicar un tiempo.
+⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 This is our first GitHub project, and we would love to find collaborators who believe that sharing this with the world is valuable enough to dedicate time and effort to.
 </p>
 <br>
 
