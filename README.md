@@ -148,7 +148,7 @@ While these groups represent the core use cases today, OFFLINED is also relevant
 
 # 📝 Instructions
 
-The following instructions are intended for the **Portable windows x64 version** you can find in our website **https://www.offlined.org** or in the following link: [Download Link](https://www.offlined.org)
+The following instructions are intended for the **Portable windows x64 version** you can find in our website **https://www.offlined.org** or in the following link: [Download Link](https://mega.nz/file/lJ0nGZTZ#uWp51wdfAdMSr3pV2vgWPlZI4e97ObJOQxwvfB1IIZ4)
 
 ## 📦 Project Structure for needed files
 Download the project zip file and extract in root **C:/** or in the **folder** you prefer on your desktop.
