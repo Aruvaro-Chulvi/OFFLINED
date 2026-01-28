@@ -36,9 +36,9 @@
 
 ### 🔹 OFFLINED (EN, ES, FR, PT)
 
-**OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet. It allows interaction with a local Large Language Model (Phi-4-mini-instruct-Q4_K_M, GGUF format) as well as with specialized knowledge agents spanning domains such as medicine, biology, engineering, survival, and other fields — all running entirely on the user’s own device.
+**OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet. It allows interaction with a local Large Language Model (gpt-oss-20b-Q4_K_M, GGUF format) as well as with specialized knowledge agents spanning domains such as medicine, biology, engineering, survival, and other fields — all running entirely on the user’s own device.
 
-OFFLINED is more than a chat interface. It integrates a complete offline knowledge and productivity ecosystem, including **offline Wikipedia**, **offline worldwide maps** with search, favorites, and markers, a **taxonomic Wiki-Trees explorer**, a **local media center** (images, music, videos, documents), **file management with folders and drag-and-drop**, **notes and audio notes**, **calendar**, **whiteboard**, and a personal document library.  
+OFFLINED is more than a chat interface. It integrates a complete offline knowledge and productivity ecosystem, including **offline Wikipedia**, **offline worldwide maps** with search, favorites, and markers, a **taxonomic Wiki-Trees explorer**, a **local media center** (images, music, videos, documents), **file management with folders and drag-and-drop**, **notes and audio notes**, **calendar**, **whiteboard**, and a personal document library. Además de las aplicaciones integradas, se puede instalar cualquier aplicación portable que se desee incluir.  
 All components operate locally, without cloud services, telemetry, analytics, or external network calls.
 
 OFFLINED is designed as a personal offline “operating system” for knowledge, study, preparedness, and digital independence. Whether used as a private local AI assistant, a portable encyclopedia, or a resilient information toolkit for low-connectivity or emergency scenarios, OFFLINED continues to function anywhere — even in total isolation.  
@@ -73,7 +73,8 @@ When internet access is unavailable, **your AI, your data, and your knowledge re
 - **Built-in productivity tools**:  
   - Notes and audio notes  
   - Calendar  
-  - Whiteboard / drawing workspace
+  - Whiteboard / drawing workspace  
+  - Portable apps compatible
 - **Multi-language user interface**: English, Spanish, French, and Portuguese, including localized agent categories.
 - **Clean and informative UI**: Light and dark themes, system indicators for battery, disk usage, CPU, RAM, and temperature.
 
@@ -82,7 +83,7 @@ When internet access is unavailable, **your AI, your data, and your knowledge re
 <br>
 
 <p align="center">
-⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 This is our first github project, and all the help (and comprehension) would be appreciated.
+⚠️ The following instructions are intended for the windows x64 portable version provided below.<br>🔥 If you want to have a look, project files are included in the source code.<br>👥 Este es nuestro primer proyecto en github, nos encantaría encontrar colaboradores que piensen que compartir esto con todo el mundo tiene un valor por el que vale la pena dedicar un tiempo.
 </p>
 <br>
 
@@ -176,7 +177,7 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 |  | └── assets/
 |  |     └── maps/ # Put your .pmtiles files here (planet.pmtiles)
 │  │
-│  ├── models/ # Put your .gguf files here (e.g., phi-4-mini-instruct-q4_k_m.gguf)
+│  ├── models/ # Put your .gguf files here (e.g., gpt-oss-20b-Q4_K_S.gguf)
 │  │
 │  ├── kiwix/
 │  │ ├── kiwix-serve(.exe)
@@ -193,18 +194,18 @@ Download the project zip file and extract in root **C:/** or in the **folder** y
 
 ---
 
-# 🤖 Downloading the Model (Phi-4 Mini.GGUF)
+# 🤖 Downloading the Model (GPT-OSS 20B.GGUF)
 
 **The file below is hosted by a third-party Hugging Face repo.**
 
 <p align="center">
-Download page (for information):<br>https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF
+Download page (for information):<br>https://huggingface.co/matrixportalx/gpt-oss-20b-Q4_K_M-GGUF
 <br><br>
-Download model link (.GGUF file - 2,49 GB):<br>https://huggingface.co/matrixportalx/Phi-4-mini-instruct-Q4_K_M-GGUF/blob/main/phi-4-mini-instruct-q4_k_m.gguf
+Download model link (.GGUF file - 11,6 GB):<br>https://huggingface.co/matrixportalx/gpt-oss-20b-Q4_K_M-GGUF/blob/main/gpt-oss-20b-Q4_K_S.gguf
 <br>
 </p>
 
-👉 **Do not rename** Place the GGUF file in: ``./Offlined/_internal/models/phi-4-mini-instruct-q4_k_m.gguf``.
+👉 **Do not rename** Place the GGUF file in: ``./Offlined/_internal/models/gpt-oss-20b-Q4_K_S.gguf``.
 
 <br><br>
 
@@ -261,11 +262,6 @@ https://download.kiwix.org/zim/wikipedia/
 ---
 
 # 📚 Downloading the library (pdf files)
-
-**Download zip file:**  
-https://www.offlined.org
-<br>
-👉 **Extract docs folder** and place it here: ``./Offlined/_internal/extract here``.
 
 **Adding more files to your library:**  
 **Our Recommendation - Project Gutenberg Resource:** is a volunteer-driven digital library that offers over 70,000 free eBooks, including many classics of world literature. All the books are in the public domain, which means they can be freely read, downloaded, and shared without cost. It is one of the oldest and largest online collections of free books, created to make cultural works accessible to everyone, everywhere.
@@ -353,7 +349,7 @@ All inference and data handling occur locally. Conversations are not transmitted
 Disk usage depends on the components you choose to install:
 
 - Base application → ~200–250 MB  
-- One GGUF model → ~3 GB  
+- One GGUF model → ~12 GB  
 - Wikipedia Maxi ZIM files (language-dependent) → ~40–120 GB  
 - Global maps (`planet.pmtiles`) → ~120 GB  
 - Personal documents and media → user-defined  
@@ -426,11 +422,9 @@ A recycle bin feature is planned for **Offlined v4.0** to allow recovery of acci
 - [x] v1 — 💬 Chat Core - Base app (LLM Chat UI)  
 - [x] v2 — 🏛️ Wikipedia integration + Text selection search  
 - [x] v3 — 🗺️ Documentation & Offline Maps integration & Wiki-trees  
-- [ ] v4 — 🔎 Unified Global Search  
-- [ ] v5 — 🧰 Agent Capabilities & Local Knowledge Access
-- [ ] v6 — 🤖 OFFLINED Personal Assistant (Exploratory)
-- [ ] v7 — 🌐 OFFLINED System Environment (Exploratory)
-- [ ] v8 — 🌎📚 OFFLINED Editions (Exploratory)
+- [x] v4 — 📚 Integrated & Portable apps + switch from phi-4 to gpt-oss  
+- [ ] v5 — 🌎 Adding more languages (German, Italian, Chinese, Korean, Japanese, arabic, russian)  
+- [ ] v6 — 🤖 Under discussion
 
 ---
 
