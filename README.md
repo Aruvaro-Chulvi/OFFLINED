@@ -34,7 +34,7 @@
   </a>
 </p>
 
-### 🔹 OFFLINED (EN, ES, FR, PT)
+### 🔹 OFFLINED V4.0 (EN, ES, FR, PT)
 
 **OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet. It allows interaction with a local Large Language Model (gpt-oss-20b-Q4_K_M, GGUF format) as well as with specialized knowledge agents spanning domains such as medicine, biology, engineering, survival, and other fields — all running entirely on the user’s own device.
 
