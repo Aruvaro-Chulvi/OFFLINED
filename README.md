@@ -474,20 +474,6 @@ This assistant-centric core may be delivered through different forms as the plat
 **v6 — 🤖 OFFLINED Personal Assistant Drive**  
 We are currently looking for collaborators and actively discussing how to scale this project.
 
-**v7 — 🌐 OFFLINED System Environment (Exploratory)**  
-An optional offline-first system environment where the OFFLINED personal assistant serves as the primary interface for knowledge access and local workflows.  
-This may take the form of a Linux-based distribution or integrated desktop shell, designed for resilience rather than general-purpose computing.
-
-**v8 — 🌎📚 OFFLINED Editions (Exploratory)**  
-Domain-focused editions of the same personal assistant and core platform, tailored for specific contexts such as:
-
-- Survival & preparedness  
-- Education  
-- Rural and low-connectivity environments  
-
-Each edition adapts agents, documentation, and assistant behavior while preserving the same offline, privacy-first architecture.
-
-
 ---
 
 > As local language models continue to improve, OFFLINED is designed to adapt its agent and knowledge systems to benefit from stronger on-device reasoning — without introducing cloud dependencies.
