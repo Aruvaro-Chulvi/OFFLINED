@@ -1,0 +1,1979 @@
+{
+  "i18n": {
+    "en": {
+      "title": "Art Movements and Artists",
+      "wiki": "History of art"
+    },
+    "es": {
+      "title": "Movimientos artísticos y artistas",
+      "wiki": "Historia del arte"
+    },
+    "fr": {
+      "title": "Mouvements artistiques et artistes",
+      "wiki": "Histoire de l'art"
+    }
+  },
+  "children": [
+    {
+      "i18n": {
+        "en": {
+          "title": "Painting",
+          "wiki": "Painting"
+        },
+        "es": {
+          "title": "Pintura",
+          "wiki": "Pintura"
+        },
+        "fr": {
+          "title": "Peinture",
+          "wiki": "Peinture"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Ancient Art",
+              "wiki": "Ancient art"
+            },
+            "es": {
+              "title": "Arte antiguo",
+              "wiki": "Arte de la Antigüedad"
+            },
+            "fr": {
+              "title": "Art antique",
+              "wiki": "Art de l'Antiquité"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Egyptian art",
+                  "wiki": "Ancient Egyptian art"
+                },
+                "es": {
+                  "title": "Arte egipcio",
+                  "wiki": "Arte del Antiguo Egipto"
+                },
+                "fr": {
+                  "title": "Art égyptien",
+                  "wiki": "Art de l'Égypte antique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Greek art",
+                  "wiki": "Ancient Greek art"
+                },
+                "es": {
+                  "title": "Arte griego",
+                  "wiki": "Arte de la Antigua Grecia"
+                },
+                "fr": {
+                  "title": "Art grec",
+                  "wiki": "Art de la Grèce antique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Roman art",
+                  "wiki": "Roman art"
+                },
+                "es": {
+                  "title": "Arte romano",
+                  "wiki": "Arte de la Antigua Roma"
+                },
+                "fr": {
+                  "title": "Art romain",
+                  "wiki": "Art de la Rome antique"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Medieval Art",
+              "wiki": "Medieval art"
+            },
+            "es": {
+              "title": "Arte medieval",
+              "wiki": "Arte medieval"
+            },
+            "fr": {
+              "title": "Art médiéval",
+              "wiki": "Art médiéval"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Romanesque art",
+                  "wiki": "Romanesque art"
+                },
+                "es": {
+                  "title": "Arte románico",
+                  "wiki": "Arte románico"
+                },
+                "fr": {
+                  "title": "Art roman",
+                  "wiki": "Art roman"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gothic art",
+                  "wiki": "Gothic art"
+                },
+                "es": {
+                  "title": "Arte gótico",
+                  "wiki": "Arte gótico"
+                },
+                "fr": {
+                  "title": "Art gothique",
+                  "wiki": "Art gothique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Byzantine art",
+                  "wiki": "Byzantine art"
+                },
+                "es": {
+                  "title": "Arte bizantino",
+                  "wiki": "Arte bizantino"
+                },
+                "fr": {
+                  "title": "Art byzantin",
+                  "wiki": "Art byzantin"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Renaissance",
+              "wiki": "Renaissance art"
+            },
+            "es": {
+              "title": "Renacimiento",
+              "wiki": "Arte del Renacimiento"
+            },
+            "fr": {
+              "title": "Renaissance",
+              "wiki": "Art de la Renaissance"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "High Renaissance",
+                  "wiki": "High Renaissance"
+                },
+                "es": {
+                  "title": "Alto Renacimiento",
+                  "wiki": "Alto Renacimiento"
+                },
+                "fr": {
+                  "title": "Haute Renaissance",
+                  "wiki": "Haute Renaissance"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Leonardo da Vinci",
+                      "wiki": "Leonardo da Vinci"
+                    },
+                    "es": {
+                      "title": "Leonardo da Vinci",
+                      "wiki": "Leonardo da Vinci"
+                    },
+                    "fr": {
+                      "title": "Léonard de Vinci",
+                      "wiki": "Léonard de Vinci"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Michelangelo",
+                      "wiki": "Michelangelo"
+                    },
+                    "es": {
+                      "title": "Miguel Ángel",
+                      "wiki": "Miguel Ángel"
+                    },
+                    "fr": {
+                      "title": "Michel-Ange",
+                      "wiki": "Michel-Ange"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Raphael",
+                      "wiki": "Raphael (artist)"
+                    },
+                    "es": {
+                      "title": "Rafael Sanzio",
+                      "wiki": "Rafael Sanzio"
+                    },
+                    "fr": {
+                      "title": "Raphaël",
+                      "wiki": "Raphaël (peintre)"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Northern Renaissance",
+                  "wiki": "Northern Renaissance"
+                },
+                "es": {
+                  "title": "Renacimiento nórdico",
+                  "wiki": "Renacimiento nórdico"
+                },
+                "fr": {
+                  "title": "Renaissance du Nord",
+                  "wiki": "Renaissance du Nord"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Jan van Eyck",
+                      "wiki": "Jan van Eyck"
+                    },
+                    "es": {
+                      "title": "Jan van Eyck",
+                      "wiki": "Jan van Eyck"
+                    },
+                    "fr": {
+                      "title": "Jan van Eyck",
+                      "wiki": "Jan van Eyck"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Albrecht Dürer",
+                      "wiki": "Albrecht Dürer"
+                    },
+                    "es": {
+                      "title": "Alberto Durero",
+                      "wiki": "Alberto Durero"
+                    },
+                    "fr": {
+                      "title": "Albrecht Dürer",
+                      "wiki": "Albrecht Dürer"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Baroque and Rococo",
+              "wiki": "Baroque painting"
+            },
+            "es": {
+              "title": "Barroco y Rococó",
+              "wiki": "Pintura barroca"
+            },
+            "fr": {
+              "title": "Baroque et Rococo",
+              "wiki": "Peinture baroque"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Caravaggio",
+                  "wiki": "Caravaggio"
+                },
+                "es": {
+                  "title": "Caravaggio",
+                  "wiki": "Caravaggio"
+                },
+                "fr": {
+                  "title": "Caravage",
+                  "wiki": "Caravage"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Diego Velázquez",
+                  "wiki": "Diego Velázquez"
+                },
+                "es": {
+                  "title": "Diego Velázquez",
+                  "wiki": "Diego Velázquez"
+                },
+                "fr": {
+                  "title": "Diego Velázquez",
+                  "wiki": "Diego Velázquez"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rembrandt",
+                  "wiki": "Rembrandt"
+                },
+                "es": {
+                  "title": "Rembrandt",
+                  "wiki": "Rembrandt"
+                },
+                "fr": {
+                  "title": "Rembrandt",
+                  "wiki": "Rembrandt"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rococo",
+                  "wiki": "Rococo"
+                },
+                "es": {
+                  "title": "Rococó",
+                  "wiki": "Rococó"
+                },
+                "fr": {
+                  "title": "Rococo",
+                  "wiki": "Rococo"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Jean-Honoré Fragonard",
+                      "wiki": "Jean-Honoré Fragonard"
+                    },
+                    "es": {
+                      "title": "Jean-Honoré Fragonard",
+                      "wiki": "Jean-Honoré Fragonard"
+                    },
+                    "fr": {
+                      "title": "Jean-Honoré Fragonard",
+                      "wiki": "Jean-Honoré Fragonard"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "François Boucher",
+                      "wiki": "François Boucher"
+                    },
+                    "es": {
+                      "title": "François Boucher",
+                      "wiki": "François Boucher"
+                    },
+                    "fr": {
+                      "title": "François Boucher",
+                      "wiki": "François Boucher"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Neoclassicism & Romanticism",
+              "wiki": "Neoclassicism"
+            },
+            "es": {
+              "title": "Neoclasicismo y Romanticismo",
+              "wiki": "Neoclasicismo"
+            },
+            "fr": {
+              "title": "Néoclassicisme et Romantisme",
+              "wiki": "Néoclassicisme"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Jacques-Louis David",
+                  "wiki": "Jacques-Louis David"
+                },
+                "es": {
+                  "title": "Jacques-Louis David",
+                  "wiki": "Jacques-Louis David"
+                },
+                "fr": {
+                  "title": "Jacques-Louis David",
+                  "wiki": "Jacques-Louis David"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Francisco de Goya",
+                  "wiki": "Francisco Goya"
+                },
+                "es": {
+                  "title": "Francisco de Goya",
+                  "wiki": "Francisco de Goya"
+                },
+                "fr": {
+                  "title": "Francisco de Goya",
+                  "wiki": "Francisco de Goya"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Eugène Delacroix",
+                  "wiki": "Eugène Delacroix"
+                },
+                "es": {
+                  "title": "Eugène Delacroix",
+                  "wiki": "Eugène Delacroix"
+                },
+                "fr": {
+                  "title": "Eugène Delacroix",
+                  "wiki": "Eugène Delacroix"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Realism & Academic",
+              "wiki": "Realism (arts)"
+            },
+            "es": {
+              "title": "Realismo y academicismo",
+              "wiki": "Realismo (arte)"
+            },
+            "fr": {
+              "title": "Réalisme et académisme",
+              "wiki": "Réalisme (arts)"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gustave Courbet",
+                  "wiki": "Gustave Courbet"
+                },
+                "es": {
+                  "title": "Gustave Courbet",
+                  "wiki": "Gustave Courbet"
+                },
+                "fr": {
+                  "title": "Gustave Courbet",
+                  "wiki": "Gustave Courbet"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Jean-François Millet",
+                  "wiki": "Jean-François Millet"
+                },
+                "es": {
+                  "title": "Jean-François Millet",
+                  "wiki": "Jean-François Millet"
+                },
+                "fr": {
+                  "title": "Jean-François Millet",
+                  "wiki": "Jean-François Millet"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Impressionism",
+              "wiki": "Impressionism"
+            },
+            "es": {
+              "title": "Impresionismo",
+              "wiki": "Impresionismo"
+            },
+            "fr": {
+              "title": "Impressionnisme",
+              "wiki": "Impressionnisme"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Claude Monet",
+                  "wiki": "Claude Monet"
+                },
+                "es": {
+                  "title": "Claude Monet",
+                  "wiki": "Claude Monet"
+                },
+                "fr": {
+                  "title": "Claude Monet",
+                  "wiki": "Claude Monet"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Pierre-Auguste Renoir",
+                  "wiki": "Pierre-Auguste Renoir"
+                },
+                "es": {
+                  "title": "Pierre-Auguste Renoir",
+                  "wiki": "Pierre-Auguste Renoir"
+                },
+                "fr": {
+                  "title": "Pierre-Auguste Renoir",
+                  "wiki": "Pierre-Auguste Renoir"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Edgar Degas",
+                  "wiki": "Edgar Degas"
+                },
+                "es": {
+                  "title": "Edgar Degas",
+                  "wiki": "Edgar Degas"
+                },
+                "fr": {
+                  "title": "Edgar Degas",
+                  "wiki": "Edgar Degas"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Post-Impressionism",
+              "wiki": "Post-Impressionism"
+            },
+            "es": {
+              "title": "Postimpresionismo",
+              "wiki": "Postimpresionismo"
+            },
+            "fr": {
+              "title": "Post-impressionnisme",
+              "wiki": "Postimpressionnisme"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Vincent van Gogh",
+                  "wiki": "Vincent van Gogh"
+                },
+                "es": {
+                  "title": "Vincent van Gogh",
+                  "wiki": "Vincent van Gogh"
+                },
+                "fr": {
+                  "title": "Vincent van Gogh",
+                  "wiki": "Vincent van Gogh"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Paul Cézanne",
+                  "wiki": "Paul Cézanne"
+                },
+                "es": {
+                  "title": "Paul Cézanne",
+                  "wiki": "Paul Cézanne"
+                },
+                "fr": {
+                  "title": "Paul Cézanne",
+                  "wiki": "Paul Cézanne"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Paul Gauguin",
+                  "wiki": "Paul Gauguin"
+                },
+                "es": {
+                  "title": "Paul Gauguin",
+                  "wiki": "Paul Gauguin"
+                },
+                "fr": {
+                  "title": "Paul Gauguin",
+                  "wiki": "Paul Gauguin"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Avant-gardes (1900–1945)",
+              "wiki": "Avant-garde"
+            },
+            "es": {
+              "title": "Vanguardias (1900–1945)",
+              "wiki": "Vanguardias artísticas"
+            },
+            "fr": {
+              "title": "Avant-gardes (1900–1945)",
+              "wiki": "Avant-garde"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Fauvism",
+                  "wiki": "Fauvism"
+                },
+                "es": {
+                  "title": "Fauvismo",
+                  "wiki": "Fauvismo"
+                },
+                "fr": {
+                  "title": "Fauvisme",
+                  "wiki": "Fauvisme"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Henri Matisse",
+                      "wiki": "Henri Matisse"
+                    },
+                    "es": {
+                      "title": "Henri Matisse",
+                      "wiki": "Henri Matisse"
+                    },
+                    "fr": {
+                      "title": "Henri Matisse",
+                      "wiki": "Henri Matisse"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Expressionism",
+                  "wiki": "Expressionism"
+                },
+                "es": {
+                  "title": "Expresionismo",
+                  "wiki": "Expresionismo"
+                },
+                "fr": {
+                  "title": "Expressionnisme",
+                  "wiki": "Expressionnisme"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ernst Ludwig Kirchner",
+                      "wiki": "Ernst Ludwig Kirchner"
+                    },
+                    "es": {
+                      "title": "Ernst Ludwig Kirchner",
+                      "wiki": "Ernst Ludwig Kirchner"
+                    },
+                    "fr": {
+                      "title": "Ernst Ludwig Kirchner",
+                      "wiki": "Ernst Ludwig Kirchner"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cubism",
+                  "wiki": "Cubism"
+                },
+                "es": {
+                  "title": "Cubismo",
+                  "wiki": "Cubismo"
+                },
+                "fr": {
+                  "title": "Cubisme",
+                  "wiki": "Cubisme"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Pablo Picasso",
+                      "wiki": "Pablo Picasso"
+                    },
+                    "es": {
+                      "title": "Pablo Picasso",
+                      "wiki": "Pablo Picasso"
+                    },
+                    "fr": {
+                      "title": "Pablo Picasso",
+                      "wiki": "Pablo Picasso"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Georges Braque",
+                      "wiki": "Georges Braque"
+                    },
+                    "es": {
+                      "title": "Georges Braque",
+                      "wiki": "Georges Braque"
+                    },
+                    "fr": {
+                      "title": "Georges Braque",
+                      "wiki": "Georges Braque"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Futurism",
+                  "wiki": "Futurism"
+                },
+                "es": {
+                  "title": "Futurismo",
+                  "wiki": "Futurismo"
+                },
+                "fr": {
+                  "title": "Futurisme",
+                  "wiki": "Futurisme"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Umberto Boccioni",
+                      "wiki": "Umberto Boccioni"
+                    },
+                    "es": {
+                      "title": "Umberto Boccioni",
+                      "wiki": "Umberto Boccioni"
+                    },
+                    "fr": {
+                      "title": "Umberto Boccioni",
+                      "wiki": "Umberto Boccioni"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Dada",
+                  "wiki": "Dada"
+                },
+                "es": {
+                  "title": "Dadaísmo",
+                  "wiki": "Dadaísmo"
+                },
+                "fr": {
+                  "title": "Dada",
+                  "wiki": "Dada"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Marcel Duchamp",
+                      "wiki": "Marcel Duchamp"
+                    },
+                    "es": {
+                      "title": "Marcel Duchamp",
+                      "wiki": "Marcel Duchamp"
+                    },
+                    "fr": {
+                      "title": "Marcel Duchamp",
+                      "wiki": "Marcel Duchamp"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "De Stijl",
+                  "wiki": "De Stijl"
+                },
+                "es": {
+                  "title": "De Stijl",
+                  "wiki": "De Stijl"
+                },
+                "fr": {
+                  "title": "De Stijl",
+                  "wiki": "De Stijl"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Piet Mondrian",
+                      "wiki": "Piet Mondrian"
+                    },
+                    "es": {
+                      "title": "Piet Mondrian",
+                      "wiki": "Piet Mondrian"
+                    },
+                    "fr": {
+                      "title": "Piet Mondrian",
+                      "wiki": "Piet Mondrian"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Surrealism",
+                  "wiki": "Surrealism"
+                },
+                "es": {
+                  "title": "Surrealismo",
+                  "wiki": "Surrealismo"
+                },
+                "fr": {
+                  "title": "Surréalisme",
+                  "wiki": "Surréalisme"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Salvador Dalí",
+                      "wiki": "Salvador Dalí"
+                    },
+                    "es": {
+                      "title": "Salvador Dalí",
+                      "wiki": "Salvador Dalí"
+                    },
+                    "fr": {
+                      "title": "Salvador Dalí",
+                      "wiki": "Salvador Dalí"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "René Magritte",
+                      "wiki": "René Magritte"
+                    },
+                    "es": {
+                      "title": "René Magritte",
+                      "wiki": "René Magritte"
+                    },
+                    "fr": {
+                      "title": "René Magritte",
+                      "wiki": "René Magritte"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Joan Miró",
+                      "wiki": "Joan Miró"
+                    },
+                    "es": {
+                      "title": "Joan Miró",
+                      "wiki": "Joan Miró"
+                    },
+                    "fr": {
+                      "title": "Joan Miró",
+                      "wiki": "Joan Miró"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Post-1945 to Contemporary",
+              "wiki": "Contemporary art"
+            },
+            "es": {
+              "title": "De 1945 a contemporáneo",
+              "wiki": "Arte contemporáneo"
+            },
+            "fr": {
+              "title": "De 1945 à contemporain",
+              "wiki": "Art contemporain"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Abstract Expressionism",
+                  "wiki": "Abstract expressionism"
+                },
+                "es": {
+                  "title": "Expresionismo abstracto",
+                  "wiki": "Expresionismo abstracto"
+                },
+                "fr": {
+                  "title": "Expressionnisme abstrait",
+                  "wiki": "Expressionnisme abstrait"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Jackson Pollock",
+                      "wiki": "Jackson Pollock"
+                    },
+                    "es": {
+                      "title": "Jackson Pollock",
+                      "wiki": "Jackson Pollock"
+                    },
+                    "fr": {
+                      "title": "Jackson Pollock",
+                      "wiki": "Jackson Pollock"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mark Rothko",
+                      "wiki": "Mark Rothko"
+                    },
+                    "es": {
+                      "title": "Mark Rothko",
+                      "wiki": "Mark Rothko"
+                    },
+                    "fr": {
+                      "title": "Mark Rothko",
+                      "wiki": "Mark Rothko"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Pop art",
+                  "wiki": "Pop art"
+                },
+                "es": {
+                  "title": "Pop art",
+                  "wiki": "Pop art"
+                },
+                "fr": {
+                  "title": "Pop art",
+                  "wiki": "Pop art"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Andy Warhol",
+                      "wiki": "Andy Warhol"
+                    },
+                    "es": {
+                      "title": "Andy Warhol",
+                      "wiki": "Andy Warhol"
+                    },
+                    "fr": {
+                      "title": "Andy Warhol",
+                      "wiki": "Andy Warhol"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Roy Lichtenstein",
+                      "wiki": "Roy Lichtenstein"
+                    },
+                    "es": {
+                      "title": "Roy Lichtenstein",
+                      "wiki": "Roy Lichtenstein"
+                    },
+                    "fr": {
+                      "title": "Roy Lichtenstein",
+                      "wiki": "Roy Lichtenstein"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Minimalism",
+                  "wiki": "Minimalism (visual arts)"
+                },
+                "es": {
+                  "title": "Minimalismo",
+                  "wiki": "Minimalismo (artes visuales)"
+                },
+                "fr": {
+                  "title": "Minimalisme",
+                  "wiki": "Minimalisme (art)"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Donald Judd",
+                      "wiki": "Donald Judd"
+                    },
+                    "es": {
+                      "title": "Donald Judd",
+                      "wiki": "Donald Judd"
+                    },
+                    "fr": {
+                      "title": "Donald Judd",
+                      "wiki": "Donald Judd"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Conceptual art",
+                  "wiki": "Conceptual art"
+                },
+                "es": {
+                  "title": "Arte conceptual",
+                  "wiki": "Arte conceptual"
+                },
+                "fr": {
+                  "title": "Art conceptuel",
+                  "wiki": "Art conceptuel"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Joseph Kosuth",
+                      "wiki": "Joseph Kosuth"
+                    },
+                    "es": {
+                      "title": "Joseph Kosuth",
+                      "wiki": "Joseph Kosuth"
+                    },
+                    "fr": {
+                      "title": "Joseph Kosuth",
+                      "wiki": "Joseph Kosuth"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Street art",
+                  "wiki": "Street art"
+                },
+                "es": {
+                  "title": "Arte urbano",
+                  "wiki": "Arte urbano"
+                },
+                "fr": {
+                  "title": "Art urbain",
+                  "wiki": "Art urbain"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Banksy",
+                      "wiki": "Banksy"
+                    },
+                    "es": {
+                      "title": "Banksy",
+                      "wiki": "Banksy"
+                    },
+                    "fr": {
+                      "title": "Banksy",
+                      "wiki": "Banksy"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Digital art",
+                  "wiki": "Digital art"
+                },
+                "es": {
+                  "title": "Arte digital",
+                  "wiki": "Arte digital"
+                },
+                "fr": {
+                  "title": "Art numérique",
+                  "wiki": "Art numérique"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Sculpture",
+          "wiki": "Sculpture"
+        },
+        "es": {
+          "title": "Escultura",
+          "wiki": "Escultura"
+        },
+        "fr": {
+          "title": "Sculpture",
+          "wiki": "Sculpture"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Classical Antiquity",
+              "wiki": "Ancient Greek sculpture"
+            },
+            "es": {
+              "title": "Antigüedad clásica",
+              "wiki": "Escultura de la Antigua Grecia"
+            },
+            "fr": {
+              "title": "Antiquité classique",
+              "wiki": "Sculpture de la Grèce antique"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Phidias",
+                  "wiki": "Phidias"
+                },
+                "es": {
+                  "title": "Fidias",
+                  "wiki": "Fidias"
+                },
+                "fr": {
+                  "title": "Phidias",
+                  "wiki": "Phidias"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Polykleitos",
+                  "wiki": "Polykleitos"
+                },
+                "es": {
+                  "title": "Policleto",
+                  "wiki": "Policleto"
+                },
+                "fr": {
+                  "title": "Polyclète",
+                  "wiki": "Polyclète"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Renaissance",
+              "wiki": "Renaissance sculpture"
+            },
+            "es": {
+              "title": "Renacimiento",
+              "wiki": "Escultura del Renacimiento"
+            },
+            "fr": {
+              "title": "Renaissance",
+              "wiki": "Sculpture de la Renaissance"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Donatello",
+                  "wiki": "Donatello"
+                },
+                "es": {
+                  "title": "Donatello",
+                  "wiki": "Donatello"
+                },
+                "fr": {
+                  "title": "Donatello",
+                  "wiki": "Donatello"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Michelangelo",
+                  "wiki": "Michelangelo"
+                },
+                "es": {
+                  "title": "Miguel Ángel",
+                  "wiki": "Miguel Ángel"
+                },
+                "fr": {
+                  "title": "Michel-Ange",
+                  "wiki": "Michel-Ange"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Baroque",
+              "wiki": "Baroque sculpture"
+            },
+            "es": {
+              "title": "Barroco",
+              "wiki": "Escultura barroca"
+            },
+            "fr": {
+              "title": "Baroque",
+              "wiki": "Sculpture baroque"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gian Lorenzo Bernini",
+                  "wiki": "Gian Lorenzo Bernini"
+                },
+                "es": {
+                  "title": "Gian Lorenzo Bernini",
+                  "wiki": "Gian Lorenzo Bernini"
+                },
+                "fr": {
+                  "title": "Gian Lorenzo Bernini",
+                  "wiki": "Gian Lorenzo Bernini"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Modern Sculpture",
+              "wiki": "Modern sculpture"
+            },
+            "es": {
+              "title": "Escultura moderna",
+              "wiki": "Escultura moderna"
+            },
+            "fr": {
+              "title": "Sculpture moderne",
+              "wiki": "Sculpture moderne"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Auguste Rodin",
+                  "wiki": "Auguste Rodin"
+                },
+                "es": {
+                  "title": "Auguste Rodin",
+                  "wiki": "Auguste Rodin"
+                },
+                "fr": {
+                  "title": "Auguste Rodin",
+                  "wiki": "Auguste Rodin"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Constantin Brâncuși",
+                  "wiki": "Constantin Brâncuși"
+                },
+                "es": {
+                  "title": "Constantin Brâncuși",
+                  "wiki": "Constantin Brâncuși"
+                },
+                "fr": {
+                  "title": "Constantin Brâncuși",
+                  "wiki": "Constantin Brâncuși"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Contemporary Sculpture",
+              "wiki": "Contemporary art"
+            },
+            "es": {
+              "title": "Escultura contemporánea",
+              "wiki": "Arte contemporáneo"
+            },
+            "fr": {
+              "title": "Sculpture contemporaine",
+              "wiki": "Art contemporain"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Henry Moore",
+                  "wiki": "Henry Moore"
+                },
+                "es": {
+                  "title": "Henry Moore",
+                  "wiki": "Henry Moore"
+                },
+                "fr": {
+                  "title": "Henry Moore",
+                  "wiki": "Henry Moore"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Louise Bourgeois",
+                  "wiki": "Louise Bourgeois"
+                },
+                "es": {
+                  "title": "Louise Bourgeois",
+                  "wiki": "Louise Bourgeois"
+                },
+                "fr": {
+                  "title": "Louise Bourgeois",
+                  "wiki": "Louise Bourgeois"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Architecture",
+          "wiki": "Architecture"
+        },
+        "es": {
+          "title": "Arquitectura",
+          "wiki": "Arquitectura"
+        },
+        "fr": {
+          "title": "Architecture",
+          "wiki": "Architecture"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Ancient Architecture",
+              "wiki": "Ancient architecture"
+            },
+            "es": {
+              "title": "Arquitectura antigua",
+              "wiki": "Arquitectura de la Antigüedad"
+            },
+            "fr": {
+              "title": "Architecture antique",
+              "wiki": "Architecture de l'Antiquité"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Egypt (Pyramids)",
+                  "wiki": "Egyptian pyramids"
+                },
+                "es": {
+                  "title": "Egipto (Pirámides)",
+                  "wiki": "Pirámides de Egipto"
+                },
+                "fr": {
+                  "title": "Égypte (Pyramides)",
+                  "wiki": "Pyramide (Égypte)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Greece (Temples)",
+                  "wiki": "Ancient Greek architecture"
+                },
+                "es": {
+                  "title": "Grecia (Templos)",
+                  "wiki": "Arquitectura de la Antigua Grecia"
+                },
+                "fr": {
+                  "title": "Grèce (Temples)",
+                  "wiki": "Architecture de la Grèce antique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rome (Colosseum, aqueducts)",
+                  "wiki": "Ancient Roman architecture"
+                },
+                "es": {
+                  "title": "Roma (Coliseo, acueductos)",
+                  "wiki": "Arquitectura de la Antigua Roma"
+                },
+                "fr": {
+                  "title": "Rome (Colisée, aqueducs)",
+                  "wiki": "Architecture de la Rome antique"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Medieval Architecture",
+              "wiki": "Medieval architecture"
+            },
+            "es": {
+              "title": "Arquitectura medieval",
+              "wiki": "Arquitectura medieval"
+            },
+            "fr": {
+              "title": "Architecture médiévale",
+              "wiki": "Architecture médiévale"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Romanesque",
+                  "wiki": "Romanesque architecture"
+                },
+                "es": {
+                  "title": "Románico",
+                  "wiki": "Arquitectura románica"
+                },
+                "fr": {
+                  "title": "Roman",
+                  "wiki": "Architecture romane"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gothic",
+                  "wiki": "Gothic architecture"
+                },
+                "es": {
+                  "title": "Gótico",
+                  "wiki": "Arquitectura gótica"
+                },
+                "fr": {
+                  "title": "Gothique",
+                  "wiki": "Architecture gothique"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Renaissance & Baroque",
+              "wiki": "Renaissance architecture"
+            },
+            "es": {
+              "title": "Renacimiento y Barroco",
+              "wiki": "Arquitectura del Renacimiento"
+            },
+            "fr": {
+              "title": "Renaissance et Baroque",
+              "wiki": "Architecture de la Renaissance"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Filippo Brunelleschi",
+                  "wiki": "Filippo Brunelleschi"
+                },
+                "es": {
+                  "title": "Filippo Brunelleschi",
+                  "wiki": "Filippo Brunelleschi"
+                },
+                "fr": {
+                  "title": "Filippo Brunelleschi",
+                  "wiki": "Filippo Brunelleschi"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Andrea Palladio",
+                  "wiki": "Andrea Palladio"
+                },
+                "es": {
+                  "title": "Andrea Palladio",
+                  "wiki": "Andrea Palladio"
+                },
+                "fr": {
+                  "title": "Andrea Palladio",
+                  "wiki": "Andrea Palladio"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bernini & Borromini",
+                  "wiki": "Francesco Borromini"
+                },
+                "es": {
+                  "title": "Bernini y Borromini",
+                  "wiki": "Francesco Borromini"
+                },
+                "fr": {
+                  "title": "Bernini et Borromini",
+                  "wiki": "Francesco Borromini"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Neoclassicism & 19th century",
+              "wiki": "Neoclassical architecture"
+            },
+            "es": {
+              "title": "Neoclasicismo y siglo XIX",
+              "wiki": "Arquitectura neoclásica"
+            },
+            "fr": {
+              "title": "Néoclassicisme et XIXe siècle",
+              "wiki": "Architecture néoclassique"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Étienne-Louis Boullée & Ledoux",
+                  "wiki": "Claude Nicolas Ledoux"
+                },
+                "es": {
+                  "title": "Boullée y Ledoux",
+                  "wiki": "Claude Nicolas Ledoux"
+                },
+                "fr": {
+                  "title": "Boullée et Ledoux",
+                  "wiki": "Claude Nicolas Ledoux"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Karl Friedrich Schinkel",
+                  "wiki": "Karl Friedrich Schinkel"
+                },
+                "es": {
+                  "title": "Karl Friedrich Schinkel",
+                  "wiki": "Karl Friedrich Schinkel"
+                },
+                "fr": {
+                  "title": "Karl Friedrich Schinkel",
+                  "wiki": "Karl Friedrich Schinkel"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Modern Architecture",
+              "wiki": "Modern architecture"
+            },
+            "es": {
+              "title": "Arquitectura moderna",
+              "wiki": "Arquitectura moderna"
+            },
+            "fr": {
+              "title": "Architecture moderne",
+              "wiki": "Architecture moderne"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Antoni Gaudí (Modernisme)",
+                  "wiki": "Antoni Gaudí"
+                },
+                "es": {
+                  "title": "Antoni Gaudí (Modernismo)",
+                  "wiki": "Antoni Gaudí"
+                },
+                "fr": {
+                  "title": "Antoni Gaudí (Modernisme)",
+                  "wiki": "Antoni Gaudí"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bauhaus & International Style",
+                  "wiki": "Bauhaus"
+                },
+                "es": {
+                  "title": "Bauhaus y Estilo Internacional",
+                  "wiki": "Bauhaus"
+                },
+                "fr": {
+                  "title": "Bauhaus et style international",
+                  "wiki": "Bauhaus"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Walter Gropius",
+                      "wiki": "Walter Gropius"
+                    },
+                    "es": {
+                      "title": "Walter Gropius",
+                      "wiki": "Walter Gropius"
+                    },
+                    "fr": {
+                      "title": "Walter Gropius",
+                      "wiki": "Walter Gropius"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Le Corbusier",
+                      "wiki": "Le Corbusier"
+                    },
+                    "es": {
+                      "title": "Le Corbusier",
+                      "wiki": "Le Corbusier"
+                    },
+                    "fr": {
+                      "title": "Le Corbusier",
+                      "wiki": "Le Corbusier"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ludwig Mies van der Rohe",
+                      "wiki": "Ludwig Mies van der Rohe"
+                    },
+                    "es": {
+                      "title": "Ludwig Mies van der Rohe",
+                      "wiki": "Ludwig Mies van der Rohe"
+                    },
+                    "fr": {
+                      "title": "Ludwig Mies van der Rohe",
+                      "wiki": "Ludwig Mies van der Rohe"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Frank Lloyd Wright",
+                      "wiki": "Frank Lloyd Wright"
+                    },
+                    "es": {
+                      "title": "Frank Lloyd Wright",
+                      "wiki": "Frank Lloyd Wright"
+                    },
+                    "fr": {
+                      "title": "Frank Lloyd Wright",
+                      "wiki": "Frank Lloyd Wright"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Contemporary Architecture",
+              "wiki": "Contemporary architecture"
+            },
+            "es": {
+              "title": "Arquitectura contemporánea",
+              "wiki": "Arquitectura contemporánea"
+            },
+            "fr": {
+              "title": "Architecture contemporaine",
+              "wiki": "Architecture contemporaine"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Zaha Hadid",
+                  "wiki": "Zaha Hadid"
+                },
+                "es": {
+                  "title": "Zaha Hadid",
+                  "wiki": "Zaha Hadid"
+                },
+                "fr": {
+                  "title": "Zaha Hadid",
+                  "wiki": "Zaha Hadid"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Frank Gehry",
+                  "wiki": "Frank Gehry"
+                },
+                "es": {
+                  "title": "Frank Gehry",
+                  "wiki": "Frank Gehry"
+                },
+                "fr": {
+                  "title": "Frank Gehry",
+                  "wiki": "Frank Gehry"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Norman Foster",
+                  "wiki": "Norman Foster, Baron Foster of Thames Bank"
+                },
+                "es": {
+                  "title": "Norman Foster",
+                  "wiki": "Norman Foster"
+                },
+                "fr": {
+                  "title": "Norman Foster",
+                  "wiki": "Norman Foster"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Santiago Calatrava",
+                  "wiki": "Santiago Calatrava"
+                },
+                "es": {
+                  "title": "Santiago Calatrava",
+                  "wiki": "Santiago Calatrava"
+                },
+                "fr": {
+                  "title": "Santiago Calatrava",
+                  "wiki": "Santiago Calatrava"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

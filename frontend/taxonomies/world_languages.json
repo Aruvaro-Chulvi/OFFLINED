@@ -1,0 +1,5433 @@
+{
+  "i18n": {
+    "en": {
+      "title": "World languages",
+      "wiki": "World languages"
+    },
+    "es": {
+      "title": "Lenguas del mundo",
+      "wiki": "Lenguas del mundo"
+    },
+    "fr": {
+      "title": "Langues du monde",
+      "wiki": "Langues du monde"
+    }
+  },
+  "children": [
+    {
+      "i18n": {
+        "en": {
+          "title": "Indo-European languages",
+          "wiki": "Indo-European languages"
+        },
+        "es": {
+          "title": "Lenguas indoeuropeas",
+          "wiki": "Lenguas indoeuropeas"
+        },
+        "fr": {
+          "title": "Langues indo-européennes",
+          "wiki": "Langues indo-européennes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Romance languages",
+              "wiki": "Romance languages"
+            },
+            "es": {
+              "title": "Lenguas romances",
+              "wiki": "Lenguas romances"
+            },
+            "fr": {
+              "title": "Langues romanes",
+              "wiki": "Langues romanes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Spanish",
+                  "wiki": "Spanish"
+                },
+                "es": {
+                  "title": "Español",
+                  "wiki": "Español"
+                },
+                "fr": {
+                  "title": "Espagnol",
+                  "wiki": "Espagnol"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Portuguese",
+                  "wiki": "Portuguese"
+                },
+                "es": {
+                  "title": "Portugués",
+                  "wiki": "Portugués"
+                },
+                "fr": {
+                  "title": "Portugais",
+                  "wiki": "Portugais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "French",
+                  "wiki": "French"
+                },
+                "es": {
+                  "title": "Francés",
+                  "wiki": "Francés"
+                },
+                "fr": {
+                  "title": "Français",
+                  "wiki": "Français"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Italian",
+                  "wiki": "Italian"
+                },
+                "es": {
+                  "title": "Italiano",
+                  "wiki": "Italiano"
+                },
+                "fr": {
+                  "title": "Italien",
+                  "wiki": "Italien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Romanian",
+                  "wiki": "Romanian"
+                },
+                "es": {
+                  "title": "Rumano",
+                  "wiki": "Rumano"
+                },
+                "fr": {
+                  "title": "Roumain",
+                  "wiki": "Roumain"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Catalan",
+                  "wiki": "Catalan"
+                },
+                "es": {
+                  "title": "Catalán",
+                  "wiki": "Catalán"
+                },
+                "fr": {
+                  "title": "Catalan",
+                  "wiki": "Catalan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Galician",
+                  "wiki": "Galician"
+                },
+                "es": {
+                  "title": "Gallego",
+                  "wiki": "Gallego"
+                },
+                "fr": {
+                  "title": "Galicien",
+                  "wiki": "Galicien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Occitan",
+                  "wiki": "Occitan"
+                },
+                "es": {
+                  "title": "Occitano",
+                  "wiki": "Occitano"
+                },
+                "fr": {
+                  "title": "Occitan",
+                  "wiki": "Occitan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sardinian",
+                  "wiki": "Sardinian"
+                },
+                "es": {
+                  "title": "Sardo",
+                  "wiki": "Sardo"
+                },
+                "fr": {
+                  "title": "Sarde",
+                  "wiki": "Sarde"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Romansh",
+                  "wiki": "Romansh"
+                },
+                "es": {
+                  "title": "Romanche",
+                  "wiki": "Romanche"
+                },
+                "fr": {
+                  "title": "Romanche",
+                  "wiki": "Romanche"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Asturian",
+                  "wiki": "Asturian"
+                },
+                "es": {
+                  "title": "Asturiano",
+                  "wiki": "Asturiano"
+                },
+                "fr": {
+                  "title": "Asturien",
+                  "wiki": "Asturien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Aragonese",
+                  "wiki": "Aragonese"
+                },
+                "es": {
+                  "title": "Aragonés",
+                  "wiki": "Aragonés"
+                },
+                "fr": {
+                  "title": "Aragonais",
+                  "wiki": "Aragonais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Ladin",
+                  "wiki": "Ladin"
+                },
+                "es": {
+                  "title": "Ladino (ladin)",
+                  "wiki": "Ladino (ladin)"
+                },
+                "fr": {
+                  "title": "Ladin",
+                  "wiki": "Ladin"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Friulian",
+                  "wiki": "Friulian"
+                },
+                "es": {
+                  "title": "Friulano",
+                  "wiki": "Friulano"
+                },
+                "fr": {
+                  "title": "Frioulan",
+                  "wiki": "Frioulan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Corsican",
+                  "wiki": "Corsican"
+                },
+                "es": {
+                  "title": "Corso",
+                  "wiki": "Corso"
+                },
+                "fr": {
+                  "title": "Corse",
+                  "wiki": "Corse"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Walloon",
+                  "wiki": "Walloon"
+                },
+                "es": {
+                  "title": "Valón",
+                  "wiki": "Valón"
+                },
+                "fr": {
+                  "title": "Wallon",
+                  "wiki": "Wallon"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Mirandese",
+                  "wiki": "Mirandese"
+                },
+                "es": {
+                  "title": "Mirandés",
+                  "wiki": "Mirandés"
+                },
+                "fr": {
+                  "title": "Mirandais",
+                  "wiki": "Mirandais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Venetian",
+                  "wiki": "Venetian"
+                },
+                "es": {
+                  "title": "Véneto",
+                  "wiki": "Véneto"
+                },
+                "fr": {
+                  "title": "Vénitien",
+                  "wiki": "Vénitien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Neapolitan",
+                  "wiki": "Neapolitan"
+                },
+                "es": {
+                  "title": "Neapolitano",
+                  "wiki": "Neapolitano"
+                },
+                "fr": {
+                  "title": "Napolitain",
+                  "wiki": "Napolitain"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sicilian",
+                  "wiki": "Sicilian"
+                },
+                "es": {
+                  "title": "Siciliano",
+                  "wiki": "Siciliano"
+                },
+                "fr": {
+                  "title": "Sicilien",
+                  "wiki": "Sicilien"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Germanic languages",
+              "wiki": "Germanic languages"
+            },
+            "es": {
+              "title": "Lenguas germánicas",
+              "wiki": "Lenguas germánicas"
+            },
+            "fr": {
+              "title": "Langues germaniques",
+              "wiki": "Langues germaniques"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "English",
+                  "wiki": "English"
+                },
+                "es": {
+                  "title": "Inglés",
+                  "wiki": "Inglés"
+                },
+                "fr": {
+                  "title": "Anglais",
+                  "wiki": "Anglais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "German",
+                  "wiki": "German"
+                },
+                "es": {
+                  "title": "Alemán",
+                  "wiki": "Alemán"
+                },
+                "fr": {
+                  "title": "Allemand",
+                  "wiki": "Allemand"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Dutch",
+                  "wiki": "Dutch"
+                },
+                "es": {
+                  "title": "Neerlandés",
+                  "wiki": "Neerlandés"
+                },
+                "fr": {
+                  "title": "Néerlandais",
+                  "wiki": "Néerlandais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Afrikaans",
+                  "wiki": "Afrikaans"
+                },
+                "es": {
+                  "title": "Afrikáans",
+                  "wiki": "Afrikáans"
+                },
+                "fr": {
+                  "title": "Afrikaans",
+                  "wiki": "Afrikaans"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Swedish",
+                  "wiki": "Swedish"
+                },
+                "es": {
+                  "title": "Sueco",
+                  "wiki": "Sueco"
+                },
+                "fr": {
+                  "title": "Suédois",
+                  "wiki": "Suédois"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Norwegian",
+                  "wiki": "Norwegian"
+                },
+                "es": {
+                  "title": "Noruego",
+                  "wiki": "Noruego"
+                },
+                "fr": {
+                  "title": "Norvégien",
+                  "wiki": "Norvégien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Danish",
+                  "wiki": "Danish"
+                },
+                "es": {
+                  "title": "Danés",
+                  "wiki": "Danés"
+                },
+                "fr": {
+                  "title": "Danois",
+                  "wiki": "Danois"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Icelandic",
+                  "wiki": "Icelandic"
+                },
+                "es": {
+                  "title": "Islandés",
+                  "wiki": "Islandés"
+                },
+                "fr": {
+                  "title": "Islandais",
+                  "wiki": "Islandais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Faroese",
+                  "wiki": "Faroese"
+                },
+                "es": {
+                  "title": "Feroés",
+                  "wiki": "Feroés"
+                },
+                "fr": {
+                  "title": "Féroïen",
+                  "wiki": "Féroïen"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Yiddish",
+                  "wiki": "Yiddish"
+                },
+                "es": {
+                  "title": "Yidis",
+                  "wiki": "Yidis"
+                },
+                "fr": {
+                  "title": "Yiddish",
+                  "wiki": "Yiddish"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Scots",
+                  "wiki": "Scots"
+                },
+                "es": {
+                  "title": "Escocés (Scots)",
+                  "wiki": "Escocés (Scots)"
+                },
+                "fr": {
+                  "title": "Scots",
+                  "wiki": "Scots"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Low German",
+                  "wiki": "Low German"
+                },
+                "es": {
+                  "title": "Bajo alemán",
+                  "wiki": "Bajo alemán"
+                },
+                "fr": {
+                  "title": "Bas allemand",
+                  "wiki": "Bas allemand"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Slavic languages",
+              "wiki": "Slavic languages"
+            },
+            "es": {
+              "title": "Lenguas eslavas",
+              "wiki": "Lenguas eslavas"
+            },
+            "fr": {
+              "title": "Langues slaves",
+              "wiki": "Langues slaves"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Russian",
+                  "wiki": "Russian"
+                },
+                "es": {
+                  "title": "Ruso",
+                  "wiki": "Ruso"
+                },
+                "fr": {
+                  "title": "Russe",
+                  "wiki": "Russe"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Ukrainian",
+                  "wiki": "Ukrainian"
+                },
+                "es": {
+                  "title": "Ucraniano",
+                  "wiki": "Ucraniano"
+                },
+                "fr": {
+                  "title": "Ukrainien",
+                  "wiki": "Ukrainien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Belarusian",
+                  "wiki": "Belarusian"
+                },
+                "es": {
+                  "title": "Bielorruso",
+                  "wiki": "Bielorruso"
+                },
+                "fr": {
+                  "title": "Biélorusse",
+                  "wiki": "Biélorusse"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Polish",
+                  "wiki": "Polish"
+                },
+                "es": {
+                  "title": "Polaco",
+                  "wiki": "Polaco"
+                },
+                "fr": {
+                  "title": "Polonais",
+                  "wiki": "Polonais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Czech",
+                  "wiki": "Czech"
+                },
+                "es": {
+                  "title": "Checo",
+                  "wiki": "Checo"
+                },
+                "fr": {
+                  "title": "Tchèque",
+                  "wiki": "Tchèque"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Slovak",
+                  "wiki": "Slovak"
+                },
+                "es": {
+                  "title": "Eslovaco",
+                  "wiki": "Eslovaco"
+                },
+                "fr": {
+                  "title": "Slovaque",
+                  "wiki": "Slovaque"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bulgarian",
+                  "wiki": "Bulgarian"
+                },
+                "es": {
+                  "title": "Búlgaro",
+                  "wiki": "Búlgaro"
+                },
+                "fr": {
+                  "title": "Bulgare",
+                  "wiki": "Bulgare"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Macedonian",
+                  "wiki": "Macedonian"
+                },
+                "es": {
+                  "title": "Macedonio",
+                  "wiki": "Macedonio"
+                },
+                "fr": {
+                  "title": "Macédonien",
+                  "wiki": "Macédonien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Serbian",
+                  "wiki": "Serbian"
+                },
+                "es": {
+                  "title": "Serbio",
+                  "wiki": "Serbio"
+                },
+                "fr": {
+                  "title": "Serbe",
+                  "wiki": "Serbe"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Croatian",
+                  "wiki": "Croatian"
+                },
+                "es": {
+                  "title": "Croata",
+                  "wiki": "Croata"
+                },
+                "fr": {
+                  "title": "Croate",
+                  "wiki": "Croate"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bosnian",
+                  "wiki": "Bosnian"
+                },
+                "es": {
+                  "title": "Bosnio",
+                  "wiki": "Bosnio"
+                },
+                "fr": {
+                  "title": "Bosnien",
+                  "wiki": "Bosnien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Slovene",
+                  "wiki": "Slovene"
+                },
+                "es": {
+                  "title": "Esloveno",
+                  "wiki": "Esloveno"
+                },
+                "fr": {
+                  "title": "Slovène",
+                  "wiki": "Slovène"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Celtic languages",
+              "wiki": "Celtic languages"
+            },
+            "es": {
+              "title": "Lenguas célticas",
+              "wiki": "Lenguas célticas"
+            },
+            "fr": {
+              "title": "Langues celtiques",
+              "wiki": "Langues celtiques"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Irish",
+                  "wiki": "Irish"
+                },
+                "es": {
+                  "title": "Irlandés (gaélico)",
+                  "wiki": "Irlandés (gaélico)"
+                },
+                "fr": {
+                  "title": "Irlandais",
+                  "wiki": "Irlandais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Scottish Gaelic",
+                  "wiki": "Scottish Gaelic"
+                },
+                "es": {
+                  "title": "Gaélico escocés",
+                  "wiki": "Gaélico escocés"
+                },
+                "fr": {
+                  "title": "Gaélique écossais",
+                  "wiki": "Gaélique écossais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Welsh",
+                  "wiki": "Welsh"
+                },
+                "es": {
+                  "title": "Galés",
+                  "wiki": "Galés"
+                },
+                "fr": {
+                  "title": "Gallois",
+                  "wiki": "Gallois"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Breton",
+                  "wiki": "Breton"
+                },
+                "es": {
+                  "title": "Bretón",
+                  "wiki": "Bretón"
+                },
+                "fr": {
+                  "title": "Breton",
+                  "wiki": "Breton"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cornish",
+                  "wiki": "Cornish"
+                },
+                "es": {
+                  "title": "Córnico",
+                  "wiki": "Córnico"
+                },
+                "fr": {
+                  "title": "Cornique",
+                  "wiki": "Cornique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Manx",
+                  "wiki": "Manx"
+                },
+                "es": {
+                  "title": "Manés",
+                  "wiki": "Manés"
+                },
+                "fr": {
+                  "title": "Mannois",
+                  "wiki": "Mannois"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Indo-Iranian languages",
+              "wiki": "Indo-Iranian languages"
+            },
+            "es": {
+              "title": "Lenguas indoiranias",
+              "wiki": "Lenguas indoiranias"
+            },
+            "fr": {
+              "title": "Langues indo-iraniennes",
+              "wiki": "Langues indo-iraniennes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Indo-Aryan languages",
+                  "wiki": "Indo-Aryan languages"
+                },
+                "es": {
+                  "title": "Lenguas indoarias",
+                  "wiki": "Lenguas indoarias"
+                },
+                "fr": {
+                  "title": "Langues indo-aryennes",
+                  "wiki": "Langues indo-aryennes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Hindi",
+                      "wiki": "Hindi"
+                    },
+                    "es": {
+                      "title": "Hindi",
+                      "wiki": "Hindi"
+                    },
+                    "fr": {
+                      "title": "Hindi",
+                      "wiki": "Hindi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Urdu",
+                      "wiki": "Urdu"
+                    },
+                    "es": {
+                      "title": "Urdu",
+                      "wiki": "Urdu"
+                    },
+                    "fr": {
+                      "title": "Ourdou",
+                      "wiki": "Ourdou"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Bengali",
+                      "wiki": "Bengali"
+                    },
+                    "es": {
+                      "title": "Bengalí",
+                      "wiki": "Bengalí"
+                    },
+                    "fr": {
+                      "title": "Bengali",
+                      "wiki": "Bengali"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Punjabi",
+                      "wiki": "Punjabi"
+                    },
+                    "es": {
+                      "title": "Panyabí",
+                      "wiki": "Panyabí"
+                    },
+                    "fr": {
+                      "title": "Pendjabi",
+                      "wiki": "Pendjabi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Marathi",
+                      "wiki": "Marathi"
+                    },
+                    "es": {
+                      "title": "Maratí",
+                      "wiki": "Maratí"
+                    },
+                    "fr": {
+                      "title": "Marathi",
+                      "wiki": "Marathi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Gujarati",
+                      "wiki": "Gujarati"
+                    },
+                    "es": {
+                      "title": "Guyaratí",
+                      "wiki": "Guyaratí"
+                    },
+                    "fr": {
+                      "title": "Gouraratî",
+                      "wiki": "Gouraratî"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Assamese",
+                      "wiki": "Assamese"
+                    },
+                    "es": {
+                      "title": "Asamés",
+                      "wiki": "Asamés"
+                    },
+                    "fr": {
+                      "title": "Assamais",
+                      "wiki": "Assamais"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Odia",
+                      "wiki": "Odia"
+                    },
+                    "es": {
+                      "title": "Odia (oriya)",
+                      "wiki": "Odia (oriya)"
+                    },
+                    "fr": {
+                      "title": "Odia",
+                      "wiki": "Odia"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Sinhala",
+                      "wiki": "Sinhala"
+                    },
+                    "es": {
+                      "title": "Cingalés",
+                      "wiki": "Cingalés"
+                    },
+                    "fr": {
+                      "title": "Singhalais",
+                      "wiki": "Singhalais"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Nepali",
+                      "wiki": "Nepali"
+                    },
+                    "es": {
+                      "title": "Nepalí",
+                      "wiki": "Nepalí"
+                    },
+                    "fr": {
+                      "title": "Népalais",
+                      "wiki": "Népalais"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Konkani",
+                      "wiki": "Konkani"
+                    },
+                    "es": {
+                      "title": "Konkani",
+                      "wiki": "Konkani"
+                    },
+                    "fr": {
+                      "title": "Konkani",
+                      "wiki": "Konkani"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Maithili",
+                      "wiki": "Maithili"
+                    },
+                    "es": {
+                      "title": "Maithili",
+                      "wiki": "Maithili"
+                    },
+                    "fr": {
+                      "title": "Maïthili",
+                      "wiki": "Maïthili"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Sindhi",
+                      "wiki": "Sindhi"
+                    },
+                    "es": {
+                      "title": "Sindhi",
+                      "wiki": "Sindhi"
+                    },
+                    "fr": {
+                      "title": "Sindhi",
+                      "wiki": "Sindhi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kashmiri",
+                      "wiki": "Kashmiri"
+                    },
+                    "es": {
+                      "title": "Cachemiro",
+                      "wiki": "Cachemiro"
+                    },
+                    "fr": {
+                      "title": "Cachemiri",
+                      "wiki": "Cachemiri"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Dogri",
+                      "wiki": "Dogri"
+                    },
+                    "es": {
+                      "title": "Dogri",
+                      "wiki": "Dogri"
+                    },
+                    "fr": {
+                      "title": "Dogri",
+                      "wiki": "Dogri"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Bhojpuri",
+                      "wiki": "Bhojpuri"
+                    },
+                    "es": {
+                      "title": "Bhojpuri",
+                      "wiki": "Bhojpuri"
+                    },
+                    "fr": {
+                      "title": "Bhodjpouri",
+                      "wiki": "Bhodjpouri"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Rajasthani",
+                      "wiki": "Rajasthani"
+                    },
+                    "es": {
+                      "title": "Rajasthani",
+                      "wiki": "Rajasthani"
+                    },
+                    "fr": {
+                      "title": "Rajasthani",
+                      "wiki": "Rajasthani"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Chhattisgarhi",
+                      "wiki": "Chhattisgarhi"
+                    },
+                    "es": {
+                      "title": "Chhattisgarí",
+                      "wiki": "Chhattisgarí"
+                    },
+                    "fr": {
+                      "title": "Chhattisgarhi",
+                      "wiki": "Chhattisgarhi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Santali",
+                      "wiki": "Santali"
+                    },
+                    "es": {
+                      "title": "Santali",
+                      "wiki": "Santali"
+                    },
+                    "fr": {
+                      "title": "Santali",
+                      "wiki": "Santali"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Sinhalese",
+                      "wiki": "Sinhalese"
+                    },
+                    "es": {
+                      "title": "Cingalés",
+                      "wiki": "Cingalés"
+                    },
+                    "fr": {
+                      "title": "Singhalais",
+                      "wiki": "Singhalais"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Iranian languages",
+                  "wiki": "Iranian languages"
+                },
+                "es": {
+                  "title": "Lenguas iranias",
+                  "wiki": "Lenguas iranias"
+                },
+                "fr": {
+                  "title": "Langues iraniennes",
+                  "wiki": "Langues iraniennes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Persian (Farsi)",
+                      "wiki": "Persian (Farsi)"
+                    },
+                    "es": {
+                      "title": "Persa (farsi)",
+                      "wiki": "Persa (farsi)"
+                    },
+                    "fr": {
+                      "title": "Persan (farsi)",
+                      "wiki": "Persan (farsi)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Dari",
+                      "wiki": "Dari"
+                    },
+                    "es": {
+                      "title": "Darí",
+                      "wiki": "Darí"
+                    },
+                    "fr": {
+                      "title": "Dari",
+                      "wiki": "Dari"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Tajik",
+                      "wiki": "Tajik"
+                    },
+                    "es": {
+                      "title": "Tayiko",
+                      "wiki": "Tayiko"
+                    },
+                    "fr": {
+                      "title": "Tadjik",
+                      "wiki": "Tadjik"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Pashto",
+                      "wiki": "Pashto"
+                    },
+                    "es": {
+                      "title": "Pastún",
+                      "wiki": "Pastún"
+                    },
+                    "fr": {
+                      "title": "Pachto",
+                      "wiki": "Pachto"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kurdish (Kurmanji)",
+                      "wiki": "Kurdish (Kurmanji)"
+                    },
+                    "es": {
+                      "title": "Kurdo (kurmanji)",
+                      "wiki": "Kurdo (kurmanji)"
+                    },
+                    "fr": {
+                      "title": "Kurde (kurmanji)",
+                      "wiki": "Kurde (kurmanji)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kurdish (Sorani)",
+                      "wiki": "Kurdish (Sorani)"
+                    },
+                    "es": {
+                      "title": "Kurdo (soraní)",
+                      "wiki": "Kurdo (soraní)"
+                    },
+                    "fr": {
+                      "title": "Kurde (soranî)",
+                      "wiki": "Kurde (soranî)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Balochi",
+                      "wiki": "Balochi"
+                    },
+                    "es": {
+                      "title": "Baluchi",
+                      "wiki": "Baluchi"
+                    },
+                    "fr": {
+                      "title": "Baloutche",
+                      "wiki": "Baloutche"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Gilaki",
+                      "wiki": "Gilaki"
+                    },
+                    "es": {
+                      "title": "Gilaki",
+                      "wiki": "Gilaki"
+                    },
+                    "fr": {
+                      "title": "Gilaki",
+                      "wiki": "Gilaki"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mazanderani",
+                      "wiki": "Mazanderani"
+                    },
+                    "es": {
+                      "title": "Mazandaraní",
+                      "wiki": "Mazandaraní"
+                    },
+                    "fr": {
+                      "title": "Mazandérani",
+                      "wiki": "Mazandérani"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Luri",
+                      "wiki": "Luri"
+                    },
+                    "es": {
+                      "title": "Luri",
+                      "wiki": "Luri"
+                    },
+                    "fr": {
+                      "title": "Lori",
+                      "wiki": "Lori"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Wakhi",
+                      "wiki": "Wakhi"
+                    },
+                    "es": {
+                      "title": "Wakhi",
+                      "wiki": "Wakhi"
+                    },
+                    "fr": {
+                      "title": "Wakhi",
+                      "wiki": "Wakhi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ossetian",
+                      "wiki": "Ossetian"
+                    },
+                    "es": {
+                      "title": "Osetio",
+                      "wiki": "Osetio"
+                    },
+                    "fr": {
+                      "title": "Ossète",
+                      "wiki": "Ossète"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Greek",
+              "wiki": "Greek"
+            },
+            "es": {
+              "title": "Griego",
+              "wiki": "Griego"
+            },
+            "fr": {
+              "title": "Grec",
+              "wiki": "Grec"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Albanian",
+              "wiki": "Albanian"
+            },
+            "es": {
+              "title": "Albanés",
+              "wiki": "Albanés"
+            },
+            "fr": {
+              "title": "Albanais",
+              "wiki": "Albanais"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Armenian",
+              "wiki": "Armenian"
+            },
+            "es": {
+              "title": "Armenio",
+              "wiki": "Armenio"
+            },
+            "fr": {
+              "title": "Arménien",
+              "wiki": "Arménien"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Baltic languages",
+              "wiki": "Baltic languages"
+            },
+            "es": {
+              "title": "Lenguas bálticas",
+              "wiki": "Lenguas bálticas"
+            },
+            "fr": {
+              "title": "Langues baltes",
+              "wiki": "Langues baltes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lithuanian",
+                  "wiki": "Lithuanian"
+                },
+                "es": {
+                  "title": "Lituano",
+                  "wiki": "Lituano"
+                },
+                "fr": {
+                  "title": "Lituanien",
+                  "wiki": "Lituanien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Latvian",
+                  "wiki": "Latvian"
+                },
+                "es": {
+                  "title": "Letón",
+                  "wiki": "Letón"
+                },
+                "fr": {
+                  "title": "Letton",
+                  "wiki": "Letton"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Sino-Tibetan languages",
+          "wiki": "Sino-Tibetan languages"
+        },
+        "es": {
+          "title": "Lenguas sino-tibetanas",
+          "wiki": "Lenguas sino-tibetanas"
+        },
+        "fr": {
+          "title": "Langues sino-tibétaines",
+          "wiki": "Langues sino-tibétaines"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Sinitic (Chinese)",
+              "wiki": "Sinitic (Chinese)"
+            },
+            "es": {
+              "title": "Sínicas (chino)",
+              "wiki": "Sínicas (chino)"
+            },
+            "fr": {
+              "title": "Sinitiques (chinois)",
+              "wiki": "Sinitiques (chinois)"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Mandarin Chinese",
+                  "wiki": "Mandarin Chinese"
+                },
+                "es": {
+                  "title": "Chino mandarín",
+                  "wiki": "Chino mandarín"
+                },
+                "fr": {
+                  "title": "Chinois mandarin",
+                  "wiki": "Chinois mandarin"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cantonese (Yue)",
+                  "wiki": "Cantonese (Yue)"
+                },
+                "es": {
+                  "title": "Cantonés (yue)",
+                  "wiki": "Cantonés (yue)"
+                },
+                "fr": {
+                  "title": "Cantonais (yue)",
+                  "wiki": "Cantonais (yue)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Wu (Shanghainese)",
+                  "wiki": "Wu (Shanghainese)"
+                },
+                "es": {
+                  "title": "Wu (shanghainés)",
+                  "wiki": "Wu (shanghainés)"
+                },
+                "fr": {
+                  "title": "Wu (shanghaïen)",
+                  "wiki": "Wu (shanghaïen)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hakka",
+                  "wiki": "Hakka"
+                },
+                "es": {
+                  "title": "Hakka",
+                  "wiki": "Hakka"
+                },
+                "fr": {
+                  "title": "Hakka",
+                  "wiki": "Hakka"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Min Nan (Hokkien)",
+                  "wiki": "Min Nan (Hokkien)"
+                },
+                "es": {
+                  "title": "Min nan (hokkien)",
+                  "wiki": "Min nan (hokkien)"
+                },
+                "fr": {
+                  "title": "Min nan (hokkien)",
+                  "wiki": "Min nan (hokkien)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Jin",
+                  "wiki": "Jin"
+                },
+                "es": {
+                  "title": "Jin",
+                  "wiki": "Jin"
+                },
+                "fr": {
+                  "title": "Jin",
+                  "wiki": "Jin"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gan",
+                  "wiki": "Gan"
+                },
+                "es": {
+                  "title": "Gan",
+                  "wiki": "Gan"
+                },
+                "fr": {
+                  "title": "Gan",
+                  "wiki": "Gan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Xiang",
+                  "wiki": "Xiang"
+                },
+                "es": {
+                  "title": "Xiang",
+                  "wiki": "Xiang"
+                },
+                "fr": {
+                  "title": "Xiang",
+                  "wiki": "Xiang"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tibeto-Burman",
+              "wiki": "Tibeto-Burman"
+            },
+            "es": {
+              "title": "Tibetobirmanas",
+              "wiki": "Tibetobirmanas"
+            },
+            "fr": {
+              "title": "Tibéto-birmanes",
+              "wiki": "Tibéto-birmanes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tibetan",
+                  "wiki": "Tibetan"
+                },
+                "es": {
+                  "title": "Tibetano",
+                  "wiki": "Tibetano"
+                },
+                "fr": {
+                  "title": "Tibétain",
+                  "wiki": "Tibétain"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Burmese",
+                  "wiki": "Burmese"
+                },
+                "es": {
+                  "title": "Birmano",
+                  "wiki": "Birmano"
+                },
+                "fr": {
+                  "title": "Birman",
+                  "wiki": "Birman"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Newar",
+                  "wiki": "Newar"
+                },
+                "es": {
+                  "title": "Newar",
+                  "wiki": "Newar"
+                },
+                "fr": {
+                  "title": "Newar",
+                  "wiki": "Newar"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Karen languages",
+                  "wiki": "Karen languages"
+                },
+                "es": {
+                  "title": "Lenguas karen",
+                  "wiki": "Lenguas karen"
+                },
+                "fr": {
+                  "title": "Langues karènes",
+                  "wiki": "Langues karènes"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Meitei (Manipuri)",
+                  "wiki": "Meitei (Manipuri)"
+                },
+                "es": {
+                  "title": "Meitei (manipuri)",
+                  "wiki": "Meitei (manipuri)"
+                },
+                "fr": {
+                  "title": "Meitei (manipuri)",
+                  "wiki": "Meitei (manipuri)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Mizo (Lushai)",
+                  "wiki": "Mizo (Lushai)"
+                },
+                "es": {
+                  "title": "Mizo (lushai)",
+                  "wiki": "Mizo (lushai)"
+                },
+                "fr": {
+                  "title": "Mizo (lushai)",
+                  "wiki": "Mizo (lushai)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Naga languages",
+                  "wiki": "Naga languages"
+                },
+                "es": {
+                  "title": "Lenguas naga",
+                  "wiki": "Lenguas naga"
+                },
+                "fr": {
+                  "title": "Langues naga",
+                  "wiki": "Langues naga"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Garo",
+                  "wiki": "Garo"
+                },
+                "es": {
+                  "title": "Garo",
+                  "wiki": "Garo"
+                },
+                "fr": {
+                  "title": "Garo",
+                  "wiki": "Garo"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Kachin (Jingpho)",
+                  "wiki": "Kachin (Jingpho)"
+                },
+                "es": {
+                  "title": "Kachin (jingpho)",
+                  "wiki": "Kachin (jingpho)"
+                },
+                "fr": {
+                  "title": "Kachin (jingpho)",
+                  "wiki": "Kachin (jingpho)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lahu",
+                  "wiki": "Lahu"
+                },
+                "es": {
+                  "title": "Lahu",
+                  "wiki": "Lahu"
+                },
+                "fr": {
+                  "title": "Lahu",
+                  "wiki": "Lahu"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Afro-Asiatic languages",
+          "wiki": "Afro-Asiatic languages"
+        },
+        "es": {
+          "title": "Lenguas afroasiáticas",
+          "wiki": "Lenguas afroasiáticas"
+        },
+        "fr": {
+          "title": "Langues afro-asiatiques",
+          "wiki": "Langues afro-asiatiques"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Semitic languages",
+              "wiki": "Semitic languages"
+            },
+            "es": {
+              "title": "Lenguas semíticas",
+              "wiki": "Lenguas semíticas"
+            },
+            "fr": {
+              "title": "Langues sémitiques",
+              "wiki": "Langues sémitiques"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Arabic",
+                  "wiki": "Arabic"
+                },
+                "es": {
+                  "title": "Árabe",
+                  "wiki": "Árabe"
+                },
+                "fr": {
+                  "title": "Arabe",
+                  "wiki": "Arabe"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hebrew",
+                  "wiki": "Hebrew"
+                },
+                "es": {
+                  "title": "Hebreo",
+                  "wiki": "Hebreo"
+                },
+                "fr": {
+                  "title": "Hébreu",
+                  "wiki": "Hébreu"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Amharic",
+                  "wiki": "Amharic"
+                },
+                "es": {
+                  "title": "Amárico",
+                  "wiki": "Amárico"
+                },
+                "fr": {
+                  "title": "Amharique",
+                  "wiki": "Amharique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tigrinya",
+                  "wiki": "Tigrinya"
+                },
+                "es": {
+                  "title": "Tigriña",
+                  "wiki": "Tigriña"
+                },
+                "fr": {
+                  "title": "Tigrigna",
+                  "wiki": "Tigrigna"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Maltese",
+                  "wiki": "Maltese"
+                },
+                "es": {
+                  "title": "Maltés",
+                  "wiki": "Maltés"
+                },
+                "fr": {
+                  "title": "Maltais",
+                  "wiki": "Maltais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Syriac (Modern)",
+                  "wiki": "Syriac (Modern)"
+                },
+                "es": {
+                  "title": "Siríaco (moderno)",
+                  "wiki": "Siríaco (moderno)"
+                },
+                "fr": {
+                  "title": "Syriaque (moderne)",
+                  "wiki": "Syriaque (moderne)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tigre",
+                  "wiki": "Tigre"
+                },
+                "es": {
+                  "title": "Tigre",
+                  "wiki": "Tigre"
+                },
+                "fr": {
+                  "title": "Tigré",
+                  "wiki": "Tigré"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Harari",
+                  "wiki": "Harari"
+                },
+                "es": {
+                  "title": "Harari",
+                  "wiki": "Harari"
+                },
+                "fr": {
+                  "title": "Harari",
+                  "wiki": "Harari"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Aramaic (Modern)",
+                  "wiki": "Aramaic (Modern)"
+                },
+                "es": {
+                  "title": "Arameo (moderno)",
+                  "wiki": "Arameo (moderno)"
+                },
+                "fr": {
+                  "title": "Araméen (moderne)",
+                  "wiki": "Araméen (moderne)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Geez (liturgical)",
+                  "wiki": "Geez (liturgical)"
+                },
+                "es": {
+                  "title": "Ge'ez (litúrgico)",
+                  "wiki": "Ge'ez (litúrgico)"
+                },
+                "fr": {
+                  "title": "Guèze (liturgique)",
+                  "wiki": "Guèze (liturgique)"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Berber (Amazigh) languages",
+              "wiki": "Berber (Amazigh) languages"
+            },
+            "es": {
+              "title": "Lenguas bereberes (amaziges)",
+              "wiki": "Lenguas bereberes (amaziges)"
+            },
+            "fr": {
+              "title": "Langues berbères (amazighes)",
+              "wiki": "Langues berbères (amazighes)"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tamazight",
+                  "wiki": "Tamazight"
+                },
+                "es": {
+                  "title": "Tamazight",
+                  "wiki": "Tamazight"
+                },
+                "fr": {
+                  "title": "Tamazight",
+                  "wiki": "Tamazight"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Kabyle",
+                  "wiki": "Kabyle"
+                },
+                "es": {
+                  "title": "Cabilio",
+                  "wiki": "Cabilio"
+                },
+                "fr": {
+                  "title": "Kabyle",
+                  "wiki": "Kabyle"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tachelhit",
+                  "wiki": "Tachelhit"
+                },
+                "es": {
+                  "title": "Tashelhit",
+                  "wiki": "Tashelhit"
+                },
+                "fr": {
+                  "title": "Tachelhit",
+                  "wiki": "Tachelhit"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Riffian",
+                  "wiki": "Riffian"
+                },
+                "es": {
+                  "title": "Rifeño",
+                  "wiki": "Rifeño"
+                },
+                "fr": {
+                  "title": "Rifain",
+                  "wiki": "Rifain"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tuareg (Tamasheq)",
+                  "wiki": "Tuareg (Tamasheq)"
+                },
+                "es": {
+                  "title": "Tuareg (tamasheq)",
+                  "wiki": "Tuareg (tamasheq)"
+                },
+                "fr": {
+                  "title": "Touareg (tamasheq)",
+                  "wiki": "Touareg (tamasheq)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Shilha",
+                  "wiki": "Shilha"
+                },
+                "es": {
+                  "title": "Shilha",
+                  "wiki": "Shilha"
+                },
+                "fr": {
+                  "title": "Chleuh",
+                  "wiki": "Chleuh"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Zenaga",
+                  "wiki": "Zenaga"
+                },
+                "es": {
+                  "title": "Zenaga",
+                  "wiki": "Zenaga"
+                },
+                "fr": {
+                  "title": "Zenaga",
+                  "wiki": "Zenaga"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Ghomara",
+                  "wiki": "Ghomara"
+                },
+                "es": {
+                  "title": "Ghomara",
+                  "wiki": "Ghomara"
+                },
+                "fr": {
+                  "title": "Ghomara",
+                  "wiki": "Ghomara"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Chadic languages",
+              "wiki": "Chadic languages"
+            },
+            "es": {
+              "title": "Lenguas chádicas",
+              "wiki": "Lenguas chádicas"
+            },
+            "fr": {
+              "title": "Langues tchadiques",
+              "wiki": "Langues tchadiques"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hausa",
+                  "wiki": "Hausa"
+                },
+                "es": {
+                  "title": "Hausa",
+                  "wiki": "Hausa"
+                },
+                "fr": {
+                  "title": "Haoussa",
+                  "wiki": "Haoussa"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Ngas",
+                  "wiki": "Ngas"
+                },
+                "es": {
+                  "title": "Ngas",
+                  "wiki": "Ngas"
+                },
+                "fr": {
+                  "title": "Ngas",
+                  "wiki": "Ngas"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bole",
+                  "wiki": "Bole"
+                },
+                "es": {
+                  "title": "Bole",
+                  "wiki": "Bole"
+                },
+                "fr": {
+                  "title": "Bole",
+                  "wiki": "Bole"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sayanci",
+                  "wiki": "Sayanci"
+                },
+                "es": {
+                  "title": "Sayanci",
+                  "wiki": "Sayanci"
+                },
+                "fr": {
+                  "title": "Sayanci",
+                  "wiki": "Sayanci"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bura",
+                  "wiki": "Bura"
+                },
+                "es": {
+                  "title": "Bura",
+                  "wiki": "Bura"
+                },
+                "fr": {
+                  "title": "Bura",
+                  "wiki": "Bura"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Margi",
+                  "wiki": "Margi"
+                },
+                "es": {
+                  "title": "Margi",
+                  "wiki": "Margi"
+                },
+                "fr": {
+                  "title": "Margi",
+                  "wiki": "Margi"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Cushitic languages",
+              "wiki": "Cushitic languages"
+            },
+            "es": {
+              "title": "Lenguas cusitas",
+              "wiki": "Lenguas cusitas"
+            },
+            "fr": {
+              "title": "Langues couchitiques",
+              "wiki": "Langues couchitiques"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Somali",
+                  "wiki": "Somali"
+                },
+                "es": {
+                  "title": "Somalí",
+                  "wiki": "Somalí"
+                },
+                "fr": {
+                  "title": "Somali",
+                  "wiki": "Somali"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Oromo",
+                  "wiki": "Oromo"
+                },
+                "es": {
+                  "title": "Oromo",
+                  "wiki": "Oromo"
+                },
+                "fr": {
+                  "title": "Oromo",
+                  "wiki": "Oromo"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Afar",
+                  "wiki": "Afar"
+                },
+                "es": {
+                  "title": "Afar",
+                  "wiki": "Afar"
+                },
+                "fr": {
+                  "title": "Afar",
+                  "wiki": "Afar"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Beja",
+                  "wiki": "Beja"
+                },
+                "es": {
+                  "title": "Beja",
+                  "wiki": "Beja"
+                },
+                "fr": {
+                  "title": "Bedja",
+                  "wiki": "Bedja"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sidamo",
+                  "wiki": "Sidamo"
+                },
+                "es": {
+                  "title": "Sidamo",
+                  "wiki": "Sidamo"
+                },
+                "fr": {
+                  "title": "Sidamo",
+                  "wiki": "Sidamo"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Saho",
+                  "wiki": "Saho"
+                },
+                "es": {
+                  "title": "Saho",
+                  "wiki": "Saho"
+                },
+                "fr": {
+                  "title": "Saho",
+                  "wiki": "Saho"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Omotic languages",
+              "wiki": "Omotic languages"
+            },
+            "es": {
+              "title": "Lenguas omóticas",
+              "wiki": "Lenguas omóticas"
+            },
+            "fr": {
+              "title": "Langues omotiques",
+              "wiki": "Langues omotiques"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Wolaytta",
+                  "wiki": "Wolaytta"
+                },
+                "es": {
+                  "title": "Welayta",
+                  "wiki": "Welayta"
+                },
+                "fr": {
+                  "title": "Wolaytta",
+                  "wiki": "Wolaytta"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gamo",
+                  "wiki": "Gamo"
+                },
+                "es": {
+                  "title": "Gamo",
+                  "wiki": "Gamo"
+                },
+                "fr": {
+                  "title": "Gamo",
+                  "wiki": "Gamo"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hamer",
+                  "wiki": "Hamer"
+                },
+                "es": {
+                  "title": "Hamer",
+                  "wiki": "Hamer"
+                },
+                "fr": {
+                  "title": "Hamer",
+                  "wiki": "Hamer"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bench",
+                  "wiki": "Bench"
+                },
+                "es": {
+                  "title": "Bench",
+                  "wiki": "Bench"
+                },
+                "fr": {
+                  "title": "Bench",
+                  "wiki": "Bench"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Aari",
+                  "wiki": "Aari"
+                },
+                "es": {
+                  "title": "Aari",
+                  "wiki": "Aari"
+                },
+                "fr": {
+                  "title": "Aari",
+                  "wiki": "Aari"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Niger–Congo languages",
+          "wiki": "Niger–Congo languages"
+        },
+        "es": {
+          "title": "Lenguas Níger-Congo",
+          "wiki": "Lenguas Níger-Congo"
+        },
+        "fr": {
+          "title": "Langues nigéro-congolaises",
+          "wiki": "Langues nigéro-congolaises"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Atlantic–Congo",
+              "wiki": "Atlantic–Congo"
+            },
+            "es": {
+              "title": "Atlántico-Congo",
+              "wiki": "Atlántico-Congo"
+            },
+            "fr": {
+              "title": "Atlantique–Congo",
+              "wiki": "Atlantique–Congo"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Kwa languages",
+                  "wiki": "Kwa languages"
+                },
+                "es": {
+                  "title": "Lenguas kwa",
+                  "wiki": "Lenguas kwa"
+                },
+                "fr": {
+                  "title": "Langues kwa",
+                  "wiki": "Langues kwa"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Akan (Twi/Fante)",
+                      "wiki": "Akan (Twi/Fante)"
+                    },
+                    "es": {
+                      "title": "Akan (twi/fante)",
+                      "wiki": "Akan (twi/fante)"
+                    },
+                    "fr": {
+                      "title": "Akan (twi/fante)",
+                      "wiki": "Akan (twi/fante)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ewe",
+                      "wiki": "Ewe"
+                    },
+                    "es": {
+                      "title": "Ewe",
+                      "wiki": "Ewe"
+                    },
+                    "fr": {
+                      "title": "Éwé",
+                      "wiki": "Éwé"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ga",
+                      "wiki": "Ga"
+                    },
+                    "es": {
+                      "title": "Ga",
+                      "wiki": "Ga"
+                    },
+                    "fr": {
+                      "title": "Ga",
+                      "wiki": "Ga"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Anyin",
+                      "wiki": "Anyin"
+                    },
+                    "es": {
+                      "title": "Anyi",
+                      "wiki": "Anyi"
+                    },
+                    "fr": {
+                      "title": "Anyin",
+                      "wiki": "Anyin"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Baoulé",
+                      "wiki": "Baoulé"
+                    },
+                    "es": {
+                      "title": "Baulé",
+                      "wiki": "Baulé"
+                    },
+                    "fr": {
+                      "title": "Baoulé",
+                      "wiki": "Baoulé"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Nzema",
+                      "wiki": "Nzema"
+                    },
+                    "es": {
+                      "title": "Nzema",
+                      "wiki": "Nzema"
+                    },
+                    "fr": {
+                      "title": "Nzema",
+                      "wiki": "Nzema"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gur languages",
+                  "wiki": "Gur languages"
+                },
+                "es": {
+                  "title": "Lenguas gur",
+                  "wiki": "Lenguas gur"
+                },
+                "fr": {
+                  "title": "Langues gour",
+                  "wiki": "Langues gour"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mossi",
+                      "wiki": "Mossi"
+                    },
+                    "es": {
+                      "title": "Mossi",
+                      "wiki": "Mossi"
+                    },
+                    "fr": {
+                      "title": "Mossi",
+                      "wiki": "Mossi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Dagbani",
+                      "wiki": "Dagbani"
+                    },
+                    "es": {
+                      "title": "Dagbani",
+                      "wiki": "Dagbani"
+                    },
+                    "fr": {
+                      "title": "Dagbani",
+                      "wiki": "Dagbani"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Dagaare",
+                      "wiki": "Dagaare"
+                    },
+                    "es": {
+                      "title": "Dagaare",
+                      "wiki": "Dagaare"
+                    },
+                    "fr": {
+                      "title": "Dagaare",
+                      "wiki": "Dagaare"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Frafra",
+                      "wiki": "Frafra"
+                    },
+                    "es": {
+                      "title": "Frafra",
+                      "wiki": "Frafra"
+                    },
+                    "fr": {
+                      "title": "Frafra",
+                      "wiki": "Frafra"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kusaal",
+                      "wiki": "Kusaal"
+                    },
+                    "es": {
+                      "title": "Kusaal",
+                      "wiki": "Kusaal"
+                    },
+                    "fr": {
+                      "title": "Kusaal",
+                      "wiki": "Kusaal"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Gurmanchéma",
+                      "wiki": "Gurmanchéma"
+                    },
+                    "es": {
+                      "title": "Gulmancema",
+                      "wiki": "Gulmancema"
+                    },
+                    "fr": {
+                      "title": "Gourmanchéma",
+                      "wiki": "Gourmanchéma"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Volta–Niger",
+                  "wiki": "Volta–Niger"
+                },
+                "es": {
+                  "title": "Volta-Níger",
+                  "wiki": "Volta-Níger"
+                },
+                "fr": {
+                  "title": "Volta–Niger",
+                  "wiki": "Volta–Niger"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Yoruba",
+                      "wiki": "Yoruba"
+                    },
+                    "es": {
+                      "title": "Yoruba",
+                      "wiki": "Yoruba"
+                    },
+                    "fr": {
+                      "title": "Yoruba",
+                      "wiki": "Yoruba"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Igbo",
+                      "wiki": "Igbo"
+                    },
+                    "es": {
+                      "title": "Igbo",
+                      "wiki": "Igbo"
+                    },
+                    "fr": {
+                      "title": "Igbo",
+                      "wiki": "Igbo"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Edo (Bini)",
+                      "wiki": "Edo (Bini)"
+                    },
+                    "es": {
+                      "title": "Edo (bini)",
+                      "wiki": "Edo (bini)"
+                    },
+                    "fr": {
+                      "title": "Édo (bini)",
+                      "wiki": "Édo (bini)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Itsekiri",
+                      "wiki": "Itsekiri"
+                    },
+                    "es": {
+                      "title": "Itsekiri",
+                      "wiki": "Itsekiri"
+                    },
+                    "fr": {
+                      "title": "Itsekiri",
+                      "wiki": "Itsekiri"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Urhobo",
+                      "wiki": "Urhobo"
+                    },
+                    "es": {
+                      "title": "Urhobo",
+                      "wiki": "Urhobo"
+                    },
+                    "fr": {
+                      "title": "Urhobo",
+                      "wiki": "Urhobo"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Adamawa–Ubangi",
+                  "wiki": "Adamawa–Ubangi"
+                },
+                "es": {
+                  "title": "Adamaua-Ubangi",
+                  "wiki": "Adamaua-Ubangi"
+                },
+                "fr": {
+                  "title": "Adamawa–Ubangi",
+                  "wiki": "Adamawa–Ubangi"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Sango",
+                      "wiki": "Sango"
+                    },
+                    "es": {
+                      "title": "Sango",
+                      "wiki": "Sango"
+                    },
+                    "fr": {
+                      "title": "Sango",
+                      "wiki": "Sango"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Gbaya",
+                      "wiki": "Gbaya"
+                    },
+                    "es": {
+                      "title": "Gbaya",
+                      "wiki": "Gbaya"
+                    },
+                    "fr": {
+                      "title": "Gbaya",
+                      "wiki": "Gbaya"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Zande",
+                      "wiki": "Zande"
+                    },
+                    "es": {
+                      "title": "Zande",
+                      "wiki": "Zande"
+                    },
+                    "fr": {
+                      "title": "Zandé",
+                      "wiki": "Zandé"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ngbandi",
+                      "wiki": "Ngbandi"
+                    },
+                    "es": {
+                      "title": "Ngbandi",
+                      "wiki": "Ngbandi"
+                    },
+                    "fr": {
+                      "title": "Ngbandi",
+                      "wiki": "Ngbandi"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bantu languages",
+                  "wiki": "Bantu languages"
+                },
+                "es": {
+                  "title": "Lenguas bantúes",
+                  "wiki": "Lenguas bantúes"
+                },
+                "fr": {
+                  "title": "Langues bantoues",
+                  "wiki": "Langues bantoues"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Swahili",
+                      "wiki": "Swahili"
+                    },
+                    "es": {
+                      "title": "Suajili",
+                      "wiki": "Suajili"
+                    },
+                    "fr": {
+                      "title": "Swahili",
+                      "wiki": "Swahili"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Zulu",
+                      "wiki": "Zulu"
+                    },
+                    "es": {
+                      "title": "Zulú",
+                      "wiki": "Zulú"
+                    },
+                    "fr": {
+                      "title": "Zoulou",
+                      "wiki": "Zoulou"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Xhosa",
+                      "wiki": "Xhosa"
+                    },
+                    "es": {
+                      "title": "Xhosa",
+                      "wiki": "Xhosa"
+                    },
+                    "fr": {
+                      "title": "Xhosa",
+                      "wiki": "Xhosa"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Shona",
+                      "wiki": "Shona"
+                    },
+                    "es": {
+                      "title": "Shona",
+                      "wiki": "Shona"
+                    },
+                    "fr": {
+                      "title": "Shona",
+                      "wiki": "Shona"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kinyarwanda",
+                      "wiki": "Kinyarwanda"
+                    },
+                    "es": {
+                      "title": "Kinyarwanda",
+                      "wiki": "Kinyarwanda"
+                    },
+                    "fr": {
+                      "title": "Kinyarwanda",
+                      "wiki": "Kinyarwanda"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kirundi",
+                      "wiki": "Kirundi"
+                    },
+                    "es": {
+                      "title": "Kirundi",
+                      "wiki": "Kirundi"
+                    },
+                    "fr": {
+                      "title": "Kirundi",
+                      "wiki": "Kirundi"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Lingala",
+                      "wiki": "Lingala"
+                    },
+                    "es": {
+                      "title": "Lingala",
+                      "wiki": "Lingala"
+                    },
+                    "fr": {
+                      "title": "Lingala",
+                      "wiki": "Lingala"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Kongo",
+                      "wiki": "Kongo"
+                    },
+                    "es": {
+                      "title": "Kongo",
+                      "wiki": "Kongo"
+                    },
+                    "fr": {
+                      "title": "Kongo",
+                      "wiki": "Kongo"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Tswana",
+                      "wiki": "Tswana"
+                    },
+                    "es": {
+                      "title": "Tswana",
+                      "wiki": "Tswana"
+                    },
+                    "fr": {
+                      "title": "Tswana",
+                      "wiki": "Tswana"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Sotho",
+                      "wiki": "Sotho"
+                    },
+                    "es": {
+                      "title": "Sesoto",
+                      "wiki": "Sesoto"
+                    },
+                    "fr": {
+                      "title": "Sotho",
+                      "wiki": "Sotho"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Chichewa",
+                      "wiki": "Chichewa"
+                    },
+                    "es": {
+                      "title": "Chichewa",
+                      "wiki": "Chichewa"
+                    },
+                    "fr": {
+                      "title": "Chichewa",
+                      "wiki": "Chichewa"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Bemba",
+                      "wiki": "Bemba"
+                    },
+                    "es": {
+                      "title": "Bemba",
+                      "wiki": "Bemba"
+                    },
+                    "fr": {
+                      "title": "Bemba",
+                      "wiki": "Bemba"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Luba-Kasai",
+                      "wiki": "Luba-Kasai"
+                    },
+                    "es": {
+                      "title": "Luba-kasai",
+                      "wiki": "Luba-kasai"
+                    },
+                    "fr": {
+                      "title": "Luba-kasaï",
+                      "wiki": "Luba-kasaï"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ndebele (Northern)",
+                      "wiki": "Ndebele (Northern)"
+                    },
+                    "es": {
+                      "title": "Ndebele (norte)",
+                      "wiki": "Ndebele (norte)"
+                    },
+                    "fr": {
+                      "title": "Ndébélé (Nord)",
+                      "wiki": "Ndébélé (Nord)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ndebele (Southern)",
+                      "wiki": "Ndebele (Southern)"
+                    },
+                    "es": {
+                      "title": "Ndebele (sur)",
+                      "wiki": "Ndebele (sur)"
+                    },
+                    "fr": {
+                      "title": "Ndébélé (Sud)",
+                      "wiki": "Ndébélé (Sud)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ganda (Luganda)",
+                      "wiki": "Ganda (Luganda)"
+                    },
+                    "es": {
+                      "title": "Ganda (luganda)",
+                      "wiki": "Ganda (luganda)"
+                    },
+                    "fr": {
+                      "title": "Ganda (luganda)",
+                      "wiki": "Ganda (luganda)"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Makonde",
+                      "wiki": "Makonde"
+                    },
+                    "es": {
+                      "title": "Makonde",
+                      "wiki": "Makonde"
+                    },
+                    "fr": {
+                      "title": "Makonde",
+                      "wiki": "Makonde"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Meru",
+                      "wiki": "Meru"
+                    },
+                    "es": {
+                      "title": "Meru",
+                      "wiki": "Meru"
+                    },
+                    "fr": {
+                      "title": "Meru",
+                      "wiki": "Meru"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Chaga",
+                      "wiki": "Chaga"
+                    },
+                    "es": {
+                      "title": "Chaga",
+                      "wiki": "Chaga"
+                    },
+                    "fr": {
+                      "title": "Chaga",
+                      "wiki": "Chaga"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Tsonga",
+                      "wiki": "Tsonga"
+                    },
+                    "es": {
+                      "title": "Tsonga",
+                      "wiki": "Tsonga"
+                    },
+                    "fr": {
+                      "title": "Tsonga",
+                      "wiki": "Tsonga"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Austronesian languages",
+          "wiki": "Austronesian languages"
+        },
+        "es": {
+          "title": "Lenguas austronesias",
+          "wiki": "Lenguas austronesias"
+        },
+        "fr": {
+          "title": "Langues austronésiennes",
+          "wiki": "Langues austronésiennes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Malayo-Polynesian",
+              "wiki": "Malayo-Polynesian"
+            },
+            "es": {
+              "title": "Malayo-polinesias",
+              "wiki": "Malayo-polinesias"
+            },
+            "fr": {
+              "title": "Malayo-polynésiennes",
+              "wiki": "Malayo-polynésiennes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Malay",
+                  "wiki": "Malay"
+                },
+                "es": {
+                  "title": "Malayo",
+                  "wiki": "Malayo"
+                },
+                "fr": {
+                  "title": "Malay",
+                  "wiki": "Malay"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Indonesian",
+                  "wiki": "Indonesian"
+                },
+                "es": {
+                  "title": "Indonesio",
+                  "wiki": "Indonesio"
+                },
+                "fr": {
+                  "title": "Indonésien",
+                  "wiki": "Indonésien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Javanese",
+                  "wiki": "Javanese"
+                },
+                "es": {
+                  "title": "Javanés",
+                  "wiki": "Javanés"
+                },
+                "fr": {
+                  "title": "Javanais",
+                  "wiki": "Javanais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sundanese",
+                  "wiki": "Sundanese"
+                },
+                "es": {
+                  "title": "Sundanés",
+                  "wiki": "Sundanés"
+                },
+                "fr": {
+                  "title": "Soundanais",
+                  "wiki": "Soundanais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Madurese",
+                  "wiki": "Madurese"
+                },
+                "es": {
+                  "title": "Madurés",
+                  "wiki": "Madurés"
+                },
+                "fr": {
+                  "title": "Madourais",
+                  "wiki": "Madourais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Balinese",
+                  "wiki": "Balinese"
+                },
+                "es": {
+                  "title": "Balinés",
+                  "wiki": "Balinés"
+                },
+                "fr": {
+                  "title": "Balinais",
+                  "wiki": "Balinais"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bugis",
+                  "wiki": "Bugis"
+                },
+                "es": {
+                  "title": "Bugués",
+                  "wiki": "Bugués"
+                },
+                "fr": {
+                  "title": "Bugis",
+                  "wiki": "Bugis"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tagalog (Filipino)",
+                  "wiki": "Tagalog (Filipino)"
+                },
+                "es": {
+                  "title": "Tagalo (filipino)",
+                  "wiki": "Tagalo (filipino)"
+                },
+                "fr": {
+                  "title": "Tagalog (filipino)",
+                  "wiki": "Tagalog (filipino)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cebuano",
+                  "wiki": "Cebuano"
+                },
+                "es": {
+                  "title": "Cebuano",
+                  "wiki": "Cebuano"
+                },
+                "fr": {
+                  "title": "Cebuano",
+                  "wiki": "Cebuano"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Ilocano",
+                  "wiki": "Ilocano"
+                },
+                "es": {
+                  "title": "Ilocano",
+                  "wiki": "Ilocano"
+                },
+                "fr": {
+                  "title": "Ilocano",
+                  "wiki": "Ilocano"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Waray",
+                  "wiki": "Waray"
+                },
+                "es": {
+                  "title": "Waray",
+                  "wiki": "Waray"
+                },
+                "fr": {
+                  "title": "Waray",
+                  "wiki": "Waray"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bikol",
+                  "wiki": "Bikol"
+                },
+                "es": {
+                  "title": "Bikol",
+                  "wiki": "Bikol"
+                },
+                "fr": {
+                  "title": "Bikol",
+                  "wiki": "Bikol"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hiligaynon",
+                  "wiki": "Hiligaynon"
+                },
+                "es": {
+                  "title": "Hiligaynon",
+                  "wiki": "Hiligaynon"
+                },
+                "fr": {
+                  "title": "Hiligaynon",
+                  "wiki": "Hiligaynon"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hawaiian",
+                  "wiki": "Hawaiian"
+                },
+                "es": {
+                  "title": "Hawaiano",
+                  "wiki": "Hawaiano"
+                },
+                "fr": {
+                  "title": "Hawaïen",
+                  "wiki": "Hawaïen"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Maori",
+                  "wiki": "Maori"
+                },
+                "es": {
+                  "title": "Maorí",
+                  "wiki": "Maorí"
+                },
+                "fr": {
+                  "title": "Maori",
+                  "wiki": "Maori"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Samoan",
+                  "wiki": "Samoan"
+                },
+                "es": {
+                  "title": "Samoano",
+                  "wiki": "Samoano"
+                },
+                "fr": {
+                  "title": "Samoan",
+                  "wiki": "Samoan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tongan",
+                  "wiki": "Tongan"
+                },
+                "es": {
+                  "title": "Tongano",
+                  "wiki": "Tongano"
+                },
+                "fr": {
+                  "title": "Tongien",
+                  "wiki": "Tongien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tahitian",
+                  "wiki": "Tahitian"
+                },
+                "es": {
+                  "title": "Tahitiano",
+                  "wiki": "Tahitiano"
+                },
+                "fr": {
+                  "title": "Tahitien",
+                  "wiki": "Tahitien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Malagasy",
+                  "wiki": "Malagasy"
+                },
+                "es": {
+                  "title": "Malgache",
+                  "wiki": "Malgache"
+                },
+                "fr": {
+                  "title": "Malgache",
+                  "wiki": "Malgache"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Dravidian languages",
+          "wiki": "Dravidian languages"
+        },
+        "es": {
+          "title": "Lenguas dravídicas",
+          "wiki": "Lenguas dravídicas"
+        },
+        "fr": {
+          "title": "Langues dravidiennes",
+          "wiki": "Langues dravidiennes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Tamil",
+              "wiki": "Tamil"
+            },
+            "es": {
+              "title": "Tamil",
+              "wiki": "Tamil"
+            },
+            "fr": {
+              "title": "Tamoul",
+              "wiki": "Tamoul"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Telugu",
+              "wiki": "Telugu"
+            },
+            "es": {
+              "title": "Telugu",
+              "wiki": "Telugu"
+            },
+            "fr": {
+              "title": "Télougou",
+              "wiki": "Télougou"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Kannada",
+              "wiki": "Kannada"
+            },
+            "es": {
+              "title": "Canarés",
+              "wiki": "Canarés"
+            },
+            "fr": {
+              "title": "Kannada",
+              "wiki": "Kannada"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Malayalam",
+              "wiki": "Malayalam"
+            },
+            "es": {
+              "title": "Malabar (malayalam)",
+              "wiki": "Malabar (malayalam)"
+            },
+            "fr": {
+              "title": "Malayalam",
+              "wiki": "Malayalam"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tulu",
+              "wiki": "Tulu"
+            },
+            "es": {
+              "title": "Tulu",
+              "wiki": "Tulu"
+            },
+            "fr": {
+              "title": "Toulou",
+              "wiki": "Toulou"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Brahui",
+              "wiki": "Brahui"
+            },
+            "es": {
+              "title": "Brahui",
+              "wiki": "Brahui"
+            },
+            "fr": {
+              "title": "Brahui",
+              "wiki": "Brahui"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Kodava",
+              "wiki": "Kodava"
+            },
+            "es": {
+              "title": "Kodava",
+              "wiki": "Kodava"
+            },
+            "fr": {
+              "title": "Kodava",
+              "wiki": "Kodava"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Gondi",
+              "wiki": "Gondi"
+            },
+            "es": {
+              "title": "Gondi",
+              "wiki": "Gondi"
+            },
+            "fr": {
+              "title": "Gondi",
+              "wiki": "Gondi"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Uralic languages",
+          "wiki": "Uralic languages"
+        },
+        "es": {
+          "title": "Lenguas urálicas",
+          "wiki": "Lenguas urálicas"
+        },
+        "fr": {
+          "title": "Langues ouraliennes",
+          "wiki": "Langues ouraliennes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Finnish",
+              "wiki": "Finnish"
+            },
+            "es": {
+              "title": "Finés",
+              "wiki": "Finés"
+            },
+            "fr": {
+              "title": "Finnois",
+              "wiki": "Finnois"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Estonian",
+              "wiki": "Estonian"
+            },
+            "es": {
+              "title": "Estonio",
+              "wiki": "Estonio"
+            },
+            "fr": {
+              "title": "Estonien",
+              "wiki": "Estonien"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Hungarian",
+              "wiki": "Hungarian"
+            },
+            "es": {
+              "title": "Húngaro",
+              "wiki": "Húngaro"
+            },
+            "fr": {
+              "title": "Hongrois",
+              "wiki": "Hongrois"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Komi",
+              "wiki": "Komi"
+            },
+            "es": {
+              "title": "Komi",
+              "wiki": "Komi"
+            },
+            "fr": {
+              "title": "Komi",
+              "wiki": "Komi"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Udmurt",
+              "wiki": "Udmurt"
+            },
+            "es": {
+              "title": "Udmurto",
+              "wiki": "Udmurto"
+            },
+            "fr": {
+              "title": "Oudmourte",
+              "wiki": "Oudmourte"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Mari",
+              "wiki": "Mari"
+            },
+            "es": {
+              "title": "Mari",
+              "wiki": "Mari"
+            },
+            "fr": {
+              "title": "Mari",
+              "wiki": "Mari"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Khanty",
+              "wiki": "Khanty"
+            },
+            "es": {
+              "title": "Janty (khanty)",
+              "wiki": "Janty (khanty)"
+            },
+            "fr": {
+              "title": "Khanty",
+              "wiki": "Khanty"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Mansi",
+              "wiki": "Mansi"
+            },
+            "es": {
+              "title": "Mansi",
+              "wiki": "Mansi"
+            },
+            "fr": {
+              "title": "Mansi",
+              "wiki": "Mansi"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Saami (Northern)",
+              "wiki": "Saami (Northern)"
+            },
+            "es": {
+              "title": "Sami (septentrional)",
+              "wiki": "Sami (septentrional)"
+            },
+            "fr": {
+              "title": "Same du Nord",
+              "wiki": "Same du Nord"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Turkic languages",
+          "wiki": "Turkic languages"
+        },
+        "es": {
+          "title": "Lenguas túrquicas",
+          "wiki": "Lenguas túrquicas"
+        },
+        "fr": {
+          "title": "Langues turques",
+          "wiki": "Langues turques"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Turkish",
+              "wiki": "Turkish"
+            },
+            "es": {
+              "title": "Turco",
+              "wiki": "Turco"
+            },
+            "fr": {
+              "title": "Turc",
+              "wiki": "Turc"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Azerbaijani",
+              "wiki": "Azerbaijani"
+            },
+            "es": {
+              "title": "Azerí",
+              "wiki": "Azerí"
+            },
+            "fr": {
+              "title": "Azéri",
+              "wiki": "Azéri"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Kazakh",
+              "wiki": "Kazakh"
+            },
+            "es": {
+              "title": "Kazajo",
+              "wiki": "Kazajo"
+            },
+            "fr": {
+              "title": "Kazakh",
+              "wiki": "Kazakh"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Uzbek",
+              "wiki": "Uzbek"
+            },
+            "es": {
+              "title": "Uzbeko",
+              "wiki": "Uzbeko"
+            },
+            "fr": {
+              "title": "Ouzbek",
+              "wiki": "Ouzbek"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Uyghur",
+              "wiki": "Uyghur"
+            },
+            "es": {
+              "title": "Uigur",
+              "wiki": "Uigur"
+            },
+            "fr": {
+              "title": "Ouïghour",
+              "wiki": "Ouïghour"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tatar",
+              "wiki": "Tatar"
+            },
+            "es": {
+              "title": "Tártaro",
+              "wiki": "Tártaro"
+            },
+            "fr": {
+              "title": "Tatar",
+              "wiki": "Tatar"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Turkmen",
+              "wiki": "Turkmen"
+            },
+            "es": {
+              "title": "Turcomano",
+              "wiki": "Turcomano"
+            },
+            "fr": {
+              "title": "Turkmène",
+              "wiki": "Turkmène"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Kyrgyz",
+              "wiki": "Kyrgyz"
+            },
+            "es": {
+              "title": "Kirguís",
+              "wiki": "Kirguís"
+            },
+            "fr": {
+              "title": "Kirghiz",
+              "wiki": "Kirghiz"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Bashkir",
+              "wiki": "Bashkir"
+            },
+            "es": {
+              "title": "Baskir",
+              "wiki": "Baskir"
+            },
+            "fr": {
+              "title": "Bachkir",
+              "wiki": "Bachkir"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Chuvash",
+              "wiki": "Chuvash"
+            },
+            "es": {
+              "title": "Chuvasio",
+              "wiki": "Chuvasio"
+            },
+            "fr": {
+              "title": "Tchouvache",
+              "wiki": "Tchouvache"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Transeurasian (macro)",
+          "wiki": "Transeurasian (macro)"
+        },
+        "es": {
+          "title": "Trans-eurasiáticas (macro)",
+          "wiki": "Trans-eurasiáticas (macro)"
+        },
+        "fr": {
+          "title": "Trans-eurasiennes (macro)",
+          "wiki": "Trans-eurasiennes (macro)"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Mongolic languages",
+              "wiki": "Mongolic languages"
+            },
+            "es": {
+              "title": "Lenguas mongólicas",
+              "wiki": "Lenguas mongólicas"
+            },
+            "fr": {
+              "title": "Langues mongoles",
+              "wiki": "Langues mongoles"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Mongolian",
+                  "wiki": "Mongolian"
+                },
+                "es": {
+                  "title": "Mongol",
+                  "wiki": "Mongol"
+                },
+                "fr": {
+                  "title": "Mongol",
+                  "wiki": "Mongol"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Buryat",
+                  "wiki": "Buryat"
+                },
+                "es": {
+                  "title": "Buriato",
+                  "wiki": "Buriato"
+                },
+                "fr": {
+                  "title": "Bouriates",
+                  "wiki": "Bouriates"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Kalmyk",
+                  "wiki": "Kalmyk"
+                },
+                "es": {
+                  "title": "Calmuco",
+                  "wiki": "Calmuco"
+                },
+                "fr": {
+                  "title": "Kalmouk",
+                  "wiki": "Kalmouk"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tungusic languages",
+              "wiki": "Tungusic languages"
+            },
+            "es": {
+              "title": "Lenguas tunguses",
+              "wiki": "Lenguas tunguses"
+            },
+            "fr": {
+              "title": "Langues toungouses",
+              "wiki": "Langues toungouses"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Manchu",
+                  "wiki": "Manchu"
+                },
+                "es": {
+                  "title": "Manchú",
+                  "wiki": "Manchú"
+                },
+                "fr": {
+                  "title": "Mandchou",
+                  "wiki": "Mandchou"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Evenki",
+                  "wiki": "Evenki"
+                },
+                "es": {
+                  "title": "Evenki",
+                  "wiki": "Evenki"
+                },
+                "fr": {
+                  "title": "Evenki",
+                  "wiki": "Evenki"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Even",
+                  "wiki": "Even"
+                },
+                "es": {
+                  "title": "Even",
+                  "wiki": "Even"
+                },
+                "fr": {
+                  "title": "Even",
+                  "wiki": "Even"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Japonic languages",
+          "wiki": "Japonic languages"
+        },
+        "es": {
+          "title": "Lenguas japónicas",
+          "wiki": "Lenguas japónicas"
+        },
+        "fr": {
+          "title": "Langues japoniques",
+          "wiki": "Langues japoniques"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Japanese",
+              "wiki": "Japanese"
+            },
+            "es": {
+              "title": "Japonés",
+              "wiki": "Japonés"
+            },
+            "fr": {
+              "title": "Japonais",
+              "wiki": "Japonais"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Ryukyuan languages",
+              "wiki": "Ryukyuan languages"
+            },
+            "es": {
+              "title": "Lenguas ryukyuenses",
+              "wiki": "Lenguas ryukyuenses"
+            },
+            "fr": {
+              "title": "Langues ryukyu",
+              "wiki": "Langues ryukyu"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Koreanic languages",
+          "wiki": "Koreanic languages"
+        },
+        "es": {
+          "title": "Lenguas coreánicas",
+          "wiki": "Lenguas coreánicas"
+        },
+        "fr": {
+          "title": "Langues coréaniques",
+          "wiki": "Langues coréaniques"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Korean",
+              "wiki": "Korean"
+            },
+            "es": {
+              "title": "Coreano",
+              "wiki": "Coreano"
+            },
+            "fr": {
+              "title": "Coréen",
+              "wiki": "Coréen"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Tai–Kadai languages",
+          "wiki": "Tai–Kadai languages"
+        },
+        "es": {
+          "title": "Lenguas tai-kadai",
+          "wiki": "Lenguas tai-kadai"
+        },
+        "fr": {
+          "title": "Langues taï-kadai",
+          "wiki": "Langues taï-kadai"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Thai",
+              "wiki": "Thai"
+            },
+            "es": {
+              "title": "Tailandés",
+              "wiki": "Tailandés"
+            },
+            "fr": {
+              "title": "Thaï",
+              "wiki": "Thaï"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Lao",
+              "wiki": "Lao"
+            },
+            "es": {
+              "title": "Lao",
+              "wiki": "Lao"
+            },
+            "fr": {
+              "title": "Lao",
+              "wiki": "Lao"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Zhuang",
+              "wiki": "Zhuang"
+            },
+            "es": {
+              "title": "Zhuang",
+              "wiki": "Zhuang"
+            },
+            "fr": {
+              "title": "Zhuang",
+              "wiki": "Zhuang"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Shan",
+              "wiki": "Shan"
+            },
+            "es": {
+              "title": "Shan",
+              "wiki": "Shan"
+            },
+            "fr": {
+              "title": "Shan",
+              "wiki": "Shan"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tai Lue",
+              "wiki": "Tai Lue"
+            },
+            "es": {
+              "title": "Tai lue",
+              "wiki": "Tai lue"
+            },
+            "fr": {
+              "title": "Tai lü",
+              "wiki": "Tai lü"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tai Dam",
+              "wiki": "Tai Dam"
+            },
+            "es": {
+              "title": "Tai dam",
+              "wiki": "Tai dam"
+            },
+            "fr": {
+              "title": "Tai dam",
+              "wiki": "Tai dam"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Austroasiatic languages",
+          "wiki": "Austroasiatic languages"
+        },
+        "es": {
+          "title": "Lenguas austroasiáticas",
+          "wiki": "Lenguas austroasiáticas"
+        },
+        "fr": {
+          "title": "Langues austroasiatiques",
+          "wiki": "Langues austroasiatiques"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Vietnamese",
+              "wiki": "Vietnamese"
+            },
+            "es": {
+              "title": "Vietnamita",
+              "wiki": "Vietnamita"
+            },
+            "fr": {
+              "title": "Vietnamien",
+              "wiki": "Vietnamien"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Khmer",
+              "wiki": "Khmer"
+            },
+            "es": {
+              "title": "Jemer (khmer)",
+              "wiki": "Jemer (khmer)"
+            },
+            "fr": {
+              "title": "Khmer",
+              "wiki": "Khmer"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Mon",
+              "wiki": "Mon"
+            },
+            "es": {
+              "title": "Mon",
+              "wiki": "Mon"
+            },
+            "fr": {
+              "title": "Môn",
+              "wiki": "Môn"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Khasi",
+              "wiki": "Khasi"
+            },
+            "es": {
+              "title": "Khasi",
+              "wiki": "Khasi"
+            },
+            "fr": {
+              "title": "Khasi",
+              "wiki": "Khasi"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Munda",
+              "wiki": "Munda"
+            },
+            "es": {
+              "title": "Munda",
+              "wiki": "Munda"
+            },
+            "fr": {
+              "title": "Munda",
+              "wiki": "Munda"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Kartvelian languages",
+          "wiki": "Kartvelian languages"
+        },
+        "es": {
+          "title": "Lenguas kartvelias",
+          "wiki": "Lenguas kartvelias"
+        },
+        "fr": {
+          "title": "Langues kartvéliennes",
+          "wiki": "Langues kartvéliennes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Georgian",
+              "wiki": "Georgian"
+            },
+            "es": {
+              "title": "Georgiano",
+              "wiki": "Georgiano"
+            },
+            "fr": {
+              "title": "Géorgien",
+              "wiki": "Géorgien"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Mingrelian",
+              "wiki": "Mingrelian"
+            },
+            "es": {
+              "title": "Mingreliano",
+              "wiki": "Mingreliano"
+            },
+            "fr": {
+              "title": "Mingrélien",
+              "wiki": "Mingrélien"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Laz",
+              "wiki": "Laz"
+            },
+            "es": {
+              "title": "Laz",
+              "wiki": "Laz"
+            },
+            "fr": {
+              "title": "Laze",
+              "wiki": "Laze"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Svan",
+              "wiki": "Svan"
+            },
+            "es": {
+              "title": "Svan",
+              "wiki": "Svan"
+            },
+            "fr": {
+              "title": "Svan",
+              "wiki": "Svan"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Caucasian languages",
+          "wiki": "Caucasian languages"
+        },
+        "es": {
+          "title": "Lenguas caucásicas",
+          "wiki": "Lenguas caucásicas"
+        },
+        "fr": {
+          "title": "Langues caucasiennes",
+          "wiki": "Langues caucasiennes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Northwest Caucasian",
+              "wiki": "Northwest Caucasian"
+            },
+            "es": {
+              "title": "Noroeste del Cáucaso",
+              "wiki": "Noroeste del Cáucaso"
+            },
+            "fr": {
+              "title": "Caucasiennes du Nord-Ouest",
+              "wiki": "Caucasiennes du Nord-Ouest"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Adyghe",
+                  "wiki": "Adyghe"
+                },
+                "es": {
+                  "title": "Adigué",
+                  "wiki": "Adigué"
+                },
+                "fr": {
+                  "title": "Adyguéen",
+                  "wiki": "Adyguéen"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Kabardian",
+                  "wiki": "Kabardian"
+                },
+                "es": {
+                  "title": "Kabardiano",
+                  "wiki": "Kabardiano"
+                },
+                "fr": {
+                  "title": "Kabarde",
+                  "wiki": "Kabarde"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Abkhaz",
+                  "wiki": "Abkhaz"
+                },
+                "es": {
+                  "title": "Abjaso",
+                  "wiki": "Abjaso"
+                },
+                "fr": {
+                  "title": "Abkhaze",
+                  "wiki": "Abkhaze"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Abaza",
+                  "wiki": "Abaza"
+                },
+                "es": {
+                  "title": "Abaza",
+                  "wiki": "Abaza"
+                },
+                "fr": {
+                  "title": "Abaza",
+                  "wiki": "Abaza"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Northeast Caucasian",
+              "wiki": "Northeast Caucasian"
+            },
+            "es": {
+              "title": "Noreste del Cáucaso",
+              "wiki": "Noreste del Cáucaso"
+            },
+            "fr": {
+              "title": "Caucasiennes du Nord-Est",
+              "wiki": "Caucasiennes du Nord-Est"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Chechen",
+                  "wiki": "Chechen"
+                },
+                "es": {
+                  "title": "Checheno",
+                  "wiki": "Checheno"
+                },
+                "fr": {
+                  "title": "Tchétchène",
+                  "wiki": "Tchétchène"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Avar",
+                  "wiki": "Avar"
+                },
+                "es": {
+                  "title": "Avar",
+                  "wiki": "Avar"
+                },
+                "fr": {
+                  "title": "Avar",
+                  "wiki": "Avar"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lezgian",
+                  "wiki": "Lezgian"
+                },
+                "es": {
+                  "title": "Lezguio",
+                  "wiki": "Lezguio"
+                },
+                "fr": {
+                  "title": "Lezghien",
+                  "wiki": "Lezghien"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lak",
+                  "wiki": "Lak"
+                },
+                "es": {
+                  "title": "Lak",
+                  "wiki": "Lak"
+                },
+                "fr": {
+                  "title": "Lak",
+                  "wiki": "Lak"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Dargwa",
+                  "wiki": "Dargwa"
+                },
+                "es": {
+                  "title": "Dargua",
+                  "wiki": "Dargua"
+                },
+                "fr": {
+                  "title": "Dargwa",
+                  "wiki": "Dargwa"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Eskimo–Aleut languages",
+          "wiki": "Eskimo–Aleut languages"
+        },
+        "es": {
+          "title": "Lenguas esquimo-aleutianas",
+          "wiki": "Lenguas esquimo-aleutianas"
+        },
+        "fr": {
+          "title": "Langues eskimo-aléoutes",
+          "wiki": "Langues eskimo-aléoutes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Inuktitut",
+              "wiki": "Inuktitut"
+            },
+            "es": {
+              "title": "Inuktitut",
+              "wiki": "Inuktitut"
+            },
+            "fr": {
+              "title": "Inuktitut",
+              "wiki": "Inuktitut"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Yupik",
+              "wiki": "Yupik"
+            },
+            "es": {
+              "title": "Yupik",
+              "wiki": "Yupik"
+            },
+            "fr": {
+              "title": "Yupik",
+              "wiki": "Yupik"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Aleut",
+              "wiki": "Aleut"
+            },
+            "es": {
+              "title": "Aleutiano",
+              "wiki": "Aleutiano"
+            },
+            "fr": {
+              "title": "Aléoute",
+              "wiki": "Aléoute"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Constructed languages",
+          "wiki": "Constructed languages"
+        },
+        "es": {
+          "title": "Lenguas artificiales",
+          "wiki": "Lenguas artificiales"
+        },
+        "fr": {
+          "title": "Langues construites",
+          "wiki": "Langues construites"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Esperanto",
+              "wiki": "Esperanto"
+            },
+            "es": {
+              "title": "Esperanto",
+              "wiki": "Esperanto"
+            },
+            "fr": {
+              "title": "Espéranto",
+              "wiki": "Espéranto"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Ido",
+              "wiki": "Ido"
+            },
+            "es": {
+              "title": "Ido",
+              "wiki": "Ido"
+            },
+            "fr": {
+              "title": "Ido",
+              "wiki": "Ido"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Interlingua",
+              "wiki": "Interlingua"
+            },
+            "es": {
+              "title": "Interlingua",
+              "wiki": "Interlingua"
+            },
+            "fr": {
+              "title": "Interlingua",
+              "wiki": "Interlingua"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Lojban",
+              "wiki": "Lojban"
+            },
+            "es": {
+              "title": "Lojban",
+              "wiki": "Lojban"
+            },
+            "fr": {
+              "title": "Lojban",
+              "wiki": "Lojban"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Volapük",
+              "wiki": "Volapük"
+            },
+            "es": {
+              "title": "Volapük",
+              "wiki": "Volapük"
+            },
+            "fr": {
+              "title": "Volapük",
+              "wiki": "Volapük"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Klingon",
+              "wiki": "Klingon"
+            },
+            "es": {
+              "title": "Klingon",
+              "wiki": "Klingon"
+            },
+            "fr": {
+              "title": "Klingon",
+              "wiki": "Klingon"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Toki Pona",
+              "wiki": "Toki Pona"
+            },
+            "es": {
+              "title": "Toki Pona",
+              "wiki": "Toki Pona"
+            },
+            "fr": {
+              "title": "Toki Pona",
+              "wiki": "Toki Pona"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Elvish (Quenya)",
+              "wiki": "Elvish (Quenya)"
+            },
+            "es": {
+              "title": "Élfico (quenya)",
+              "wiki": "Élfico (quenya)"
+            },
+            "fr": {
+              "title": "Elfique (quenya)",
+              "wiki": "Elfique (quenya)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Dothraki",
+              "wiki": "Dothraki"
+            },
+            "es": {
+              "title": "Dothraki",
+              "wiki": "Dothraki"
+            },
+            "fr": {
+              "title": "Dothraki",
+              "wiki": "Dothraki"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Na’vi",
+              "wiki": "Na’vi"
+            },
+            "es": {
+              "title": "Na’vi",
+              "wiki": "Na’vi"
+            },
+            "fr": {
+              "title": "Na’vi",
+              "wiki": "Na’vi"
+            }
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

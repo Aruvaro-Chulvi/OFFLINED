@@ -1,0 +1,2315 @@
+{
+  "i18n": {
+    "en": {
+      "title": "Aromatic Plants",
+      "wiki": "Aromatic plants"
+    },
+    "es": {
+      "title": "Plantas aromáticas",
+      "wiki": "Plantas aromáticas"
+    },
+    "fr": {
+      "title": "Plantes aromatiques",
+      "wiki": "Plantes aromatiques"
+    }
+  },
+  "children": [
+    {
+      "i18n": {
+        "en": {
+          "title": "Culinary herbs (leafy)",
+          "wiki": "Herb"
+        },
+        "es": {
+          "title": "Hierbas culinarias (de hoja)",
+          "wiki": "Hierba culinaria"
+        },
+        "fr": {
+          "title": "Herbes culinaires (feuilles)",
+          "wiki": "Herbe culinaire"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Lamiaceae (mint family)",
+              "wiki": "Lamiaceae"
+            },
+            "es": {
+              "title": "Lamiáceas (familia de la menta)",
+              "wiki": "Lamiáceas"
+            },
+            "fr": {
+              "title": "Lamiacées (famille de la menthe)",
+              "wiki": "Lamiaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Basil",
+                  "wiki": "Basil"
+                },
+                "es": {
+                  "title": "Albahaca",
+                  "wiki": "Albahaca"
+                },
+                "fr": {
+                  "title": "Basilic",
+                  "wiki": "Basilic"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sweet basil",
+                  "wiki": "Ocimum basilicum"
+                },
+                "es": {
+                  "title": "Albahaca dulce",
+                  "wiki": "Albahaca dulce"
+                },
+                "fr": {
+                  "title": "Basilic doux",
+                  "wiki": "Basilic doux"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Thai basil",
+                  "wiki": "Thai basil"
+                },
+                "es": {
+                  "title": "Albahaca tailandesa",
+                  "wiki": "Albahaca tailandesa"
+                },
+                "fr": {
+                  "title": "Basilic thaï",
+                  "wiki": "Basilic thaï"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Mint",
+                  "wiki": "Mentha"
+                },
+                "es": {
+                  "title": "Menta",
+                  "wiki": "Menta"
+                },
+                "fr": {
+                  "title": "Menthe",
+                  "wiki": "Menthe"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Peppermint",
+                  "wiki": "Peppermint"
+                },
+                "es": {
+                  "title": "Menta piperita",
+                  "wiki": "Menta piperita"
+                },
+                "fr": {
+                  "title": "Menthe poivrée",
+                  "wiki": "Menthe poivrée"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Spearmint",
+                  "wiki": "Spearmint"
+                },
+                "es": {
+                  "title": "Hierbabuena",
+                  "wiki": "Hierbabuena"
+                },
+                "fr": {
+                  "title": "Menthe verte",
+                  "wiki": "Menthe verte"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rosemary",
+                  "wiki": "Rosemary"
+                },
+                "es": {
+                  "title": "Romero",
+                  "wiki": "Romero"
+                },
+                "fr": {
+                  "title": "Romarin",
+                  "wiki": "Romarin"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Thyme",
+                  "wiki": "Thyme"
+                },
+                "es": {
+                  "title": "Tomillo",
+                  "wiki": "Tomillo"
+                },
+                "fr": {
+                  "title": "Thym",
+                  "wiki": "Thym"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Oregano",
+                  "wiki": "Oregano"
+                },
+                "es": {
+                  "title": "Orégano",
+                  "wiki": "Orégano"
+                },
+                "fr": {
+                  "title": "Origan",
+                  "wiki": "Origan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Marjoram",
+                  "wiki": "Marjoram"
+                },
+                "es": {
+                  "title": "Mejorana",
+                  "wiki": "Mejorana"
+                },
+                "fr": {
+                  "title": "Marjolaine",
+                  "wiki": "Marjolaine"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sage",
+                  "wiki": "Sage"
+                },
+                "es": {
+                  "title": "Salvia",
+                  "wiki": "Salvia"
+                },
+                "fr": {
+                  "title": "Sauge",
+                  "wiki": "Sauge"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Savory",
+                  "wiki": "Satureja"
+                },
+                "es": {
+                  "title": "Ajedrea",
+                  "wiki": "Ajedrea"
+                },
+                "fr": {
+                  "title": "Sarriette",
+                  "wiki": "Sarriette"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lemon balm",
+                  "wiki": "Lemon balm"
+                },
+                "es": {
+                  "title": "Toronjil / Melisa",
+                  "wiki": "Toronjil / Melisa"
+                },
+                "fr": {
+                  "title": "Mélisse citronnée",
+                  "wiki": "Mélisse citronnée"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hyssop",
+                  "wiki": "Hyssopus officinalis"
+                },
+                "es": {
+                  "title": "Hisopo",
+                  "wiki": "Hisopo"
+                },
+                "fr": {
+                  "title": "Hysope",
+                  "wiki": "Hysope"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Catnip",
+                  "wiki": "Catnip"
+                },
+                "es": {
+                  "title": "Hierba gatera",
+                  "wiki": "Hierba gatera"
+                },
+                "fr": {
+                  "title": "Cataire",
+                  "wiki": "Cataire"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Horehound",
+                  "wiki": "Marrubium vulgare"
+                },
+                "es": {
+                  "title": "Marrubio",
+                  "wiki": "Marrubio"
+                },
+                "fr": {
+                  "title": "Marrube",
+                  "wiki": "Marrube"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Patchouli",
+                  "wiki": "Patchouli"
+                },
+                "es": {
+                  "title": "Pachuli",
+                  "wiki": "Pachuli"
+                },
+                "fr": {
+                  "title": "Patchouli",
+                  "wiki": "Patchouli"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lavender",
+                  "wiki": "Lavandula"
+                },
+                "es": {
+                  "title": "Lavanda",
+                  "wiki": "Lavanda"
+                },
+                "fr": {
+                  "title": "Lavande",
+                  "wiki": "Lavande"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lavandin",
+                  "wiki": "Lavandin"
+                },
+                "es": {
+                  "title": "Lavandín",
+                  "wiki": "Lavandín"
+                },
+                "fr": {
+                  "title": "Lavandin",
+                  "wiki": "Lavandin"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Perilla (shiso)",
+                  "wiki": "Perilla frutescens"
+                },
+                "es": {
+                  "title": "Perilla (shiso)",
+                  "wiki": "Perilla (shiso)"
+                },
+                "fr": {
+                  "title": "Périlla (shiso)",
+                  "wiki": "Périlla (shiso)"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Apiaceae (carrot family)",
+              "wiki": "Apiaceae"
+            },
+            "es": {
+              "title": "Apiáceas (familia del apio)",
+              "wiki": "Apiáceas"
+            },
+            "fr": {
+              "title": "Apiacées (famille de la carotte)",
+              "wiki": "Apiaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Parsley",
+                  "wiki": "Parsley"
+                },
+                "es": {
+                  "title": "Perejil",
+                  "wiki": "Perejil"
+                },
+                "fr": {
+                  "title": "Persil",
+                  "wiki": "Persil"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cilantro / Coriander",
+                  "wiki": "Coriander"
+                },
+                "es": {
+                  "title": "Cilantro / Coriandro",
+                  "wiki": "Cilantro / Coriandro"
+                },
+                "fr": {
+                  "title": "Coriandre",
+                  "wiki": "Coriandre"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Dill",
+                  "wiki": "Dill"
+                },
+                "es": {
+                  "title": "Eneldo",
+                  "wiki": "Eneldo"
+                },
+                "fr": {
+                  "title": "Aneth",
+                  "wiki": "Aneth"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Fennel (leaf)",
+                  "wiki": "Fennel"
+                },
+                "es": {
+                  "title": "Hinojo (hoja)",
+                  "wiki": "Hinojo (hoja)"
+                },
+                "fr": {
+                  "title": "Fenouil (feuilles)",
+                  "wiki": "Fenouil (feuilles)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Chervil",
+                  "wiki": "Chervil"
+                },
+                "es": {
+                  "title": "Perifollo",
+                  "wiki": "Perifollo"
+                },
+                "fr": {
+                  "title": "Cerfeuil",
+                  "wiki": "Cerfeuil"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lovage",
+                  "wiki": "Levisticum officinale"
+                },
+                "es": {
+                  "title": "Levístico",
+                  "wiki": "Levístico"
+                },
+                "fr": {
+                  "title": "Livèche",
+                  "wiki": "Livèche"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Spices (seeds, bark, roots)",
+          "wiki": "Spice"
+        },
+        "es": {
+          "title": "Especias (semillas, corteza, raíces)",
+          "wiki": "Especias"
+        },
+        "fr": {
+          "title": "Épices (graines, écorces, racines)",
+          "wiki": "Épice"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Lauraceae",
+              "wiki": "Lauraceae"
+            },
+            "es": {
+              "title": "Lauráceas",
+              "wiki": "Lauráceas"
+            },
+            "fr": {
+              "title": "Lauracées",
+              "wiki": "Lauraceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cinnamon (true cinnamon)",
+                  "wiki": "Cinnamomum verum"
+                },
+                "es": {
+                  "title": "Canela de Ceilán",
+                  "wiki": "Canela de Ceilán"
+                },
+                "fr": {
+                  "title": "Cannelle de Ceylan",
+                  "wiki": "Cannelle de Ceylan"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cassia (Chinese cinnamon)",
+                  "wiki": "Cinnamomum cassia"
+                },
+                "es": {
+                  "title": "Casia (canela china)",
+                  "wiki": "Casia (canela china)"
+                },
+                "fr": {
+                  "title": "Casse (cannelle de Chine)",
+                  "wiki": "Casse (cannelle de Chine)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bay laurel",
+                  "wiki": "Bay leaf"
+                },
+                "es": {
+                  "title": "Laurel",
+                  "wiki": "Laurus nobilis"
+                },
+                "fr": {
+                  "title": "Laurier-sauce",
+                  "wiki": "Laurus nobilis"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Camphor tree",
+                  "wiki": "Camphor tree"
+                },
+                "es": {
+                  "title": "Alcanforero",
+                  "wiki": "Alcanforero"
+                },
+                "fr": {
+                  "title": "Camphrier",
+                  "wiki": "Camphrier"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Myrtaceae",
+              "wiki": "Myrtaceae"
+            },
+            "es": {
+              "title": "Mirtáceas",
+              "wiki": "Mirtáceas"
+            },
+            "fr": {
+              "title": "Myrtacées",
+              "wiki": "Myrtaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Clove",
+                  "wiki": "Clove"
+                },
+                "es": {
+                  "title": "Clavo de olor",
+                  "wiki": "Clavo de olor"
+                },
+                "fr": {
+                  "title": "Clou de girofle",
+                  "wiki": "Clou de girofle"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Allspice",
+                  "wiki": "Allspice"
+                },
+                "es": {
+                  "title": "Pimienta de Jamaica",
+                  "wiki": "Pimienta de Jamaica"
+                },
+                "fr": {
+                  "title": "Piment de la Jamaïque",
+                  "wiki": "Piment de la Jamaïque"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Eucalyptus",
+                  "wiki": "Eucalyptus"
+                },
+                "es": {
+                  "title": "Eucalipto",
+                  "wiki": "Eucalipto"
+                },
+                "fr": {
+                  "title": "Eucalyptus",
+                  "wiki": "Eucalyptus"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Rutaceae (citrus & rue)",
+              "wiki": "Rutaceae"
+            },
+            "es": {
+              "title": "Rutáceas (cítricos y ruda)",
+              "wiki": "Rutáceas"
+            },
+            "fr": {
+              "title": "Rutacées (agrumes et rue)",
+              "wiki": "Rutaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lemon (zest, leaf)",
+                  "wiki": "Lemon"
+                },
+                "es": {
+                  "title": "Limón (ralladura, hoja)",
+                  "wiki": "Limón (ralladura, hoja)"
+                },
+                "fr": {
+                  "title": "Citron (zeste, feuille)",
+                  "wiki": "Citron (zeste, feuille)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bitter orange (Seville)",
+                  "wiki": "Bitter orange"
+                },
+                "es": {
+                  "title": "Naranja amarga (Sevilla)",
+                  "wiki": "Naranja amarga (Sevilla)"
+                },
+                "fr": {
+                  "title": "Orange amère (Séville)",
+                  "wiki": "Orange amère (Séville)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Bergamot orange",
+                  "wiki": "Bergamot orange"
+                },
+                "es": {
+                  "title": "Bergamota",
+                  "wiki": "Bergamota"
+                },
+                "fr": {
+                  "title": "Bergamote",
+                  "wiki": "Bergamote"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Kaffir lime (makrut)",
+                  "wiki": "Kaffir lime"
+                },
+                "es": {
+                  "title": "Lima kafir (makrut)",
+                  "wiki": "Lima kafir (makrut)"
+                },
+                "fr": {
+                  "title": "Combava (makrut)",
+                  "wiki": "Combava (makrut)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rue",
+                  "wiki": "Rue (herb)"
+                },
+                "es": {
+                  "title": "Ruda",
+                  "wiki": "Ruda"
+                },
+                "fr": {
+                  "title": "Rue fétide",
+                  "wiki": "Rue fétide"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Zingiberaceae",
+              "wiki": "Zingiberaceae"
+            },
+            "es": {
+              "title": "Zingiberáceas",
+              "wiki": "Zingiberáceas"
+            },
+            "fr": {
+              "title": "Zingibéracées",
+              "wiki": "Zingiberaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Ginger",
+                  "wiki": "Ginger"
+                },
+                "es": {
+                  "title": "Jengibre",
+                  "wiki": "Jengibre"
+                },
+                "fr": {
+                  "title": "Gingembre",
+                  "wiki": "Gingembre"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Turmeric",
+                  "wiki": "Turmeric"
+                },
+                "es": {
+                  "title": "Cúrcuma",
+                  "wiki": "Cúrcuma"
+                },
+                "fr": {
+                  "title": "Curcuma",
+                  "wiki": "Curcuma"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cardamom (green)",
+                  "wiki": "Cardamom"
+                },
+                "es": {
+                  "title": "Cardamomo verde",
+                  "wiki": "Cardamomo verde"
+                },
+                "fr": {
+                  "title": "Cardamome verte",
+                  "wiki": "Cardamome verte"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Galangal",
+                  "wiki": "Galangal"
+                },
+                "es": {
+                  "title": "Galgant",
+                  "wiki": "Galgant"
+                },
+                "fr": {
+                  "title": "Galanga",
+                  "wiki": "Galanga"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Piperaceae",
+              "wiki": "Piperaceae"
+            },
+            "es": {
+              "title": "Piperáceas",
+              "wiki": "Piperáceas"
+            },
+            "fr": {
+              "title": "Pipéracées",
+              "wiki": "Piperaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Black pepper",
+                  "wiki": "Black pepper"
+                },
+                "es": {
+                  "title": "Pimienta negra",
+                  "wiki": "Pimienta negra"
+                },
+                "fr": {
+                  "title": "Poivre noir",
+                  "wiki": "Poivre noir"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Long pepper",
+                  "wiki": "Long pepper"
+                },
+                "es": {
+                  "title": "Pimienta larga",
+                  "wiki": "Pimienta larga"
+                },
+                "fr": {
+                  "title": "Poivre long",
+                  "wiki": "Poivre long"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cubeb",
+                  "wiki": "Cubeb"
+                },
+                "es": {
+                  "title": "Cubeba",
+                  "wiki": "Cubeba"
+                },
+                "fr": {
+                  "title": "Cubèbe",
+                  "wiki": "Cubèbe"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Brassicaceae (mustards)",
+              "wiki": "Brassicaceae"
+            },
+            "es": {
+              "title": "Brassicáceas (mostazas)",
+              "wiki": "Brassicaceae"
+            },
+            "fr": {
+              "title": "Brassicacées (moutardes)",
+              "wiki": "Brassicaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Mustard (white/yellow)",
+                  "wiki": "White mustard"
+                },
+                "es": {
+                  "title": "Mostaza blanca/amarilla",
+                  "wiki": "Mostaza blanca/amarilla"
+                },
+                "fr": {
+                  "title": "Moutarde blanche/jaune",
+                  "wiki": "Moutarde blanche/jaune"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Black mustard",
+                  "wiki": "Black mustard"
+                },
+                "es": {
+                  "title": "Mostaza negra",
+                  "wiki": "Mostaza negra"
+                },
+                "fr": {
+                  "title": "Moutarde noire",
+                  "wiki": "Moutarde noire"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Horseradish",
+                  "wiki": "Horseradish"
+                },
+                "es": {
+                  "title": "Rábano picante",
+                  "wiki": "Rábano picante"
+                },
+                "fr": {
+                  "title": "Raifort",
+                  "wiki": "Raifort"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Wasabi",
+                  "wiki": "Wasabi"
+                },
+                "es": {
+                  "title": "Wasabi",
+                  "wiki": "Wasabi"
+                },
+                "fr": {
+                  "title": "Wasabi",
+                  "wiki": "Wasabi"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Fabaceae (legumes & aromas)",
+              "wiki": "Fabaceae"
+            },
+            "es": {
+              "title": "Fabáceas (leguminosas y aromas)",
+              "wiki": "Fabaceae"
+            },
+            "fr": {
+              "title": "Fabacées (légumineuses et arômes)",
+              "wiki": "Fabaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Fenugreek",
+                  "wiki": "Fenugreek"
+                },
+                "es": {
+                  "title": "Fenogreco",
+                  "wiki": "Fenogreco"
+                },
+                "fr": {
+                  "title": "Fenugrec",
+                  "wiki": "Fenugrec"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tonka bean",
+                  "wiki": "Tonka bean"
+                },
+                "es": {
+                  "title": "Haba tonka",
+                  "wiki": "Haba tonka"
+                },
+                "fr": {
+                  "title": "Fève tonka",
+                  "wiki": "Fève tonka"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Poaceae (aromatic grasses)",
+              "wiki": "Poaceae"
+            },
+            "es": {
+              "title": "Poáceas (gramíneas aromáticas)",
+              "wiki": "Poaceae"
+            },
+            "fr": {
+              "title": "Poacées (graminées aromatiques)",
+              "wiki": "Poaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lemongrass",
+                  "wiki": "Cymbopogon citratus"
+                },
+                "es": {
+                  "title": "Hierba limón / Citronela",
+                  "wiki": "Hierba limón / Citronela"
+                },
+                "fr": {
+                  "title": "Citronnelle (verveine des Indes)",
+                  "wiki": "Citronnelle (verveine des Indes)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Citronella (C. nardus)",
+                  "wiki": "Cymbopogon nardus"
+                },
+                "es": {
+                  "title": "Citronela (C. nardus)",
+                  "wiki": "Citronela (C. nardus)"
+                },
+                "fr": {
+                  "title": "Citronnelle (C. nardus)",
+                  "wiki": "Citronnelle (C. nardus)"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Vetiver",
+                  "wiki": "Vetiver"
+                },
+                "es": {
+                  "title": "Vetiver",
+                  "wiki": "Vetiver"
+                },
+                "fr": {
+                  "title": "Vétiver",
+                  "wiki": "Vétiver"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Iridaceae",
+              "wiki": "Iridaceae"
+            },
+            "es": {
+              "title": "Iridáceas",
+              "wiki": "Iridaceae"
+            },
+            "fr": {
+              "title": "Iridacées",
+              "wiki": "Iridaceae"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Saffron (Crocus sativus)",
+                  "wiki": "Saffron"
+                },
+                "es": {
+                  "title": "Azafrán (Crocus sativus)",
+                  "wiki": "Azafrán (Crocus sativus)"
+                },
+                "fr": {
+                  "title": "Safran (Crocus sativus)",
+                  "wiki": "Safran (Crocus sativus)"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Essential oil crops",
+          "wiki": "Essential oil"
+        },
+        "es": {
+          "title": "Plantas para aceites esenciales",
+          "wiki": "Aceites esenciales"
+        },
+        "fr": {
+          "title": "Plantes à huiles essentielles",
+          "wiki": "Huile essentielle"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Lavender (oil)",
+              "wiki": "Lavender oil"
+            },
+            "es": {
+              "title": "Lavanda (aceite)",
+              "wiki": "Lavanda (aceite)"
+            },
+            "fr": {
+              "title": "Lavande (huile)",
+              "wiki": "Lavande (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tea tree",
+              "wiki": "Tea tree oil"
+            },
+            "es": {
+              "title": "Árbol de té",
+              "wiki": "Árbol de té"
+            },
+            "fr": {
+              "title": "Arbre à thé",
+              "wiki": "Arbre à thé"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Peppermint (oil)",
+              "wiki": "Peppermint oil"
+            },
+            "es": {
+              "title": "Menta piperita (aceite)",
+              "wiki": "Menta piperita (aceite)"
+            },
+            "fr": {
+              "title": "Menthe poivrée (huile)",
+              "wiki": "Menthe poivrée (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Rose (Damask)",
+              "wiki": "Rose oil"
+            },
+            "es": {
+              "title": "Rosa damascena",
+              "wiki": "Rosa damascena"
+            },
+            "fr": {
+              "title": "Rose de Damas",
+              "wiki": "Rose de Damas"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Jasmine (absolute)",
+              "wiki": "Jasmine absolute"
+            },
+            "es": {
+              "title": "Jazmín (absoluto)",
+              "wiki": "Jazmín (absoluto)"
+            },
+            "fr": {
+              "title": "Jasmin (absolu)",
+              "wiki": "Jasmin (absolu)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Ylang-ylang",
+              "wiki": "Ylang-ylang"
+            },
+            "es": {
+              "title": "Ylang-ylang",
+              "wiki": "Ylang-ylang"
+            },
+            "fr": {
+              "title": "Ylang-ylang",
+              "wiki": "Ylang-ylang"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Sandalwood",
+              "wiki": "Sandalwood"
+            },
+            "es": {
+              "title": "Sándalo",
+              "wiki": "Sándalo"
+            },
+            "fr": {
+              "title": "Bois de santal",
+              "wiki": "Bois de santal"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Patchouli (oil)",
+              "wiki": "Patchouli oil"
+            },
+            "es": {
+              "title": "Pachuli (aceite)",
+              "wiki": "Pachuli (aceite)"
+            },
+            "fr": {
+              "title": "Patchouli (huile)",
+              "wiki": "Patchouli (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Eucalyptus (oil)",
+              "wiki": "Eucalyptus oil"
+            },
+            "es": {
+              "title": "Eucalipto (aceite)",
+              "wiki": "Eucalipto (aceite)"
+            },
+            "fr": {
+              "title": "Eucalyptus (huile)",
+              "wiki": "Eucalyptus (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Lemon (oil)",
+              "wiki": "Lemon essential oil"
+            },
+            "es": {
+              "title": "Limón (aceite)",
+              "wiki": "Limón (aceite)"
+            },
+            "fr": {
+              "title": "Citron (huile)",
+              "wiki": "Citron (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Bergamot (oil)",
+              "wiki": "Bergamot essential oil"
+            },
+            "es": {
+              "title": "Bergamota (aceite)",
+              "wiki": "Bergamota (aceite)"
+            },
+            "fr": {
+              "title": "Bergamote (huile)",
+              "wiki": "Bergamote (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Frankincense (oil)",
+              "wiki": "Frankincense"
+            },
+            "es": {
+              "title": "Incienso (aceite)",
+              "wiki": "Incienso (aceite)"
+            },
+            "fr": {
+              "title": "Encens oliban (huile)",
+              "wiki": "Encens oliban (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Myrrh (oil)",
+              "wiki": "Myrrh"
+            },
+            "es": {
+              "title": "Mirra (aceite)",
+              "wiki": "Mirra (aceite)"
+            },
+            "fr": {
+              "title": "Myrrhe (huile)",
+              "wiki": "Myrrhe (huile)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Vetiver (oil)",
+              "wiki": "Vetiver oil"
+            },
+            "es": {
+              "title": "Vetiver (aceite)",
+              "wiki": "Vetiver (aceite)"
+            },
+            "fr": {
+              "title": "Vétiver (huile)",
+              "wiki": "Vétiver (huile)"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Medicinal aromatic herbs (tisanes)",
+          "wiki": "Herbal tea"
+        },
+        "es": {
+          "title": "Plantas aromáticas medicinales (infusiones)",
+          "wiki": "Té de hierbas"
+        },
+        "fr": {
+          "title": "Plantes aromatiques médicinales (tisanes)",
+          "wiki": "Tisane"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Chamomile (German)",
+              "wiki": "Matricaria chamomilla"
+            },
+            "es": {
+              "title": "Manzanilla alemana",
+              "wiki": "Manzanilla alemana"
+            },
+            "fr": {
+              "title": "Camomille allemande",
+              "wiki": "Camomille allemande"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Chamomile (Roman)",
+              "wiki": "Chamaemelum nobile"
+            },
+            "es": {
+              "title": "Manzanilla romana",
+              "wiki": "Manzanilla romana"
+            },
+            "fr": {
+              "title": "Camomille romaine",
+              "wiki": "Camomille romaine"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Lemon verbena",
+              "wiki": "Aloysia citrodora"
+            },
+            "es": {
+              "title": "Hierba luisa",
+              "wiki": "Hierba luisa"
+            },
+            "fr": {
+              "title": "Verveine citronnelle",
+              "wiki": "Verveine citronnelle"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Linden (lime blossom)",
+              "wiki": "Tilia"
+            },
+            "es": {
+              "title": "Tilo (flor de tila)",
+              "wiki": "Tilo (flor de tila)"
+            },
+            "fr": {
+              "title": "Tilleul",
+              "wiki": "Tilleul"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Peppermint",
+              "wiki": "Peppermint"
+            },
+            "es": {
+              "title": "Menta piperita",
+              "wiki": "Menta piperita"
+            },
+            "fr": {
+              "title": "Menthe poivrée",
+              "wiki": "Menthe poivrée"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Melissa (lemon balm)",
+              "wiki": "Lemon balm"
+            },
+            "es": {
+              "title": "Melisa / Toronjil",
+              "wiki": "Melisa / Toronjil"
+            },
+            "fr": {
+              "title": "Mélisse",
+              "wiki": "Mélisse"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Sage (medicinal)",
+              "wiki": "Salvia officinalis"
+            },
+            "es": {
+              "title": "Salvia (medicinal)",
+              "wiki": "Salvia (medicinal)"
+            },
+            "fr": {
+              "title": "Sauge (médicinale)",
+              "wiki": "Sauge (médicinale)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Thyme (antiseptic)",
+              "wiki": "Thymus vulgaris"
+            },
+            "es": {
+              "title": "Tomillo (antiséptico)",
+              "wiki": "Tomillo (antiséptico)"
+            },
+            "fr": {
+              "title": "Thym (antiseptique)",
+              "wiki": "Thym (antiseptique)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Fennel (digestive)",
+              "wiki": "Foeniculum vulgare"
+            },
+            "es": {
+              "title": "Hinojo (digestivo)",
+              "wiki": "Hinojo (digestivo)"
+            },
+            "fr": {
+              "title": "Fenouil (digestif)",
+              "wiki": "Fenouil (digestif)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Anise",
+              "wiki": "Anise"
+            },
+            "es": {
+              "title": "Anís",
+              "wiki": "Anís"
+            },
+            "fr": {
+              "title": "Anis",
+              "wiki": "Anis"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Licorice",
+              "wiki": "Liquorice"
+            },
+            "es": {
+              "title": "Regaliz",
+              "wiki": "Regaliz"
+            },
+            "fr": {
+              "title": "Réglisse",
+              "wiki": "Réglisse"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Ginger (infusion)",
+              "wiki": "Ginger tea"
+            },
+            "es": {
+              "title": "Jengibre (infusión)",
+              "wiki": "Jengibre (infusión)"
+            },
+            "fr": {
+              "title": "Gingembre (infusion)",
+              "wiki": "Gingembre (infusion)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Rooibos",
+              "wiki": "Rooibos"
+            },
+            "es": {
+              "title": "Rooibos",
+              "wiki": "Rooibos"
+            },
+            "fr": {
+              "title": "Rooibos",
+              "wiki": "Rooibos"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Hibiscus (karkadé)",
+              "wiki": "Hibiscus tea"
+            },
+            "es": {
+              "title": "Hibisco (karkadé)",
+              "wiki": "Hibisco (karkadé)"
+            },
+            "fr": {
+              "title": "Hibiscus (bissap)",
+              "wiki": "Hibiscus (bissap)"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Fragrant ornamentals",
+          "wiki": "Fragrance in flowers"
+        },
+        "es": {
+          "title": "Ornamentales fragantes",
+          "wiki": "Flor perfumada"
+        },
+        "fr": {
+          "title": "Ornementales parfumées",
+          "wiki": "Fleur odorante"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Rose (Damask, centifolia)",
+              "wiki": "Rose"
+            },
+            "es": {
+              "title": "Rosa (damascena, centifolia)",
+              "wiki": "Rosa (damascena, centifolia)"
+            },
+            "fr": {
+              "title": "Rose (de Damas, centifolia)",
+              "wiki": "Rose (de Damas, centifolia)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Jasmine (Jasminum officinale)",
+              "wiki": "Jasminum officinale"
+            },
+            "es": {
+              "title": "Jazmín (Jasminum officinale)",
+              "wiki": "Jazmín (Jasminum officinale)"
+            },
+            "fr": {
+              "title": "Jasmin (Jasminum officinale)",
+              "wiki": "Jasmin (Jasminum officinale)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Gardenia",
+              "wiki": "Gardenia jasminoides"
+            },
+            "es": {
+              "title": "Gardenia",
+              "wiki": "Gardenia"
+            },
+            "fr": {
+              "title": "Gardenia",
+              "wiki": "Gardenia"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tuberose",
+              "wiki": "Tuberose"
+            },
+            "es": {
+              "title": "Nardo (Polianthes tuberosa)",
+              "wiki": "Nardo (Polianthes tuberosa)"
+            },
+            "fr": {
+              "title": "Tubéreuse",
+              "wiki": "Tubéreuse"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Osmanthus fragrans",
+              "wiki": "Osmanthus fragrans"
+            },
+            "es": {
+              "title": "Osmanthus fragrans",
+              "wiki": "Osmanthus fragrans"
+            },
+            "fr": {
+              "title": "Osmanthus fragrans",
+              "wiki": "Osmanthus fragrans"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Plumeria (frangipani)",
+              "wiki": "Plumeria"
+            },
+            "es": {
+              "title": "Plumeria (frangipani)",
+              "wiki": "Plumeria (frangipani)"
+            },
+            "fr": {
+              "title": "Plumeria (frangipanier)",
+              "wiki": "Plumeria (frangipanier)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Magnolia champaca",
+              "wiki": "Magnolia champaca"
+            },
+            "es": {
+              "title": "Magnolia champaca",
+              "wiki": "Magnolia champaca"
+            },
+            "fr": {
+              "title": "Magnolia champaca",
+              "wiki": "Magnolia champaca"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Sweet alyssum",
+              "wiki": "Lobularia maritima"
+            },
+            "es": {
+              "title": "Aliso de mar",
+              "wiki": "Aliso de mar"
+            },
+            "fr": {
+              "title": "Alysse odorant",
+              "wiki": "Alysse odorant"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Sweet violet",
+              "wiki": "Viola odorata"
+            },
+            "es": {
+              "title": "Violeta dulce",
+              "wiki": "Violeta dulce"
+            },
+            "fr": {
+              "title": "Violette odorante",
+              "wiki": "Violette odorante"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Lilac",
+              "wiki": "Syringa vulgaris"
+            },
+            "es": {
+              "title": "Lila / Lilo",
+              "wiki": "Lila / Lilo"
+            },
+            "fr": {
+              "title": "Lilas",
+              "wiki": "Lilas"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Narcissus (poeticus, tazetta)",
+              "wiki": "Narcissus"
+            },
+            "es": {
+              "title": "Narciso (poeticus, tazetta)",
+              "wiki": "Narciso (poeticus, tazetta)"
+            },
+            "fr": {
+              "title": "Narcisse (poeticus, tazetta)",
+              "wiki": "Narcisse (poeticus, tazetta)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Sweet pea",
+              "wiki": "Lathyrus odoratus"
+            },
+            "es": {
+              "title": "Guisante de olor",
+              "wiki": "Guisante de olor"
+            },
+            "fr": {
+              "title": "Pois de senteur",
+              "wiki": "Pois de senteur"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Aromatic resins & incense",
+          "wiki": "Incense"
+        },
+        "es": {
+          "title": "Resinas aromáticas e incienso",
+          "wiki": "Incienso"
+        },
+        "fr": {
+          "title": "Résines aromatiques et encens",
+          "wiki": "Encens"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Frankincense (Boswellia)",
+              "wiki": "Boswellia sacra"
+            },
+            "es": {
+              "title": "Incienso (Boswellia)",
+              "wiki": "Incienso (Boswellia)"
+            },
+            "fr": {
+              "title": "Oliban (Boswellia)",
+              "wiki": "Oliban (Boswellia)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Myrrh (Commiphora)",
+              "wiki": "Commiphora myrrha"
+            },
+            "es": {
+              "title": "Mirra (Commiphora)",
+              "wiki": "Mirra (Commiphora)"
+            },
+            "fr": {
+              "title": "Myrrhe (Commiphora)",
+              "wiki": "Myrrhe (Commiphora)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Benzoin (Styrax)",
+              "wiki": "Benzoin resin"
+            },
+            "es": {
+              "title": "Benjuí (Styrax)",
+              "wiki": "Benjuí (Styrax)"
+            },
+            "fr": {
+              "title": "Benjoin (Styrax)",
+              "wiki": "Benjoin (Styrax)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Copaiba (balsam)",
+              "wiki": "Copaiba"
+            },
+            "es": {
+              "title": "Copaiba (bálsamo)",
+              "wiki": "Copaiba (bálsamo)"
+            },
+            "fr": {
+              "title": "Copaïba (baume)",
+              "wiki": "Copaïba (baume)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Dragon's blood (Daemonorops/Dracaena)",
+              "wiki": "Dragon's blood"
+            },
+            "es": {
+              "title": "Sangre de drago",
+              "wiki": "Sangre de drago"
+            },
+            "fr": {
+              "title": "Sang-dragon",
+              "wiki": "Sang-dragon"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Citrus & aromatic fruits",
+          "wiki": "Citrus"
+        },
+        "es": {
+          "title": "Cítricos y frutos aromáticos",
+          "wiki": "Citrus"
+        },
+        "fr": {
+          "title": "Agrumes et fruits aromatiques",
+          "wiki": "Citrus"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Orange blossom (neroli)",
+              "wiki": "Neroli"
+            },
+            "es": {
+              "title": "Azahar (neroli)",
+              "wiki": "Azahar (neroli)"
+            },
+            "fr": {
+              "title": "Fleur d'oranger (néroli)",
+              "wiki": "Fleur d'oranger (néroli)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Grapefruit (zest)",
+              "wiki": "Grapefruit"
+            },
+            "es": {
+              "title": "Pomelo (ralladura)",
+              "wiki": "Pomelo (ralladura)"
+            },
+            "fr": {
+              "title": "Pamplemousse (zeste)",
+              "wiki": "Pamplemousse (zeste)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Lime (key, Persian)",
+              "wiki": "Lime (fruit)"
+            },
+            "es": {
+              "title": "Lima (key, persa)",
+              "wiki": "Lima (key, persa)"
+            },
+            "fr": {
+              "title": "Citron vert (Key, Perse)",
+              "wiki": "Citron vert (Key, Perse)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Yuzu",
+              "wiki": "Yuzu"
+            },
+            "es": {
+              "title": "Yuzu",
+              "wiki": "Yuzu"
+            },
+            "fr": {
+              "title": "Yuzu",
+              "wiki": "Yuzu"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Buddha's hand",
+              "wiki": "Buddha's hand"
+            },
+            "es": {
+              "title": "Mano de Buda",
+              "wiki": "Mano de Buda"
+            },
+            "fr": {
+              "title": "Main de Bouddha",
+              "wiki": "Main de Bouddha"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Other notable aromatics",
+          "wiki": "List of herbs and spices"
+        },
+        "es": {
+          "title": "Otras plantas aromáticas destacadas",
+          "wiki": "Lista de hierbas y especias"
+        },
+        "fr": {
+          "title": "Autres plantes aromatiques notables",
+          "wiki": "Liste d'herbes et d'épices"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Curry leaf",
+              "wiki": "Curry tree"
+            },
+            "es": {
+              "title": "Hojas de curry",
+              "wiki": "Hojas de curry"
+            },
+            "fr": {
+              "title": "Feuilles de curry",
+              "wiki": "Feuilles de curry"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Bayberry (Myrica gale)",
+              "wiki": "Myrica gale"
+            },
+            "es": {
+              "title": "Galega / Mirto de los pantanos",
+              "wiki": "Galega / Mirto de los pantanos"
+            },
+            "fr": {
+              "title": "Piment royal",
+              "wiki": "Piment royal"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Stevia",
+              "wiki": "Stevia"
+            },
+            "es": {
+              "title": "Stevia",
+              "wiki": "Stevia"
+            },
+            "fr": {
+              "title": "Stévia",
+              "wiki": "Stévia"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Safflower",
+              "wiki": "Safflower"
+            },
+            "es": {
+              "title": "Cártamo",
+              "wiki": "Cártamo"
+            },
+            "fr": {
+              "title": "Carthame",
+              "wiki": "Carthame"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Tarragon",
+              "wiki": "Tarragon"
+            },
+            "es": {
+              "title": "Estragón",
+              "wiki": "Estragón"
+            },
+            "fr": {
+              "title": "Estragon",
+              "wiki": "Estragon"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Artemisia absinthium (wormwood)",
+              "wiki": "Artemisia absinthium"
+            },
+            "es": {
+              "title": "Artemisa absenta (ajenjo)",
+              "wiki": "Artemisa absenta (ajenjo)"
+            },
+            "fr": {
+              "title": "Armoise absinthe",
+              "wiki": "Armoise absinthe"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Bayberry (Laurus nobilis) – see Bay laurel",
+              "wiki": "Bay leaf"
+            },
+            "es": {
+              "title": "Laurel (ver Laurus nobilis)",
+              "wiki": "Laurel (ver Laurus nobilis)"
+            },
+            "fr": {
+              "title": "Laurier-sauce (voir Laurus nobilis)",
+              "wiki": "Laurier-sauce (voir Laurus nobilis)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Pandan",
+              "wiki": "Pandanus amaryllifolius"
+            },
+            "es": {
+              "title": "Pandan",
+              "wiki": "Pandan"
+            },
+            "fr": {
+              "title": "Pandanus (pandan)",
+              "wiki": "Pandanus (pandan)"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Vanilla",
+              "wiki": "Vanilla"
+            },
+            "es": {
+              "title": "Vainilla",
+              "wiki": "Vainilla"
+            },
+            "fr": {
+              "title": "Vanille",
+              "wiki": "Vanille"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Cocoa (aroma, not EO)",
+              "wiki": "Theobroma cacao"
+            },
+            "es": {
+              "title": "Cacao (aroma, no AE)",
+              "wiki": "Cacao (aroma, no AE)"
+            },
+            "fr": {
+              "title": "Cacao (arôme, pas HE)",
+              "wiki": "Cacao (arôme, pas HE)"
+            }
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

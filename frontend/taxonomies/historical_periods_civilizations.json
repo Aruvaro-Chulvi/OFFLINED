@@ -1,0 +1,692 @@
+{
+  "i18n": {
+    "en": { "title": "Historical Periods & Civilizations", "wiki": "History of the world" },
+    "es": { "title": "Épocas históricas y civilizaciones", "wiki": "Historia del mundo" },
+    "fr": { "title": "Époques historiques et civilisations", "wiki": "Histoire du monde" }
+  },
+  "children": [
+    {
+      "i18n": {
+        "en": { "title": "Prehistory", "wiki": "Prehistory" },
+        "es": { "title": "Prehistoria", "wiki": "Prehistoria" },
+        "fr": { "title": "Préhistoire", "wiki": "Préhistoire" }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": { "title": "Africa", "wiki": "Prehistoric Africa" },
+            "es": { "title": "África", "wiki": "África prehistórica" },
+            "fr": { "title": "Afrique", "wiki": "Préhistoire de l'Afrique" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Oldowan industry", "wiki": "Oldowan" },
+                "es": { "title": "Industria olduveiense", "wiki": "Olduvayense" },
+                "fr": { "title": "Industrie oldowayenne", "wiki": "Oldowayen" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Acheulean", "wiki": "Acheulean" },
+                "es": { "title": "Achelense", "wiki": "Achelense" },
+                "fr": { "title": "Acheuléen", "wiki": "Acheuléen" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Rock art of the Sahara", "wiki": "Rock art of the Sahara" },
+                "es": { "title": "Arte rupestre del Sahara", "wiki": "Arte rupestre del Sahara" },
+                "fr": { "title": "Art rupestre du Sahara", "wiki": "Art rupestre du Sahara" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Europe", "wiki": "Prehistoric Europe" },
+            "es": { "title": "Europa", "wiki": "Prehistoria de Europa" },
+            "fr": { "title": "Europe", "wiki": "Préhistoire de l'Europe" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Upper Paleolithic (Cave Art)", "wiki": "Upper Paleolithic" },
+                "es": { "title": "Paleolítico superior (Arte rupestre)", "wiki": "Paleolítico superior" },
+                "fr": { "title": "Paléolithique supérieur (Art pariétal)", "wiki": "Paléolithique supérieur" }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": { "title": "Lascaux", "wiki": "Lascaux" },
+                    "es": { "title": "Lascaux", "wiki": "Lascaux" },
+                    "fr": { "title": "Lascaux", "wiki": "Lascaux" }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": { "title": "Altamira", "wiki": "Cave of Altamira" },
+                    "es": { "title": "Altamira", "wiki": "Cueva de Altamira" },
+                    "fr": { "title": "Altamira", "wiki": "Grotte d'Altamira" }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": { "title": "Neolithic Europe", "wiki": "Neolithic Europe" },
+                "es": { "title": "Neolítico europeo", "wiki": "Neolítico en Europa" },
+                "fr": { "title": "Néolithique européen", "wiki": "Néolithique en Europe" }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": { "title": "Megalithism", "wiki": "Megalith" },
+                    "es": { "title": "Megalitismo", "wiki": "Megalitismo" },
+                    "fr": { "title": "Mégalithisme", "wiki": "Mégalithe" }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": { "title": "Bronze Age Europe", "wiki": "Bronze Age Europe" },
+                "es": { "title": "Edad del Bronce en Europa", "wiki": "Edad del Bronce en Europa" },
+                "fr": { "title": "Âge du bronze en Europe", "wiki": "Âge du bronze en Europe" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Iron Age Europe", "wiki": "Iron Age Europe" },
+                "es": { "title": "Edad del Hierro en Europa", "wiki": "Edad del Hierro en Europa" },
+                "fr": { "title": "Âge du fer en Europe", "wiki": "Âge du fer en Europe" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Asia", "wiki": "Prehistoric Asia" },
+            "es": { "title": "Asia", "wiki": "Prehistoria de Asia" },
+            "fr": { "title": "Asie", "wiki": "Préhistoire de l'Asie" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Chinese Neolithic", "wiki": "Neolithic cultures of China" },
+                "es": { "title": "Neolítico chino", "wiki": "Neolítico en China" },
+                "fr": { "title": "Néolithique chinois", "wiki": "Culture néolithique en Chine" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Americas", "wiki": "Pre-Columbian era" },
+            "es": { "title": "América", "wiki": "América precolombina" },
+            "fr": { "title": "Amériques", "wiki": "Amérique précolombienne" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Andean Preceramic", "wiki": "Norte Chico civilization" },
+                "es": { "title": "Precerámico andino", "wiki": "Civilización Caral" },
+                "fr": { "title": "Précéramique andin", "wiki": "Civilisation de Caral" }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": { "title": "Antiquity", "wiki": "Classical antiquity" },
+        "es": { "title": "Antigüedad", "wiki": "Antigüedad clásica" },
+        "fr": { "title": "Antiquité", "wiki": "Antiquité classique" }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": { "title": "Near East", "wiki": "Ancient Near East" },
+            "es": { "title": "Próximo Oriente", "wiki": "Antiguo Oriente Próximo" },
+            "fr": { "title": "Proche-Orient", "wiki": "Proche-Orient ancien" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Ancient Egypt", "wiki": "Ancient Egypt" },
+                "es": { "title": "Antiguo Egipto", "wiki": "Antiguo Egipto" },
+                "fr": { "title": "Égypte antique", "wiki": "Égypte antique" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Sumer", "wiki": "Sumer" },
+                "es": { "title": "Sumeria", "wiki": "Sumeria" },
+                "fr": { "title": "Sumer", "wiki": "Sumer" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Babylonia", "wiki": "Babylonia" },
+                "es": { "title": "Babilonia", "wiki": "Babilonia" },
+                "fr": { "title": "Babylone", "wiki": "Babylone" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Assyria", "wiki": "Assyria" },
+                "es": { "title": "Asiria", "wiki": "Asiria" },
+                "fr": { "title": "Assyrie", "wiki": "Assyrie" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Achaemenid Empire (Persia)", "wiki": "Achaemenid Empire" },
+                "es": { "title": "Imperio aqueménida (Persia)", "wiki": "Imperio aqueménida" },
+                "fr": { "title": "Empire achéménide (Perse)", "wiki": "Empire achéménide" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Europe", "wiki": "Ancient Europe" },
+            "es": { "title": "Europa", "wiki": "Europa en la Antigüedad" },
+            "fr": { "title": "Europe", "wiki": "Europe antique" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Ancient Greece", "wiki": "Ancient Greece" },
+                "es": { "title": "Grecia antigua", "wiki": "Grecia antigua" },
+                "fr": { "title": "Grèce antique", "wiki": "Grèce antique" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Roman Empire", "wiki": "Roman Empire" },
+                "es": { "title": "Imperio romano", "wiki": "Imperio romano" },
+                "fr": { "title": "Empire romain", "wiki": "Empire romain" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Celts", "wiki": "Celts" },
+                "es": { "title": "Celtas", "wiki": "Celtas" },
+                "fr": { "title": "Celtes", "wiki": "Celtes" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Asia", "wiki": "Ancient Asia" },
+            "es": { "title": "Asia", "wiki": "Asia en la Antigüedad" },
+            "fr": { "title": "Asie", "wiki": "Asie antique" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Ancient China (Shang–Zhou–Han)", "wiki": "History of China" },
+                "es": { "title": "China antigua (Shang–Zhou–Han)", "wiki": "Historia de China" },
+                "fr": { "title": "Chine antique (Shang–Zhou–Han)", "wiki": "Histoire de la Chine" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Indus Valley Civilization", "wiki": "Indus Valley civilization" },
+                "es": { "title": "Civilización del valle del Indo", "wiki": "Civilización del valle del Indo" },
+                "fr": { "title": "Civilisation de la vallée de l'Indus", "wiki": "Civilisation de la vallée de l'Indus" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Maurya & Gupta Empires (India)", "wiki": "Maurya Empire" },
+                "es": { "title": "Imperios Maurya y Gupta (India)", "wiki": "Imperio mauria" },
+                "fr": { "title": "Empires Maurya et Gupta (Inde)", "wiki": "Empire Maurya" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Americas", "wiki": "Pre-Columbian era" },
+            "es": { "title": "América", "wiki": "América precolombina" },
+            "fr": { "title": "Amériques", "wiki": "Amérique précolombienne" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Olmec", "wiki": "Olmecs" },
+                "es": { "title": "Olmeca", "wiki": "Olmeca" },
+                "fr": { "title": "Olmèques", "wiki": "Olmèques" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Maya", "wiki": "Maya civilization" },
+                "es": { "title": "Maya", "wiki": "Civilización maya" },
+                "fr": { "title": "Mayas", "wiki": "Civilisation maya" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Teotihuacan", "wiki": "Teotihuacan" },
+                "es": { "title": "Teotihuacan", "wiki": "Teotihuacán" },
+                "fr": { "title": "Teotihuacan", "wiki": "Teotihuacan" }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": { "title": "Middle Ages", "wiki": "Middle Ages" },
+        "es": { "title": "Edad Media", "wiki": "Edad Media" },
+        "fr": { "title": "Moyen Âge", "wiki": "Moyen Âge" }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": { "title": "Europe", "wiki": "Medieval Europe" },
+            "es": { "title": "Europa", "wiki": "Europa en la Edad Media" },
+            "fr": { "title": "Europe", "wiki": "Europe médiévale" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Carolingian Empire", "wiki": "Carolingian Empire" },
+                "es": { "title": "Imperio carolingio", "wiki": "Imperio carolingio" },
+                "fr": { "title": "Empire carolingien", "wiki": "Empire carolingien" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Holy Roman Empire", "wiki": "Holy Roman Empire" },
+                "es": { "title": "Sacro Imperio Romano Germánico", "wiki": "Sacro Imperio Romano Germánico" },
+                "fr": { "title": "Saint-Empire romain germanique", "wiki": "Saint-Empire romain germanique" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Kingdoms & Feudal Europe", "wiki": "Feudalism" },
+                "es": { "title": "Reinos y Europa feudal", "wiki": "Feudalismo" },
+                "fr": { "title": "Royaumes et Europe féodale", "wiki": "Féodalisme" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Byzantine Empire", "wiki": "Byzantine Empire" },
+            "es": { "title": "Imperio bizantino", "wiki": "Imperio bizantino" },
+            "fr": { "title": "Empire byzantin", "wiki": "Empire byzantin" }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": { "title": "Islamic World", "wiki": "Islamic Golden Age" },
+            "es": { "title": "Mundo islámico", "wiki": "Edad de oro del islam" },
+            "fr": { "title": "Monde islamique", "wiki": "Âge d'or de l'Islam" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Umayyad Caliphate", "wiki": "Umayyad Caliphate" },
+                "es": { "title": "Califato omeya", "wiki": "Califato omeya" },
+                "fr": { "title": "Califat omeyyade", "wiki": "Califat omeyyade" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Abbasid Caliphate", "wiki": "Abbasid Caliphate" },
+                "es": { "title": "Califato abasí", "wiki": "Califato abasí" },
+                "fr": { "title": "Califat abbasside", "wiki": "Califat abbasside" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Asia", "wiki": "Medieval Asia" },
+            "es": { "title": "Asia", "wiki": "Asia medieval" },
+            "fr": { "title": "Asie", "wiki": "Asie médiévale" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Tang & Song China", "wiki": "Song dynasty" },
+                "es": { "title": "China Tang y Song", "wiki": "Dinastía Song" },
+                "fr": { "title": "Chine Tang et Song", "wiki": "Dynastie Song" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Heian Japan", "wiki": "Heian period" },
+                "es": { "title": "Japón Heian", "wiki": "Período Heian" },
+                "fr": { "title": "Japon Heian", "wiki": "Période de Heian" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Mongol Empire", "wiki": "Mongol Empire" },
+                "es": { "title": "Imperio mongol", "wiki": "Imperio mongol" },
+                "fr": { "title": "Empire mongol", "wiki": "Empire mongol" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Africa", "wiki": "History of Africa#Middle Ages" },
+            "es": { "title": "África", "wiki": "Historia de África#Edad Media" },
+            "fr": { "title": "Afrique", "wiki": "Histoire de l'Afrique#Moyen Âge" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Ghana Empire", "wiki": "Ghana Empire" },
+                "es": { "title": "Imperio de Ghana", "wiki": "Imperio de Ghana" },
+                "fr": { "title": "Empire du Ghana", "wiki": "Empire du Ghana" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Mali Empire", "wiki": "Mali Empire" },
+                "es": { "title": "Imperio de Mali", "wiki": "Imperio de Malí" },
+                "fr": { "title": "Empire du Mali", "wiki": "Empire du Mali" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Americas", "wiki": "Pre-Columbian era" },
+            "es": { "title": "América", "wiki": "América precolombina" },
+            "fr": { "title": "Amériques", "wiki": "Amérique précolombienne" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Toltec", "wiki": "Toltec" },
+                "es": { "title": "Tolteca", "wiki": "Tolteca" },
+                "fr": { "title": "Toltèques", "wiki": "Toltèques" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Aztec", "wiki": "Aztec" },
+                "es": { "title": "Azteca", "wiki": "Azteca" },
+                "fr": { "title": "Aztèques", "wiki": "Aztèques" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Inca", "wiki": "Inca Empire" },
+                "es": { "title": "Inca", "wiki": "Imperio inca" },
+                "fr": { "title": "Incas", "wiki": "Empire inca" }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": { "title": "Early Modern Period", "wiki": "Early modern period" },
+        "es": { "title": "Edad Moderna", "wiki": "Edad Moderna" },
+        "fr": { "title": "Époque moderne", "wiki": "Époque moderne" }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": { "title": "Europe", "wiki": "History of Europe" },
+            "es": { "title": "Europa", "wiki": "Historia de Europa" },
+            "fr": { "title": "Europe", "wiki": "Histoire de l'Europe" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Renaissance", "wiki": "Renaissance" },
+                "es": { "title": "Renacimiento", "wiki": "Renacimiento" },
+                "fr": { "title": "Renaissance", "wiki": "Renaissance" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Age of Discovery", "wiki": "Age of Discovery" },
+                "es": { "title": "Edad de los Descubrimientos", "wiki": "Era de los descubrimientos" },
+                "fr": { "title": "Grandes découvertes", "wiki": "Grandes découvertes" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Enlightenment", "wiki": "Age of Enlightenment" },
+                "es": { "title": "Ilustración", "wiki": "Ilustración" },
+                "fr": { "title": "Siècle des Lumières", "wiki": "Lumières (philosophie)" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Islamic World", "wiki": "History of the Ottoman Empire" },
+            "es": { "title": "Mundo islámico", "wiki": "Imperio otomano" },
+            "fr": { "title": "Monde islamique", "wiki": "Empire ottoman" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Ottoman Empire", "wiki": "Ottoman Empire" },
+                "es": { "title": "Imperio otomano", "wiki": "Imperio otomano" },
+                "fr": { "title": "Empire ottoman", "wiki": "Empire ottoman" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Safavid Empire (Persia)", "wiki": "Safavid Iran" },
+                "es": { "title": "Imperio safávida (Persia)", "wiki": "Imperio safávida" },
+                "fr": { "title": "Empire safavide (Perse)", "wiki": "Dynastie safavide" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Asia", "wiki": "Early modern Asia" },
+            "es": { "title": "Asia", "wiki": "Asia de la Edad Moderna" },
+            "fr": { "title": "Asie", "wiki": "Histoire de l'Asie" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Ming–Qing China", "wiki": "Qing dynasty" },
+                "es": { "title": "China Ming–Qing", "wiki": "Dinastía Qing" },
+                "fr": { "title": "Chine Ming–Qing", "wiki": "Dynastie Qing" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Tokugawa Japan", "wiki": "Edo period" },
+                "es": { "title": "Japón Tokugawa", "wiki": "Período Edo" },
+                "fr": { "title": "Japon Tokugawa", "wiki": "Époque d'Edo" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Mughal Empire (India)", "wiki": "Mughal Empire" },
+                "es": { "title": "Imperio mogol (India)", "wiki": "Imperio mogol" },
+                "fr": { "title": "Empire moghol (Inde)", "wiki": "Empire moghol" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "Americas", "wiki": "Colonial America" },
+            "es": { "title": "América", "wiki": "América colonial" },
+            "fr": { "title": "Amériques", "wiki": "Colonisation des Amériques" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Spanish Empire in the Americas", "wiki": "Spanish colonization of the Americas" },
+                "es": { "title": "Imperio español en América", "wiki": "Colonización española de América" },
+                "fr": { "title": "Empire espagnol aux Amériques", "wiki": "Colonisation espagnole des Amériques" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "British America", "wiki": "Thirteen Colonies" },
+                "es": { "title": "América británica", "wiki": "Trece Colonias" },
+                "fr": { "title": "Amérique britannique", "wiki": "Treize Colonies" }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": { "title": "Contemporary Era", "wiki": "Contemporary history" },
+        "es": { "title": "Edad Contemporánea", "wiki": "Edad Contemporánea" },
+        "fr": { "title": "Époque contemporaine", "wiki": "Histoire contemporaine" }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": { "title": "19th Century", "wiki": "19th century" },
+            "es": { "title": "Siglo XIX", "wiki": "Siglo XIX" },
+            "fr": { "title": "XIXe siècle", "wiki": "XIXe siècle" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Industrial Revolution", "wiki": "Industrial Revolution" },
+                "es": { "title": "Revolución industrial", "wiki": "Revolución Industrial" },
+                "fr": { "title": "Révolution industrielle", "wiki": "Révolution industrielle" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Meiji Japan", "wiki": "Meiji period" },
+                "es": { "title": "Japón Meiji", "wiki": "Periodo Meiji" },
+                "fr": { "title": "Japon Meiji", "wiki": "Ère Meiji" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "20th Century", "wiki": "20th century" },
+            "es": { "title": "Siglo XX", "wiki": "Siglo XX" },
+            "fr": { "title": "XXe siècle", "wiki": "XXe siècle" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "World Wars", "wiki": "World war" },
+                "es": { "title": "Guerras mundiales", "wiki": "Guerras mundiales" },
+                "fr": { "title": "Guerres mondiales", "wiki": "Guerre mondiale" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Cold War", "wiki": "Cold War" },
+                "es": { "title": "Guerra Fría", "wiki": "Guerra Fría" },
+                "fr": { "title": "Guerre froide", "wiki": "Guerre froide" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Decolonization", "wiki": "Decolonization" },
+                "es": { "title": "Descolonización", "wiki": "Descolonización" },
+                "fr": { "title": "Décolonisation", "wiki": "Décolonisation" }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": { "title": "21st Century", "wiki": "21st century" },
+            "es": { "title": "Siglo XXI", "wiki": "Siglo XXI" },
+            "fr": { "title": "XXIe siècle", "wiki": "XXIe siècle" }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": { "title": "Globalization", "wiki": "Globalization" },
+                "es": { "title": "Globalización", "wiki": "Globalización" },
+                "fr": { "title": "Mondialisation", "wiki": "Mondialisation" }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": { "title": "Digital era", "wiki": "Digital Revolution" },
+                "es": { "title": "Era digital", "wiki": "Revolución digital" },
+                "fr": { "title": "Ère numérique", "wiki": "Révolution numérique" }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

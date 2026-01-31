@@ -1,0 +1,1273 @@
+{
+  "i18n": {
+    "es": {
+      "title": "Ramas del Conocimiento",
+      "wiki": "Conocimiento"
+    },
+    "en": {
+      "title": "Branches of Knowledge",
+      "wiki": "Knowledge"
+    },
+    "fr": {
+      "title": "Branches du savoir",
+      "wiki": "Savoir"
+    }
+  },
+  "children": [
+    {
+      "i18n": {
+        "es": {
+          "title": "Ciencias",
+          "wiki": "Ciencia"
+        },
+        "en": {
+          "title": "Sciences",
+          "wiki": "Science"
+        },
+        "fr": {
+          "title": "Sciences",
+          "wiki": "Science"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "es": {
+              "title": "Ciencias formales",
+              "wiki": "Ciencias formales"
+            },
+            "en": {
+              "title": "Formal sciences",
+              "wiki": "Formal science"
+            },
+            "fr": {
+              "title": "Sciences formelles",
+              "wiki": "Sciences formelles"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Matemáticas",
+                  "wiki": "Matemáticas"
+                },
+                "en": {
+                  "title": "Mathematics",
+                  "wiki": "Mathematics"
+                },
+                "fr": {
+                  "title": "Mathématiques",
+                  "wiki": "Mathématiques"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Lógica",
+                  "wiki": "Lógica"
+                },
+                "en": {
+                  "title": "Logic",
+                  "wiki": "Logic"
+                },
+                "fr": {
+                  "title": "Logique",
+                  "wiki": "Logique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ciencias de la computación",
+                  "wiki": "Ciencias de la computación"
+                },
+                "en": {
+                  "title": "Computer science",
+                  "wiki": "Computer science"
+                },
+                "fr": {
+                  "title": "Informatique",
+                  "wiki": "Informatique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Estadística",
+                  "wiki": "Estadística"
+                },
+                "en": {
+                  "title": "Statistics",
+                  "wiki": "Statistics"
+                },
+                "fr": {
+                  "title": "Statistiques",
+                  "wiki": "Statistiques"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Teoría de la información",
+                  "wiki": "Teoría de la información"
+                },
+                "en": {
+                  "title": "Information theory",
+                  "wiki": "Information theory"
+                },
+                "fr": {
+                  "title": "Théorie de l'information",
+                  "wiki": "Théorie de l'information"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Ciencias naturales",
+              "wiki": "Ciencias naturales"
+            },
+            "en": {
+              "title": "Natural sciences",
+              "wiki": "Natural science"
+            },
+            "fr": {
+              "title": "Sciences naturelles",
+              "wiki": "Sciences naturelles"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Física",
+                  "wiki": "Física"
+                },
+                "en": {
+                  "title": "Physics",
+                  "wiki": "Physics"
+                },
+                "fr": {
+                  "title": "Physique",
+                  "wiki": "Physique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Química",
+                  "wiki": "Química"
+                },
+                "en": {
+                  "title": "Chemistry",
+                  "wiki": "Chemistry"
+                },
+                "fr": {
+                  "title": "Chimie",
+                  "wiki": "Chimie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Biología",
+                  "wiki": "Biología"
+                },
+                "en": {
+                  "title": "Biology",
+                  "wiki": "Biology"
+                },
+                "fr": {
+                  "title": "Biologie",
+                  "wiki": "Biologie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Geología",
+                  "wiki": "Geología"
+                },
+                "en": {
+                  "title": "Geology",
+                  "wiki": "Geology"
+                },
+                "fr": {
+                  "title": "Géologie",
+                  "wiki": "Géologie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Astronomía",
+                  "wiki": "Astronomía"
+                },
+                "en": {
+                  "title": "Astronomy",
+                  "wiki": "Astronomy"
+                },
+                "fr": {
+                  "title": "Astronomie",
+                  "wiki": "Astronomie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ciencias ambientales",
+                  "wiki": "Ciencias ambientales"
+                },
+                "en": {
+                  "title": "Environmental science",
+                  "wiki": "Environmental science"
+                },
+                "fr": {
+                  "title": "Sciences de l'environnement",
+                  "wiki": "Sciences de l'environnement"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Ciencias sociales",
+              "wiki": "Ciencias sociales"
+            },
+            "en": {
+              "title": "Social sciences",
+              "wiki": "Social science"
+            },
+            "fr": {
+              "title": "Sciences sociales",
+              "wiki": "Sciences sociales"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Sociología",
+                  "wiki": "Sociología"
+                },
+                "en": {
+                  "title": "Sociology",
+                  "wiki": "Sociology"
+                },
+                "fr": {
+                  "title": "Sociologie",
+                  "wiki": "Sociologie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Economía",
+                  "wiki": "Economía"
+                },
+                "en": {
+                  "title": "Economics",
+                  "wiki": "Economics"
+                },
+                "fr": {
+                  "title": "Économie",
+                  "wiki": "Économie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Psicología",
+                  "wiki": "Psicología"
+                },
+                "en": {
+                  "title": "Psychology",
+                  "wiki": "Psychology"
+                },
+                "fr": {
+                  "title": "Psychologie",
+                  "wiki": "Psychologie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Antropología",
+                  "wiki": "Antropología"
+                },
+                "en": {
+                  "title": "Anthropology",
+                  "wiki": "Anthropology"
+                },
+                "fr": {
+                  "title": "Anthropologie",
+                  "wiki": "Anthropologie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ciencia política",
+                  "wiki": "Ciencia política"
+                },
+                "en": {
+                  "title": "Political science",
+                  "wiki": "Political science"
+                },
+                "fr": {
+                  "title": "Science politique",
+                  "wiki": "Science politique"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Geografía humana",
+                  "wiki": "Geografía humana"
+                },
+                "en": {
+                  "title": "Human geography",
+                  "wiki": "Human geography"
+                },
+                "fr": {
+                  "title": "Géographie humaine",
+                  "wiki": "Géographie humaine"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Ciencias aplicadas",
+              "wiki": "Ciencias aplicadas"
+            },
+            "en": {
+              "title": "Applied sciences",
+              "wiki": "Applied science"
+            },
+            "fr": {
+              "title": "Sciences appliquées",
+              "wiki": "Sciences appliquées"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Medicina",
+                  "wiki": "Medicina"
+                },
+                "en": {
+                  "title": "Medicine",
+                  "wiki": "Medicine"
+                },
+                "fr": {
+                  "title": "Médecine",
+                  "wiki": "Médecine"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ingeniería",
+                  "wiki": "Ingeniería"
+                },
+                "en": {
+                  "title": "Engineering",
+                  "wiki": "Engineering"
+                },
+                "fr": {
+                  "title": "Ingénierie",
+                  "wiki": "Ingénierie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ciencias agrícolas",
+                  "wiki": "Ciencias agrícolas"
+                },
+                "en": {
+                  "title": "Agricultural science",
+                  "wiki": "Agricultural science"
+                },
+                "fr": {
+                  "title": "Sciences agricoles",
+                  "wiki": "Sciences agricoles"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Ciencias interdisciplinarias",
+              "wiki": "Ciencias interdisciplinarias"
+            },
+            "en": {
+              "title": "Interdisciplinary sciences",
+              "wiki": "Interdisciplinary fields"
+            },
+            "fr": {
+              "title": "Sciences interdisciplinaires",
+              "wiki": "Sciences interdisciplinaires"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Neurociencia",
+                  "wiki": "Neurociencia"
+                },
+                "en": {
+                  "title": "Neuroscience",
+                  "wiki": "Neuroscience"
+                },
+                "fr": {
+                  "title": "Neurosciences",
+                  "wiki": "Neurosciences"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ciencia de materiales",
+                  "wiki": "Ciencia de materiales"
+                },
+                "en": {
+                  "title": "Materials science",
+                  "wiki": "Materials science"
+                },
+                "fr": {
+                  "title": "Science des matériaux",
+                  "wiki": "Science des matériaux"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ciencia de datos",
+                  "wiki": "Ciencia de datos"
+                },
+                "en": {
+                  "title": "Data science",
+                  "wiki": "Data science"
+                },
+                "fr": {
+                  "title": "Science des données",
+                  "wiki": "Science des données"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Inteligencia artificial",
+                  "wiki": "Inteligencia artificial"
+                },
+                "en": {
+                  "title": "Artificial intelligence",
+                  "wiki": "Artificial intelligence"
+                },
+                "fr": {
+                  "title": "Intelligence artificielle",
+                  "wiki": "Intelligence artificielle"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "es": {
+          "title": "Artes",
+          "wiki": "Arte"
+        },
+        "en": {
+          "title": "Arts",
+          "wiki": "Art"
+        },
+        "fr": {
+          "title": "Arts",
+          "wiki": "Art"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "es": {
+              "title": "Artes visuales",
+              "wiki": "Artes visuales"
+            },
+            "en": {
+              "title": "Visual arts",
+              "wiki": "Visual arts"
+            },
+            "fr": {
+              "title": "Arts visuels",
+              "wiki": "Arts visuels"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Pintura",
+                  "wiki": "Pintura"
+                },
+                "en": {
+                  "title": "Painting",
+                  "wiki": "Painting"
+                },
+                "fr": {
+                  "title": "Peinture",
+                  "wiki": "Peinture"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Escultura",
+                  "wiki": "Escultura"
+                },
+                "en": {
+                  "title": "Sculpture",
+                  "wiki": "Sculpture"
+                },
+                "fr": {
+                  "title": "Sculpture",
+                  "wiki": "Sculpture"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Fotografía",
+                  "wiki": "Fotografía"
+                },
+                "en": {
+                  "title": "Photography",
+                  "wiki": "Photography"
+                },
+                "fr": {
+                  "title": "Photographie",
+                  "wiki": "Photographie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Diseño",
+                  "wiki": "Diseño"
+                },
+                "en": {
+                  "title": "Design",
+                  "wiki": "Design"
+                },
+                "fr": {
+                  "title": "Design",
+                  "wiki": "Design"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Artes escénicas",
+              "wiki": "Artes escénicas"
+            },
+            "en": {
+              "title": "Performing arts",
+              "wiki": "Performing arts"
+            },
+            "fr": {
+              "title": "Arts du spectacle",
+              "wiki": "Arts du spectacle"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Teatro",
+                  "wiki": "Teatro"
+                },
+                "en": {
+                  "title": "Theatre",
+                  "wiki": "Theatre"
+                },
+                "fr": {
+                  "title": "Théâtre",
+                  "wiki": "Théâtre"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Danza",
+                  "wiki": "Danza"
+                },
+                "en": {
+                  "title": "Dance",
+                  "wiki": "Dance"
+                },
+                "fr": {
+                  "title": "Danse",
+                  "wiki": "Danse"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Cine",
+                  "wiki": "Cine"
+                },
+                "en": {
+                  "title": "Cinema",
+                  "wiki": "Film"
+                },
+                "fr": {
+                  "title": "Cinéma",
+                  "wiki": "Cinéma"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Música",
+                  "wiki": "Música"
+                },
+                "en": {
+                  "title": "Music",
+                  "wiki": "Music"
+                },
+                "fr": {
+                  "title": "Musique",
+                  "wiki": "Musique"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Artes literarias",
+              "wiki": "Artes literarias"
+            },
+            "en": {
+              "title": "Literary arts",
+              "wiki": "Literature"
+            },
+            "fr": {
+              "title": "Arts littéraires",
+              "wiki": "Littérature"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "es": {
+                  "title": "Poesía",
+                  "wiki": "Poesía"
+                },
+                "en": {
+                  "title": "Poetry",
+                  "wiki": "Poetry"
+                },
+                "fr": {
+                  "title": "Poésie",
+                  "wiki": "Poésie"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Narrativa",
+                  "wiki": "Narrativa"
+                },
+                "en": {
+                  "title": "Narrative",
+                  "wiki": "Narrative"
+                },
+                "fr": {
+                  "title": "Récit",
+                  "wiki": "Récit"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Ensayo",
+                  "wiki": "Ensayo"
+                },
+                "en": {
+                  "title": "Essay",
+                  "wiki": "Essay"
+                },
+                "fr": {
+                  "title": "Essai",
+                  "wiki": "Essai"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "es": {
+                  "title": "Dramaturgia",
+                  "wiki": "Dramaturgia"
+                },
+                "en": {
+                  "title": "Playwriting",
+                  "wiki": "Playwriting"
+                },
+                "fr": {
+                  "title": "Dramaturgie",
+                  "wiki": "Dramaturgie"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "es": {
+          "title": "Humanidades",
+          "wiki": "Humanidades"
+        },
+        "en": {
+          "title": "Humanities",
+          "wiki": "Humanities"
+        },
+        "fr": {
+          "title": "Lettres et sciences humaines",
+          "wiki": "Sciences humaines"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "es": {
+              "title": "Filosofía",
+              "wiki": "Filosofía"
+            },
+            "en": {
+              "title": "Philosophy",
+              "wiki": "Philosophy"
+            },
+            "fr": {
+              "title": "Philosophie",
+              "wiki": "Philosophie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Historia",
+              "wiki": "Historia"
+            },
+            "en": {
+              "title": "History",
+              "wiki": "History"
+            },
+            "fr": {
+              "title": "Histoire",
+              "wiki": "Histoire"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Lingüística",
+              "wiki": "Lingüística"
+            },
+            "en": {
+              "title": "Linguistics",
+              "wiki": "Linguistics"
+            },
+            "fr": {
+              "title": "Linguistique",
+              "wiki": "Linguistique"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Literatura",
+              "wiki": "Literatura"
+            },
+            "en": {
+              "title": "Literature",
+              "wiki": "Literature"
+            },
+            "fr": {
+              "title": "Littérature",
+              "wiki": "Littérature"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Teología",
+              "wiki": "Teología"
+            },
+            "en": {
+              "title": "Theology",
+              "wiki": "Theology"
+            },
+            "fr": {
+              "title": "Théologie",
+              "wiki": "Théologie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Estética",
+              "wiki": "Estética"
+            },
+            "en": {
+              "title": "Aesthetics",
+              "wiki": "Aesthetics"
+            },
+            "fr": {
+              "title": "Esthétique",
+              "wiki": "Esthétique"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "es": {
+          "title": "Tecnología",
+          "wiki": "Tecnología"
+        },
+        "en": {
+          "title": "Technology",
+          "wiki": "Technology"
+        },
+        "fr": {
+          "title": "Technologie",
+          "wiki": "Technologie"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "es": {
+              "title": "Ingeniería",
+              "wiki": "Ingeniería"
+            },
+            "en": {
+              "title": "Engineering",
+              "wiki": "Engineering"
+            },
+            "fr": {
+              "title": "Ingénierie",
+              "wiki": "Ingénierie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Informática",
+              "wiki": "Informática"
+            },
+            "en": {
+              "title": "Information technology",
+              "wiki": "Information technology"
+            },
+            "fr": {
+              "title": "Technologies de l'information",
+              "wiki": "Technologies de l'information"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Robótica",
+              "wiki": "Robótica"
+            },
+            "en": {
+              "title": "Robotics",
+              "wiki": "Robotics"
+            },
+            "fr": {
+              "title": "Robotique",
+              "wiki": "Robotique"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Nanotecnología",
+              "wiki": "Nanotecnología"
+            },
+            "en": {
+              "title": "Nanotechnology",
+              "wiki": "Nanotechnology"
+            },
+            "fr": {
+              "title": "Nanotechnologie",
+              "wiki": "Nanotechnologie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Biotecnología",
+              "wiki": "Biotecnología"
+            },
+            "en": {
+              "title": "Biotechnology",
+              "wiki": "Biotechnology"
+            },
+            "fr": {
+              "title": "Biotechnologie",
+              "wiki": "Biotechnologie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Inteligencia artificial",
+              "wiki": "Inteligencia artificial"
+            },
+            "en": {
+              "title": "Artificial intelligence",
+              "wiki": "Artificial intelligence"
+            },
+            "fr": {
+              "title": "Intelligence artificielle",
+              "wiki": "Intelligence artificielle"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "es": {
+          "title": "Comunicación y medios",
+          "wiki": "Comunicación social"
+        },
+        "en": {
+          "title": "Communication and media",
+          "wiki": "Communication studies"
+        },
+        "fr": {
+          "title": "Communication et médias",
+          "wiki": "Sciences de la communication"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "es": {
+              "title": "Periodismo",
+              "wiki": "Periodismo"
+            },
+            "en": {
+              "title": "Journalism",
+              "wiki": "Journalism"
+            },
+            "fr": {
+              "title": "Journalisme",
+              "wiki": "Journalisme"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Cine y televisión",
+              "wiki": "Cine"
+            },
+            "en": {
+              "title": "Film and television",
+              "wiki": "Film"
+            },
+            "fr": {
+              "title": "Cinéma et télévision",
+              "wiki": "Cinéma"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Publicidad",
+              "wiki": "Publicidad"
+            },
+            "en": {
+              "title": "Advertising",
+              "wiki": "Advertising"
+            },
+            "fr": {
+              "title": "Publicité",
+              "wiki": "Publicité"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Diseño gráfico",
+              "wiki": "Diseño gráfico"
+            },
+            "en": {
+              "title": "Graphic design",
+              "wiki": "Graphic design"
+            },
+            "fr": {
+              "title": "Design graphique",
+              "wiki": "Design graphique"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Comunicación digital",
+              "wiki": "Comunicación digital"
+            },
+            "en": {
+              "title": "Digital media",
+              "wiki": "Digital media"
+            },
+            "fr": {
+              "title": "Médias numériques",
+              "wiki": "Médias numériques"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "es": {
+          "title": "Educación y sociedad",
+          "wiki": "Ciencias de la educación"
+        },
+        "en": {
+          "title": "Education and society",
+          "wiki": "Education sciences"
+        },
+        "fr": {
+          "title": "Éducation et société",
+          "wiki": "Sciences de l'éducation"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "es": {
+              "title": "Educación",
+              "wiki": "Educación"
+            },
+            "en": {
+              "title": "Education",
+              "wiki": "Education"
+            },
+            "fr": {
+              "title": "Éducation",
+              "wiki": "Éducation"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Sociología",
+              "wiki": "Sociología"
+            },
+            "en": {
+              "title": "Sociology",
+              "wiki": "Sociology"
+            },
+            "fr": {
+              "title": "Sociologie",
+              "wiki": "Sociologie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Economía",
+              "wiki": "Economía"
+            },
+            "en": {
+              "title": "Economics",
+              "wiki": "Economics"
+            },
+            "fr": {
+              "title": "Économie",
+              "wiki": "Économie"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Derecho",
+              "wiki": "Derecho"
+            },
+            "en": {
+              "title": "Law",
+              "wiki": "Law"
+            },
+            "fr": {
+              "title": "Droit",
+              "wiki": "Droit"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Ciencia política",
+              "wiki": "Ciencia política"
+            },
+            "en": {
+              "title": "Political science",
+              "wiki": "Political science"
+            },
+            "fr": {
+              "title": "Science politique",
+              "wiki": "Science politique"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "es": {
+              "title": "Ética",
+              "wiki": "Ética"
+            },
+            "en": {
+              "title": "Ethics",
+              "wiki": "Ethics"
+            },
+            "fr": {
+              "title": "Éthique",
+              "wiki": "Éthique"
+            }
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

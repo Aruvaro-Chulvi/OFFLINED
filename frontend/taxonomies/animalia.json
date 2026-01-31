@@ -1,0 +1,3847 @@
+{
+  "i18n": {
+    "en": {
+      "title": "Animalia",
+      "wiki": "Animalia"
+    },
+    "es": {
+      "title": "Animalia",
+      "wiki": "Animalia"
+    },
+    "fr": {
+      "title": "Règne animal",
+      "wiki": "Règne animal"
+    }
+  },
+  "children": [
+    {
+      "i18n": {
+        "en": {
+          "title": "Porifera",
+          "wiki": "Porifera"
+        },
+        "es": {
+          "title": "Porífera",
+          "wiki": "Porífera"
+        },
+        "fr": {
+          "title": "Porifera",
+          "wiki": "Porifera"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Bath sponge (Spongia officinalis)",
+              "wiki": "Spongia officinalis"
+            },
+            "es": {
+              "title": "Esponja de baño (Spongia officinalis)",
+              "wiki": "Spongia officinalis"
+            },
+            "fr": {
+              "title": "Éponge de toilette (Spongia officinalis)",
+              "wiki": "Spongia officinalis"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Cnidaria",
+          "wiki": "Cnidaria"
+        },
+        "es": {
+          "title": "Cnidaria",
+          "wiki": "Cnidaria"
+        },
+        "fr": {
+          "title": "Cnidaires",
+          "wiki": "Cnidaires"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Scyphozoa (true jellyfish)",
+              "wiki": "true jellyfish"
+            },
+            "es": {
+              "title": "Escifozoos (medusas verdaderas)",
+              "wiki": "medusas verdaderas"
+            },
+            "fr": {
+              "title": "Scyphozoaires (vraies méduses)",
+              "wiki": "vraies méduses"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Moon jelly (Aurelia aurita)",
+                  "wiki": "Aurelia aurita"
+                },
+                "es": {
+                  "title": "Medusa común (Aurelia aurita)",
+                  "wiki": "Aurelia aurita"
+                },
+                "fr": {
+                  "title": "Auréline (Aurelia aurita)",
+                  "wiki": "Aurelia aurita"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Barrel jellyfish (Rhizostoma pulmo)",
+                  "wiki": "Rhizostoma pulmo"
+                },
+                "es": {
+                  "title": "Medusa barril (Rhizostoma pulmo)",
+                  "wiki": "Rhizostoma pulmo"
+                },
+                "fr": {
+                  "title": "Méduse chou-fleur (Rhizostoma pulmo)",
+                  "wiki": "Rhizostoma pulmo"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Anthozoa (corals & anemones)",
+              "wiki": "corals & anemones"
+            },
+            "es": {
+              "title": "Anthozoos (corales y anémonas)",
+              "wiki": "corales y anémonas"
+            },
+            "fr": {
+              "title": "Anthozoaires (coraux et anémones)",
+              "wiki": "coraux et anémones"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Common sea anemone (Anemonia sulcata)",
+                  "wiki": "Anemonia sulcata"
+                },
+                "es": {
+                  "title": "Anémona común (Anemonia sulcata)",
+                  "wiki": "Anemonia sulcata"
+                },
+                "fr": {
+                  "title": "Anémone de mer commune (Anemonia viridis)",
+                  "wiki": "Anemonia viridis"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Elkhorn coral (Acropora palmata)",
+                  "wiki": "Acropora palmata"
+                },
+                "es": {
+                  "title": "Coral cuerno de alce (Acropora palmata)",
+                  "wiki": "Acropora palmata"
+                },
+                "fr": {
+                  "title": "Corail corne d’élan (Acropora palmata)",
+                  "wiki": "Acropora palmata"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Platyhelminthes",
+          "wiki": "Platyhelminthes"
+        },
+        "es": {
+          "title": "Platelmintos",
+          "wiki": "Platelmintos"
+        },
+        "fr": {
+          "title": "Plathelminthes",
+          "wiki": "Plathelminthes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Planarian (Dugesia sp.)",
+              "wiki": "Planarian"
+            },
+            "es": {
+              "title": "Planaria (Dugesia sp.)",
+              "wiki": "Planaria"
+            },
+            "fr": {
+              "title": "Planaire (Dugesia sp.)",
+              "wiki": "Planaire"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Liver fluke (Fasciola hepatica)",
+              "wiki": "Fasciola hepatica"
+            },
+            "es": {
+              "title": "Fasciola hepática",
+              "wiki": "Fasciola hepática"
+            },
+            "fr": {
+              "title": "Douve du foie (Fasciola hepatica)",
+              "wiki": "Fasciola hepatica"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Nematoda",
+          "wiki": "Nematoda"
+        },
+        "es": {
+          "title": "Nematodos",
+          "wiki": "Nematodos"
+        },
+        "fr": {
+          "title": "Nématodes",
+          "wiki": "Nématodes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Roundworm (Ascaris lumbricoides)",
+              "wiki": "Ascaris lumbricoides"
+            },
+            "es": {
+              "title": "Lombriz intestinal (Ascaris lumbricoides)",
+              "wiki": "Ascaris lumbricoides"
+            },
+            "fr": {
+              "title": "Ascaris lumbricoides",
+              "wiki": "Ascaris lumbricoides"
+            }
+          },
+          "children": []
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Anisakis (Anisakis simplex)",
+              "wiki": "Anisakis"
+            },
+            "es": {
+              "title": "Anisakis (Anisakis simplex)",
+              "wiki": "Anisakis"
+            },
+            "fr": {
+              "title": "Anisakis (Anisakis simplex)",
+              "wiki": "Anisakis"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Annelida",
+          "wiki": "Annelida"
+        },
+        "es": {
+          "title": "Anélidos",
+          "wiki": "Anélidos"
+        },
+        "fr": {
+          "title": "Annélides",
+          "wiki": "Annélides"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Clitellata (earthworms & leeches)",
+              "wiki": "earthworms & leeches"
+            },
+            "es": {
+              "title": "Clitelados (lombrices y sanguijuelas)",
+              "wiki": "lombrices y sanguijuelas"
+            },
+            "fr": {
+              "title": "Clitellates (vers & sangsues)",
+              "wiki": "vers & sangsues"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Common earthworm (Lumbricus terrestris)",
+                  "wiki": "Lumbricus terrestris"
+                },
+                "es": {
+                  "title": "Lombriz común (Lumbricus terrestris)",
+                  "wiki": "Lumbricus terrestris"
+                },
+                "fr": {
+                  "title": "Lombric terrestre (Lumbricus terrestris)",
+                  "wiki": "Lumbricus terrestris"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Medicinal leech (Hirudo medicinalis)",
+                  "wiki": "Hirudo medicinalis"
+                },
+                "es": {
+                  "title": "Sanguijuela medicinal (Hirudo medicinalis)",
+                  "wiki": "Hirudo medicinalis"
+                },
+                "fr": {
+                  "title": "Sangsue médicinale (Hirudo medicinalis)",
+                  "wiki": "Hirudo medicinalis"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Mollusca",
+          "wiki": "Mollusca"
+        },
+        "es": {
+          "title": "Moluscos",
+          "wiki": "Moluscos"
+        },
+        "fr": {
+          "title": "Mollusques",
+          "wiki": "Mollusques"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Gastropoda",
+              "wiki": "Gastropoda"
+            },
+            "es": {
+              "title": "Gasterópodos",
+              "wiki": "Gasterópodos"
+            },
+            "fr": {
+              "title": "Gastéropodes",
+              "wiki": "Gastéropodes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Roman snail (Helix pomatia)",
+                  "wiki": "Helix pomatia"
+                },
+                "es": {
+                  "title": "Caracol romano (Helix pomatia)",
+                  "wiki": "Helix pomatia"
+                },
+                "fr": {
+                  "title": "Escargot de Bourgogne (Helix pomatia)",
+                  "wiki": "Helix pomatia"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Garden snail (Cornu aspersum)",
+                  "wiki": "Cornu aspersum"
+                },
+                "es": {
+                  "title": "Caracol de jardín (Cornu aspersum)",
+                  "wiki": "Cornu aspersum"
+                },
+                "fr": {
+                  "title": "Escargot petit-gris (Cornu aspersum)",
+                  "wiki": "Cornu aspersum"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Sea slug (Aplysia depilans)",
+                  "wiki": "Sea slug"
+                },
+                "es": {
+                  "title": "Babosa de mar (Aplysia depilans)",
+                  "wiki": "Babosa de mar"
+                },
+                "fr": {
+                  "title": "Lièvre de mer (Aplysia depilans)",
+                  "wiki": "Lièvre de mer"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Bivalvia",
+              "wiki": "Bivalvia"
+            },
+            "es": {
+              "title": "Bivalvos",
+              "wiki": "Bivalvos"
+            },
+            "fr": {
+              "title": "Bivalves",
+              "wiki": "Bivalves"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Blue mussel (Mytilus edulis)",
+                  "wiki": "Mytilus edulis"
+                },
+                "es": {
+                  "title": "Mejillón común (Mytilus edulis)",
+                  "wiki": "Mytilus edulis"
+                },
+                "fr": {
+                  "title": "Moule bleue (Mytilus edulis)",
+                  "wiki": "Mytilus edulis"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Pacific oyster (Magallana gigas)",
+                  "wiki": "Magallana gigas"
+                },
+                "es": {
+                  "title": "Ostra del Pacífico (Magallana gigas)",
+                  "wiki": "Magallana gigas"
+                },
+                "fr": {
+                  "title": "Huître creuse du Pacifique (Magallana gigas)",
+                  "wiki": "Magallana gigas"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Garden clam (Ruditapes decussatus)",
+                  "wiki": "Ruditapes decussatus"
+                },
+                "es": {
+                  "title": "Almeja fina (Ruditapes decussatus)",
+                  "wiki": "Ruditapes decussatus"
+                },
+                "fr": {
+                  "title": "Palourde européenne (Ruditapes decussatus)",
+                  "wiki": "Ruditapes decussatus"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Cephalopoda",
+              "wiki": "Cephalopoda"
+            },
+            "es": {
+              "title": "Cefalópodos",
+              "wiki": "Cefalópodos"
+            },
+            "fr": {
+              "title": "Céphalopodes",
+              "wiki": "Céphalopodes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Common octopus (Octopus vulgaris)",
+                  "wiki": "Octopus vulgaris"
+                },
+                "es": {
+                  "title": "Pulpo común (Octopus vulgaris)",
+                  "wiki": "Octopus vulgaris"
+                },
+                "fr": {
+                  "title": "Pieuvre commune (Octopus vulgaris)",
+                  "wiki": "Octopus vulgaris"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Common cuttlefish (Sepia officinalis)",
+                  "wiki": "Sepia officinalis"
+                },
+                "es": {
+                  "title": "Sepia común (Sepia officinalis)",
+                  "wiki": "Sepia officinalis"
+                },
+                "fr": {
+                  "title": "Seiche commune (Sepia officinalis)",
+                  "wiki": "Sepia officinalis"
+                }
+              },
+              "children": []
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "European squid (Loligo vulgaris)",
+                  "wiki": "Loligo vulgaris"
+                },
+                "es": {
+                  "title": "Calamar europeo (Loligo vulgaris)",
+                  "wiki": "Loligo vulgaris"
+                },
+                "fr": {
+                  "title": "Calmar commun (Loligo vulgaris)",
+                  "wiki": "Loligo vulgaris"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Arthropoda",
+          "wiki": "Arthropoda"
+        },
+        "es": {
+          "title": "Artrópodos",
+          "wiki": "Artrópodos"
+        },
+        "fr": {
+          "title": "Arthropodes",
+          "wiki": "Arthropodes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Insecta",
+              "wiki": "Insecta"
+            },
+            "es": {
+              "title": "Insectos",
+              "wiki": "Insectos"
+            },
+            "fr": {
+              "title": "Insectes",
+              "wiki": "Insectes"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Coleoptera",
+                  "wiki": "Coleoptera"
+                },
+                "es": {
+                  "title": "Coleópteros",
+                  "wiki": "Coleópteros"
+                },
+                "fr": {
+                  "title": "Coléoptères",
+                  "wiki": "Coléoptères"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Seven-spot ladybird (Coccinella septempunctata)",
+                      "wiki": "Coccinella septempunctata"
+                    },
+                    "es": {
+                      "title": "Mariquita de siete puntos (Coccinella septempunctata)",
+                      "wiki": "Coccinella septempunctata"
+                    },
+                    "fr": {
+                      "title": "Coccinelle à sept points (Coccinella septempunctata)",
+                      "wiki": "Coccinella septempunctata"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Stag beetle (Lucanus cervus)",
+                      "wiki": "Lucanus cervus"
+                    },
+                    "es": {
+                      "title": "Ciervo volante (Lucanus cervus)",
+                      "wiki": "Lucanus cervus"
+                    },
+                    "fr": {
+                      "title": "Lucane cerf-volant (Lucanus cervus)",
+                      "wiki": "Lucanus cervus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Colorado potato beetle (Leptinotarsa decemlineata)",
+                      "wiki": "Leptinotarsa decemlineata"
+                    },
+                    "es": {
+                      "title": "Escarabajo de la patata (Leptinotarsa decemlineata)",
+                      "wiki": "Leptinotarsa decemlineata"
+                    },
+                    "fr": {
+                      "title": "Doryphore (Leptinotarsa decemlineata)",
+                      "wiki": "Leptinotarsa decemlineata"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lepidoptera",
+                  "wiki": "Lepidoptera"
+                },
+                "es": {
+                  "title": "Lepidópteros",
+                  "wiki": "Lepidópteros"
+                },
+                "fr": {
+                  "title": "Lépidoptères",
+                  "wiki": "Lépidoptères"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Monarch butterfly (Danaus plexippus)",
+                      "wiki": "Danaus plexippus"
+                    },
+                    "es": {
+                      "title": "Mariposa monarca (Danaus plexippus)",
+                      "wiki": "Danaus plexippus"
+                    },
+                    "fr": {
+                      "title": "Monarque (Danaus plexippus)",
+                      "wiki": "Danaus plexippus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Old world swallowtail (Papilio machaon)",
+                      "wiki": "Papilio machaon"
+                    },
+                    "es": {
+                      "title": "Macaón (Papilio machaon)",
+                      "wiki": "Papilio machaon"
+                    },
+                    "fr": {
+                      "title": "Grand porte-queue (Papilio machaon)",
+                      "wiki": "Papilio machaon"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Cabbage white (Pieris rapae)",
+                      "wiki": "Pieris rapae"
+                    },
+                    "es": {
+                      "title": "Blanquita de la col (Pieris rapae)",
+                      "wiki": "Pieris rapae"
+                    },
+                    "fr": {
+                      "title": "Piéride du chou (Pieris rapae)",
+                      "wiki": "Pieris rapae"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hymenoptera",
+                  "wiki": "Hymenoptera"
+                },
+                "es": {
+                  "title": "Himenópteros",
+                  "wiki": "Himenópteros"
+                },
+                "fr": {
+                  "title": "Hyménoptères",
+                  "wiki": "Hyménoptères"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Western honey bee (Apis mellifera)",
+                      "wiki": "Apis mellifera"
+                    },
+                    "es": {
+                      "title": "Abeja de la miel (Apis mellifera)",
+                      "wiki": "Apis mellifera"
+                    },
+                    "fr": {
+                      "title": "Abeille domestique (Apis mellifera)",
+                      "wiki": "Apis mellifera"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common wasp (Vespula vulgaris)",
+                      "wiki": "Vespula vulgaris"
+                    },
+                    "es": {
+                      "title": "Avispa común (Vespula vulgaris)",
+                      "wiki": "Vespula vulgaris"
+                    },
+                    "fr": {
+                      "title": "Guêpe commune (Vespula vulgaris)",
+                      "wiki": "Vespula vulgaris"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Red wood ant (Formica rufa)",
+                      "wiki": "Formica rufa"
+                    },
+                    "es": {
+                      "title": "Hormiga roja de los bosques (Formica rufa)",
+                      "wiki": "Formica rufa"
+                    },
+                    "fr": {
+                      "title": "Fourmi rousse des bois (Formica rufa)",
+                      "wiki": "Formica rufa"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Asian hornet (Vespa velutina)",
+                      "wiki": "Vespa velutina"
+                    },
+                    "es": {
+                      "title": "Avispa asiática (Vespa velutina)",
+                      "wiki": "Vespa velutina"
+                    },
+                    "fr": {
+                      "title": "Frelon asiatique (Vespa velutina)",
+                      "wiki": "Vespa velutina"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Diptera",
+                  "wiki": "Diptera"
+                },
+                "es": {
+                  "title": "Dípteros",
+                  "wiki": "Dípteros"
+                },
+                "fr": {
+                  "title": "Diptères",
+                  "wiki": "Diptères"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Housefly (Musca domestica)",
+                      "wiki": "Musca domestica"
+                    },
+                    "es": {
+                      "title": "Mosca doméstica (Musca domestica)",
+                      "wiki": "Musca domestica"
+                    },
+                    "fr": {
+                      "title": "Mouche domestique (Musca domestica)",
+                      "wiki": "Musca domestica"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mosquito (Culex pipiens)",
+                      "wiki": "Culex pipiens"
+                    },
+                    "es": {
+                      "title": "Mosquito común (Culex pipiens)",
+                      "wiki": "Culex pipiens"
+                    },
+                    "fr": {
+                      "title": "Moustique commun (Culex pipiens)",
+                      "wiki": "Culex pipiens"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common fruit fly (Drosophila melanogaster)",
+                      "wiki": "Drosophila melanogaster"
+                    },
+                    "es": {
+                      "title": "Mosca de la fruta (Drosophila melanogaster)",
+                      "wiki": "Drosophila melanogaster"
+                    },
+                    "fr": {
+                      "title": "Mouche du vinaigre (Drosophila melanogaster)",
+                      "wiki": "Drosophila melanogaster"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Orthoptera",
+                  "wiki": "Orthoptera"
+                },
+                "es": {
+                  "title": "Ortópteros",
+                  "wiki": "Ortópteros"
+                },
+                "fr": {
+                  "title": "Orthoptères",
+                  "wiki": "Orthoptères"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Desert locust (Schistocerca gregaria)",
+                      "wiki": "Schistocerca gregaria"
+                    },
+                    "es": {
+                      "title": "Langosta del desierto (Schistocerca gregaria)",
+                      "wiki": "Schistocerca gregaria"
+                    },
+                    "fr": {
+                      "title": "Criquet pèlerin (Schistocerca gregaria)",
+                      "wiki": "Schistocerca gregaria"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Odonata",
+                  "wiki": "Odonata"
+                },
+                "es": {
+                  "title": "Odonatos (libélulas)",
+                  "wiki": "libélulas"
+                },
+                "fr": {
+                  "title": "Odonates (libellules)",
+                  "wiki": "libellules"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Emperor dragonfly (Anax imperator)",
+                      "wiki": "Anax imperator"
+                    },
+                    "es": {
+                      "title": "Libélula emperador (Anax imperator)",
+                      "wiki": "Anax imperator"
+                    },
+                    "fr": {
+                      "title": "Anax empereur (Anax imperator)",
+                      "wiki": "Anax imperator"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common blue damselfly (Enallagma cyathigerum)",
+                      "wiki": "Enallagma cyathigerum"
+                    },
+                    "es": {
+                      "title": "Caballito del diablo azul (Enallagma cyathigerum)",
+                      "wiki": "Enallagma cyathigerum"
+                    },
+                    "fr": {
+                      "title": "Agrion porte-coupe (Enallagma cyathigerum)",
+                      "wiki": "Enallagma cyathigerum"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Hemiptera",
+                  "wiki": "Hemiptera"
+                },
+                "es": {
+                  "title": "Hemípteros",
+                  "wiki": "Hemípteros"
+                },
+                "fr": {
+                  "title": "Hémiptères",
+                  "wiki": "Hémiptères"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Bed bug (Cimex lectularius)",
+                      "wiki": "Cimex lectularius"
+                    },
+                    "es": {
+                      "title": "Chinche de cama (Cimex lectularius)",
+                      "wiki": "Cimex lectularius"
+                    },
+                    "fr": {
+                      "title": "Punaise de lit (Cimex lectularius)",
+                      "wiki": "Cimex lectularius"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Green stink bug (Nezara viridula)",
+                      "wiki": "Nezara viridula"
+                    },
+                    "es": {
+                      "title": "Chinche verde (Nezara viridula)",
+                      "wiki": "Nezara viridula"
+                    },
+                    "fr": {
+                      "title": "Punaise verte (Nezara viridula)",
+                      "wiki": "Nezara viridula"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Arachnida",
+              "wiki": "Arachnida"
+            },
+            "es": {
+              "title": "Arácnidos",
+              "wiki": "Arácnidos"
+            },
+            "fr": {
+              "title": "Arachnides",
+              "wiki": "Arachnides"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Araneae (spiders)",
+                  "wiki": "spiders"
+                },
+                "es": {
+                  "title": "Araneae (arañas)",
+                  "wiki": "arañas"
+                },
+                "fr": {
+                  "title": "Araneae (araignées)",
+                  "wiki": "araignées"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Southern black widow (Latrodectus mactans)",
+                      "wiki": "Latrodectus mactans"
+                    },
+                    "es": {
+                      "title": "Viuda negra (Latrodectus mactans)",
+                      "wiki": "Latrodectus mactans"
+                    },
+                    "fr": {
+                      "title": "Veuve noire (Latrodectus mactans)",
+                      "wiki": "Latrodectus mactans"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "European garden spider (Araneus diadematus)",
+                      "wiki": "Araneus diadematus"
+                    },
+                    "es": {
+                      "title": "Araña de jardín europea (Araneus diadematus)",
+                      "wiki": "Araneus diadematus"
+                    },
+                    "fr": {
+                      "title": "Épeire diadème (Araneus diadematus)",
+                      "wiki": "Araneus diadematus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Scorpiones (scorpions)",
+                  "wiki": "scorpions"
+                },
+                "es": {
+                  "title": "Escorpiones",
+                  "wiki": "Escorpiones"
+                },
+                "fr": {
+                  "title": "Scorpions",
+                  "wiki": "Scorpions"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Deathstalker (Leiurus quinquestriatus)",
+                      "wiki": "Leiurus quinquestriatus"
+                    },
+                    "es": {
+                      "title": "Escorpión amarillo (Leiurus quinquestriatus)",
+                      "wiki": "Leiurus quinquestriatus"
+                    },
+                    "fr": {
+                      "title": "Leiurus quinquestriatus",
+                      "wiki": "Leiurus quinquestriatus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Acari (ticks & mites)",
+                  "wiki": "ticks & mites"
+                },
+                "es": {
+                  "title": "Ácaros (garrapatas y ácaros)",
+                  "wiki": "garrapatas y ácaros"
+                },
+                "fr": {
+                  "title": "Acariens (tiques et acariens)",
+                  "wiki": "tiques et acariens"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Deer tick (Ixodes scapularis)",
+                      "wiki": "Ixodes scapularis"
+                    },
+                    "es": {
+                      "title": "Garrapata de venado (Ixodes scapularis)",
+                      "wiki": "Ixodes scapularis"
+                    },
+                    "fr": {
+                      "title": "Tique à pattes noires (Ixodes scapularis)",
+                      "wiki": "Ixodes scapularis"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "House dust mite (Dermatophagoides pteronyssinus)",
+                      "wiki": "Dermatophagoides pteronyssinus"
+                    },
+                    "es": {
+                      "title": "Ácaro del polvo (Dermatophagoides pteronyssinus)",
+                      "wiki": "Dermatophagoides pteronyssinus"
+                    },
+                    "fr": {
+                      "title": "Acarien de la poussière (Dermatophagoides pteronyssinus)",
+                      "wiki": "Dermatophagoides pteronyssinus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Crustacea",
+              "wiki": "Crustacea"
+            },
+            "es": {
+              "title": "Crustáceos",
+              "wiki": "Crustáceos"
+            },
+            "fr": {
+              "title": "Crustacés",
+              "wiki": "Crustacés"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Decapoda",
+                  "wiki": "Decapoda"
+                },
+                "es": {
+                  "title": "Decápodos",
+                  "wiki": "Decápodos"
+                },
+                "fr": {
+                  "title": "Décapodes",
+                  "wiki": "Décapodes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "European lobster (Homarus gammarus)",
+                      "wiki": "Homarus gammarus"
+                    },
+                    "es": {
+                      "title": "Bogavante europeo (Homarus gammarus)",
+                      "wiki": "Homarus gammarus"
+                    },
+                    "fr": {
+                      "title": "Homard européen (Homarus gammarus)",
+                      "wiki": "Homarus gammarus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common shrimp (Crangon crangon)",
+                      "wiki": "Crangon crangon"
+                    },
+                    "es": {
+                      "title": "Camarón común (Crangon crangon)",
+                      "wiki": "Crangon crangon"
+                    },
+                    "fr": {
+                      "title": "Crevette grise (Crangon crangon)",
+                      "wiki": "Crangon crangon"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Edible crab (Cancer pagurus)",
+                      "wiki": "Cancer pagurus"
+                    },
+                    "es": {
+                      "title": "Buey de mar (Cancer pagurus)",
+                      "wiki": "Cancer pagurus"
+                    },
+                    "fr": {
+                      "title": "Tourteau (Cancer pagurus)",
+                      "wiki": "Cancer pagurus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Isopoda",
+                  "wiki": "Isopoda"
+                },
+                "es": {
+                  "title": "Isópodos",
+                  "wiki": "Isópodos"
+                },
+                "fr": {
+                  "title": "Isopodes",
+                  "wiki": "Isopodes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common woodlouse (Armadillidium vulgare)",
+                      "wiki": "Armadillidium vulgare"
+                    },
+                    "es": {
+                      "title": "Cochinilla común (Armadillidium vulgare)",
+                      "wiki": "Armadillidium vulgare"
+                    },
+                    "fr": {
+                      "title": "Cloporte commun (Armadillidium vulgare)",
+                      "wiki": "Armadillidium vulgare"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Echinodermata",
+          "wiki": "Echinodermata"
+        },
+        "es": {
+          "title": "Equinodermos",
+          "wiki": "Equinodermos"
+        },
+        "fr": {
+          "title": "Échinodermes",
+          "wiki": "Échinodermes"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Asteroidea (starfish)",
+              "wiki": "starfish"
+            },
+            "es": {
+              "title": "Asteroidea (estrellas de mar)",
+              "wiki": "estrellas de mar"
+            },
+            "fr": {
+              "title": "Asteroidea (étoiles de mer)",
+              "wiki": "étoiles de mer"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Common starfish (Asterias rubens)",
+                  "wiki": "Asterias rubens"
+                },
+                "es": {
+                  "title": "Estrella de mar común (Asterias rubens)",
+                  "wiki": "Asterias rubens"
+                },
+                "fr": {
+                  "title": "Étoile de mer commune (Asterias rubens)",
+                  "wiki": "Asterias rubens"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Echinoidea (sea urchins)",
+              "wiki": "sea urchins"
+            },
+            "es": {
+              "title": "Echinoidea (erizos de mar)",
+              "wiki": "erizos de mar"
+            },
+            "fr": {
+              "title": "Échinoidea (oursins)",
+              "wiki": "oursins"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Purple sea urchin (Paracentrotus lividus)",
+                  "wiki": "Paracentrotus lividus"
+                },
+                "es": {
+                  "title": "Erizo de mar púrpura (Paracentrotus lividus)",
+                  "wiki": "Paracentrotus lividus"
+                },
+                "fr": {
+                  "title": "Oursin violet (Paracentrotus lividus)",
+                  "wiki": "Paracentrotus lividus"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Holothuroidea (sea cucumbers)",
+              "wiki": "sea cucumbers"
+            },
+            "es": {
+              "title": "Holoturoideos (pepinos de mar)",
+              "wiki": "pepinos de mar"
+            },
+            "fr": {
+              "title": "Holothuroidea (concombres de mer)",
+              "wiki": "concombres de mer"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "i18n": {
+        "en": {
+          "title": "Chordata",
+          "wiki": "Chordata"
+        },
+        "es": {
+          "title": "Cordados",
+          "wiki": "Cordados"
+        },
+        "fr": {
+          "title": "Chordés",
+          "wiki": "Chordés"
+        }
+      },
+      "children": [
+        {
+          "i18n": {
+            "en": {
+              "title": "Mammalia",
+              "wiki": "Mammalia"
+            },
+            "es": {
+              "title": "Mamíferos (Mammalia)",
+              "wiki": "Mammalia"
+            },
+            "fr": {
+              "title": "Mammifères (Mammalia)",
+              "wiki": "Mammalia"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Primates",
+                  "wiki": "Primates"
+                },
+                "es": {
+                  "title": "Primates",
+                  "wiki": "Primates"
+                },
+                "fr": {
+                  "title": "Primates",
+                  "wiki": "Primates"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Human (Homo sapiens)",
+                      "wiki": "Homo sapiens"
+                    },
+                    "es": {
+                      "title": "Humano (Homo sapiens)",
+                      "wiki": "Homo sapiens"
+                    },
+                    "fr": {
+                      "title": "Humain (Homo sapiens)",
+                      "wiki": "Homo sapiens"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common chimpanzee (Pan troglodytes)",
+                      "wiki": "Pan troglodytes"
+                    },
+                    "es": {
+                      "title": "Chimpancé común (Pan troglodytes)",
+                      "wiki": "Pan troglodytes"
+                    },
+                    "fr": {
+                      "title": "Chimpanzé commun (Pan troglodytes)",
+                      "wiki": "Pan troglodytes"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Western gorilla (Gorilla gorilla)",
+                      "wiki": "Gorilla gorilla"
+                    },
+                    "es": {
+                      "title": "Gorila occidental (Gorilla gorilla)",
+                      "wiki": "Gorilla gorilla"
+                    },
+                    "fr": {
+                      "title": "Gorille de l'Ouest (Gorilla gorilla)",
+                      "wiki": "Gorilla gorilla"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ring-tailed lemur (Lemur catta)",
+                      "wiki": "Lemur catta"
+                    },
+                    "es": {
+                      "title": "Lemur de cola anillada (Lemur catta)",
+                      "wiki": "Lemur catta"
+                    },
+                    "fr": {
+                      "title": "Lémur catta (Lemur catta)",
+                      "wiki": "Lemur catta"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Orangutan (Pongo pygmaeus)",
+                      "wiki": "Pongo pygmaeus"
+                    },
+                    "es": {
+                      "title": "Orangután (Pongo pygmaeus)",
+                      "wiki": "Pongo pygmaeus"
+                    },
+                    "fr": {
+                      "title": "Orang-outan (Pongo pygmaeus)",
+                      "wiki": "Pongo pygmaeus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Carnivora",
+                  "wiki": "Carnivora"
+                },
+                "es": {
+                  "title": "Carnívoros (Carnivora)",
+                  "wiki": "Carnivora"
+                },
+                "fr": {
+                  "title": "Carnivores (Carnivora)",
+                  "wiki": "Carnivora"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Gray wolf (Canis lupus)",
+                      "wiki": "Canis lupus"
+                    },
+                    "es": {
+                      "title": "Lobo (Canis lupus)",
+                      "wiki": "Canis lupus"
+                    },
+                    "fr": {
+                      "title": "Loup gris (Canis lupus)",
+                      "wiki": "Canis lupus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Red fox (Vulpes vulpes)",
+                      "wiki": "Vulpes vulpes"
+                    },
+                    "es": {
+                      "title": "Zorro rojo (Vulpes vulpes)",
+                      "wiki": "Vulpes vulpes"
+                    },
+                    "fr": {
+                      "title": "Renard roux (Vulpes vulpes)",
+                      "wiki": "Vulpes vulpes"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Brown bear (Ursus arctos)",
+                      "wiki": "Ursus arctos"
+                    },
+                    "es": {
+                      "title": "Oso pardo (Ursus arctos)",
+                      "wiki": "Ursus arctos"
+                    },
+                    "fr": {
+                      "title": "Ours brun (Ursus arctos)",
+                      "wiki": "Ursus arctos"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Polar bear (Ursus maritimus)",
+                      "wiki": "Ursus maritimus"
+                    },
+                    "es": {
+                      "title": "Oso polar (Ursus maritimus)",
+                      "wiki": "Ursus maritimus"
+                    },
+                    "fr": {
+                      "title": "Ours polaire (Ursus maritimus)",
+                      "wiki": "Ursus maritimus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Lion (Panthera leo)",
+                      "wiki": "Panthera leo"
+                    },
+                    "es": {
+                      "title": "León (Panthera leo)",
+                      "wiki": "Panthera leo"
+                    },
+                    "fr": {
+                      "title": "Lion (Panthera leo)",
+                      "wiki": "Panthera leo"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Tiger (Panthera tigris)",
+                      "wiki": "Panthera tigris"
+                    },
+                    "es": {
+                      "title": "Tigre (Panthera tigris)",
+                      "wiki": "Panthera tigris"
+                    },
+                    "fr": {
+                      "title": "Tigre (Panthera tigris)",
+                      "wiki": "Panthera tigris"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Domestic cat (Felis catus)",
+                      "wiki": "Felis catus"
+                    },
+                    "es": {
+                      "title": "Gato (Felis catus)",
+                      "wiki": "Felis catus"
+                    },
+                    "fr": {
+                      "title": "Chat (Felis catus)",
+                      "wiki": "Felis catus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Domestic dog (Canis familiaris)",
+                      "wiki": "Canis familiaris"
+                    },
+                    "es": {
+                      "title": "Perro (Canis familiaris)",
+                      "wiki": "Canis familiaris"
+                    },
+                    "fr": {
+                      "title": "Chien (Canis familiaris)",
+                      "wiki": "Canis familiaris"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Wolverine (Gulo gulo)",
+                      "wiki": "Gulo gulo"
+                    },
+                    "es": {
+                      "title": "Glotón (Gulo gulo)",
+                      "wiki": "Gulo gulo"
+                    },
+                    "fr": {
+                      "title": "Glouton (Gulo gulo)",
+                      "wiki": "Gulo gulo"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Artiodactyla (even-toed hoofed)",
+                  "wiki": "even-toed hoofed"
+                },
+                "es": {
+                  "title": "Artiodáctilos",
+                  "wiki": "Artiodáctilos"
+                },
+                "fr": {
+                  "title": "Artiodactyles",
+                  "wiki": "Artiodactyles"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Red deer (Cervus elaphus)",
+                      "wiki": "Cervus elaphus"
+                    },
+                    "es": {
+                      "title": "Ciervo rojo (Cervus elaphus)",
+                      "wiki": "Cervus elaphus"
+                    },
+                    "fr": {
+                      "title": "Cerf élaphe (Cervus elaphus)",
+                      "wiki": "Cervus elaphus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Roe deer (Capreolus capreolus)",
+                      "wiki": "Capreolus capreolus"
+                    },
+                    "es": {
+                      "title": "Corzo (Capreolus capreolus)",
+                      "wiki": "Capreolus capreolus"
+                    },
+                    "fr": {
+                      "title": "Chevreuil (Capreolus capreolus)",
+                      "wiki": "Capreolus capreolus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Wild boar (Sus scrofa)",
+                      "wiki": "Sus scrofa"
+                    },
+                    "es": {
+                      "title": "Jabalí (Sus scrofa)",
+                      "wiki": "Sus scrofa"
+                    },
+                    "fr": {
+                      "title": "Sanglier (Sus scrofa)",
+                      "wiki": "Sus scrofa"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Cow (Bos taurus)",
+                      "wiki": "Bos taurus"
+                    },
+                    "es": {
+                      "title": "Vaca (Bos taurus)",
+                      "wiki": "Bos taurus"
+                    },
+                    "fr": {
+                      "title": "Vache (Bos taurus)",
+                      "wiki": "Bos taurus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Goat (Capra hircus)",
+                      "wiki": "Capra hircus"
+                    },
+                    "es": {
+                      "title": "Cabra (Capra hircus)",
+                      "wiki": "Capra hircus"
+                    },
+                    "fr": {
+                      "title": "Chèvre (Capra hircus)",
+                      "wiki": "Capra hircus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Sheep (Ovis aries)",
+                      "wiki": "Ovis aries"
+                    },
+                    "es": {
+                      "title": "Oveja (Ovis aries)",
+                      "wiki": "Ovis aries"
+                    },
+                    "fr": {
+                      "title": "Mouton (Ovis aries)",
+                      "wiki": "Ovis aries"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Giraffe (Giraffa camelopardalis)",
+                      "wiki": "Giraffa camelopardalis"
+                    },
+                    "es": {
+                      "title": "Jirafa (Giraffa camelopardalis)",
+                      "wiki": "Giraffa camelopardalis"
+                    },
+                    "fr": {
+                      "title": "Girafe (Giraffa camelopardalis)",
+                      "wiki": "Giraffa camelopardalis"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Hippopotamus (Hippopotamus amphibius)",
+                      "wiki": "Hippopotamus amphibius"
+                    },
+                    "es": {
+                      "title": "Hipopótamo (Hippopotamus amphibius)",
+                      "wiki": "Hippopotamus amphibius"
+                    },
+                    "fr": {
+                      "title": "Hippopotame (Hippopotamus amphibius)",
+                      "wiki": "Hippopotamus amphibius"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Camel (Camelus dromedarius)",
+                      "wiki": "Camelus dromedarius"
+                    },
+                    "es": {
+                      "title": "Dromedario (Camelus dromedarius)",
+                      "wiki": "Camelus dromedarius"
+                    },
+                    "fr": {
+                      "title": "Dromadaire (Camelus dromedarius)",
+                      "wiki": "Camelus dromedarius"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Perissodactyla (odd-toed hoofed)",
+                  "wiki": "odd-toed hoofed"
+                },
+                "es": {
+                  "title": "Perisodáctilos",
+                  "wiki": "Perisodáctilos"
+                },
+                "fr": {
+                  "title": "Périssodactyles",
+                  "wiki": "Périssodactyles"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Horse (Equus caballus)",
+                      "wiki": "Equus ferus caballus"
+                    },
+                    "es": {
+                      "title": "Caballo (Equus caballus)",
+                      "wiki": "Equus ferus caballus"
+                    },
+                    "fr": {
+                      "title": "Cheval (Equus caballus)",
+                      "wiki": "Equus ferus caballus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Donkey (Equus asinus)",
+                      "wiki": "Equus asinus"
+                    },
+                    "es": {
+                      "title": "Burro (Equus asinus)",
+                      "wiki": "Equus asinus"
+                    },
+                    "fr": {
+                      "title": "Âne (Equus asinus)",
+                      "wiki": "Equus asinus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Plains zebra (Equus quagga)",
+                      "wiki": "Equus quagga"
+                    },
+                    "es": {
+                      "title": "Cebra común (Equus quagga)",
+                      "wiki": "Equus quagga"
+                    },
+                    "fr": {
+                      "title": "Zèbre des plaines (Equus quagga)",
+                      "wiki": "Equus quagga"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Indian rhinoceros (Rhinoceros unicornis)",
+                      "wiki": "Rhinoceros unicornis"
+                    },
+                    "es": {
+                      "title": "Rinoceronte indio (Rhinoceros unicornis)",
+                      "wiki": "Rhinoceros unicornis"
+                    },
+                    "fr": {
+                      "title": "Rhinocéros indien (Rhinoceros unicornis)",
+                      "wiki": "Rhinoceros unicornis"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rodentia",
+                  "wiki": "Rodentia"
+                },
+                "es": {
+                  "title": "Roedores",
+                  "wiki": "Roedores"
+                },
+                "fr": {
+                  "title": "Rongeurs",
+                  "wiki": "Rongeurs"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "House mouse (Mus musculus)",
+                      "wiki": "Mus musculus"
+                    },
+                    "es": {
+                      "title": "Ratón doméstico (Mus musculus)",
+                      "wiki": "Mus musculus"
+                    },
+                    "fr": {
+                      "title": "Souris domestique (Mus musculus)",
+                      "wiki": "Mus musculus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Brown rat (Rattus norvegicus)",
+                      "wiki": "Rattus norvegicus"
+                    },
+                    "es": {
+                      "title": "Rata parda (Rattus norvegicus)",
+                      "wiki": "Rattus norvegicus"
+                    },
+                    "fr": {
+                      "title": "Rat brun (Rattus norvegicus)",
+                      "wiki": "Rattus norvegicus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Eurasian red squirrel (Sciurus vulgaris)",
+                      "wiki": "Sciurus vulgaris"
+                    },
+                    "es": {
+                      "title": "Ardilla roja (Sciurus vulgaris)",
+                      "wiki": "Sciurus vulgaris"
+                    },
+                    "fr": {
+                      "title": "Écureuil roux (Sciurus vulgaris)",
+                      "wiki": "Sciurus vulgaris"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Beaver (Castor fiber)",
+                      "wiki": "Castor fiber"
+                    },
+                    "es": {
+                      "title": "Castor europeo (Castor fiber)",
+                      "wiki": "Castor fiber"
+                    },
+                    "fr": {
+                      "title": "Castor d'Europe (Castor fiber)",
+                      "wiki": "Castor fiber"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Guinea pig (Cavia porcellus)",
+                      "wiki": "Cavia porcellus"
+                    },
+                    "es": {
+                      "title": "Cobaya (Cavia porcellus)",
+                      "wiki": "Cavia porcellus"
+                    },
+                    "fr": {
+                      "title": "Cochon d’Inde (Cavia porcellus)",
+                      "wiki": "Cavia porcellus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Capybara (Hydrochoerus hydrochaeris)",
+                      "wiki": "Hydrochoerus hydrochaeris"
+                    },
+                    "es": {
+                      "title": "Capibara (Hydrochoerus hydrochaeris)",
+                      "wiki": "Hydrochoerus hydrochaeris"
+                    },
+                    "fr": {
+                      "title": "Capybara (Hydrochoerus hydrochaeris)",
+                      "wiki": "Hydrochoerus hydrochaeris"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lagomorpha",
+                  "wiki": "Lagomorpha"
+                },
+                "es": {
+                  "title": "Lagomorfos",
+                  "wiki": "Lagomorfos"
+                },
+                "fr": {
+                  "title": "Lagomorphes",
+                  "wiki": "Lagomorphes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "European rabbit (Oryctolagus cuniculus)",
+                      "wiki": "Oryctolagus cuniculus"
+                    },
+                    "es": {
+                      "title": "Conejo europeo (Oryctolagus cuniculus)",
+                      "wiki": "Oryctolagus cuniculus"
+                    },
+                    "fr": {
+                      "title": "Lapin de garenne (Oryctolagus cuniculus)",
+                      "wiki": "Oryctolagus cuniculus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mountain hare (Lepus timidus)",
+                      "wiki": "Lepus timidus"
+                    },
+                    "es": {
+                      "title": "Liebre variable (Lepus timidus)",
+                      "wiki": "Lepus timidus"
+                    },
+                    "fr": {
+                      "title": "Lièvre variable (Lepus timidus)",
+                      "wiki": "Lepus timidus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Chiroptera (bats)",
+                  "wiki": "bats"
+                },
+                "es": {
+                  "title": "Quirópteros (murciélagos)",
+                  "wiki": "murciélagos"
+                },
+                "fr": {
+                  "title": "Chiroptères (chauves-souris)",
+                  "wiki": "chauves-souris"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common pipistrelle (Pipistrellus pipistrellus)",
+                      "wiki": "Pipistrellus pipistrellus"
+                    },
+                    "es": {
+                      "title": "Murciélago común (Pipistrellus pipistrellus)",
+                      "wiki": "Pipistrellus pipistrellus"
+                    },
+                    "fr": {
+                      "title": "Pipistrelle commune (Pipistrellus pipistrellus)",
+                      "wiki": "Pipistrellus pipistrellus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Flying fox (Pteropus vampyrus)",
+                      "wiki": "Pteropus vampyrus"
+                    },
+                    "es": {
+                      "title": "Zorro volador (Pteropus vampyrus)",
+                      "wiki": "Pteropus vampyrus"
+                    },
+                    "fr": {
+                      "title": "Roussette (Pteropus vampyrus)",
+                      "wiki": "Pteropus vampyrus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Proboscidea",
+                  "wiki": "Proboscidea"
+                },
+                "es": {
+                  "title": "Proboscídeos",
+                  "wiki": "Proboscídeos"
+                },
+                "fr": {
+                  "title": "Proboscidiens",
+                  "wiki": "Proboscidiens"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "African elephant (Loxodonta africana)",
+                      "wiki": "Loxodonta africana"
+                    },
+                    "es": {
+                      "title": "Elefante africano (Loxodonta africana)",
+                      "wiki": "Loxodonta africana"
+                    },
+                    "fr": {
+                      "title": "Éléphant d'Afrique (Loxodonta africana)",
+                      "wiki": "Loxodonta africana"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Asian elephant (Elephas maximus)",
+                      "wiki": "Elephas maximus"
+                    },
+                    "es": {
+                      "title": "Elefante asiático (Elephas maximus)",
+                      "wiki": "Elephas maximus"
+                    },
+                    "fr": {
+                      "title": "Éléphant d’Asie (Elephas maximus)",
+                      "wiki": "Elephas maximus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cetacea",
+                  "wiki": "Cetacea"
+                },
+                "es": {
+                  "title": "Cetáceos (Cetacea)",
+                  "wiki": "Cetacea"
+                },
+                "fr": {
+                  "title": "Cétacés (Cetacea)",
+                  "wiki": "Cetacea"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Blue whale (Balaenoptera musculus)",
+                      "wiki": "Balaenoptera musculus"
+                    },
+                    "es": {
+                      "title": "Ballena azul (Balaenoptera musculus)",
+                      "wiki": "Balaenoptera musculus"
+                    },
+                    "fr": {
+                      "title": "Rorqual bleu (Balaenoptera musculus)",
+                      "wiki": "Balaenoptera musculus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common bottlenose dolphin (Tursiops truncatus)",
+                      "wiki": "Tursiops truncatus"
+                    },
+                    "es": {
+                      "title": "Delfín mular (Tursiops truncatus)",
+                      "wiki": "Tursiops truncatus"
+                    },
+                    "fr": {
+                      "title": "Grand dauphin (Tursiops truncatus)",
+                      "wiki": "Tursiops truncatus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Orca (Orcinus orca)",
+                      "wiki": "Orcinus orca"
+                    },
+                    "es": {
+                      "title": "Orca (Orcinus orca)",
+                      "wiki": "Orcinus orca"
+                    },
+                    "fr": {
+                      "title": "Orque (Orcinus orca)",
+                      "wiki": "Orcinus orca"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Marsupialia (metatherians)",
+                  "wiki": "metatherians"
+                },
+                "es": {
+                  "title": "Marsupiales",
+                  "wiki": "Marsupiales"
+                },
+                "fr": {
+                  "title": "Marsupiaux",
+                  "wiki": "Marsupiaux"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Koala (Phascolarctos cinereus)",
+                      "wiki": "Phascolarctos cinereus"
+                    },
+                    "es": {
+                      "title": "Koala (Phascolarctos cinereus)",
+                      "wiki": "Phascolarctos cinereus"
+                    },
+                    "fr": {
+                      "title": "Koala (Phascolarctos cinereus)",
+                      "wiki": "Phascolarctos cinereus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Red kangaroo (Macropus rufus)",
+                      "wiki": "Macropus rufus"
+                    },
+                    "es": {
+                      "title": "Canguro rojo (Macropus rufus)",
+                      "wiki": "Macropus rufus"
+                    },
+                    "fr": {
+                      "title": "Kangourou roux (Macropus rufus)",
+                      "wiki": "Macropus rufus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common opossum (Didelphis marsupialis)",
+                      "wiki": "Didelphis marsupialis"
+                    },
+                    "es": {
+                      "title": "Zarigüeya común (Didelphis marsupialis)",
+                      "wiki": "Didelphis marsupialis"
+                    },
+                    "fr": {
+                      "title": "Sarigue commune (Didelphis marsupialis)",
+                      "wiki": "Didelphis marsupialis"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Aves",
+              "wiki": "Aves"
+            },
+            "es": {
+              "title": "Aves",
+              "wiki": "Aves"
+            },
+            "fr": {
+              "title": "Oiseaux",
+              "wiki": "Oiseaux"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Passeriformes",
+                  "wiki": "Passeriformes"
+                },
+                "es": {
+                  "title": "Paseriformes",
+                  "wiki": "Paseriformes"
+                },
+                "fr": {
+                  "title": "Passériformes",
+                  "wiki": "Passériformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "House sparrow (Passer domesticus)",
+                      "wiki": "Passer domesticus"
+                    },
+                    "es": {
+                      "title": "Gorrión común (Passer domesticus)",
+                      "wiki": "Passer domesticus"
+                    },
+                    "fr": {
+                      "title": "Moineau domestique (Passer domesticus)",
+                      "wiki": "Passer domesticus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "European robin (Erithacus rubecula)",
+                      "wiki": "Erithacus rubecula"
+                    },
+                    "es": {
+                      "title": "Petirrojo europeo (Erithacus rubecula)",
+                      "wiki": "Erithacus rubecula"
+                    },
+                    "fr": {
+                      "title": "Rougegorge familier (Erithacus rubecula)",
+                      "wiki": "Erithacus rubecula"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Barn swallow (Hirundo rustica)",
+                      "wiki": "Hirundo rustica"
+                    },
+                    "es": {
+                      "title": "Golondrina común (Hirundo rustica)",
+                      "wiki": "Hirundo rustica"
+                    },
+                    "fr": {
+                      "title": "Hirondelle rustique (Hirundo rustica)",
+                      "wiki": "Hirundo rustica"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Blue tit (Cyanistes caeruleus)",
+                      "wiki": "Cyanistes caeruleus"
+                    },
+                    "es": {
+                      "title": "Herrerillo común (Cyanistes caeruleus)",
+                      "wiki": "Cyanistes caeruleus"
+                    },
+                    "fr": {
+                      "title": "Mésange bleue (Cyanistes caeruleus)",
+                      "wiki": "Cyanistes caeruleus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Accipitriformes",
+                  "wiki": "Accipitriformes"
+                },
+                "es": {
+                  "title": "Accipitriformes",
+                  "wiki": "Accipitriformes"
+                },
+                "fr": {
+                  "title": "Accipitriformes",
+                  "wiki": "Accipitriformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Golden eagle (Aquila chrysaetos)",
+                      "wiki": "Aquila chrysaetos"
+                    },
+                    "es": {
+                      "title": "Águila real (Aquila chrysaetos)",
+                      "wiki": "Aquila chrysaetos"
+                    },
+                    "fr": {
+                      "title": "Aigle royal (Aquila chrysaetos)",
+                      "wiki": "Aquila chrysaetos"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Griffon vulture (Gyps fulvus)",
+                      "wiki": "Gyps fulvus"
+                    },
+                    "es": {
+                      "title": "Buitre leonado (Gyps fulvus)",
+                      "wiki": "Gyps fulvus"
+                    },
+                    "fr": {
+                      "title": "Vautour fauve (Gyps fulvus)",
+                      "wiki": "Gyps fulvus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Strigiformes",
+                  "wiki": "Strigiformes"
+                },
+                "es": {
+                  "title": "Estrigiformes (búhos y lechuzas)",
+                  "wiki": "búhos y lechuzas"
+                },
+                "fr": {
+                  "title": "Strigiformes (hiboux & chouettes)",
+                  "wiki": "hiboux & chouettes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Barn owl (Tyto alba)",
+                      "wiki": "Tyto alba"
+                    },
+                    "es": {
+                      "title": "Lechuza común (Tyto alba)",
+                      "wiki": "Tyto alba"
+                    },
+                    "fr": {
+                      "title": "Effraie des clochers (Tyto alba)",
+                      "wiki": "Tyto alba"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Eurasian eagle-owl (Bubo bubo)",
+                      "wiki": "Bubo bubo"
+                    },
+                    "es": {
+                      "title": "Búho real (Bubo bubo)",
+                      "wiki": "Bubo bubo"
+                    },
+                    "fr": {
+                      "title": "Hibou grand-duc (Bubo bubo)",
+                      "wiki": "Bubo bubo"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Anseriformes",
+                  "wiki": "Anseriformes"
+                },
+                "es": {
+                  "title": "Anseriformes",
+                  "wiki": "Anseriformes"
+                },
+                "fr": {
+                  "title": "Anseriformes",
+                  "wiki": "Anseriformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mallard (Anas platyrhynchos)",
+                      "wiki": "Anas platyrhynchos"
+                    },
+                    "es": {
+                      "title": "Ánade real (Anas platyrhynchos)",
+                      "wiki": "Anas platyrhynchos"
+                    },
+                    "fr": {
+                      "title": "Canard colvert (Anas platyrhynchos)",
+                      "wiki": "Anas platyrhynchos"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Greylag goose (Anser anser)",
+                      "wiki": "Anser anser"
+                    },
+                    "es": {
+                      "title": "Ánsar común (Anser anser)",
+                      "wiki": "Anser anser"
+                    },
+                    "fr": {
+                      "title": "Oie cendrée (Anser anser)",
+                      "wiki": "Anser anser"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Charadriiformes",
+                  "wiki": "Charadriiformes"
+                },
+                "es": {
+                  "title": "Charadriiformes",
+                  "wiki": "Charadriiformes"
+                },
+                "fr": {
+                  "title": "Charadriiformes",
+                  "wiki": "Charadriiformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Black-headed gull (Chroicocephalus ridibundus)",
+                      "wiki": "Chroicocephalus ridibundus"
+                    },
+                    "es": {
+                      "title": "Gaviota reidora (Chroicocephalus ridibundus)",
+                      "wiki": "Chroicocephalus ridibundus"
+                    },
+                    "fr": {
+                      "title": "Mouette rieuse (Chroicocephalus ridibundus)",
+                      "wiki": "Chroicocephalus ridibundus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common tern (Sterna hirundo)",
+                      "wiki": "Sterna hirundo"
+                    },
+                    "es": {
+                      "title": "Charrán común (Sterna hirundo)",
+                      "wiki": "Sterna hirundo"
+                    },
+                    "fr": {
+                      "title": "Sterne pierregarin (Sterna hirundo)",
+                      "wiki": "Sterna hirundo"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Psittaciformes",
+                  "wiki": "Psittaciformes"
+                },
+                "es": {
+                  "title": "Psitaciformes",
+                  "wiki": "Psitaciformes"
+                },
+                "fr": {
+                  "title": "Psittaciformes",
+                  "wiki": "Psittaciformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Budgerigar (Melopsittacus undulatus)",
+                      "wiki": "Melopsittacus undulatus"
+                    },
+                    "es": {
+                      "title": "Periquito (Melopsittacus undulatus)",
+                      "wiki": "Melopsittacus undulatus"
+                    },
+                    "fr": {
+                      "title": "Perruche ondulée (Melopsittacus undulatus)",
+                      "wiki": "Melopsittacus undulatus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Monk parakeet (Myiopsitta monachus)",
+                      "wiki": "Myiopsitta monachus"
+                    },
+                    "es": {
+                      "title": "Cotorra argentina (Myiopsitta monachus)",
+                      "wiki": "Myiopsitta monachus"
+                    },
+                    "fr": {
+                      "title": "Perruche moine (Myiopsitta monachus)",
+                      "wiki": "Myiopsitta monachus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Piciformes",
+                  "wiki": "Piciformes"
+                },
+                "es": {
+                  "title": "Piciformes",
+                  "wiki": "Piciformes"
+                },
+                "fr": {
+                  "title": "Piciformes",
+                  "wiki": "Piciformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Great spotted woodpecker (Dendrocopos major)",
+                      "wiki": "Dendrocopos major"
+                    },
+                    "es": {
+                      "title": "Pico picapinos (Dendrocopos major)",
+                      "wiki": "Dendrocopos major"
+                    },
+                    "fr": {
+                      "title": "Pic épeiche (Dendrocopos major)",
+                      "wiki": "Dendrocopos major"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Columbiformes",
+                  "wiki": "Columbiformes"
+                },
+                "es": {
+                  "title": "Columbiformes",
+                  "wiki": "Columbiformes"
+                },
+                "fr": {
+                  "title": "Columbiformes",
+                  "wiki": "Columbiformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Rock dove (Columba livia)",
+                      "wiki": "Columba livia"
+                    },
+                    "es": {
+                      "title": "Paloma bravía (Columba livia)",
+                      "wiki": "Columba livia"
+                    },
+                    "fr": {
+                      "title": "Pigeon biset (Columba livia)",
+                      "wiki": "Columba livia"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common wood pigeon (Columba palumbus)",
+                      "wiki": "Columba palumbus"
+                    },
+                    "es": {
+                      "title": "Paloma torcaz (Columba palumbus)",
+                      "wiki": "Columba palumbus"
+                    },
+                    "fr": {
+                      "title": "Pigeon ramier (Columba palumbus)",
+                      "wiki": "Columba palumbus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Reptilia",
+              "wiki": "Reptilia"
+            },
+            "es": {
+              "title": "Reptiles (Reptilia)",
+              "wiki": "Reptilia"
+            },
+            "fr": {
+              "title": "Reptiles (Reptilia)",
+              "wiki": "Reptilia"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Squamata",
+                  "wiki": "Squamata"
+                },
+                "es": {
+                  "title": "Escamosos (Squamata)",
+                  "wiki": "Squamata"
+                },
+                "fr": {
+                  "title": "Squamates (Squamata)",
+                  "wiki": "Squamata"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Komodo dragon (Varanus komodoensis)",
+                      "wiki": "Varanus komodoensis"
+                    },
+                    "es": {
+                      "title": "Dragón de Komodo (Varanus komodoensis)",
+                      "wiki": "Varanus komodoensis"
+                    },
+                    "fr": {
+                      "title": "Dragon de Komodo (Varanus komodoensis)",
+                      "wiki": "Varanus komodoensis"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common wall lizard (Podarcis muralis)",
+                      "wiki": "Podarcis muralis"
+                    },
+                    "es": {
+                      "title": "Lagartija roquera (Podarcis muralis)",
+                      "wiki": "Podarcis muralis"
+                    },
+                    "fr": {
+                      "title": "Lézard des murailles (Podarcis muralis)",
+                      "wiki": "Podarcis muralis"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Grass snake (Natrix natrix)",
+                      "wiki": "Natrix natrix"
+                    },
+                    "es": {
+                      "title": "Culebra de collar (Natrix natrix)",
+                      "wiki": "Natrix natrix"
+                    },
+                    "fr": {
+                      "title": "Couleuvre à collier (Natrix natrix)",
+                      "wiki": "Natrix natrix"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "King cobra (Ophiophagus hannah)",
+                      "wiki": "Ophiophagus hannah"
+                    },
+                    "es": {
+                      "title": "Cobra real (Ophiophagus hannah)",
+                      "wiki": "Ophiophagus hannah"
+                    },
+                    "fr": {
+                      "title": "Cobra royal (Ophiophagus hannah)",
+                      "wiki": "Ophiophagus hannah"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Boa constrictor (Boa constrictor)",
+                      "wiki": "Boa constrictor"
+                    },
+                    "es": {
+                      "title": "Boa constrictor",
+                      "wiki": "Boa constrictor"
+                    },
+                    "fr": {
+                      "title": "Boa constricteur",
+                      "wiki": "Boa constricteur"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Testudines",
+                  "wiki": "Testudines"
+                },
+                "es": {
+                  "title": "Quelonios (Testudines)",
+                  "wiki": "Testudines"
+                },
+                "fr": {
+                  "title": "Chéloniens (Testudines)",
+                  "wiki": "Testudines"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Green sea turtle (Chelonia mydas)",
+                      "wiki": "Chelonia mydas"
+                    },
+                    "es": {
+                      "title": "Tortuga verde (Chelonia mydas)",
+                      "wiki": "Chelonia mydas"
+                    },
+                    "fr": {
+                      "title": "Tortue verte (Chelonia mydas)",
+                      "wiki": "Chelonia mydas"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Hermann's tortoise (Testudo hermanni)",
+                      "wiki": "Testudo hermanni"
+                    },
+                    "es": {
+                      "title": "Tortuga mediterránea (Testudo hermanni)",
+                      "wiki": "Testudo hermanni"
+                    },
+                    "fr": {
+                      "title": "Tortue d'Hermann (Testudo hermanni)",
+                      "wiki": "Testudo hermanni"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Crocodylia",
+                  "wiki": "Crocodylia"
+                },
+                "es": {
+                  "title": "Crocodylia (cocodrilos)",
+                  "wiki": "cocodrilos"
+                },
+                "fr": {
+                  "title": "Crocodylia (crocodiles)",
+                  "wiki": "crocodiles"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Nile crocodile (Crocodylus niloticus)",
+                      "wiki": "Crocodylus niloticus"
+                    },
+                    "es": {
+                      "title": "Cocodrilo del Nilo (Crocodylus niloticus)",
+                      "wiki": "Crocodylus niloticus"
+                    },
+                    "fr": {
+                      "title": "Crocodile du Nil (Crocodylus niloticus)",
+                      "wiki": "Crocodylus niloticus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "American alligator (Alligator mississippiensis)",
+                      "wiki": "Alligator mississippiensis"
+                    },
+                    "es": {
+                      "title": "Aligátor americano (Alligator mississippiensis)",
+                      "wiki": "Alligator mississippiensis"
+                    },
+                    "fr": {
+                      "title": "Alligator d'Amérique (Alligator mississippiensis)",
+                      "wiki": "Alligator mississippiensis"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Amphibia",
+              "wiki": "Amphibia"
+            },
+            "es": {
+              "title": "Anfibios (Amphibia)",
+              "wiki": "Amphibia"
+            },
+            "fr": {
+              "title": "Amphibiens (Amphibia)",
+              "wiki": "Amphibia"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Anura (frogs and toads)",
+                  "wiki": "frogs and toads"
+                },
+                "es": {
+                  "title": "Anuros (ranas y sapos)",
+                  "wiki": "ranas y sapos"
+                },
+                "fr": {
+                  "title": "Anoures (grenouilles et crapauds)",
+                  "wiki": "grenouilles et crapauds"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common frog (Rana temporaria)",
+                      "wiki": "Rana temporaria"
+                    },
+                    "es": {
+                      "title": "Rana común (Rana temporaria)",
+                      "wiki": "Rana temporaria"
+                    },
+                    "fr": {
+                      "title": "Grenouille rousse (Rana temporaria)",
+                      "wiki": "Rana temporaria"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "American bullfrog (Lithobates catesbeianus)",
+                      "wiki": "Lithobates catesbeianus"
+                    },
+                    "es": {
+                      "title": "Rana toro americana (Lithobates catesbeianus)",
+                      "wiki": "Lithobates catesbeianus"
+                    },
+                    "fr": {
+                      "title": "Ouaouaron (Lithobates catesbeianus)",
+                      "wiki": "Lithobates catesbeianus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Cane toad (Rhinella marina)",
+                      "wiki": "Rhinella marina"
+                    },
+                    "es": {
+                      "title": "Sapo de caña (Rhinella marina)",
+                      "wiki": "Rhinella marina"
+                    },
+                    "fr": {
+                      "title": "Crapaud buffle (Rhinella marina)",
+                      "wiki": "Rhinella marina"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Caudata (salamanders)",
+                  "wiki": "salamanders"
+                },
+                "es": {
+                  "title": "Urodelos (salamandras)",
+                  "wiki": "salamandras"
+                },
+                "fr": {
+                  "title": "Urodèles (salamandres)",
+                  "wiki": "salamandres"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Fire salamander (Salamandra salamandra)",
+                      "wiki": "Salamandra salamandra"
+                    },
+                    "es": {
+                      "title": "Salamandra común (Salamandra salamandra)",
+                      "wiki": "Salamandra salamandra"
+                    },
+                    "fr": {
+                      "title": "Salamandre tachetée (Salamandra salamandra)",
+                      "wiki": "Salamandra salamandra"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Axolotl (Ambystoma mexicanum)",
+                      "wiki": "Ambystoma mexicanum"
+                    },
+                    "es": {
+                      "title": "Ajolote (Ambystoma mexicanum)",
+                      "wiki": "Ambystoma mexicanum"
+                    },
+                    "fr": {
+                      "title": "Axolotl (Ambystoma mexicanum)",
+                      "wiki": "Ambystoma mexicanum"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gymnophiona (caecilians)",
+                  "wiki": "caecilians"
+                },
+                "es": {
+                  "title": "Gimnofiones (cecilias)",
+                  "wiki": "cecilias"
+                },
+                "fr": {
+                  "title": "Gymnophiones (cécilies)",
+                  "wiki": "cécilies"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mexican caecilian (Dermophis mexicanus)",
+                      "wiki": "Dermophis mexicanus"
+                    },
+                    "es": {
+                      "title": "Cecilia mexicana (Dermophis mexicanus)",
+                      "wiki": "Dermophis mexicanus"
+                    },
+                    "fr": {
+                      "title": "Cécilie mexicaine (Dermophis mexicanus)",
+                      "wiki": "Dermophis mexicanus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Actinopterygii",
+              "wiki": "Actinopterygii"
+            },
+            "es": {
+              "title": "Actinopterigios",
+              "wiki": "Actinopterigios"
+            },
+            "fr": {
+              "title": "Actinoptérygiens",
+              "wiki": "Actinoptérygiens"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Perciformes",
+                  "wiki": "Perciformes"
+                },
+                "es": {
+                  "title": "Perciformes",
+                  "wiki": "Perciformes"
+                },
+                "fr": {
+                  "title": "Perciformes",
+                  "wiki": "Perciformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Atlantic bluefin tuna (Thunnus thynnus)",
+                      "wiki": "Thunnus thynnus"
+                    },
+                    "es": {
+                      "title": "Atún rojo (Thunnus thynnus)",
+                      "wiki": "Thunnus thynnus"
+                    },
+                    "fr": {
+                      "title": "Thon rouge (Thunnus thynnus)",
+                      "wiki": "Thunnus thynnus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "European seabass (Dicentrarchus labrax)",
+                      "wiki": "Dicentrarchus labrax"
+                    },
+                    "es": {
+                      "title": "Lubina europea (Dicentrarchus labrax)",
+                      "wiki": "Dicentrarchus labrax"
+                    },
+                    "fr": {
+                      "title": "Bar européen (Dicentrarchus labrax)",
+                      "wiki": "Dicentrarchus labrax"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Clownfish (Amphiprion ocellaris)",
+                      "wiki": "Amphiprion ocellaris"
+                    },
+                    "es": {
+                      "title": "Pez payaso (Amphiprion ocellaris)",
+                      "wiki": "Amphiprion ocellaris"
+                    },
+                    "fr": {
+                      "title": "Poisson-clown (Amphiprion ocellaris)",
+                      "wiki": "Amphiprion ocellaris"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cypriniformes",
+                  "wiki": "Cypriniformes"
+                },
+                "es": {
+                  "title": "Cipriniformes",
+                  "wiki": "Cipriniformes"
+                },
+                "fr": {
+                  "title": "Cypriniformes",
+                  "wiki": "Cypriniformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common carp (Cyprinus carpio)",
+                      "wiki": "Cyprinus carpio"
+                    },
+                    "es": {
+                      "title": "Carpa común (Cyprinus carpio)",
+                      "wiki": "Cyprinus carpio"
+                    },
+                    "fr": {
+                      "title": "Carpe commune (Cyprinus carpio)",
+                      "wiki": "Cyprinus carpio"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Zebrafish (Danio rerio)",
+                      "wiki": "Danio rerio"
+                    },
+                    "es": {
+                      "title": "Pez cebra (Danio rerio)",
+                      "wiki": "Danio rerio"
+                    },
+                    "fr": {
+                      "title": "Poisson zèbre (Danio rerio)",
+                      "wiki": "Danio rerio"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Siluriformes",
+                  "wiki": "Siluriformes"
+                },
+                "es": {
+                  "title": "Siluriformes (silúridos)",
+                  "wiki": "silúridos"
+                },
+                "fr": {
+                  "title": "Siluriformes (silures)",
+                  "wiki": "silures"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Wels catfish (Silurus glanis)",
+                      "wiki": "Silurus glanis"
+                    },
+                    "es": {
+                      "title": "Siluro (Silurus glanis)",
+                      "wiki": "Silurus glanis"
+                    },
+                    "fr": {
+                      "title": "Silure glane (Silurus glanis)",
+                      "wiki": "Silurus glanis"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Channel catfish (Ictalurus punctatus)",
+                      "wiki": "Ictalurus punctatus"
+                    },
+                    "es": {
+                      "title": "Bagre de canal (Ictalurus punctatus)",
+                      "wiki": "Ictalurus punctatus"
+                    },
+                    "fr": {
+                      "title": "Barbotte de canal (Ictalurus punctatus)",
+                      "wiki": "Ictalurus punctatus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Salmoniformes",
+                  "wiki": "Salmoniformes"
+                },
+                "es": {
+                  "title": "Salmoniformes",
+                  "wiki": "Salmoniformes"
+                },
+                "fr": {
+                  "title": "Salmoniformes",
+                  "wiki": "Salmoniformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Atlantic salmon (Salmo salar)",
+                      "wiki": "Salmo salar"
+                    },
+                    "es": {
+                      "title": "Salmón atlántico (Salmo salar)",
+                      "wiki": "Salmo salar"
+                    },
+                    "fr": {
+                      "title": "Saumon atlantique (Salmo salar)",
+                      "wiki": "Salmo salar"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Brown trout (Salmo trutta)",
+                      "wiki": "Salmo trutta"
+                    },
+                    "es": {
+                      "title": "Trucha común (Salmo trutta)",
+                      "wiki": "Salmo trutta"
+                    },
+                    "fr": {
+                      "title": "Truite fario (Salmo trutta)",
+                      "wiki": "Salmo trutta"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Rainbow trout (Oncorhynchus mykiss)",
+                      "wiki": "Oncorhynchus mykiss"
+                    },
+                    "es": {
+                      "title": "Trucha arcoíris (Oncorhynchus mykiss)",
+                      "wiki": "Oncorhynchus mykiss"
+                    },
+                    "fr": {
+                      "title": "Truite arc-en-ciel (Oncorhynchus mykiss)",
+                      "wiki": "Oncorhynchus mykiss"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Gadiformes",
+                  "wiki": "Gadiformes"
+                },
+                "es": {
+                  "title": "Gadiformes (bacalaos)",
+                  "wiki": "bacalaos"
+                },
+                "fr": {
+                  "title": "Gadiformes (morues)",
+                  "wiki": "morues"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Atlantic cod (Gadus morhua)",
+                      "wiki": "Gadus morhua"
+                    },
+                    "es": {
+                      "title": "Bacalao del Atlántico (Gadus morhua)",
+                      "wiki": "Gadus morhua"
+                    },
+                    "fr": {
+                      "title": "Morue de l'Atlantique (Gadus morhua)",
+                      "wiki": "Gadus morhua"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Hake (Merluccius merluccius)",
+                      "wiki": "Merluccius merluccius"
+                    },
+                    "es": {
+                      "title": "Merluza europea (Merluccius merluccius)",
+                      "wiki": "Merluccius merluccius"
+                    },
+                    "fr": {
+                      "title": "Merlu européen (Merluccius merluccius)",
+                      "wiki": "Merluccius merluccius"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Cichliformes",
+                  "wiki": "Cichliformes"
+                },
+                "es": {
+                  "title": "Cicliformes (cíclidos)",
+                  "wiki": "cíclidos"
+                },
+                "fr": {
+                  "title": "Cichliformes (cichlidés)",
+                  "wiki": "cichlidés"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Nile tilapia (Oreochromis niloticus)",
+                      "wiki": "Oreochromis niloticus"
+                    },
+                    "es": {
+                      "title": "Tilapia del Nilo (Oreochromis niloticus)",
+                      "wiki": "Oreochromis niloticus"
+                    },
+                    "fr": {
+                      "title": "Tilapia du Nil (Oreochromis niloticus)",
+                      "wiki": "Oreochromis niloticus"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Oscar (Astronotus ocellatus)",
+                      "wiki": "Astronotus ocellatus"
+                    },
+                    "es": {
+                      "title": "Óscar (Astronotus ocellatus)",
+                      "wiki": "Astronotus ocellatus"
+                    },
+                    "fr": {
+                      "title": "Astronote ocellé (Astronotus ocellatus)",
+                      "wiki": "Astronotus ocellatus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Tetraodontiformes",
+                  "wiki": "Tetraodontiformes"
+                },
+                "es": {
+                  "title": "Tetraodontiformes",
+                  "wiki": "Tetraodontiformes"
+                },
+                "fr": {
+                  "title": "Tetraodontiformes",
+                  "wiki": "Tetraodontiformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Ocean sunfish (Mola mola)",
+                      "wiki": "Mola mola"
+                    },
+                    "es": {
+                      "title": "Pez luna (Mola mola)",
+                      "wiki": "Mola mola"
+                    },
+                    "fr": {
+                      "title": "Poisson lune (Mola mola)",
+                      "wiki": "Mola mola"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Fugu (Takifugu rubripes)",
+                      "wiki": "Takifugu rubripes"
+                    },
+                    "es": {
+                      "title": "Fugu (Takifugu rubripes)",
+                      "wiki": "Takifugu rubripes"
+                    },
+                    "fr": {
+                      "title": "Fugu (Takifugu rubripes)",
+                      "wiki": "Takifugu rubripes"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "i18n": {
+            "en": {
+              "title": "Chondrichthyes (cartilaginous fishes)",
+              "wiki": "cartilaginous fishes"
+            },
+            "es": {
+              "title": "Condrictios",
+              "wiki": "Condrictios"
+            },
+            "fr": {
+              "title": "Chondrichthyens",
+              "wiki": "Chondrichthyens"
+            }
+          },
+          "children": [
+            {
+              "i18n": {
+                "en": {
+                  "title": "Carcharhiniformes",
+                  "wiki": "Carcharhiniformes"
+                },
+                "es": {
+                  "title": "Carcharhiniformes",
+                  "wiki": "Carcharhiniformes"
+                },
+                "fr": {
+                  "title": "Carcharhiniformes",
+                  "wiki": "Carcharhiniformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Tiger shark (Galeocerdo cuvier)",
+                      "wiki": "Galeocerdo cuvier"
+                    },
+                    "es": {
+                      "title": "Tiburón tigre (Galeocerdo cuvier)",
+                      "wiki": "Galeocerdo cuvier"
+                    },
+                    "fr": {
+                      "title": "Requin-tigre (Galeocerdo cuvier)",
+                      "wiki": "Galeocerdo cuvier"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Blue shark (Prionace glauca)",
+                      "wiki": "Prionace glauca"
+                    },
+                    "es": {
+                      "title": "Tiburón azul (Prionace glauca)",
+                      "wiki": "Prionace glauca"
+                    },
+                    "fr": {
+                      "title": "Requin bleu (Prionace glauca)",
+                      "wiki": "Prionace glauca"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Lamniformes",
+                  "wiki": "Lamniformes"
+                },
+                "es": {
+                  "title": "Lamniformes",
+                  "wiki": "Lamniformes"
+                },
+                "fr": {
+                  "title": "Lamniformes",
+                  "wiki": "Lamniformes"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Great white shark (Carcharodon carcharias)",
+                      "wiki": "Carcharodon carcharias"
+                    },
+                    "es": {
+                      "title": "Tiburón blanco (Carcharodon carcharias)",
+                      "wiki": "Carcharodon carcharias"
+                    },
+                    "fr": {
+                      "title": "Grand requin blanc (Carcharodon carcharias)",
+                      "wiki": "Carcharodon carcharias"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Mako shark (Isurus oxyrinchus)",
+                      "wiki": "Isurus oxyrinchus"
+                    },
+                    "es": {
+                      "title": "Tiburón mako (Isurus oxyrinchus)",
+                      "wiki": "Isurus oxyrinchus"
+                    },
+                    "fr": {
+                      "title": "Requin mako (Isurus oxyrinchus)",
+                      "wiki": "Isurus oxyrinchus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "i18n": {
+                "en": {
+                  "title": "Rajiformes",
+                  "wiki": "Rajiformes"
+                },
+                "es": {
+                  "title": "Rajiformes (rayas)",
+                  "wiki": "rayas"
+                },
+                "fr": {
+                  "title": "Rajiformes (raies)",
+                  "wiki": "raies"
+                }
+              },
+              "children": [
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Common skate (Dipturus batis)",
+                      "wiki": "Dipturus batis"
+                    },
+                    "es": {
+                      "title": "Raya común (Dipturus batis)",
+                      "wiki": "Dipturus batis"
+                    },
+                    "fr": {
+                      "title": "Raie brunette (Dipturus batis)",
+                      "wiki": "Dipturus batis"
+                    }
+                  },
+                  "children": []
+                },
+                {
+                  "i18n": {
+                    "en": {
+                      "title": "Southern stingray (Hypanus americanus)",
+                      "wiki": "Hypanus americanus"
+                    },
+                    "es": {
+                      "title": "Raya látigo meridional (Hypanus americanus)",
+                      "wiki": "Hypanus americanus"
+                    },
+                    "fr": {
+                      "title": "Pastenague américaine (Hypanus americanus)",
+                      "wiki": "Hypanus americanus"
+                    }
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
