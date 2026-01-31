@@ -83,7 +83,7 @@ When internet access is unavailable, **your AI, your data, and your knowledge re
 # 📑 Index
 
 - [✅ Requirements](#-requirements)
-- [🌍 Who is it for?](#-who-is-it-for)
+- [🌍 Who is it for?](#-who-is-offlined-for)
 - [📝 Instructions](#-instructions)
 - [📖 Downloading Wikipedia ZIM files](#-downloading-wikipedia-zim-files)
 - [📚 Adding more to your library (pdf files)](#-adding-more-to-your-library-pdf-files)
