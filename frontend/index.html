@@ -4,28 +4,87 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Survival AI — Offline</title>
+  <title>Offlined v4.0 | Offlined.org</title>
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="./vendor/celestial/celestial.css">
   <link rel="stylesheet" href="./vendor/maplibre-5.5.0/maplibre-gl.css">
+  <link rel="stylesheet" href="./vendor/dropzone/dropzone.min.css">
+  <link rel="stylesheet" href="./vendor/katex/katex.min.css">
+  <link rel="icon" type="image/jpeg" href="offlined_favicon_01.jpg">
 </head>
 <body>
 <header class="app-header">
   <div class="brand">
     <span class="logo">💾️</span>
-    <h1>Offline Survival AI Drive</h1>
+    <h1>Offlined v4.0</h1>
   </div>
 
-  <div class="header-modes">
-    <button id="modeLLM" class="mode-btn active"></button>
-    <button id="modeAgents" class="mode-btn"></button>
-    <button id="modeWiki" class="mode-btn"></button>	<!-- 🌐 -->
-    <button id="modeLibrary" class="mode-btn"></button> <!-- 📚 NUEVO -->
-	<button id="modeMaps" class="mode-btn" type="button" aria-controls="mapsView"></button> <!-- 🗺️ Maps (placeholder) -->
-    <button id="modeSky" class="mode-btn" type="button" aria-controls="skyView"></button> <!-- ✨ Sky (placeholder) -->
+<div class="header-modes">
+  <button id="modeLLM" class="mode-btn active"></button>
+  <button id="modeAgents" class="mode-btn"></button>
+  <button id="modeWiki" class="mode-btn"></button>
 
-
+  <!-- ▼ Mundo (dropdown) -->
+  <div class="dropdown">
+    <button id="modeWorld" class="mode-btn has-caret" aria-haspopup="true" aria-expanded="false">
+      🌐 Mundo ▾
+    </button>
+    <div id="worldMenu" class="dropdown-menu hidden" role="menu" aria-label="World">
+      <button id="modeMaps" class="sub-btn" role="menuitem" aria-controls="mapsView">🌍️ Mapas</button>
+      <button id="modeSky"  class="sub-btn" role="menuitem" aria-controls="skyView">🌙 Cielo</button>
+    </div>
   </div>
+  
+  <!-- ▼ Media (dropdown) -->
+  <div class="dropdown">
+    <button id="modeMedia" class="mode-btn has-caret" aria-haspopup="true" aria-expanded="false">
+      Media ▾
+    </button>
+    <div id="mediaMenu" class="dropdown-menu hidden" role="menu" aria-label="Media">
+      <button id="modeLibrary" class="sub-btn" role="menuitem">Libreria</button>
+      <button id="modeMusic"   class="sub-btn" role="menuitem">Musica</button>
+      <button id="modeVideo"   class="sub-btn" role="menuitem">Video</button>
+      <button id="modeImages"  class="sub-btn" role="menuitem">Images</button>
+	  <button id="modeFiles"   class="sub-btn" role="menuitem">Files</button>
+	  <button id="modePortableApps" class="sub-btn" role="menuitem">Portable Apps</button>
+	  <div class="menu-divider"></div>
+	  <button id="modeSync"    class="sub-btn" role="menuitem">🔄 Sync</button>
+	  <!-- 🟦 Divisor aquí -->
+      <div class="menu-divider"></div>
+	  <button id="modeTrash"   class="sub-btn" role="menuitem">🗑️ Trash</button>
+    </div>
+  </div>
+  
+	<!-- ▼ Apps (dropdown "+") -->
+	<div class="dropdown">
+	  <button id="modeApps" class="mode-btn has-caret" aria-haspopup="true" aria-expanded="false">
+		+
+	  </button>
+	  <div id="appsMenu" class="dropdown-menu hidden" role="menu" aria-label="Apps">
+		<button id="modeCalendar" class="sub-btn" role="menuitem">📅 Calendar</button>
+		<div class="menu-divider"></div>
+        <button id="modeAudioNotes" class="sub-btn" role="menuitem">🎙️ Audio notes</button>
+		<button id="modeNotes" class="sub-btn" role="menuitem">🗒️ Notes</button>
+		<button id="modeWhiteboard" class="sub-btn" role="menuitem">✏️ Pizarra / Dibujos</button>
+		<div class="menu-divider"></div>
+		<button id="modeTextDoc" class="sub-btn" role="menuitem">📄 Documento de texto</button>
+		<button id="modeSpreadsheet" class="sub-btn" role="menuitem">📊 Hoja de Cálculo</button>
+
+		<!-- ▼ Juegos (submenú dentro de Apps)
+		<div class="apps-subgroup">
+		  <button id="modeGames" class="sub-btn has-caret" aria-haspopup="true" aria-expanded="false">
+			🎮 Juegos ▾
+		  </button>
+		  <div id="gamesMenu" class="apps-submenu hidden" role="menu" aria-label="Games">
+			<button id="modeMinesweeper" class="sub-btn" role="menuitem">
+			  💣 Buscaminas
+			</button>
+		  </div>
+		</div> -->
+	  </div>
+	</div>
+</div>
 
   <div class="actions-right">
     <div class="lang-switch" aria-label="Language">
@@ -37,6 +96,9 @@
       </button>
       <button class="flag" data-lang="fr" title="Français" aria-label="Français">
         <img class="flag-icon" src="./flags/fr.svg" alt="" onerror="this.replaceWith(document.createTextNode('🇫🇷'))">
+      </button>
+      <button class="flag" data-lang="pt" title="Português" aria-label="Português">
+        <img class="flag-icon" src="./flags/pt.svg" alt="" onerror="this.replaceWith(document.createTextNode('🇵🇹'))">
       </button>
     </div>
   </div>
@@ -67,16 +129,15 @@
           </div>
 
           <!-- Step 2: ficha del agente -->
-          <div class="step hidden" id="step2">
-            <h3></h3>
-            <div id="agentPreview" class="agent-preview">
-              <!-- Preview of selected agent -->
-            </div>
-            <div class="step-actions">
-              <button id="backToList" class="ghost"></button>
-              <button id="confirmAgent" class="primary"></button>
-            </div>
-          </div>
+			<div class="step hidden" id="step2">
+			  <h3></h3>
+			  <!-- 🔼 Mueve esta barra aquí, sobre el preview -->
+			  <div class="step-actions">
+				<button id="backToList" class="ghost"></button>
+				<button id="confirmAgent" class="primary"></button>
+			  </div>
+			  <div id="agentPreview" class="agent-preview"></div>
+			</div>
         </div>
       </div>
 
@@ -108,43 +169,208 @@
           <button id="send" class="send" title="">📩️</button>
         </div>
 
-        <div class="meta">
-          <span id="latency">⏱️ —</span>
-          <span id="tokenEst">📊 —</span>
-        </div>
+		  <div class="meta" id="chatMeta">
+			<div class="meta-left">
+			  <span id="latency" class="meta-pill">…</span>
+			  <span id="tokenEst" class="meta-pill">…</span>
+			</div>
+			<div class="meta-right">
+			  <!-- AQUÍ pegamos el botón que hemos cortado del footer -->
+			  <button id="resetChat" type="button" class="btn-secondary small"></button>
+			</div>
+		  </div>
       </div>
     </div>
   </section>
 
   <!-- Contenedor de Wikipedia -->
-  <section id="wikiView" class="hidden">
-    <iframe id="wikiFrame" src=""></iframe>
-  </section>
+<section id="wikiView" class="hidden">
 
-  <!-- 📚 Librería (lista tipo FTP) -->
-  <section id="libraryView" class="hidden">
-    <div class="library-wrap">
-      <div class="lib-toolbar">
-        <div class="lib-crumbs">
-          <button id="libUpBtn" class="ghost" title="Up" aria-label="Up">↑</button>
-          <span id="libPathLabel"></span>
-        </div>
-        <div class="lib-actions"></div>
+  <!-- Barra superior fija (40px), full-bleed -->
+	<div id="wikiTreesBar" class="wiki-trees-bar" role="toolbar" aria-label="Wiki-trees toolbar">
+	  <div class="bar-left"></div>
+	  <div class="bar-center">
+		<button id="btnWikiTrees" class="btn-plain" style="margin:4px 8px;">🌿</button>
+		<button id="btnEncartha" class="btn-plain" type="button" style="margin:4px 8px;">🎓</button>
+	  </div>
+	  <div class="bar-right">
+	  </div>
+	</div>
+    <!-- Vista 1: Catálogo de árboles -->
+	<!-- Vista 2: Árbol de clasificación + Split vertical -->
+	<div id="wikiSplit" class="wiki-split">
+		  <section id="wikiTreesCatalog" class="wiki-trees-catalog hidden" aria-label="Wiki-trees catalog">
+			<div class="catalog-head">
+			  <h3 id="wikiTreesCatalogTitle">Selecciona un árbol</h3>
+			  <div class="catalog-actions">
+				<input id="catalogFilter" class="input-plain" type="search" placeholder="Filtrar…" />
+				<button id="catalogClose" class="btn-plain">Cerrar</button>
+			  </div>
+			</div>
+			<!-- Chips de categorías para el catálogo de wiki-trees -->
+			<div id="wikiCatChips" class="filter-chips"></div>	
+			<div id="wikiTreesCatalogList" class="catalog-grid"></div>
+		  </section>
+		<!-- Panel del árbol (izquierda) -->
+		<section id="wikiTreesPanel" class="wiki-trees-panel hidden" aria-label="Wiki-trees viewer">
+		  <div class="panel-head">
+
+			<!-- NUEVA FILA: botón para cerrar el panel de árboles -->
+			<div class="collapse-line">
+			  <button id="btnWikiTreesCollapse"
+					  class="btn-plain wiki-trees-collapse-btn"
+					  type="button">
+				⬅️ Cerrar 🌿 arboles wiki
+			  </button>
+			</div>
+
+			<div class="left">
+			  <button id="treeBack" class="btn-plain">←</button>
+			</div>
+			<div class="center">
+			  <strong id="treeTitle">Título</strong>
+			  <input id="treeSearch" type="search" placeholder="Search this wiki-tree…"
+					 autocomplete="off" aria-label="Search this wiki-tree">
+			</div>
+			<div class="right">
+			  <div class="controls">
+				<button id="colAll"       class="btn-plain" title="Colapsar todo">🔼</button>
+				<button id="expAll"       class="btn-plain" title="Expandir todo">🔽</button>
+				<button id="expLvl2"      class="btn-plain" title="Expandir hasta nivel 2">4️⃣</button>
+				<button id="favMenuBtn"   class="btn-plain" title="Favoritos">⭐</button>
+				<button id="recMenuBtn"   class="btn-plain" title="Recientes">🕘</button>
+				<button id="achMenuBtn"   class="btn-plain" title="Logros">🏆</button>
+				<button id="resetTreeBtn" class="btn-plain" title="Borrar progreso">🚫</button>
+			  </div>
+			  <div id="favMenu" class="drop-menu hidden" role="menu" aria-labelledby="favMenuBtn"></div>
+			  <div id="recMenu" class="drop-menu hidden" role="menu" aria-labelledby="recMenuBtn"></div>
+			  <div id="achMenu" class="drop-panel hidden"></div>
+			</div>
+		  </div>
+
+		  <div id="wikiTreesContainer" class="taxo-tree"></div>
+		  <div id="wikiFlatList" class="hidden"></div>
+		</section>
+
+
+		<!-- Visor de Wikipedia (derecha) -->
+		<iframe id="wikiFrame" src=""></iframe>
+	</div>
+
+    <!-- Pestaña para volver a abrir el panel de árboles cuando esté colapsado -->
+    <button id="btnWikiTreesExpand"
+            type="button"
+            class="wiki-trees-expand-tab hidden">
+      ➡️ Abrir 🌿 arboles wiki
+    </button>
+
+</section>
+
+
+<!-- 📚 Librería (lista tipo FTP) -->
+<section id="libraryView" class="hidden">
+  <div class="library-wrap">
+
+    <!-- Barra superior (breadcrumbs + acciones) -->
+    <div class="lib-toolbar">
+      <div class="lib-crumbs">
+        <button id="libUpBtn" class="ghost" title="Up" aria-label="Up">↑</button>
+        <span id="libPathLabel"></span>
       </div>
-      <div id="libList" class="lib-list"><!-- filas de carpetas/archivos --></div>
-      <div id="libEmpty" class="muted hidden">—</div>
+      <div class="lib-actions"></div>
     </div>
-  </section>
 
+    <!-- 💡 NUEVO: Acciones masivas solo para la papelera -->
+    <div id="libTrashActions" class="lib-trash-actions hidden">
+      <button id="btnTrashRestoreAll" class="btn-secondary">
+        ♻️ <span data-i18n="trashRestoreAll">Restore all</span>
+      </button>
+      <button id="btnTrashDeleteAll" class="btn-danger">
+        🗑️ <span data-i18n="trashDeleteAll">Delete all permanently</span>
+      </button>
+    </div>
+    <!-- Fin acciones de papelera -->
 
-  <!-- ✨ Sección Sky (placeholder sin Stellarium) -->
-<section id="skyView" class="hidden full-bleed" role="region" aria-label="Sky">
-  <div class="empty-state" style="max-width:680px;margin:2rem auto;padding:1.25rem;border:1px solid var(--soft);border-radius:var(--radius);background:var(--panel);box-shadow:var(--shadow);color:var(--ink);">
-    <h2 id="skyTitle" style="margin-top:0;"></h2>
-    <p id="skyP1"></p>
-    <p id="skyP2" style="margin:0.75rem 0 0;"></p>
+    <!-- Lista -->
+    <div id="libList" class="lib-list"></div>
+
+    <!-- Vacío -->
+    <div id="libEmpty" class="muted hidden">—</div>
+
   </div>
 </section>
+
+<!-- 🔄 Sección Sync (transferencia entre Offlineds) -->
+<section id="syncView" class="hidden" role="region" aria-label="Sync">
+  <div class="library-wrap">
+
+    <!-- Barra superior: selección de peer + tipo + ruta -->
+    <div class="lib-toolbar">
+      <div class="lib-crumbs">
+        <select id="syncPeerSelect" class="lib-select"></select>
+        <select id="syncSubSelect" class="lib-select">
+          <option value="video">🎬 Video</option>
+          <option value="music">🎵 Music</option>
+          <option value="images">🖼️ Images</option>
+          <option value="files">📂 Files</option>
+        </select>
+        <span id="syncPathLabel"></span>
+      </div>
+      <div class="lib-actions">
+        <!-- Más adelante aquí podríamos añadir “Importar seleccionados” -->
+      </div>
+    </div>
+
+    <!-- Mensaje de “no hay peers” -->
+    <div id="syncNoPeers" class="muted hidden"></div>
+
+    <!-- Lista de archivos remotos -->
+    <div id="syncList" class="lib-list"></div>
+
+  </div>
+</section>
+
+<!-- ✨ Sección Sky (mapa del cielo con d3-celestial) -->
+<section id="skyView" class="hidden app-view" aria-labelledby="skyTitle">
+  <div id="skyWrap" class="sky-wrap">
+    <!-- Botón rueda dentada -->
+    <button
+      id="skySettingsBtn"
+      type="button"
+      class="sky-settings-btn"
+      aria-haspopup="dialog"
+      aria-controls="skySettingsModal"
+      data-i18n-aria-label="skySettingsBtnLabel"
+    >
+      ⚙️
+    </button>
+
+    <!-- Contenedor del mapa del cielo -->
+    <div id="celestialContainer" class="sky-viewport">
+      <!-- d3-celestial inyecta aquí el canvas con id="celestial-map" -->
+      <div id="celestial-map"></div>
+    </div>
+	<div class="sky-watermark">
+	  <a href="https://github.com/ofrohn/d3-celestial" target="_blank">D3-Celestial</a>
+	  released under
+	  <a href="http://opensource.org/licenses/BSD-3-Clause" target="_blank">BSD license</a>.
+	  Copyright 2015–19
+	  <a href="http://armchairastronautics.blogspot.com/" target="_blank">Olaf Frohn</a>.
+	</div>
+	<div id="skyObjectCard" class="sky-object-card sky-object-card--hidden">
+	  <div class="sky-object-card-header">
+		<span id="skyObjectName" class="sky-object-name">—</span>
+		<button id="skyObjectCloseBtn" type="button" class="sky-object-close">×</button>
+	  </div>
+	  <div class="sky-object-card-body">
+		<button id="skyObjectWikiBtn" type="button" class="sky-object-wiki">
+		  🔍 Buscar en Wikipedia
+		</button>
+	  </div>
+	</div>
+  </div>
+</section>
+
 
 <!-- 🗺️ Sección Maps (placeholder + canvas de mapa) -->
 <section id="mapsView" class="hidden full-bleed" role="region" aria-label="Maps">
@@ -158,28 +384,419 @@
   <div id="map-canvas" style="display:none" aria-label="Offline map" role="region"></div>
 </section>
 
+<!-- 🤝 Sección Supporters -->
+<section id="supportersView" class="hidden" role="region" aria-label="Supporters">
+  <div class="supporters-wrap">
+    <div id="supportersContent"></div>
+  </div>
+</section>
+
+<!-- 🎙️ Audio Notes View -->
+<section id="audioNotesView" class="hidden" role="region" aria-label="Audio notes">
+  <div class="notes-wrap">
+    <aside class="notes-sidebar">
+      <div class="notes-toolbar">
+        <button id="audioNewBtn" class="primary" title="New audio">➕ New</button>
+        <button id="audioDelBtn" title="Delete audio">🗑️ Delete</button>
+      </div>
+
+      <!-- 🔎 Buscador de notas de audio -->
+      <div class="notes-search">
+        <input id="audioNotesSearch" type="search" placeholder="Search audio notes…">
+      </div>
+
+      <ul id="audioNotesList" class="notes-list"></ul>
+    </aside>
+
+    <div class="notes-editor">
+		<div class="notes-head">
+		  <input
+			id="audioNoteTitle"
+			class="notes-title"
+			type="text"
+			placeholder="Untitled recording"
+		  >
+		</div>
+
+      <!-- 🎛️ Controles de filtros -->
+      <div class="audio-filters">
+        <label>
+          <input id="audioFilterNormalize" type="checkbox" checked>
+          <span id="audioFilterNormalizeLabel">Normalize volume</span>
+        </label>
+        <label>
+          <input id="audioFilterNoise" type="checkbox" checked>
+          <span id="audioFilterNoiseLabel">Noise reduction</span>
+        </label>
+        <label>
+          <input id="audioFilterHighpass" type="checkbox">
+          <span id="audioFilterHighpassLabel">High-pass filter</span>
+        </label>
+      </div>
+
+      <!-- 🎙️ Controles de grabación -->
+      <div class="audio-controls">
+        <button id="audioRecBtn" class="primary">⏺️ Record</button>
+        <button id="audioStopBtn" disabled>⏹️ Stop</button>
+        <span id="audioRecTimer" class="audio-timer">00:00</span>
+      </div>
+
+      <!-- ▶️ Reproductor -->
+      <audio id="audioPlayer" controls style="width:100%; margin-top:12px;"></audio>
+    </div>
+  </div>
+</section>
+
+
+<!-- 🗒️ Notes View -->
+<section id="notesView" class="hidden">
+  <div class="notes-wrap">
+    <aside class="notes-sidebar">
+      <div class="notes-toolbar">
+        <button id="noteNewBtn" class="primary" title="New">＋ New</button>
+        <button id="noteDelBtn" class="ghost"   title="Delete">🗑️ Delete</button>
+      </div>
+
+      <!-- 🔎 NUEVO: barra de búsqueda de notas -->
+      <div class="notes-search">
+        <input id="notesSearch" type="text" placeholder="Search notes..." />
+      </div>
+
+      <ul id="notesList" class="notes-list"></ul>
+    </aside>
+
+    <div class="notes-editor">
+      <div class="notes-head">
+        <input id="noteTitle" class="notes-title" type="text" placeholder="Untitled note">
+        <button id="noteSaveBtn" class="primary">💾 Save</button>
+      </div>
+
+      <!-- Quill toolbar y editor -->
+      <div id="quillToolbar" class="q-toolbar">
+        <span class="ql-formats">
+          <select class="ql-header"></select>
+          <button class="ql-bold"></button>
+          <button class="ql-italic"></button>
+          <button class="ql-underline"></button>
+        </span>
+        <span class="ql-formats">
+          <button class="ql-list" value="ordered"></button>
+          <button class="ql-list" value="bullet"></button>
+          <button class="ql-link"></button>
+        </span>
+      </div>
+      <div id="quillEditor" class="q-editor"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ✏️ Whiteboard / Pizarra (Excalidraw) -->
+<section id="whiteboardView" class="hidden" role="region" aria-label="Whiteboard">
+  <div class="whiteboard-wrap">
+    <div class="whiteboard-toolbar">
+      <div class="whiteboard-left">
+        <span id="whiteboardTitle" class="whiteboard-title">✏️ Pizarra / Dibujos</span>
+        <input
+          id="whiteboardNameInput"
+          class="whiteboard-name-input"
+          type="text"
+          placeholder="Nombre del dibujo…"
+          autocomplete="off"
+        />
+      </div>
+
+      <div class="whiteboard-actions">
+        <button id="whiteboardNewBtn"  class="ghost"   title="Nuevo">🆕</button>
+        <button id="whiteboardSaveBtn" class="primary whiteboard-save-btn" title="Guardar">💾</button>
+      </div>
+    </div>
+
+    <div class="whiteboard-body">
+      <iframe
+        id="whiteboardFrame"
+        class="whiteboard-frame"
+        src="about:blank"
+        loading="lazy"
+      ></iframe>
+    </div>
+  </div>
+</section>
+
+<!-- 📅 Calendar View -->
+<section id="calendarView" class="hidden" role="region" aria-label="Calendar">
+  <div class="calendar-wrap">
+	<div class="calendar-toolbar">
+	  <!-- IZQUIERDA: hoy / anterior / siguiente -->
+	  <div class="cal-left">
+		<button id="calTodayBtn" class="ghost" title="Today">—</button>
+		<button id="calPrevBtn"  class="ghost" title="Prev">—</button>
+		<button id="calNextBtn"  class="ghost" title="Next">—</button>
+	  </div>
+
+	  <!-- CENTRO: título -->
+	  <div class="cal-center">
+		<span id="calTitle" class="cal-title" aria-live="polite">—</span>
+	  </div>
+
+	  <!-- DERECHA: vistas -->
+	  <div class="cal-right">
+		<div class="view-switch" role="group" aria-label="Calendar views">
+		  <button id="calViewMonth" class="ghost" title="Month">—</button>
+		  <button id="calViewWeek"  class="ghost" title="Week">—</button>
+		  <button id="calViewDay"   class="ghost" title="Day">—</button>
+		  <button id="calViewList"  class="ghost" title="Agenda">—</button>
+		  <button id="calViewMulti" class="ghost" title="Multi-month">—</button>
+		</div>
+	  </div>
+	</div>
+    <div id="calendar" class="fc-host" aria-label="Calendar grid"></div>
+  </div>
+</section>
+
+<!-- Sección 📄Documento de Texto y 📊Hoja de Cálculo (placeholder) -->
+<section id="textDocView" class="hidden">
+  <div class="sheet-bg">
+  <div class="app-placeholder">
+    <h2 id="textDocTitle"></h2>
+    <p id="textDocP1" class="muted"></p>
+    <p id="textDocP2" class="muted"></p>
+  </div>
+  </div>
+</section>
+
+<section id="spreadsheetView" class="hidden full-bleed" role="region" aria-label="Spreadsheet">
+  <div class="sheet-bg">
+    <div class="sheet-dialog">
+      <h2 id="sheetTitle"></h2>
+      <p id="sheetP1"></p>
+      <p id="sheetP2"></p>
+    </div>
+  </div>
+</section>
+
+
+<!-- 🎮 Sección Juegos (Buscaminas) -->
+<section id="gamesView" class="hidden full-bleed" role="region" aria-label="Games">
+  <div class="games-wrap">
+    <div class="games-header">
+      <h2 id="gamesHeader" class="games-header"></h2>
+    </div>
+    <div class="games-frame-wrap">
+      <iframe
+        id="minesweeperFrame"
+        src="./games/minesweeper/index.html"
+        title="Minesweeper"
+        loading="lazy"
+        frameborder="0"
+        class="games-iframe">
+      </iframe>
+    </div>
+  </div>
+</section>
+
+<!-- Quill offline -->
+<link rel="stylesheet" href="./vendor/quill/quill.snow.css">
+<script src="./vendor/quill/quill.min.js"></script>
+
+
 </main>
 
 <footer class="app-footer">
   <div class="battery">
     <span>🔋</span>
     <div class="battery-bar"><div id="batteryFill"></div></div>
-    <span id="batteryPct">—</span>
+    <span id="batteryPct" class="pct4">—</span>
   </div>
 
-  <!-- Idioma detectado -->
+  <div class="sys">
+    <!-- 🆕 Storage: misma longitud que la batería -->
+    <div class="meter">
+      <span>DISK</span>
+      <div class="bar"><div id="diskFill"></div></div>
+      <span id="diskPct" class="pct4">—</span>
+    </div>
+    <div class="meter">
+      <span>CPU</span>
+      <div class="bar"><div id="cpuFill"></div></div>
+      <span id="cpuPct" class="pct4">—</span>
+    </div>
+    <div class="meter">
+      <span>RAM</span>
+      <div class="bar"><div id="ramFill"></div></div>
+      <span id="ramPct" class="pct4">—</span>
+    </div>
+    <div class="meter">
+      <span>🌡️</span>
+      <div class="bar"><div id="tempFill"></div></div>
+      <span id="tempVal" class="pct6">—</span>
+    </div>
+  </div>
+
+  <!-- Idioma detectado
   <div class="lang">
     <span id="langName"></span>
-  </div>
+  </div> -->
 
   <div class="footer-tools">
-    <button id="resetChat" class="ghost"></button>
+    <button id="modeSupporters" class="ghost"></button>
     <button id="themeToggle" class="ghost"></button>
+	<button id="fsToggle" class="ghost" title="Pantalla completa" aria-label="Pantalla completa" aria-pressed="false">⛶</button>
   </div>
 </footer>
 
+<!-- Popup de confirmación para reset del progreso -->
+<div id="resetConfirm" class="confirm-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="resetTitle">
+  <div class="confirm-modal" role="document">
+    <div class="confirm-title" id="resetTitle">Confirm</div>
+    <div class="confirm-msg" id="resetMsg">Are you sure?</div>
+    <div class="confirm-actions">
+      <button id="resetNo" class="btn-plain">Cancel</button>
+      <button id="resetYes" class="btn-danger">Delete</button>
+    </div>
+  </div>
+</div>
+
+<!-- Popup de confirmación para borrar una nota -->
+<div id="noteDeleteConfirm" class="confirm-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="noteDeleteTitle">
+  <div class="confirm-modal" role="document">
+    <div class="confirm-title" id="noteDeleteTitle">Delete note</div>
+    <div class="confirm-msg" id="noteDeleteMsg">Are you sure you want to delete this note?</div>
+    <div class="confirm-actions">
+      <button id="noteDeleteCancel" class="btn-plain">Cancel</button>
+      <button id="noteDeleteOk" class="btn-danger">Delete</button>
+    </div>
+  </div>
+</div>
+
+<!-- Popup de confirmación para acciones de la pizarra -->
+<div id="whiteboardConfirm" class="confirm-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="whiteboardConfirmTitle">
+  <div class="confirm-modal" role="document">
+    <div class="confirm-title" id="whiteboardConfirmTitle">Confirm</div>
+    <div class="confirm-msg" id="whiteboardConfirmMsg">Are you sure?</div>
+    <div class="confirm-actions">
+      <button id="whiteboardConfirmCancel" class="btn-plain">Cancel</button>
+      <button id="whiteboardConfirmOk" class="btn-primary">OK</button>
+    </div>
+  </div>
+</div>
+
+
+<!-- === CALENDAR MODAL (nuevo/editar evento) === -->
+<div id="calOverlay" class="cal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="calModalTitle">
+  <div class="cal-modal" role="document">
+    <div class="cal-head">
+      <div class="cal-title" id="calModalTitle">—</div>
+      <button id="calClose" class="btn-plain" type="button" aria-label="Close">✖</button>
+    </div>
+
+    <div class="cal-body">
+      <label class="cal-field">
+        <span data-i18n="calNew_label_title">Title</span>
+        <input id="calInputTitle" type="text" placeholder="Event title">
+      </label>
+
+      <label class="cal-field">
+        <span data-i18n="calNew_label_date">Date</span>
+        <input id="calInputDate" type="date">
+      </label>
+
+      <!-- Esta fila solo se muestra en vista Month -->
+      <label class="cal-field" id="calTimeRow">
+        <span data-i18n="calNew_label_time">Time</span>
+        <input id="calInputTime" type="time" step="900">
+      </label>
+    </div>
+
+    <div class="cal-actions">
+      <button id="calCancel" class="btn-plain" type="button" data-i18n="calNew_cancel">Cancel</button>
+      <button id="calSave"   class="primary"  type="button" data-i18n="calNew_create">Create</button>
+    </div>
+  </div>
+</div>
+
+
+<!-- === Modal visor de imágenes === -->
+<div id="imgViewer" class="imgv-overlay hidden" aria-hidden="true">
+  <div class="imgv-backdrop" data-close="1"></div>
+
+  <div class="imgv-dialog" role="dialog" aria-modal="true" aria-label="Image viewer">
+    <button class="imgv-close" title="Cerrar" aria-label="Cerrar" data-close="1">✖</button>
+
+    <button class="imgv-nav prev" aria-label="Anterior" data-prev="1">⬅️</button>
+    <figure class="imgv-stage">
+      <img id="imgvMain" alt="">
+      <figcaption id="imgvCaption"></figcaption>
+    </figure>
+    <button class="imgv-nav next" aria-label="Siguiente" data-next="1">➡️</button>
+
+    <div id="imgvStrip" class="imgv-strip" role="listbox" aria-label="Imágenes de la carpeta"></div>
+
+    <!-- 🔍 Barra de zoom -->
+    <div class="imgv-zoom-bar">
+      <input
+        id="imgvZoomRange"
+        type="range"
+        min="10"
+        max="300"
+        step="1"
+        value="100">
+    </div>
+  </div>
+</div>
+<!-- === DOCUMENT VIEWER (full-screen) === -->
+<div id="docViewer" class="docv-overlay" aria-hidden="true">
+  <div class="docv-dialog" role="dialog" aria-modal="true" aria-label="Document viewer">
+    <button class="docv-close" type="button" title="Cerrar" data-docv-close>✖</button>
+    <iframe class="docv-frame" id="docvFrame" src="about:blank" allow="clipboard-read; clipboard-write"></iframe>
+  </div>
+</div>
+<!-- === MEDIA VIEWER (video/audio en overlay) === -->
+<div id="mediaViewer" class="mediav-overlay hidden" aria-hidden="true">
+  <div class="mediav-dialog" role="dialog" aria-modal="true" aria-label="Media viewer">
+    <div class="mediav-toolbar">
+      <button class="mediav-btn" type="button" title="Anterior" data-mediav-prev>⏮</button>
+      <button class="mediav-btn" type="button" title="Siguiente" data-mediav-next>⏭</button>
+      <div class="mediav-title" id="mediavTitle">—</div>
+      <button class="mediav-btn" type="button" title="Subtítulos (CC)" data-mediav-cc>CC</button>
+      <button class="mediav-close" type="button" title="Cerrar" data-mediav-close>✖</button>
+    </div>
+
+    <div class="mediav-layout">
+      <aside class="mediav-playlist" id="mediavList" aria-label="Playlist"></aside>
+
+      <div class="mediav-stage">
+        <video id="mediavVideo" class="hidden" controls playsinline
+               style="max-width:100%;max-height:calc(100vh - 160px);"></video>
+        <audio id="mediavAudio" class="hidden" controls style="width:100%;"></audio>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Mapas -->
 <script src="./vendor/pmtiles-4.3.0/pmtiles.js"></script>
 <script src="./vendor/maplibre-5.5.0/maplibre-gl.js"></script>
+<!-- Markdown -->
+<script src="./vendor/marked/marked.umd.js"></script>
+<!-- ===== FULLCALENDAR OFFLINE (v6.1.19) ===== -->
+<script src="./vendor/fullcalendar/core/index.global.min.js"></script>
+<script src="./vendor/fullcalendar/daygrid/index.global.min.js"></script>
+<script src="./vendor/fullcalendar/timegrid/index.global.min.js"></script>
+<script src="./vendor/fullcalendar/list/index.global.min.js"></script>
+<script src="./vendor/fullcalendar/multimonth/index.global.min.js"></script>
+<script src="./vendor/fullcalendar/interaction/index.global.min.js"></script>
+<!-- 🌍 Idiomas -->
+<script src="./vendor/fullcalendar/core/locales-all.global.min.js"></script>
+<!-- dropzone -->
+<script src="./vendor/dropzone/dropzone.min.js"></script>
+<!-- 🌌 d3-celestial -->
+<script src="./vendor/celestial/lib/d3.min.js"></script>
+<script src="./vendor/celestial/lib/d3.geo.projection.min.js"></script>
+<script src="./vendor/celestial/lib/topojson.min.js"></script>
+<script src="./vendor/celestial/celestial.min.js"></script>
+<!-- KaTeX -->
+<script src="./vendor/katex/katex.min.js"></script>
+<script src="./vendor/katex/auto-render.min.js"></script>
+<!-- Tu script principal -->
 <script src="./script.js"></script>
 </body>
 </html>
