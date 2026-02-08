@@ -32,7 +32,7 @@
   <a href="https://www.youtube.com/watch?v=KHSs10jwwG8" target="_blank">
     <img src="https://img.youtube.com/vi/KHSs10jwwG8/mqdefault.jpg"
          alt="Watch OFFLINED Walkthrough on YouTube"
-         style="width:80%; max-width:320px; border-radius:18px;" />
+         style="max-width:320px; width:90%; border-radius:18px;" />
   </a>
   <br><br>
   ▶️ <b>Click to watch on YouTube</b>
