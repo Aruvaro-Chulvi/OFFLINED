@@ -30,7 +30,7 @@
 <p align="center">
   <b>🎥 Walkthrough & Installation Guide</b><br><br>
   <a href="https://www.youtube.com/watch?v=KHSs10jwwG8" target="_blank">
-    <img src="https://img.youtube.com/vi/KHSs10jwwG8/maxresdefault.jpg"
+    <img src="https://img.youtube.com/vi/KHSs10jwwG8/default.jpg"
          alt="Watch OFFLINED Walkthrough on YouTube"
          style="width:100%; max-width:900px; border-radius:18px;" />
   </a>
