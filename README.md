@@ -34,13 +34,13 @@
 
 <p align="center">
   <b>🎥 Walkthrough & Installation Guide</b><br><br>
-  <iframe width="900" height="506"
-    src="https://www.youtube.com/embed/KHSs10jwwG8"
-    title="OFFLINED Walkthrough"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=KHSs10jwwG8" target="_blank">
+    <img src="https://img.youtube.com/vi/KHSs10jwwG8/maxresdefault.jpg"
+         alt="Watch OFFLINED Walkthrough on YouTube"
+         style="width:100%; max-width:900px; border-radius:18px;" />
+  </a>
+  <br><br>
+  ▶️ <b>Click to watch on YouTube</b>
 </p>
 
 <br>
