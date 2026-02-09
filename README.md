@@ -35,8 +35,8 @@
          style="width:320px; border-radius:18px;" />
   </a>
   <br><br>
-  ▶️ <b>[Click to watch on YouTube](https://www.youtube.com/watch?v=KHSs10jwwG8)</b>
-</p>
+  ▶️ [Click to watch on YouTube](https://www.youtube.com/watch?v=KHSs10jwwG8)
+  </p>
 
 <br>
 
