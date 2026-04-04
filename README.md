@@ -30,8 +30,13 @@
 <p align="center">
   <b>🎥 Walkthrough & Installation Guide</b><br>
   ▶️ [Click to watch on YouTube](https://www.youtube.com/watch?v=KHSs10jwwG8)
-  </p>
-
+</p>
+<br>
+<p align="center">
+  <img src="readme_images/computer_github.png"
+     alt="Screenshot UI"
+     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
+</p>
 <br>
 
 ### 🔹 OFFLINED V4.0 (EN, ES, FR, PT)
@@ -46,13 +51,7 @@ The system is lightweight, privacy-first, multilingual, and deliberately self-su
 
 When internet access is unavailable, **your AI, your data, and your knowledge remain with you.**
 
-
 <br>
-<p align="center">
-  <img src="readme_images/computer_github.png"
-     alt="Screenshot UI"
-     style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
-</p>
 
 ### ✨ Features
 
