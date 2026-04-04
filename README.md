@@ -28,8 +28,7 @@
 <br>
 
 <p align="center">
-  <b>🎥 Walkthrough & Installation Guide</b><br><br>
-  <br>
+  <b>🎥 Walkthrough & Installation Guide</b><br>
   ▶️ [Click to watch on YouTube](https://www.youtube.com/watch?v=KHSs10jwwG8)
   </p>
 
