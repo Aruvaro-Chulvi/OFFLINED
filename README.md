@@ -10,6 +10,9 @@
      alt="Screenshot UI"
      style="width:max(98%, 400px); height:auto;" />
 </p>
+<h2 align="center">
+We depend on the network and rely on the cloud more than we think.<br><br>OFFLINED is what happens when you stop depending on it.<br><br>
+</h2>
 <br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases/latest">
