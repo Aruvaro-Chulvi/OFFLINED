@@ -31,10 +31,6 @@ We depend on the network and rely on the cloud more than we think.<br><br>OFFLIN
 <br>
 
 <p align="center">
-  <b>🎥 Walkthrough & Installation Guide</b><br>
-  ▶️ [Click to watch on YouTube](https://www.youtube.com/watch?v=KHSs10jwwG8)
-</p>
-<p align="center">
   <img src="readme_images/computer_github.png"
      alt="Screenshot UI"
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
