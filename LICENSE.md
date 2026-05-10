@@ -1,6 +1,6 @@
 Offlined — Software License
 
-Copyright © 2025 Offlined Project
+Copyright © 2026 Offlined Project
 
 This software is distributed under the following terms:
 
