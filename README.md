@@ -38,10 +38,8 @@ We depend on the network and rely on the cloud more than we think.<br><br>OFFLIN
 
 ### 🔹 OFFLINED V4.0 (EN, ES, FR, PT)
 
-**OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet. It allows interaction with a local Large Language Model (gpt-oss-20b-Q4_K_M, GGUF format) as well as with specialized knowledge agents spanning domains such as medicine, biology, engineering, survival, and other fields — all running entirely on the user’s own device.
-
-OFFLINED is more than a chat interface. It integrates a complete offline knowledge and productivity ecosystem, including **offline Wikipedia**, **offline worldwide maps** with search, favorites, and markers, a **taxonomic Wiki-Trees explorer**, a **local media center** (images, music, videos, documents), **file management with folders and drag-and-drop**, **notes and audio notes**, **calendar**, **whiteboard**, and a personal document library.<br><br>In addition to the integrated applications, any portable application can be installed and included.  
-<br>All components operate locally, without cloud services, telemetry, analytics, or external network calls.
+**OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet.
+<br>After first download, all components operate locally, without cloud services, telemetry, analytics, or external network calls.
 
 ---
 
