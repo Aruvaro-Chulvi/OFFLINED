@@ -48,8 +48,6 @@ We depend on the network and rely on the cloud more than we think.<br><br>OFFLIN
 - [✅ Requirements](#-requirements)
 - [🌍 Who is it for?](#-who-is-offlined-for)
 - [🙋 FAQ](#-faq)
-- [🔮 Future Versions](#-future-versions)
-  - [🧭 Roadmap](#-roadmap)
 - [⚖️ License & Usage Summary](#%EF%B8%8F-license--usage-summary) 
 - [🤝 Feedback & Support](#-feedback--support)
 - [📜 Licenses](#-licenses)
@@ -190,19 +188,6 @@ In version **3.0**, deletion is immediate and permanent, with no recovery mechan
 A recycle bin feature is planned for **Offlined v4.0** to allow recovery of accidentally deleted files.
 
 <br><br>
-
----
-
-# 🔮 Future Versions
-
-## 🧭 Roadmap
-
-- [x] v1 — 💬 Chat Core - Base app (LLM Chat UI)  
-- [x] v2 — 🏛️ Wikipedia integration + Text selection search  
-- [x] v3 — 🗺️ Documentation & Offline Maps integration & Wiki-trees  
-- [x] v4 — 📚 Integrated & Portable apps + switch from phi-4 to gpt-oss  
-- [x] v5 — 🌎 Adding more languages (German, Italian, Chinese, Korean, Japanese, arabic, russian)  
-- [ ] v6 — 🤖 Under private group discussion
 
 ---
 
