@@ -74,6 +74,7 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ### Storage
 - **You can run it from a folder on your PC’s drive, from an external hard drive, or even from a USB stick.**
+- **WE RECOMMEND A EXTERNAL SSD DRIVE AS BIG AS YOU WANT, USB 3.2 HIGH SPEED.**
 <br><br>
 
 ---
@@ -82,9 +83,8 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 **OFFLINED** is designed for individuals and organizations that require reliable access to knowledge and tools without depending on continuous internet connectivity, including:
 
-- **Preparedness and outdoor communities** seeking dependable offline information and tools.
-- **Schools, libraries, and educational programs** in low-connectivity or high-cost connectivity regions.
-- **NGOs and emergency response teams** operating in field, disaster, or infrastructure-limited environments.
+- **People from Preparedness and outdoor communities** seeking dependable offline information and tools.
+- **Students at Schools, libraries, and educational programs** in low-connectivity or high-cost connectivity regions.
 - **Researchers, archivists, and educators** who value self-hosted, long-term access to reference material.
 - **Privacy-conscious users** who prefer fully local computation, storage, and control over their data.
 
