@@ -127,7 +127,7 @@ All inference and data handling occur locally. Conversations are not transmitted
 ### Q5. How much disk space does OFFLINED require?
 Disk usage depends on the components you choose to install:
 
-- Base application → ~200–250 MB  
+- Base application → ~1 GB  
 - One GGUF model → ~12 GB  
 - Wikipedia Maxi ZIM files (language-dependent) → ~40–120 GB  
 - Global maps (`planet.pmtiles`) → ~120 GB  
@@ -144,7 +144,7 @@ Resource usage increases only during active inference or media processing.
 ---
 
 ### Q7. How much RAM does OFFLINED need?
-The default model, **Phi-4 Mini (Q4_K_M)**, typically runs smoothly with **4–6 GB of available RAM**.  
+The default model, **gpt-oss (Q4_K_M)**, typically runs smoothly with **16 GB of available RAM**.  
 Larger or higher-precision GGUF models benefit from additional memory.  
 The application itself is lightweight; memory demand is driven primarily by the selected model.
 
@@ -152,9 +152,6 @@ The application itself is lightweight; memory demand is driven primarily by the 
 
 ### Q8. Is offline Wikipedia required?
 No. Wikipedia support is optional, but recommended.  
-Any supported ZIM dataset (*maxi*, *nopic*, or *mini*) can be placed under:  
-`./Offlined/_internal/kiwix/content/`  
-To reduce disk usage, starting with the *mini* version is advised.
 
 ---
 
@@ -164,20 +161,7 @@ macOS and Linux support are planned and tracked in the project roadmap.
 
 ---
 
-### Q10. Can I use my own GGUF models?
-Not yet.  
-Support for a model manager that detects and allows selection of custom `.gguf` files from `_internal/models/` is planned for a future release.
-
----
-
-### Q11. How do I add my own PDF documents?
-Place your PDF files in:  
-`./Offlined/_internal/docs/`  
-You may organize them into any folder structure you prefer. Files will appear automatically in the Library view.
-
----
-
-### Q12. How do I migrate my data to a new version?
+### Q10. How do I migrate my data to a new version?
 User data is stored in:
 - `/Offlined/_internal/docs`  
 - `/Offlined/_internal/media`  
@@ -186,7 +170,7 @@ Copying these folders into a newer OFFLINED version will preserve your documents
 
 ---
 
-### Q13. What happens if I delete a file from the Library?
+### Q11. What happens if I delete a file from the Library?
 In version **3.0**, deletion is immediate and permanent, with no recovery mechanism.  
 A recycle bin feature is planned for **Offlined v4.0** to allow recovery of accidentally deleted files.
 
