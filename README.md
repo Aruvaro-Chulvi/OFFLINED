@@ -13,6 +13,10 @@
 <h2 align="center">
 We depend on the network and rely on the cloud more than we think.<br><br>OFFLINED is what happens when you stop depending on it.<br><br>
 </h2>
+
+Concerned about the privacy of digital files, dependence on the cloud, and internet access difficulties in many places, Álvaro and Eric, inspired by the advances in artificial intelligence, decided to create Offlined: an alternative that allows storing and managing information without relying on a constant connection, while also offering study support through AI tools accessible even in environments with limited connectivity.
+
+**"we created this for the two of us, we wanted to get off the cloud and share files the way we used to when we were kids, but as we kept going, we realized it could be useful for so many other people, and that is the reason we decided to release it for everyone."**
 <br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases/latest">
@@ -36,10 +40,9 @@ We depend on the network and rely on the cloud more than we think.<br><br>OFFLIN
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-### 🔹 OFFLINED V4.0 (EN, ES, FR, PT)
+### 🔹 OFFLINED V4.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
 
-**OFFLINED** is a fully self-contained, 100% offline, desktop-style web application designed to provide users with an autonomous digital knowledge environment without relying on the internet.
-<br>After first download, all components operate locally, without cloud services, telemetry, analytics, or external network calls.
+After first download, all components operate locally, without cloud services, telemetry, analytics, or external network calls.
 
 ---
 
