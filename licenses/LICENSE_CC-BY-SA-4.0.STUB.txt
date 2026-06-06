@@ -1,5 +1,0 @@
-LICENSE_CC-BY-SA-4.0 (STUB)
-
-Texto legal oficial: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-
-Sustituye este archivo por el texto completo antes de distribuir tu instalador/USB.
