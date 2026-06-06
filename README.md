@@ -35,7 +35,7 @@ Concerned about the privacy of digital files, dependence on the cloud, and inter
 <br>
 
 <p align="center">
-  <img src="readme_images/computer_github.png"
+  <img src="readme_images/computer_2.png"
      alt="Screenshot UI"
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
