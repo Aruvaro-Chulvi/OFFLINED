@@ -1,0 +1,18 @@
+SPDX-License-Identifier: GPL-3.0-only
+
+Used by: Kiwix-serve (kiwix/kiwix-tools), Notepad++
+
+The complete GNU General Public License v3 text is included in this
+licenses/ directory as:
+  LICENSE_kiwix-tools_kiwix-serve_GPL-3.0.txt
+
+Canonical official text:
+  https://www.gnu.org/licenses/gpl-3.0.txt
+
+Source code availability (GPL section 6 compliance):
+  - kiwix-serve:  https://github.com/kiwix/kiwix-tools
+  - Notepad++:    https://github.com/notepad-plus-plus/notepad-plus-plus
+
+These components are distributed as separate executables and are NOT
+linked with the proprietary application code. GPL copyleft does not
+extend to the proprietary application.

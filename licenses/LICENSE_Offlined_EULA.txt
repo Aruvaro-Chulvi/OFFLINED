@@ -1,0 +1,102 @@
+OFFLINED — END USER LICENSE AGREEMENT (EULA)
+============================================
+
+Copyright (c) 2025  Álvaro Cuadrado Chulvi and Eric Uguet
+All rights reserved.
+
+This End User License Agreement ("Agreement") is a legal agreement between
+you ("User") and the author ("Author") for the use of the software application
+"Offlined" ("Software"), including all associated files, data, and documentation.
+
+By installing, copying, or using the Software you agree to be bound by the
+terms of this Agreement. If you do not agree, do not install or use the Software.
+
+
+1. GRANT OF LICENSE
+-------------------
+The Author grants you a non-exclusive, non-transferable, royalty-free license
+to install and use the Software solely for personal, non-commercial purposes on
+devices you own or control.
+
+"Personal use" means use by a single individual for private, non-revenue-
+generating activities. It does not include use within an organization,
+business, institution, or any context where the Software generates direct
+or indirect economic benefit for any party.
+
+
+2. PERMITTED USES
+-----------------
+You may:
+  a) Install and run the Software on your own devices.
+  b) Make a single private backup copy of the installer solely for archival
+     purposes, provided you do not share, upload, or distribute that copy.
+
+
+3. RESTRICTIONS
+---------------
+You may NOT, without the Author's prior explicit written consent:
+  a) Distribute, sell, rent, lease, sublicense, or transfer the Software or
+     any copy of it to any third party, by any means (including file sharing,
+     torrent sites, app stores, cloud storage links, or physical media).
+  b) Use the Software for commercial purposes, including but not limited to:
+     internal business use, client projects, revenue-generating services,
+     or bundling with commercial products.
+  c) Modify, adapt, translate, reverse engineer, decompile, or disassemble
+     the Software, except to the extent that such activity is expressly
+     permitted by applicable law notwithstanding this restriction.
+  d) Remove, alter, or obscure any copyright notices, license texts, or
+     attribution notices included with the Software.
+  e) Publish, post, or make available the Software on any website, platform,
+     marketplace, or distribution channel.
+
+
+4. THIRD-PARTY COMPONENTS
+--------------------------
+The Software includes third-party open-source components. Those components
+are subject to their own licenses, which are included in the "licenses/"
+directory distributed with the Software. This Agreement does not override
+the terms of those third-party licenses.
+
+
+5. NO WARRANTY
+--------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE AUTHOR DOES NOT WARRANT
+THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+
+6. LIMITATION OF LIABILITY
+--------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+
+7. TERMINATION
+--------------
+This license is effective until terminated. It terminates automatically if
+you fail to comply with any term of this Agreement. Upon termination you must
+destroy all copies of the Software in your possession.
+
+
+8. GOVERNING LAW
+----------------
+This Agreement shall be governed by the laws of Spain (for users in the
+European Union) and the laws of the State of California, USA (for users in
+the United States and other jurisdictions), without regard to conflict of
+law provisions. The authors retain the right to enforce this Agreement in
+any jurisdiction.
+
+
+9. CONTACT
+----------
+To request commercial licensing, distribution rights, or written consent
+for any use not covered by this Agreement, contact:
+  Álvaro Cuadrado Chulvi & Eric Uguet
+  Email: alvaroc1980s@gmail.com
+
+
+END OF AGREEMENT
