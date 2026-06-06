@@ -170,9 +170,8 @@ Copying these folders into a newer OFFLINED version will preserve your documents
 
 ---
 
-### Q11. What happens if I delete a file from the Library?
-In version **3.0**, deletion is immediate and permanent, with no recovery mechanism.  
-A recycle bin feature is planned for **Offlined v4.0** to allow recovery of accidentally deleted files.
+### Q11. What happens if I delete a file from the Library?  
+A recycle bin feature is implemented to allow recovery of accidentally deleted files.
 
 <br><br>
 
