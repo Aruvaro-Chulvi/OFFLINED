@@ -11,7 +11,7 @@
      style="width:max(98%, 400px); height:auto;" />
 </p>
 <h2 align="center">
-We depend on the network and rely on the cloud more than we think.<br><br>OFFLINED is what happens when you stop depending on it.<br><br>
+We depend on the network and rely on the cloud more than we think.<br><br>Offlined helps you stop depending on it.<br><br>
 </h2>
 
 Concerned about the privacy of digital files, dependence on the cloud, and internet access difficulties in many places, Álvaro and Eric, inspired by the advances in artificial intelligence, decided to create Offlined: an alternative that allows storing and managing information without relying on a constant connection, while also offering study support through AI tools accessible even in environments with limited connectivity.
@@ -82,16 +82,16 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 ---
 
-## 🌍 Who is OFFLINED for?
+## 🌍 Who is Offlined for?
 
-**OFFLINED** is designed for individuals and organizations that require reliable access to knowledge and tools without depending on continuous internet connectivity, including:
+**Offlined** is designed for individuals and organizations that require reliable access to knowledge and tools without depending on continuous internet connectivity, including:
 
 - **People from Preparedness and outdoor communities** seeking dependable offline information and tools.
 - **Students at Schools, libraries, and educational programs** in low-connectivity or high-cost connectivity regions.
 - **Researchers, archivists, and educators** who value self-hosted, long-term access to reference material.
 - **Privacy-conscious users** who prefer fully local computation, storage, and control over their data.
 
-While these groups represent the core use cases today, OFFLINED is also relevant to anyone who values **resilient access to knowledge**, **digital autonomy**, and **offline-first workflows** in an increasingly cloud-dependent world.
+While these groups represent the core use cases today, Offlined is also relevant to anyone who values **resilient access to knowledge**, **digital autonomy**, and **offline-first workflows** in an increasingly cloud-dependent world.
 
 <br><br>
 
@@ -99,32 +99,32 @@ While these groups represent the core use cases today, OFFLINED is also relevant
 
 ## 🙋 FAQ
 
-### Q1. Do I need an internet connection to use OFFLINED?
+### Q1. Do I need an internet connection to use Offlined?
 No. All core components run locally, including the LLM, knowledge agents, maps, Wikipedia, and your document library.  
 An internet connection is only required initially to download models, Wikipedia ZIM files, or map data (PMTiles).
 
 ---
 
-### Q2. Can I use OFFLINED in portable mode (no installation)?
-Yes. OFFLINED is fully portable.  
+### Q2. Can I use Offlined in portable mode (no installation)?
+Yes. Offlined is fully portable.  
 Simply launch the `.exe` file — the application can run from a local folder, an external drive, or a USB stick.
 
 ---
 
 ### Q3. Do my data ever leave my computer, external drive, or USB stick?
-No. OFFLINED does not transmit user data externally.  
+No. Offlined does not transmit user data externally.  
 There is no cloud backend, telemetry, analytics, or third-party API usage.  
 All processing and storage occur locally on your device.
 
 ---
 
-### Q4. Does OFFLINED send my chats to Microsoft, Google, OpenAI, or any other company?
+### Q4. Does Offlined send my chats to Microsoft, Google, OpenAI, or any other company?
 No.  
 All inference and data handling occur locally. Conversations are not transmitted to external services.
 
 ---
 
-### Q5. How much disk space does OFFLINED require?
+### Q5. How much disk space does Offlined require?
 Disk usage depends on the components you choose to install:
 
 - Base application → ~1 GB  
@@ -143,7 +143,7 @@ Resource usage increases only during active inference or media processing.
 
 ---
 
-### Q7. How much RAM does OFFLINED need?
+### Q7. How much RAM does Offlined need?
 The default model, **gpt-oss (Q4_K_M)**, typically runs smoothly with **16 GB of available RAM**.  
 Larger or higher-precision GGUF models benefit from additional memory.  
 The application itself is lightweight; memory demand is driven primarily by the selected model.
@@ -155,7 +155,7 @@ No. Wikipedia support is optional, but recommended.
 
 ---
 
-### Q9. Does OFFLINED work on Linux or macOS?
+### Q9. Does Offlined work on Linux or macOS?
 Windows x64 is the primary supported platform today.  
 macOS and Linux support are planned and tracked in the project roadmap.
 
@@ -166,7 +166,7 @@ User data is stored in:
 - `/Offlined/_internal/docs`  
 - `/Offlined/_internal/media`  
 
-Copying these folders into a newer OFFLINED version will preserve your documents and media.
+Copying these folders into a newer Offlined version will preserve your documents and media.
 
 ---
 
@@ -179,7 +179,7 @@ A recycle bin feature is implemented to allow recovery of accidentally deleted f
 
 # ⚖️ License & Usage Summary
 
-**OFFLINED** is *source-available* software and is **not open-source** under OSI definitions.  
+**Offlined** is *source-available* software and is **not open-source** under OSI definitions.  
 This licensing model is intentional: it provides transparency and user trust while preserving safety, coherence, and long-term sustainability.
 
 - **Software (code):**  
@@ -202,7 +202,7 @@ For commercial licensing, partnerships, or redistribution rights, please contact
 # 🤝 Feedback & Support
 
 We welcome **issues** for bug reports, ideas, and translations (EN/ES/FR).  
-Because OFFLINED is **source-available and non-commercial**, **pull requests are not accepted** unless you obtain **written approval** from the maintainers **before** submitting.
+Because Offlined is **source-available and non-commercial**, **pull requests are not accepted** unless you obtain **written approval** from the maintainers **before** submitting.
 
 - Open an [Issue](../../issues) to:
   - Report a bug (include steps, logs, and OS).
@@ -211,7 +211,7 @@ Because OFFLINED is **source-available and non-commercial**, **pull requests are
 - If you wish to contribute code, please **contact the maintainers first** for written approval.
 
 ### Sustainability
-If you find OFFLINED valuable:
+If you find Offlined valuable:
 - ☕ Buy Me a Coffee: [offlined](https://buymeacoffee.com/offlined)
 <br><br>
 
