@@ -40,7 +40,7 @@ Concerned about the privacy of digital files, dependence on the cloud, and inter
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-### 🔹 OFFLINED V4.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
+### 🔹 OFFLINED V5.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
 
 After first download, all components operate locally, without cloud services, telemetry, analytics, or external network calls.
 
