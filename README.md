@@ -35,7 +35,7 @@ Concerned about the privacy of digital files, dependence on the cloud, and inter
 <br>
 
 <p align="center">
-  <img src="[readme_images/computer_2.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim8gfk1916_B5teNVYzdGRPypiIl7j1K7JctY_nc9KS78hXmKcVSBhJLbGSNgVAXgSu4hMgHuyaXMTG7fjVKwQXtw6ytWWBhyphenhyphen5aaePp0-icnGIsGBpET-QDB9D4V2FeNuGaTMEV2ViYHF5YVVyRl_XwXoMgBok9RHW-XtOO-qpfsO9zGMDjhdQz2Wkk4o/s1600/computer_3.png)"
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim8gfk1916_B5teNVYzdGRPypiIl7j1K7JctY_nc9KS78hXmKcVSBhJLbGSNgVAXgSu4hMgHuyaXMTG7fjVKwQXtw6ytWWBhyphenhyphen5aaePp0-icnGIsGBpET-QDB9D4V2FeNuGaTMEV2ViYHF5YVVyRl_XwXoMgBok9RHW-XtOO-qpfsO9zGMDjhdQz2Wkk4o/s1600/computer_3.png"
      alt="Screenshot UI"
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
