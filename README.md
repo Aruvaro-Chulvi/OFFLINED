@@ -43,7 +43,7 @@ However, as we progressed in the project, family, friends and friends of friends
 
 ### 🔹 OFFLINED V5.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
 
-After first download, all components operate locally, without cloud services, telemetry, analytics, or external network calls.
+After first download, all components operate locally, without cloud services, telemetry, privacy analytics, or external network calls.
 
 ---
 
