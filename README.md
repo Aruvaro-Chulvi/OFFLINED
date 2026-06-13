@@ -16,7 +16,8 @@ We depend on the network and rely on the cloud more than we think.<br><br>Offlin
 
 Concerned about the privacy of digital files, dependence on the cloud, and internet access difficulties in many places, Álvaro and Eric, inspired by the advances in artificial intelligence, decided to create Offlined: an alternative that allows storing and managing information without relying on a constant connection, while also offering study support through AI tools accessible even in environments with limited connectivity.
 
-**"we created this for the two of us, we wanted to get off the cloud and share files the way we used to when we were kids, but as we kept going, we realized it could be useful for so many other people, and that is the reason we decided to release it for everyone."**
+**"We created Offlined for ourselves, initially. We wanted to take control of our digital files and get off the cloud, to share files the way we used to before they were taken out of our hands...
+However, as we progressed in the project, family, friends and friends of friends joined in. We realized that Offlined would have many more possibilities and utility for so many people. So we decided to improve it and share it with everyone."**
 <br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases/latest">
