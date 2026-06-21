@@ -41,7 +41,7 @@ However, as we progressed in the project, family, friends and friends of friends
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-### 🔹 OFFLINED V5.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
+### 🔹 OFFLINED V1.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
 
 After first download, all components operate locally, without cloud services, telemetry, privacy analytics, or external network calls.
 
