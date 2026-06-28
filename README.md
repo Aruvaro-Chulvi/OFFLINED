@@ -41,7 +41,7 @@ However, as we progressed in the project, family, friends and friends of friends
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-### 🔹 OFFLINED V1.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
+### 🔹 OFFLINED V1.0.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
 
 After first download, all components operate locally, without cloud services, telemetry, privacy analytics, or external network calls.
 
@@ -202,13 +202,13 @@ For commercial licensing, partnerships, or redistribution rights, please contact
 ---
 # 🤝 Feedback & Support
 
-We welcome **issues** for bug reports, ideas, and translations (EN/ES/FR).  
+We welcome **issues** for bug reports, ideas, and translations (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU).
 Because Offlined is **source-available and non-commercial**, **pull requests are not accepted** unless you obtain **written approval** from the maintainers **before** submitting.
 
 - Open an [Issue](../../issues) to:
   - Report a bug (include steps, logs, and OS).
   - Suggest a feature or UI copy improvement.
-  - Propose translation fixes (EN/ES/FR).
+  - Propose translation fixes (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU).
 - If you wish to contribute code, please **contact the maintainers first** for written approval.
 
 ### Sustainability
