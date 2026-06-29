@@ -11,13 +11,12 @@
      style="width:max(98%, 400px); height:auto;" />
 </p>
 <h2 align="center">
-We depend on the network and rely on the cloud more than we think.<br><br>Offlined helps you stop depending on it.<br><br>
+Leaving the cloud isn't a step back. It's a step forward.<br><br>Your files. Your rules. No internet required.<br><br>
 </h2>
 
-Concerned about the privacy of digital files, dependence on the cloud, and internet access difficulties in many places, Álvaro and Eric, inspired by the advances in artificial intelligence, decided to create Offlined: an alternative that allows storing and managing information without relying on a constant connection, while also offering study support through AI tools accessible even in environments with limited connectivity.
+We depend on the internet more than we realise. Take back control with OFFLINED, no internet, no permissions, no middlemen. An ecosystem with Wikipedia, maps, seas and oceans, sky and stars, local AI, and your media files, designed for storing files, designed for studying, all connected, all under your control.
 
-**"We created Offlined for ourselves, initially. We wanted to take control of our digital files and get off the cloud, to share files the way we used to before they were taken out of our hands...<br>
-However, as we progressed in the project, family, friends and friends of friends joined in. We realized that Offlined would have many more possibilities and utility for so many people. So we decided to improve it and share it with everyone."**
+**"Your files used to be yours. On your drive. Shared by you. No middlemen. We wanted that back, and it turns out we weren't alone."**
 <br>
 <p align="center">
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases/latest">
