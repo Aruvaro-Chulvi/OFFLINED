@@ -199,6 +199,16 @@ For commercial licensing, partnerships, or redistribution rights, please contact
 <br><br>
 
 ---
+
+# 🛡️ Legal Notice & Disclaimer
+
+Offlined is provided **"as is"**, collects **no data**, and works **fully offline** after the initial download.
+AI answers, the medical encyclopedia, and maps/nautical charts are for reference only — do not rely on them for critical, medical, or navigation-safety decisions.
+
+Full text: [Legal Notice / Disclaimer](DISCLAIMER.md).
+
+---
+
 # 🤝 Feedback & Support
 
 We welcome **issues** for bug reports, ideas, and translations (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU).
