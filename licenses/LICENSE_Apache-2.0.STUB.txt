@@ -1,0 +1,18 @@
+SPDX-License-Identifier: Apache-2.0
+
+Used by: PDF.js (Mozilla), Requests (Python), transformers, accelerate,
+         tokenizers, safetensors, huggingface_hub, hf_xet, msgpack,
+         diskcache (deps. del motor de voz OmniVoice), and other
+         components listed in INVENTORY.md / ATTRIBUTION.md.
+
+Full license text (canonical):
+  https://www.apache.org/licenses/LICENSE-2.0.txt
+
+Apache License, Version 2.0
+Copyright holders vary per component — see each component's own
+copyright headers or upstream repository for copyright notices.
+
+Permission is granted to use, reproduce, modify, distribute and
+sublicense the covered work under the terms of the Apache License 2.0.
+The full terms are available at the URL above and are incorporated
+here by reference.

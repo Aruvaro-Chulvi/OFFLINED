@@ -1,0 +1,36 @@
+SPDX-License-Identifier: OFL-1.1
+
+Used by: Protomaps Basemap glyph/font files (PBF fonts), KaTeX fonts
+
+Full license text (canonical):
+  https://scripts.sil.org/OFL
+  https://opensource.org/licenses/OFL-1.1
+
+SIL Open Font License, Version 1.1
+Copyright holders vary per font — see upstream repositories.
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the fonts accompanying this license ("Fonts") and associated
+documentation files, to reproduce and distribute the Fonts, embed the
+Fonts into documents, works or other creations, and to modify the Fonts,
+subject to the following conditions:
+
+1) Neither the Fonts nor any of their individual components may be sold
+   by themselves.
+2) Original or modified Fonts must be distributed entirely under this
+   license, and may not be distributed under any other license.
+3) The Font Software may not be modified in ways that are designed to
+   prevent users from changing fonts with other font software.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER(S) BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY. FULL WARRANTY DISCLAIMER AT URL ABOVE.

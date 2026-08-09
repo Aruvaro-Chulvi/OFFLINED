@@ -1,0 +1,31 @@
+SPDX-License-Identifier: ODbL-1.0
+
+Used by: OpenStreetMap map data (tiles / PMTiles)
+
+Full license text (canonical):
+  https://opendatacommons.org/licenses/odbl/1-0/
+
+Open Data Commons Open Database License (ODbL) v1.0
+Copyright: OpenStreetMap contributors
+
+You are free to:
+  Share — copy, distribute and use the database.
+  Create — produce derivative works from the database.
+  Adapt — modify, transform and build upon the database.
+
+Under the following conditions:
+  Attribute — You must attribute any public use of the database or
+              works produced from it. For any use or redistribution of
+              the database, or works produced from it, you must keep
+              intact any copyright or database right notices, and make
+              clear the license is ODbL.
+  Share-Alike — If you publicly use any adapted version of this
+                database, or works produced from it, you must also
+                offer that adapted database under the ODbL.
+  Keep open — If you redistribute the database, or an adapted version,
+              you may use technological measures that restrict the work
+              only if you also redistribute a version without such measures.
+
+Required attribution displayed in the application:
+  "© OpenStreetMap contributors — ODbL 1.0"
+  https://www.openstreetmap.org/copyright

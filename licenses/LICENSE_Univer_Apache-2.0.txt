@@ -1,0 +1,16 @@
+SPDX-License-Identifier: Apache-2.0
+
+Component: Univer (spreadsheet / docs / slides suite)
+Location in distribution: frontend/vendor/univer/
+Files: core.umd.js, docs.umd.js, docs-ui.umd.js, sheets.umd.js,
+       sheets-ui.umd.js, sheets-formula.umd.js, sheets-numfmt.umd.js,
+       ui.umd.js, univer.css
+Upstream: https://github.com/dream-num/univer
+Copyright: Copyright (c) 2021-present DreamNum Co., Ltd.
+
+Licensed under the Apache License, Version 2.0.
+Full license text: https://www.apache.org/licenses/LICENSE-2.0.txt
+Also included in this directory as: LICENSE_Apache-2.0.STUB.txt
+
+You may use, reproduce, distribute and create derivative works from
+this software under the terms of the Apache License 2.0.

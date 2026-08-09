@@ -1,0 +1,20 @@
+GeoNames — listado de ciudades con coordenadas
+================================================
+
+El archivo `frontend/geo/cities.json` se ha generado a partir de los
+datos de GeoNames (cities15000.zip y countryInfo.txt):
+
+  https://www.geonames.org
+  https://download.geonames.org/export/dump/
+
+Los datos de GeoNames se distribuyen bajo la licencia
+Creative Commons Attribution 4.0 International (CC BY 4.0):
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Atribución requerida: "Datos de ciudades © GeoNames (geonames.org),
+licencia CC BY 4.0". Ver ATTRIBUTION.md.
+
+El uso comercial está permitido siempre que se mantenga la atribución.
+El script `scripts/build_cities_json.py` regenera el archivo desde la
+fuente original.
