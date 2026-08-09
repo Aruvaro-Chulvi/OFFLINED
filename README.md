@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2tbaCGcT2-GCC072UzbCMHJy2ArV0ET7Lnl1fsYfTjvpWUTzlhFYyWwUXhz2fI-b-9LvgM-LhQMfthegRaD9-8C33Ac7E1gVu4tz-ucrRghPKASlT9hLbaUeFxJNo_dvIPsIida7o6ZmamHC-Dm8IcnuKmeEILWGeIwAF-WDCFVQdGyXrJBajS0efWEw/s1600/offlined_favicon_01.jpg"
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4DQ5H9znjaOFmhxOFxYZ-72feyrNThYo2N8bnNyAvAFqKklFz_y0xxssDE5vuFhMQCKQlpiQbakVnA6XE2zRR0uEIOnyHFhvQYm0Bt3FLEBxvxfqwfSgDapPuirisUnbeIY_98G4UXtyYE0bu204B2q5ZFky6iHFdJkPZ0irp5V80v0t-EMlZDPpfngs/s1600/offlined_favicon_01.png"
        width="32"
        style="vertical-align:middle; margin-right:10px;">
   Offlined.org
