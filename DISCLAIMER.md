@@ -51,4 +51,4 @@ This notice is governed by **Spanish** law, without prejudice to the mandatory r
 
 For any inquiries:
 
-**alvaroc1980s@gmail.com** · **ericuguet.post@gmail.com**
+**alvaroc1980s@gmail.com**
