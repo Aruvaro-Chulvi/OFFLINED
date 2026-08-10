@@ -2,7 +2,7 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4DQ5H9znjaOFmhxOFxYZ-72feyrNThYo2N8bnNyAvAFqKklFz_y0xxssDE5vuFhMQCKQlpiQbakVnA6XE2zRR0uEIOnyHFhvQYm0Bt3FLEBxvxfqwfSgDapPuirisUnbeIY_98G4UXtyYE0bu204B2q5ZFky6iHFdJkPZ0irp5V80v0t-EMlZDPpfngs/s1600/offlined_favicon_01.png"
        width="32"
        style="vertical-align:middle; margin-right:10px;">
-  Offlined.org
+  Offlined
 </h1>
 <br>
 <p align="center">
