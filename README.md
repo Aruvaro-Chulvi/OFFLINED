@@ -86,10 +86,10 @@ This project is designed to run **fully offline** on a modest CPU-only machine. 
 
 **Offlined** is designed for individuals and organizations that require reliable access to knowledge and tools without depending on continuous internet connectivity, including:
 
-- **People from Preparedness and outdoor communities** seeking dependable offline information and tools.
+- **Privacy-conscious users** who prefer fully local computation, storage, and control over their data.
 - **Students at Schools, libraries, and educational programs** in low-connectivity or high-cost connectivity regions.
 - **Researchers, archivists, and educators** who value self-hosted, long-term access to reference material.
-- **Privacy-conscious users** who prefer fully local computation, storage, and control over their data.
+- **People from Preparedness and outdoor communities** seeking dependable offline information and tools.
 
 While these groups represent the core use cases today, Offlined is also relevant to anyone who values **resilient access to knowledge**, **digital autonomy**, and **offline-first workflows** in an increasingly cloud-dependent world.
 
@@ -163,10 +163,9 @@ macOS and Linux support are planned and tracked in the project roadmap.
 
 ### Q10. How do I migrate my data to a new version?
 User data is stored in:
-- `/Offlined/_internal/docs`  
-- `/Offlined/_internal/media`  
+- `/Offlined/Offlined Data`  (It should be created first time you run the app.)
 
-Copying these folders into a newer Offlined version will preserve your documents and media.
+Copying these folders into a newer Offlined version will preserve your downloads, documents and media.
 
 ---
 
