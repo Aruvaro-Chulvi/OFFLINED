@@ -32,7 +32,19 @@ We depend on the internet more than we realise. Take back control with OFFLINED,
   </a>
 </p>
 
-<br>
+**🎉 Offlined v1.0.0 is now available — 10th August 2026.**
+
+> ⚠️ **Important notice about Offlined v1.0.0**
+>
+> Testers have reported a few bugs that we're currently fixing. That said, if you'd like to give it a try, the download is still available for testing, any feedback is greatly appreciated.
+>
+> ⚠️ **Security note:** since the app doesn't have a code-signing certificate yet, Windows SmartScreen will show a warning when you try to open it. You'll need to click "More info" → "Run anyway" to continue. If you have an antivirus active, you may also need to temporarily disable it for this app, since being unsigned can make it get flagged as suspicious. This is normal for an unsigned test build — for anyone who wants to try it, it's already available under these two conditions.
+>
+> 📦 **Download size note:** the download is approximately 1GB, since it includes some sample images, a sample video, and some sample music, plus sample contact and email data — so you have something to test right from first launch. All of it can be deleted afterwards.
+>
+> 👉 [Download Offlined v1.0.0](https://github.com/Aruvaro-Chulvi/OFFLINED/releases/download/v1.0.0/Offlined.v1.0.0.Windows.x64.zip)
+
+----------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim8gfk1916_B5teNVYzdGRPypiIl7j1K7JctY_nc9KS78hXmKcVSBhJLbGSNgVAXgSu4hMgHuyaXMTG7fjVKwQXtw6ytWWBhyphenhyphen5aaePp0-icnGIsGBpET-QDB9D4V2FeNuGaTMEV2ViYHF5YVVyRl_XwXoMgBok9RHW-XtOO-qpfsO9zGMDjhdQz2Wkk4o/s1600/computer_3.png"
