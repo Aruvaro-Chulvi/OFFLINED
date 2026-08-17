@@ -22,11 +22,9 @@ We depend on the internet more than we realise. Take back control with OFFLINED,
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/releases/latest">
     <img alt="release latest" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/Offlined?style=flat&color=34A853&label=latest%20release&labelColor=1a1a1a&v=3">
   </a>
-  <br>
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/issues">
     <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/Offlined?style=flat&color=4285F4&labelColor=1a1a1a&v=2">
   </a>
-  <br>
   <a href="https://github.com/Aruvaro-Chulvi/Offlined/blob/main/LICENSE.md">
     <img alt="license" src="https://img.shields.io/badge/license-Custom%20Non--Commercial-DDDDDD?style=flat&labelColor=1a1a1a&v=2">
   </a>
