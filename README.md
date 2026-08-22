@@ -229,11 +229,6 @@ Because Offlined is **source-available and non-commercial**, **pull requests are
   - Propose translation fixes (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU).
 - If you wish to contribute code, please **contact the maintainers first** for written approval.
 
-### Sustainability
-If you find Offlined valuable:
-- ☕ Buy Me a Coffee: [offlined](https://buymeacoffee.com/offlined)
-<br><br>
-
 ---
 
 
