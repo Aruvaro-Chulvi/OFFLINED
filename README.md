@@ -50,7 +50,7 @@ We depend on the internet more than we realise. Take back control with OFFLINED,
      style="width:98%; max-width:960px; border-radius:50px; height:auto; display:block; margin:0.6rem auto;" />
 </p>
 
-### 🔹 OFFLINED V1.0.0 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
+### 🔹 OFFLINED V1.0.1 (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU)
 
 After first download, all components operate locally, without cloud services, telemetry, privacy analytics, or external network calls.
 
