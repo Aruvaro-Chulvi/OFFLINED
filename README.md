@@ -30,9 +30,9 @@ We depend on the internet more than we realise. Take back control with OFFLINED,
   </a>
 </p>
 
-**🎉 Offlined v1.0.0 is now available — 10th August 2026.**
+**🎉 Offlined v1.0.1 is now available — 10th August 2026.**
 
-> ⚠️ **Important notice about Offlined v1.0.0**
+> ⚠️ **Important notice about Offlined v1.0.1**
 >
 > Testers have reported a few bugs that we're currently fixing. That said, if you'd like to give it a try, the download is still available for testing, any feedback is greatly appreciated.
 >
