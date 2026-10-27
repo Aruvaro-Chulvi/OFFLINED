@@ -40,7 +40,7 @@ We depend on the internet more than we realise. Take back control with OFFLINED,
 >
 > 📦 **Download size note:** the download is approximately 1GB, since it includes some sample images, a sample video, and some sample music, plus sample contact and email data, so you have something to test right from first launch. All of it can be deleted afterwards.
 >
-> 👉 [Download Offlined v2.0.0](https://github.com/Aruvaro-Chulvi/OFFLINED/releases/download/v2.0.0/Offlined.v2.0.0.Windows.x64.zip)
+> 👉 [Download Offlined v2.0.2](https://github.com/Aruvaro-Chulvi/OFFLINED/releases/download/v2.0.2/Offlined.v2.0.2.Windows.x64.zip)
 
 ----------------------------------------------------------------------------------------
 
