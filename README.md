@@ -30,7 +30,7 @@ We depend on the internet more than we realise. Take back control with OFFLINED,
   </a>
 </p>
 
-🎉 **Offlined v2.0.0 is now available.**
+🎉 **Offlined v2.0.2 is now available.**
 
 > ⚠️ **Important notice about Offlined**
 >
