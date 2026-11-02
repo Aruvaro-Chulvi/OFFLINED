@@ -1,6 +1,6 @@
 # Legal Notice and Terms of Use — Offlined
 
-**Version 3.0.0 · November 17, 2026**
+**Version 3.0.0 · November 7, 2026**
 
 Thank you for using **Offlined**. This application was created to give you **digital independence**: your data is yours and stays on your device. These terms are deliberately short and written in your favor.
 
