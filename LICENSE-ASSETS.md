@@ -1,9 +1,10 @@
 # Offlined — Assets License (CC BY-NC-ND 4.0)
 
-Copyright © 2026 Offlined Project
+Copyright © 2026 Álvaro C. Chulvi & Eric Uguet
 
-The creative assets included in this project are licensed under the  
+When shared outside the Offlined app, the creative assets included in this project are licensed under the  
 **Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+Inside the app they are covered by the Offlined License Agreement ([`LICENSE.md`](LICENSE.md)).
 
 The following materials are covered by this license:
 - All **avatars** (pixel art images)
@@ -23,7 +24,7 @@ The following materials are covered by this license:
 
 When sharing these assets, please credit them as follows:
 
-> “All characters from *Offlined* (2026) are created by Álvaro Cuadrado Chulvi & Eric Uguet.  
+> “All characters from *Offlined* (2026) are created by Álvaro C. Chulvi & Eric Uguet.  
 > Licensed under CC BY-NC-ND 4.0.”
 
 ---
