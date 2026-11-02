@@ -7,9 +7,10 @@ This software is distributed under the following terms:
 1. **Free of charge**  
    You may download and use this software free of charge.
 
-2. **Personal and educational use only**  
-   The software is provided exclusively for personal, private, or educational purposes.  
-   Commercial use of any kind requires prior written permission from the authors.
+2. **Personal, non-commercial use only**  
+   The software is provided exclusively for personal, non-commercial use by a single individual for private, non-revenue-generating activities.  
+   This does not include use within an organization, business, institution, or any context where the software generates direct or indirect economic benefit for any party.  
+   Any other use, including commercial use, requires prior written permission from the authors.
 
 3. **No modification or redistribution**  
    You may not modify, fork, sublicense, or redistribute this software, in whole or in part, without explicit written authorization from the authors.
