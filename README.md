@@ -40,7 +40,7 @@ We depend on the internet more than we realise. Take back control with OFFLINED:
 >
 > 📦 **Download size note:** the unzipped app takes about 2 GB. It includes sample images, a sample video, sample music, and sample contacts and email, so you have something to try right from the first launch. You can delete all of it afterwards.
 >
-> 👉 [Download Offlined v3.0.0](https://github.com/Aruvaro-Chulvi/OFFLINED/releases/download/v3.0.0/Offlined.v3.0.0.Windows.x64.zip)
+> 👉 [Download Offlined v2.0.2](https://github.com/Aruvaro-Chulvi/OFFLINED/releases/download/v2.0.2/Offlined.v2.0.2.Windows.x64.zip)
 
 ----------------------------------------------------------------------------------------
 
