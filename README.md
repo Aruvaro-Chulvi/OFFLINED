@@ -240,7 +240,7 @@ The source code of Offlined is not public, so **pull requests are not accepted**
 
 ---
 
-© 2026 Álvaro Cuadrado Chulvi & Eric Uguet. All rights reserved.
+© 2026 Álvaro C. Chulvi & Eric Uguet. All rights reserved.
 Free for personal use; professional use requires a license.
-"Offlined" and its logo are trademarks of Álvaro Cuadrado Chulvi & Eric Uguet.
+"Offlined" and its logo are trademarks of Álvaro C. Chulvi & Eric Uguet.
 Wikipedia® is a registered trademark of the Wikimedia Foundation. Offlined is not affiliated with or endorsed by the Wikimedia Foundation, Kiwix, the OpenStreetMap Foundation or any other third party mentioned here.
