@@ -18,17 +18,15 @@ We depend on the internet more than we realise. Take back control with OFFLINED:
 
 **"Your files used to be yours. On your drive. Shared by you. No middlemen. We wanted that back, and it turns out we weren't alone."**
 <br>
-<p align="center">
+<div align="center">
   <a href="https://github.com/Aruvaro-Chulvi/OFFLINED/releases/latest">
     <img alt="latest release" src="https://img.shields.io/github/v/release/Aruvaro-Chulvi/OFFLINED?style=flat&color=34A853&label=latest%20release&labelColor=1a1a1a&v=3">
-  </a>
-  <a href="https://github.com/Aruvaro-Chulvi/OFFLINED/issues">
+  </a><a href="https://github.com/Aruvaro-Chulvi/OFFLINED/issues">
     <img alt="issues" src="https://img.shields.io/github/issues/Aruvaro-Chulvi/OFFLINED?style=flat&color=4285F4&labelColor=1a1a1a&v=2">
-  </a>
-  <a href="https://github.com/Aruvaro-Chulvi/OFFLINED/blob/llm/LICENSE.md">
+  </a><a href="https://github.com/Aruvaro-Chulvi/OFFLINED/blob/llm/LICENSE.md">
     <img alt="license" src="https://img.shields.io/badge/license-Free%20for%20personal%20use-DDDDDD?style=flat&labelColor=1a1a1a&v=3">
   </a>
-</p>
+</div>
 
 🎉 **Offlined v3.0.0 is now available.**
 
