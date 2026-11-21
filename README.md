@@ -56,6 +56,10 @@ After the first download of the content you choose, everything runs locally: no 
 
 # 📑 Index
 
+- [🧭 What's inside](#-whats-inside)
+- [🆕 Coming in the next version](#-coming-in-the-next-version)
+- [🌐 Sister projects](#-sister-projects)
+- [🧩 Contribute to the sister projects](#-contribute-to-the-sister-projects)
 - [✅ Requirements](#-requirements)
 - [🌍 Who is it for?](#-who-is-offlined-for)
 - [🙋 FAQ](#-faq)
@@ -63,6 +67,83 @@ After the first download of the content you choose, everything runs locally: no 
 - [🛡️ Legal Notice & Disclaimer](#%EF%B8%8F-legal-notice--disclaimer)
 - [🤝 Feedback & Support](#-feedback--support)
 - [📜 Licenses](#-licenses)
+
+<br>
+
+---
+
+# 🧭 What's inside
+
+- **📚 Wikis** — Wikipedia and any other ZIM file (Wiktionary, WikiMed, Gutenberg…) read offline, with your own ZIMs organised in folders and tags.
+- **🤖 Michael Encartha, your local AI** — chat, study agents and answers that cite the Wikipedia articles they come from. Runs on your computer; it can also use your own Ollama, LM Studio or llama-server.
+- **🎓 WikiAula** — a free course library: Mathematics (grades 1–12) and Physics & Chemistry (grades 8–12), with unlimited generated exercises that Encartha helps to correct.
+- **🌳 WikiTrees, 🕸️ WikiNets and 📇 My WikiAlbum** — Wikipedia topics as interactive trees and link networks, and a collectible card album of what you have explored.
+- **🎮 WikiGames** — Geography, Astronomy, Wiki Links, Where is it? and more, all built on Wikipedia.
+- **🗺️ Maps** — OpenStreetMap by country or for the whole world, with offline search, relief, 3D, time zones, climate, biomes and Wikipedia articles on the map.
+- **🌊 Seas & Oceans** — the seafloor relief, named undersea features and nautical sea marks for 195 countries.
+- **🔭 Sky and 🌌 Universe** — a planetarium with object search, and the Solar System and beyond in 3D.
+- **🗂️ Your files** — photos and videos (with AI image description and tags), music, documents, mail, contacts, calendar and a safe for your personal data.
+- **👨‍👩‍👧 Family** — user profiles with PIN, parental control, family ranking and a per-profile switch to turn off the AI.
+- **🧩 Addons** — signed addons that add tools to Offlined.
+
+<br>
+
+---
+
+# 🆕 Coming in the next version
+
+These are ready or nearly ready, and will arrive with the next release:
+
+- **✈️ Wiki Flight** — fly over the real world, read about what you see below, and find the world's great monuments in 3D, placed exactly where they stand.
+- **🤿 Wiki Submarine** — dive anywhere in the oceans at real depth, and visit shipwrecks, sunken aircraft, reefs and hydrothermal vents in 3D.
+- **🎓 WikiAula in English** — every course translated and adapted, plus **community courses** that anyone can write and publish.
+- **🌳 Community WikiTrees** — trees made by users (with an AI assistant, if they like), checked and published for everyone.
+- **🧩 Available addons** — browse and install the addons of the official catalog from inside Offlined.
+- **🌐 Wikis online** — read Wikipedia and the other wikis straight from Wikimedia while you decide which ZIM files to download.
+- **🧠 Think** — let models that can reason think before they answer, with the reasoning folded away.
+- **🖼️ A new photo editor, chat sidebar and image tagger**, and features adjusted to the power of your computer.
+
+<br>
+
+---
+
+# 🌐 Sister projects
+
+Parts of the Offlined ecosystem are published as their own open projects, so anyone can use, check and improve them — inside Offlined or anywhere else:
+
+| Project | What it is | License |
+|---|---|---|
+| [**OfflinedWikiTrees**](https://github.com/Aruvaro-Chulvi/OfflinedWikiTrees) | Wikipedia topics as interactive trees in 10 languages: 26 trees, 35,000+ nodes. Web viewer: [aruvaro-chulvi.github.io/OfflinedWikiTrees](https://aruvaro-chulvi.github.io/OfflinedWikiTrees/) | Trees: CC BY-NC-SA 4.0 · Community trees: CC BY 4.0 or CC0 |
+| [**OfflinedWikiClassroom**](https://github.com/Aruvaro-Chulvi/OfflinedWikiClassroom) | The WikiAula courses as one ZIM per language (English and Spanish), readable in Offlined or any Kiwix reader, plus the kit to write your own course | Courses: CC BY-SA 4.0 · Kit: MIT |
+| [**OfflinedAddons**](https://github.com/Aruvaro-Chulvi/OfflinedAddons) | The Addon SDK, templates, the signed catalog and the official addons | MIT (each addon has its own open license) |
+| [**OfflinedLandmarks3D**](https://github.com/Aruvaro-Chulvi/OfflinedLandmarks3D) | Open 3D models of the world's monuments by Wikidata id, at real size and position, for Wiki Flight. [Viewer](https://aruvaro-chulvi.github.io/OfflinedLandmarks3D/) | Models: CC BY 4.0 / CC0 · Code: MIT |
+| [**OfflinedSea3DModels**](https://github.com/Aruvaro-Chulvi/OfflinedSea3DModels) | Open 3D models of shipwrecks, sunken aircraft, reefs and vents at real scale — a catalog of 4,537 underwater sites for Wiki Submarine. [Viewer](https://aruvaro-chulvi.github.io/OfflinedSea3DModels/) | Models: CC BY 4.0 / CC0 · Catalog: CC0 · Code: MIT |
+| [**OfflinedSeafloor**](https://github.com/Aruvaro-Chulvi/OfflinedSeafloor) | The ocean floor offline: GEBCO 2026 relief as PMTiles and 5,311 named undersea features with Wikipedia links in 10 languages | Data: CC BY-NC-SA 4.0 · Scripts: PolyForm Noncommercial |
+| [**OfflinedSeaCharts**](https://github.com/Aruvaro-Chulvi/OfflinedSeaCharts) | OpenStreetMap sea marks (lighthouses, buoys, beacons, harbours, hazards) as one small pack per country, 195 countries | Data: ODbL 1.0 · Scripts: PolyForm Noncommercial |
+
+Offlined downloads their content only from published releases, with sizes and checksums, so what reaches your computer is always something that has been reviewed.
+
+<br>
+
+---
+
+# 🧩 Contribute to the sister projects
+
+Offlined's own source code is not public, but **the sister projects are open to everyone**. You don't need to be a programmer for most of it:
+
+| I want to… | Where | How |
+|---|---|---|
+| **Make a WikiTree** on a topic I like | [OfflinedWikiTrees](https://github.com/Aruvaro-Chulvi/OfflinedWikiTrees/blob/main/CONTRIBUTING.md) | Build it with an AI assistant using the ready-made prompt, check it with the [web checker](https://aruvaro-chulvi.github.io/OfflinedWikiTrees/community-kit/check.html) and send it with the [“New community tree” form](https://github.com/Aruvaro-Chulvi/OfflinedWikiTrees/issues/new?template=new-tree.yml). A bot checks every link, and the tree is reviewed before it is published. |
+| **Report a wrong link** in a WikiTree | [OfflinedWikiTrees](https://github.com/Aruvaro-Chulvi/OfflinedWikiTrees/issues/new?template=wrong-link.yml) | One wrong link per report. |
+| **Write a course** for WikiAula | [OfflinedWikiClassroom](https://github.com/Aruvaro-Chulvi/OfflinedWikiClassroom/blob/main/CONTRIBUTING.md) | Copy the template, check and build it with the kit, and open a pull request. It is checked automatically and reviewed by hand; once merged, it appears in Offlined. |
+| **Fix a mistake** in a WikiAula lesson | [OfflinedWikiClassroom](https://github.com/Aruvaro-Chulvi/OfflinedWikiClassroom/issues) | Open an issue with the course, lesson and what is wrong. |
+| **Write or improve an addon** | [OfflinedAddons](https://github.com/Aruvaro-Chulvi/OfflinedAddons/blob/main/CONTRIBUTING.md) | Read the Addon SDK, start from the `hello-world` template and open a pull request (one addon per pull request). Every addon is reviewed and signed before it reaches anyone's computer. |
+| **Suggest an addon** | [OfflinedAddons](https://github.com/Aruvaro-Chulvi/OfflinedAddons/issues/new?template=addon-idea.yml) | Describe your idea. |
+| **Model a monument** for Wiki Flight | [OfflinedLandmarks3D](https://github.com/Aruvaro-Chulvi/OfflinedLandmarks3D/blob/main/CONTRIBUTING.md) | Pick one from the [wanted list](https://github.com/Aruvaro-Chulvi/OfflinedLandmarks3D/blob/main/WANTED.md), follow the model spec (`.glb`, real size in metres) and open a pull request. |
+| **Model a shipwreck** for Wiki Submarine | [OfflinedSea3DModels](https://github.com/Aruvaro-Chulvi/OfflinedSea3DModels/blob/main/CONTRIBUTING.md) | Find its Wikidata id in the catalog, follow the model spec and open a pull request. |
+| **Fix a position, depth or heading**, or ask for a model | [OfflinedLandmarks3D](https://github.com/Aruvaro-Chulvi/OfflinedLandmarks3D/issues) · [OfflinedSea3DModels](https://github.com/Aruvaro-Chulvi/OfflinedSea3DModels/issues) | No modelling needed: open an issue. Plans, photos and measurements help. |
+
+Each project explains the details in its `CONTRIBUTING.md` (also in Spanish in `CONTRIBUTING.es.md`). Your work keeps your name: authors are credited in the project, and in Offlined wherever their work appears.
 
 <br>
 
@@ -109,7 +190,7 @@ These groups are the core use cases today, but Offlined is for anyone who values
 
 ### Q1. Do I need an internet connection to use Offlined?
 No. Everything runs locally: the AI, the study agents, maps, Wikipedia and your document library.
-You only need an internet connection to download the content you choose (AI models, Wikipedia ZIM files, maps).
+You only need an internet connection to download the content you choose (AI models, Wikipedia ZIM files, maps, 3D models).
 
 ---
 
@@ -181,6 +262,11 @@ Deleted files go to a recycle bin first, so you can recover them if you delete s
 ### Q12. Can I use Offlined at work, at school or in my organization?
 Offlined is **free for personal use**. Use by or for a company, a freelancer's business, a school, a public administration, an NGO or any other organization requires a **professional license**. Write to **offlined_os@proton.me** and we will get back to you.
 
+---
+
+### Q13. Can I help even if Offlined's code is not public?
+Yes. Report bugs and ideas in [Issues](https://github.com/Aruvaro-Chulvi/OFFLINED/issues), and contribute trees, courses, addons and 3D models to the [sister projects](#-contribute-to-the-sister-projects), which are open to everyone.
+
 <br><br>
 
 ---
@@ -198,6 +284,8 @@ Offlined is **free for personal use**. Use by or for a company, a freelancer's b
 
 - **Assets (avatars, agent texts, creative content):** licensed under **Creative Commons CC BY-NC-ND 4.0** when shared outside the app. They may be shared **unaltered**, with attribution; **commercial use and derivative works are not permitted**. See [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md).
 
+- **Sister projects** are open and each has its own license: see [🌐 Sister projects](#-sister-projects).
+
 - **Third-party components** (Wikipedia, OpenStreetMap, AI models, libraries and tools) keep their own licenses: see the [`licenses/`](./licenses) folder. Nothing in Offlined's license limits the rights those licenses give you.
 
 <br><br>
@@ -207,7 +295,7 @@ Offlined is **free for personal use**. Use by or for a company, a freelancer's b
 # 🛡️ Legal Notice & Disclaimer
 
 Offlined is provided **"as is"**, collects **no data**, and works **fully offline** after the initial download.
-AI answers, the medical encyclopedia and the maps and nautical charts are for reference only: do not rely on them for critical, medical or navigation-safety decisions.
+AI answers, the medical encyclopedia, the maps, the nautical charts and the seafloor data are for reference only: do not rely on them for critical, medical or navigation-safety decisions.
 
 Full text: [Legal Notice / Disclaimer](DISCLAIMER.md).
 
@@ -216,12 +304,13 @@ Full text: [Legal Notice / Disclaimer](DISCLAIMER.md).
 # 🤝 Feedback & Support
 
 We welcome **issues** for bug reports, ideas and translations (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU).
-The source code of Offlined is not public, so **pull requests are not accepted**.
+The source code of Offlined is not public, so **pull requests are not accepted in this repository**. To contribute content or code, use the [sister projects](#-contribute-to-the-sister-projects).
 
 - Open an [Issue](https://github.com/Aruvaro-Chulvi/OFFLINED/issues) to:
   - Report a bug (include the steps to reproduce it, logs and your OS).
   - Suggest a feature or a text improvement.
   - Propose translation fixes (EN, ES, FR, PT, DE, IT, ZH, HI, AR, RU).
+- Found a wrong link in a WikiTree? Use the [wrong link form](https://github.com/Aruvaro-Chulvi/OfflinedWikiTrees/issues/new?template=wrong-link.yml).
 - For professional licenses, partnerships or anything else: **offlined_os@proton.me**.
 
 ---
@@ -232,6 +321,7 @@ The source code of Offlined is not public, so **pull requests are not accepted**
 |-------------------------------|------------------------------------------------------------------------------------------------------|
 | **Offlined (the app)**        | Free for personal use; paid license for professional use (see [`LICENSE.md`](./LICENSE.md))         |
 | **Avatars & bios**            | CC BY-NC-ND 4.0 (see [`LICENSE-ASSETS.md`](./LICENSE-ASSETS.md))                                     |
+| **Sister projects**           | Each under its own open license (see [🌐 Sister projects](#-sister-projects))                        |
 | **Third-party code and data** | Their own licenses (see [`licenses/INVENTORY.md`](./licenses/INVENTORY.md) and [`licenses/ATTRIBUTION.md`](./licenses/ATTRIBUTION.md)) |
 
 <br><br>
